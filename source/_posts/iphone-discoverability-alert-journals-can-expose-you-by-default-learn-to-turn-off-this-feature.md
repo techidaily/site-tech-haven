@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2024-12-26T16:00:10.706Z
-updated: 2024-12-28T16:00:29.009Z
+date: 2025-01-06T04:06:36.910Z
+updated: 2025-01-07T01:40:33.325Z
 tags:
   - apple
 categories:
@@ -41,12 +41,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to disable Apple Journal's 'Discoverable by Others' setting
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
 
@@ -61,7 +65,7 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
@@ -69,6 +73,10 @@ Maria Diaz/ZDNET
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -78,22 +86,14 @@ Maria Diaz/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **FAQ**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
@@ -148,19 +148,16 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streaming-twitter-videos-on-snapchat-platform/"><u>[New] In 2024, Streaming Twitter Videos on Snapchat Platform</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-quick-guide-how-to-revamp-facebook-profile-imagery/"><u>[New] Quick Guide How to Revamp Facebook Profile Imagery</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>[New] Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-2023-guide-to-best-in-class-professionals-spinning-cameras-for-2024/"><u>[New] The 2023 Guide to Best-in-Class Professionals' Spinning Cameras for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-capture-the-essence-of-movement-in-iphone-photography/"><u>[Updated] In 2024, Capture the Essence of Movement in iPhone Photography</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-vr-unveiled-understanding-the-digital-illusion/"><u>[Updated] VR Unveiled Understanding the Digital Illusion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audience-favorites-screenplays-of-varied-genres/"><u>Audience Favorites Screenplays of Varied Genres</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-uncovered-the-art-of-ai-driven-creativity/"><u>ChatGPT Uncovered: The Art of AI-Driven Creativity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deception-by-design-google-barda-malware-masked-as-an-update/"><u>Deception by Design? Google Bard—A Malware Masked As An Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-4-the-inclusive-blueprint/"><u>Demystifying GPT-4: The Inclusive Blueprint</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-5-innovative-ai-applications-and-bots-that-serve-as-virtual-psychologists/"><u>Discover 5 Innovative AI Applications and Bots That Serve as Virtual Psychologists</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-vintage-visionaries-digitize-your-photos-into-videos/"><u>In 2024, Vintage Visionaries Digitize Your Photos Into Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-storytelling-with-chatgpt-a-six-step-approach-for-authors/"><u>Innovative Storytelling with ChatGPT: A Six-Step Approach for Authors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-tips-innovative-lens-creation-on-snapchat/"><u>[New] Quick Tips Innovative Lens Creation on Snapchat</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unveiling-4k-clarity-with-a-look-at-the-dell-p2715q-screen/"><u>[Updated] In 2024, Unveiling 4K Clarity with a Look at the Dell P2715Q Screen</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782429-9781591438281-aliens-in-ancient-egypt/"><u>Aliens in Ancient Egypt | Free Book</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-advances-in-syma-x8c-flight-autonomy/"><u>In 2024, Advances in Syma X8C Flight Autonomy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pc-4/"><u>PC 系統音再生手順トップ4: 効果的な記録方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pcgrubl/"><u>PC版GRUBL画面のクリアな録画テクニック</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-solutions-for-accessing-and-extracting-contents-from-a-iso-file/"><u>Simple Solutions for Accessing and Extracting Contents From a .ISO File</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-to-convert-images-into-videos-using-your-computer/"><u>Simple Steps to Convert Images Into Videos Using Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-adding-strikes-allsportz-recap-addons-to-your-kodi-matrix/"><u>Step-by-Step Guide: Adding Strike's AllSportz Recap Addons to Your Kodi Matrix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-videos-convert-mpgmpeg-files-to-3g2-free-with-movavis-online-tool/"><u>Transform Your Videos: Convert MPG/MPEG Files to 3G2 FREE with Movavi's Online Tool!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-your-youtube-potential-idea-generation-guide-for-2024/"><u>Unlock Your YouTube Potential Idea Generation Guide for 2024</u></a></li>
 </ul></div>
 

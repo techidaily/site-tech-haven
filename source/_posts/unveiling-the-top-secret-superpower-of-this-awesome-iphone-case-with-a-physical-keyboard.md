@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top Secret Superpower of This Awesome iPhone Case with a Physical Keyboard!
-date: 2024-12-21T04:30:54.240Z
-updated: 2024-12-27T19:52:05.867Z
+date: 2025-01-04T17:10:14.178Z
+updated: 2025-01-07T04:18:36.609Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,19 +124,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-dive-into-this-collection-of-14-text-animation-marvels/"><u>[New] In 2024, Dive Into This Collection of 14 Text Animation Marvels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-into-the-world-of-youtube-stellar-intros-in-imovie/"><u>[Updated] 2024 Approved Breaking Into the World of YouTube Stellar Intros in iMovie</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-exploring-high-frame-rate-filming-with-yi-for-2024/"><u>[Updated] Exploring High Frame Rate Filming with YI for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/comprehensive-tutorial-on-migrating-back-to-ios-16-without-losing-your-data-from-latest-versions/"><u>Comprehensive Tutorial on Migrating Back to iOS 16 Without Losing Your Data From Latest Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-career-quest-with-these-6-innovative-uses-of-chatgpt/"><u>Enhance Your Career Quest with These 6 Innovative Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-truthgpt-currency-legitimate-opportunity-or-fraud/"><u>Exploring TruthGPT Currency - Legitimate Opportunity or Fraud?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fabled-narratives-creating-interactive-tales-with-chatgpt/"><u>Fabled Narratives: Creating Interactive Tales with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-access-to-gpt-4-discover-5-effortless-techniques/"><u>Free Access to GPT-4: Discover 5 Effortless Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-ai-to-artistry-guiding-you-through-poem-composition-with-chatgpts-help/"><u>From AI to Artistry: Guiding You Through Poem Composition with ChatGPT's Help</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-started-with-langchain-llm-the-ultimate-starter-guide/"><u>Getting Started with LangChain LLM: The Ultimate Starter Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-recover-and-solve-the-lost-or-mia-d3dx9edll-error/"><u>How to Recover and Solve the Lost or MIA d3dx9_e.dll Error</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-the-craft-of-macro-video-production-techniques-for-2024/"><u>Mastering the Craft of Macro Video Production Techniques for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015791566-solution-steps-to-restore-sound-on-your-windows-11-computer-expert-advice/"><u>Solution Steps to Restore Sound on Your Windows 11 Computer - Expert Advice!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpts-latest-feature-can-its-music-maker-outshine-audiosun-and-suno/"><u>Unveiling ChatGPT's Latest Feature - Can Its Music Maker Outshine AudioSUN and Suno?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-open-library-legal-gaming-tracks-downloadable/"><u>[Updated] Open Library Legal Gaming Tracks Downloadable</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-a-breakdown-of-six-potential-cybersecurity-hazards/"><u>Can You Trust ChatGPT? A Breakdown of Six Potential Cybersecurity Hazards</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-controls-essential-insights-into-regulation-and-responsibility/"><u>Demystifying AI Controls: Essential Insights Into Regulation and Responsibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-face-off-exploring-how-they-stand-out-as-leading-nlp-technologies/"><u>GPT Vs. BERT Face-Off: Exploring How They Stand Out as Leading NLP Technologies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-note-13-proplus-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 13 Pro+ 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-thwart-copycat-creations-by-leveraging-nightshade-for-artwork-security/"><u>How to Thwart Copycat Creations by Leveraging Nightshade for Artwork Security</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-enjoy-dual-views-expert-tips-for-utilizing-picture-in-picture-on-netflix/"><u>In 2024, Enjoy Dual Views Expert Tips for Utilizing Picture-in-Picture on Netflix</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-lands-marketplace-of-product-sponsored-youtube-content/"><u>In 2024, Navigating the Lands Marketplace of Product-Sponsored YouTube Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-spark-go-2023-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Spark Go (2023)? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-working-with-ai-as-a-prompt-engineer-legitimate-unveiling-the-critical-elements-to-consider/"><u>Is Working with AI as a Prompt Engineer Legitimate? Unveiling the Critical Elements to Consider</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015582583-league-of-legends-communication-problems-solved-restore-your-voice-chat/"><u>League of Legends Communication Problems Solved - Restore Your Voice Chat</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-imessage-history-rediscover-your-communication-trail-with-these-8-ios-message-recovery-apps-spotlight-on-stellar/"><u>Lost iMessage History? Rediscover Your Communication Trail with These 8 iOS Message Recovery Apps - Spotlight on Stellar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/nightshade-solutions-for-securing-originality-in-the-age-of-generative-intelligence/"><u>Nightshade Solutions for Securing Originality in the Age of Generative Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dilemma-of-gpt-in-programming-weapons/"><u>The Dilemma of GPT in Programming Weapons</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/top-7-high-earning-remote-job-tools-maximize-your-profits-working-from-anywhere/"><u>Top 7 High-Earning Remote Job Tools: Maximize Your Profits Working From Anywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-text-into-visuals-leveraging-chatgpt-for-generative-imagery/"><u>Transform Text Into Visuals: Leveraging ChatGPT for Generative Imagery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-distinctions-a-thorough-look-at-gpt-4-vs-gpt-4-turbo-vs-phi/"><u>Understanding The Distinctions: A Thorough Look at GPT-4 Vs. GPT-4 Turbo Vs. Phi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oneplus-open-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On OnePlus Open? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

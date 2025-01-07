@@ -1,7 +1,7 @@
 ---
 title: "Getting Notifications From Slack on the Apple Watch: An Expert Tutorial by ZDNet"
-date: 2024-12-26T16:01:06.160Z
-updated: 2024-12-28T16:02:33.378Z
+date: 2025-01-06T05:24:30.014Z
+updated: 2025-01-07T04:23:10.063Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -55,7 +59,7 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -63,7 +67,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -98,10 +102,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set your notification schedule
 
 Let's go back to the Slack app's Notifications screen for a moment. Scroll down to General Settings and notice the Notification Schedule option. See how it says "Every day."
@@ -122,13 +122,13 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,22 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-comparing-the-best-gopro-max-360-vs-hero-11/"><u>[Updated] In 2024, Comparing the Best GoPro Max 360 VS Hero 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-maintaining-image-integrity-effective-instagram-photowatermarking/"><u>[Updated] Maintaining Image Integrity Effective Instagram Photowatermarking</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-on-pc-drivers-troubleshooting-techniques-for-windows-users/"><u>A Comprehensive Guide on PC Drivers: Troubleshooting Techniques for Windows Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-performance-ultimate-tips-to-accelerate-windows-10-efficiency/"><u>Boosting Performance: Ultimate Tips to Accelerate Windows 10 Efficiency</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-guide-factory-resetting-your-windows-11-in-just-four-simple-steps/"><u>Complete Guide: Factory Resetting Your Windows 11 in Just Four Simple Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/configuring-wireless-internet-on-your-pc-with-windows-7-quick-fixes-and-tips/"><u>Configuring Wireless Internet on Your PC with Windows 7 - Quick Fixes & Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connecting-beats-wireless-headphones-to-your-windows-desktop-made-easy/"><u>Connecting Beats Wireless Headphones to Your Windows Desktop Made Easy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-to-quickly-identify-your-windows-10-operating-system-version/"><u>Discover How to Quickly Identify Your Windows 10 Operating System Version</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-asus-drivers-for-windows-10-and-7/"><u>Download ASUS Drivers for Windows 10 & 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808339328-how-to-share-games-on-ps4-2021-easy-guide/"><u>How to Share Games on PS4 - 2021 Easy Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-economical-dslrs-and-camcorders-4k-edition/"><u>In 2024, Economical DSLRs & Camcorders, 4K Edition</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mp4-converter-on-gorillavid-effortless-video-download-from-gorillavid-streams/"><u>MP4 Converter on GorillaVid: Effortless Video Download From GorillaVid Streams</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/remove-automatically-suggested-podcasts-from-your-spotify-playlist-for-2024/"><u>Remove Automatically Suggested Podcasts From Your Spotify Playlist for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/seamless-offsite-data-safety-unveiling-three-key-methods-to-back-up-your-synology-efficiently/"><u>Seamless Offsite Data Safety: Unveiling Three Key Methods to Back Up Your Synology Efficiently</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-by-step-tutorial-for-installing-blinks-outdoor-4-cameras-with-light-features/"><u>Step-by-Step Tutorial for Installing Blink's Outdoor 4 Cameras with Light Features</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/vfx-essentials-unlocked-top-8-sites-for-free-high-quality-green-screen-imagery-for-2024/"><u>VFX Essentials Unlocked Top 8 Sites for FREE High-Quality Green Screen Imagery for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ultimate-selection-top-hdr-camera-picks/"><u>[New] 2024 Approved Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-techniques-for-excellent-sound-no-mic-included/"><u>[New] In 2024, Cutting-Edge Techniques for Excellent Sound, No Mic Included</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-zip-to-srt-transform-subtitled-content-swiftly/"><u>[New] In 2024, Mastering Zip-to-Srt Transform Subtitled Content Swiftly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-frontline-firefight-top-7-fps-battles-ranked-for-2024/"><u>[Updated] Frontline Firefight - Top 7 FPS Battles Ranked for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-battery-performance-with-these-8-essential-settings-tweaks/"><u>Boost Your Apple Watch's Battery Performance with These 8 Essential Settings Tweaks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-k70-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi K70 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-roku-no-problem-watching-roku-channels-on-other-devices-simplified/"><u>No Roku? No Problem! Watching Roku Channels on Other Devices Simplified</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-pc-brands-ranked-apple-dell-and-others-face-off-insights/"><u>Top PC Brands Ranked: Apple, Dell & Others Face-Off - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-ipad-air-protectors-2024-comprehensive-review-by-tech-experts-zdnet/"><u>Top Rated iPad Air Protectors 2024 - Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranking-mac-maintenance-tools-of-2022-a-comprehensive-review/"><u>Top-Ranking Mac Maintenance Tools of 2022: A Comprehensive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transitioning-to-tech-evolution-does-your-old-iphone-13-accessories-work-with-new-iphone-14-gadgets-insights/"><u>Transitioning to Tech Evolution: Does Your Old iPhone 13 Accessories Work with New iPhone 14 Gadgets? | Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-how-can-i-know-if-an-airtag-tracks-me-insights/"><u>Unveiling the Truth: How Can I Know If An AirTag Tracks Me? Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upcoming-release-apples-latest-ipad-expected-in-early-spring-of-2024-insights-from-tech-sources/"><u>Upcoming Release: Apple's Latest iPad Expected in Early Spring of 2024 - Insights From Tech Sources</u></a></li>
 </ul></div>
 

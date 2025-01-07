@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Your CA State ID Into Digital Wallets: The Ultimate Walkthrough for iPhone & Android Users"
-date: 2024-12-24T16:00:34.924Z
-updated: 2024-12-28T16:00:00.996Z
+date: 2025-01-02T21:24:34.708Z
+updated: 2025-01-07T01:12:52.073Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -62,11 +58,19 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -76,10 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-snapchats-spotlight-feature-deeply/"><u>[New] Exploring Snapchat's Spotlight Feature Deeply</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-transformative-video-techniques-for-zoom-mastery/"><u>[Updated] In 2024, Transformative Video Techniques for Zoom Mastery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-manycams-cutting-edge-recording-system/"><u>[Updated] Unveiling ManyCam's Cutting-Edge Recording System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/could-you-depend-on-chatgpt-for-generating-safe-effective-exercise-plans-based-on-your-unique-preferences/"><u>Could You Depend on ChatGPT for Generating Safe, Effective Exercise Plans Based On Your Unique Preferences?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ditching-samsungs-gear-360-here-are-your-new-camera-options/"><u>Ditching Samsung's Gear 360? Here Are Your New Camera Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-romance-the-role-of-chatgpt-in-boosting-your-love-life/"><u>Enhancing Romance: The Role of ChatGPT in Boosting Your Love Life</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-confidentiality-safeguarding-data-while-utilizing-chatgpt-in-a-professional-setting/"><u>Ensuring Confidentiality: Safeguarding Data While Utilizing ChatGPT in a Professional Setting</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001237744-fallout-4-stuttering-heres-the-fix/"><u>Fallout 4 Stuttering? Here’s the Fix</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/first-timers-guide-to-softbox-studio-kit-review/"><u>First-Timer's Guide to SoftBox Studio Kit Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-7-amazing-builds-in-creative-mode/"><u>In 2024, 7 Amazing Builds in Creative Mode</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/industry-leading-ups-solutions-to-watch-in-2-best-uninterruptible-power-supplies-ups-for-continuous-protection/"><u>Industry-Leading UPS Solutions to Watch in 2# - Best Uninterruptible Power Supplies (UPS) for Continuous Protection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-household-workflows-the-power-of-6-chatgpt-applications/"><u>Revolutionize Your Household Workflows: The Power of 6 ChatGPT Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-own-apple-vision-pro-today-with-choices-of-512gb-or-1tb-exclusive-pre-order-available/"><u>Secure Your Own Apple Vision Pro Today with Choices of 512GB or 1TB - Exclusive Pre-Order Available !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-3-strategies-for-maximizing-chatgpt-with-microsoft-excel/"><u>Top 3 Strategies for Maximizing ChatGPT with Microsoft Excel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-freelancing-with-chatgpt-discover-these-6-powerful-applications/"><u>Transforming Freelancing with ChatGPT: Discover These 6 Powerful Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-secrets-of-gpt-4all-understanding-its-functionality/"><u>Unraveling the Secrets of GPT-4All: Understanding Its Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-fresh-capabilities-in-chatgpt-essential-additions-for-users/"><u>Unveiling Fresh Capabilities in ChatGPT: Essential Additions for Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-visibility-igtv-and-facebook-connection-techniques/"><u>[New] 2024 Approved Boosting Visibility IGTV & Facebook Connection Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10/"><u>[New] 2024 Approved Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>[New] Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-integrating-fb-live-on-roku-step-by-step-guide/"><u>[Updated] Integrating FB Live on Roku Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>2024 Approved Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-classifications-strong-ai-versus-weak-ai-an-in-depth-comparison/"><u>Demystifying AI Classifications: Strong AI versus Weak AI - An In-Depth Comparison</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exciting-update-directly-speak-with-chatgpt/"><u>Exciting Update: Directly Speak With ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-from-top-10-international-technology-innovators-on-artifice-intelligence/"><u>Insights From Top 10 International Technology Innovators on Artifice Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-top-3-strategies-for-utilizing-chatgpt-with-microsoft-excel/"><u>Maximizing Productivity: Top 3 Strategies for Utilizing ChatGPT with Microsoft Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-insight-series-linus-tech-tips-hack-analysis-and-trojan-viruses-breakdown/"><u>Tech Insight Series: Linus Tech Tips Hack Analysis and Trojan Viruses Breakdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/this-week-in-mobile-innovation-anticipated-releases-from-google-and-samsung-examined/"><u>This Week in Mobile Innovation: Anticipated Releases From Google and Samsung Examined</u></a></li>
 </ul></div>
 

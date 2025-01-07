@@ -1,7 +1,7 @@
 ---
 title: Why Upgrading to an iPhone 16 Pro Doesn't Make Sense for Me and My iPhone Ebastion | A Closer Look at Four Major Concerns Addressed by ZDNET
-date: 2024-12-23T16:01:51.107Z
-updated: 2024-12-28T16:00:31.016Z
+date: 2024-12-30T17:04:20.467Z
+updated: 2025-01-06T19:06:03.352Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,14 +124,17 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-high-speed-media-manipulation-a-practical-approach-for-2024/"><u>[Updated] High-Speed Media Manipulation A Practical Approach for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/essential-gif-tools-for-x876-owners/"><u>Essential GIF Tools for X/8/7/6 Owners</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-titans-tussle-ai-mastery-in-the-making-of-words/"><u>Tech Titans Tussle: AI Mastery in the Making of Words</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-online-specter-speaks-understanding-the-theory-behind-disembodied-internet-presences/"><u>The Online Specter Speaks: Understanding the Theory Behind Disembodied Internet Presences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-chatgpts-output-to-match-personal-nuance/"><u>Transforming ChatGPT's Output to Match Personal Nuance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-potential-how-these-10-gpt-innovations-surpass-chatgpt/"><u>Unleashing Potential: How These 10 GPT Innovations Surpass ChatGPT</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-8-and-10-no-amd-drivers-detected/"><u>Windows 7, 8 & 10: No AMD Drivers Detected</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-21plus-puzzling-pictures-assemble-a-joyous-vision/"><u>[New] 21+ Puzzling Pictures Assemble a Joyous Vision</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-amplify-content-with-free-audio-samples/"><u>[New] In 2024, Amplify Content with Free Audio Samples</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-beat-the-norm-with-mac-audio-guide/"><u>[Updated] 2024 Approved Beat the Norm with Mac Audio Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-image-magic-top-10-frame-enhancement-tools-online-for-2024/"><u>[Updated] Image Magic Top 10 Frame-Enhancement Tools Online for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-non-playing-youtube-content-fixed-for-phonestablets/"><u>2024 Approved Non-Playing YouTube Content Fixed for Phones/Tablets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-mobile-gaming-experience-on-a-phone-top-picks-zdnet-reviews/"><u>Best Mobile Gaming Experience on a Phone - Top Picks (ZDNet Reviews)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-lawful-mastering-phone-call-recording-features-on-iphones-across-the-usa/"><u>Is It Lawful? Mastering Phone Call Recording Features on iPhones Across the USA.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-your-apple-gadget-outdated-understand-the-implications-with-our-comprehensive-guide/"><u>Is Your Apple Gadget Outdated? Understand the Implications with Our Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revamp-alert-apples-budget-friendly-watch-series-se-could-see-updates-in-the-near-future-exclusive-details/"><u>Revamp Alert: Apple's Budget-Friendly Watch Series SE Could See Updates in the Near Future - Exclusive Details!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/three-essential-steps-apple-needs-to-revitalize-vision-pro-and-regain-market-dominance-insights/"><u>Three Essential Steps Apple Needs to Revitalize Vision Pro and Regain Market Dominance - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-new-possibilities-how-apples-integration-of-nfc-in-iphones-with-third-party-apps-enhances-your-user-experience/"><u>Unlocking New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Apps Enhances Your User Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-realme-c67-4g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme C67 4G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

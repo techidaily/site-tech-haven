@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Power: Integrating ChatGPT and Wolfram Alpha Plugin Techniques"
-date: 2024-08-16T12:33:30.007Z
-updated: 2024-08-17T12:33:30.007Z
+date: 2024-12-31T21:56:32.386Z
+updated: 2025-01-06T16:56:17.331Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
  In this week's podcast, we look at what Twitter's canceling of classic verification means, and explore how the Linus Tech Tips YouTube channel was hacked. Plus, we explain what Trojan malware is, and the biggest problems with OpenAI and ChatCPT.
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -39,14 +43,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@gavinspavin](https://twitter.com/gavinspavin) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,20 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-guide-to-premiere-pro-fs-preview/"><u>[Updated] Expert Guide to Premiere Pro FS Preview</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-turning-product-analysis-into-income-via-video-platforms/"><u>2024 Approved Turning Product Analysis Into Income via Video Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/editing-and-deleting-sent-messages-a-comprehensive-guide-for-ios-devices/"><u>Editing & Deleting Sent Messages: A Comprehensive Guide for iOS Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embarrassment-alert-unveiling-the-iphones-sneaky-triggers-and-how-to-fix-them-the-ultimate-guide/"><u>Embarrassment Alert: Unveiling the iPhone's Sneaky Triggers and How to Fix Them - The Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-everyday-convenience-with-customized-iphone-settings-tweaks/"><u>Enhancing Everyday Convenience with Customized iPhone Settings Tweaks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-these-fantastic-substitutes-to-google-play-store-the-ultimate-guide-to-alternative-app-markets/"><u>Explore These Fantastic Substitutes to Google Play Store: The Ultimate Guide to Alternative App Markets!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-recommends-android-owners-switch-off-2g-network-support/"><u>Google Recommends Android Owners Switch Off 2G Network Support</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hacking-scandal-how-atandts-security-breach-exposed-customer-phone-data/"><u>Hacking Scandal: How AT&T's Security Breach Exposed Customer Phone Data</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-capture-perfection-5-expert-tips-for-games-and-live-footage/"><u>In 2024, Capture Perfection 5 Expert Tips for Games & Live Footage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/key-files-and-configurations-to-save-before-transitioning-to-windows-11-a-comprehensive-checklist/"><u>Key Files and Configurations to Save Before Transitioning to Windows 11 - A Comprehensive Checklist</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-phantom-v-fold-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Phantom V Fold FRP Bypass</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2024-12-27T12:34:29.544Z
-updated: 2024-12-27T20:56:07.656Z
+date: 2025-01-05T04:30:23.394Z
+updated: 2025-01-06T22:17:31.679Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,15 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-elite-nintendo-switch-battle-selection-max-156/"><u>[New] In 2024, Elite Nintendo Switch Battle Selection (Max 156)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-in-depth-review-and-step-by-step-tutorials-for-powerdirector/"><u>[New] In 2024, In-Depth Review & Step-by-Step Tutorials for PowerDirector</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-evaluating-earnings-from-one-million-youtube-watches-for-2024/"><u>[Updated] Evaluating Earnings From One Million YouTube Watches for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-expert-tips-zooming-in-on-videoleap-videos/"><u>[Updated] Expert Tips Zooming In on Videoleap Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-churning-up-channels-top-gear-list/"><u>[Updated] In 2024, Churning Up Channels Top Gear List</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pioneering-sustainability-transforming-metropolitan-environments/"><u>[Updated] In 2024, Pioneering Sustainability Transforming Metropolitan Environments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-to-minimize-artificial-intelligence-misinterpretations/"><u>6 Effective Strategies to Minimize Artificial Intelligence Misinterpretations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advance-your-cyber-defense-knowledge-with-these-7-upcoming-trends-and-forecasts/"><u>Advance Your Cyber Defense Knowledge with These 7 Upcoming Trends and Forecasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-love-the-modern-hackers-playbook/"><u>Artificial Love: The Modern Hacker's Playbook</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722132478699-is-your-data-safe-with-chatgpt-understanding-privacy-concerns/"><u>Is Your Data Safe with ChatGPT – Understanding Privacy Concerns</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-8-drawing-apps-for-ipados-for-2024/"><u>Top 8 Drawing Apps for iPadOS for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-humor-at-your-fingertips-complimentary-toolset/"><u>[New] 2024 Approved Humor at Your Fingertips - Complimentary Toolset</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-inversion-workshop/"><u>[New] In 2024, Inversion Workshop</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-stepwise-guide-for-discovering-recent-watch-history-on-fb-for-2024/"><u>[New] Stepwise Guide for Discovering Recent Watch History on FB for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-x50-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-gionee-f3-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Gionee F3 Pro Lock Screen Password</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-strategies-to-swiftly-remove-unwanted-video-post-comments/"><u>In 2024, Strategies to Swiftly Remove Unwanted Video Post-Comments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-flac-audio-files-into-mp3-format-using-vlc/"><u>Transforming FLAC Audio Files Into MP3 Format Using VLC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-silent-davinci-resolve-projects-top-strategies-and-solutions/"><u>Troubleshooting Silent DaVinci Resolve Projects: Top Strategies and Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tverpc/"><u>TVer番組のPCでの無料ダウンロードに最適なツールを見つける方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-step-by-step-powerpoint-screen-capture-course/"><u>Ultimate Step-by-Step PowerPoint Screen Capture Course</u></a></li>
 </ul></div>
 

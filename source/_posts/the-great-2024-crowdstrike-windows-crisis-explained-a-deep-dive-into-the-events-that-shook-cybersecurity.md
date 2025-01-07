@@ -1,7 +1,7 @@
 ---
 title: "The Great 2024 CrowdStrike-Windows Crisis Explained: A Deep Dive Into the Events that Shook Cybersecurity"
-date: 2024-12-23T16:01:35.631Z
-updated: 2024-12-28T16:00:28.129Z
+date: 2024-12-31T02:15:15.789Z
+updated: 2025-01-07T04:51:33.678Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-concept-to-reality-selecting-top-3d-animators-software/"><u>[New] From Concept to Reality Selecting Top 3D Animators' Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[Updated] 2024 Approved Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-excellent-screen-capture-software-for-windows-11-users/"><u>[Updated] In 2024, Excellent Screen Capture Software for Windows 11 Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-twitters-video-content-aspect-ratios-included/"><u>[Updated] Navigating Twitter’s Video Content Aspect Ratios Included</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/efficient-transition-mac-users-on-the-verge-of-macos-11-big-sur/"><u>Efficient Transition Mac Users on the Verge of macOS 11 Big Sur</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/high-memory-usage-on-windows-11-solved/"><u>High Memory Usage on Windows 11 [Solved]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-change-fortnite-name-on-pc-easily/"><u>How to Change Fortnite Name on PC Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-check-windows-version-easily/"><u>How to Check Windows Version [Easily]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-enjoy-privacy-online-with-vpns-insights-and-benefits/"><u>How to Enjoy Privacy Online with VPNs: Insights & Benefits</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-google-pixel-8-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Google Pixel 8 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-set-up-vpn-on-apple-tv-a-beginners-guide/"><u>How to Set Up VPN on Apple TV | A Beginner’s Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-defy-2-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Defy 2 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-fallout-3-a-step-by-step-guide-for-windows-11-users/"><u>Mastering Fallout 3: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-pubg-mobile-a-comprehensive-walkthrough-for-players/"><u>Mastering PUBG Mobile: A Comprehensive Walkthrough for Players</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/multiple-virtual-desktops-creation-on-windows-10-a-comprehensive-guide/"><u>Multiple Virtual Desktops Creation on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/um-talker-alteration-tech-for-bloggers-and-streamers/"><u>Premium Talker Alteration Tech for Bloggers and Streamers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pro-tips-if-you-forgot-snapchat-password/"><u>Pro Tips If You Forgot Snapchat Password</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/h-cinematography-best-stabilizers-listed-for-2024/"><u>Smooth Cinematography Best Stabilizers Listed for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-potential-of-full-control-facebook-and-the-future-of-oculus-go-rooting/"><u>The Potential of Full Control: Facebook and the Future of Oculus Go Rooting</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-loyalists-delight-as-lg-rolls-out-no-cost-audio-improvement-featured/"><u>Apple Loyalists Delight as LG Rolls Out No-Cost Audio Improvement, Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-latest-timepieces-the-return-of-the-apple-watch-series-9-and-ultra-amidst-legal-hurdles/"><u>Apple's Latest Timepieces: The Return of the Apple Watch Series 9 & Ultra Amidst Legal Hurdles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-to-syncing-and-securing-your-iphone-data-via-icloud-and-macos-techtips/"><u>Complete Guide to Syncing & Securing Your iPhone Data via iCloud and macOS | TechTips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-apple-airpods-pro-3rd-gen-analysis-spot-on-enhancements-unveiled-by-zdnet/"><u>Comprehensive Apple AirPods Pro 3Rd Gen Analysis: Spot-On Enhancements Unveiled by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/converti-file-m4a-a-formato-m4b-online-gratuito-con-movavi/"><u>Converti File M4A a Formato M4B Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-personal-drones-that-track-and-follow-you/"><u>In 2024, Personal Drones that Track and Follow You</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-15-pro-vs-iphone-13-pro-making-the-right-choice-for-your-next-smartphone-upgrade-zdnet/"><u>IPhone 15 Pro Vs. IPhone 13 Pro: Making the Right Choice for Your Next Smartphone Upgrade | ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/portable-performance-showdown-a-closer-look-at-the-razer-blade-pro-17/"><u>Portable Performance Showdown: A Closer Look at the Razer Blade Pro 17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-typing-excellence-with-typingaid/"><u>Rapid Typing Excellence with TypingAid</u></a></li>
+<li><a href="https://win11.techidaily.com/scribble-to-screen-find-the-best-notes-tools-on-windows/"><u>Scribble to Screen: Find the Best Notes Tools on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-podcast-outros-and-examples-for-2024/"><u>The Ultimate Guide to Podcast Outros & Examples for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-workouts-discover-how-the-airpods-pros-heart-rate-monitor-can-guide-your-fitness-journey/"><u>Transforming Workouts: Discover How the AirPods Pro's Heart Rate Monitor Can Guide Your Fitness Journey</u></a></li>
 </ul></div>
 

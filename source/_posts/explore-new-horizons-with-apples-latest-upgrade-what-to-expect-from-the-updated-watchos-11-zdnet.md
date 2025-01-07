@@ -1,7 +1,7 @@
 ---
 title: Explore New Horizons with Apple's Latest Upgrade - What to Expect From the Updated WatchOS 11 | ZDNET
-date: 2024-12-23T03:05:12.813Z
-updated: 2024-12-28T11:36:46.826Z
+date: 2025-01-01T23:27:59.899Z
+updated: 2025-01-06T16:33:47.519Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -45,13 +49,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -60,6 +64,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -70,7 +78,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -91,16 +99,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -110,10 +114,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -157,20 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-accelerate-with-these-key-windows-10-tricks/"><u>[New] Accelerate with These Key Windows 10 Tricks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pro-sniping-on-a-budget-try-these-affordable-pc-tools/"><u>[New] Pro Sniping on a Budget? Try These Affordable PC Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-8-strategies-livestreaming-webinars-without-costs/"><u>[Updated] 8 Strategies Livestreaming Webinars Without Costs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-leveraging-vimeos-end-credits-for-visual-impact/"><u>[Updated] Leveraging Vimeo's End Credits for Visual Impact</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comparative-analysis-distinguishing-features-among-various-cryptocurrencies-a-guide-by-yl-computing/"><u>Comparative Analysis: Distinguishing Features Among Various Cryptocurrencies - A Guide by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-best-a-comparative-analysis-of-chatgpt-and-gemini-for-coding-feats/"><u>Decoding the Best: A Comparative Analysis of ChatGPT and Gemini for Coding Feats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-power-of-generative-ai-in-modern-search-engines-and-its-corporate-pioneers/"><u>Decoding the Power of Generative AI in Modern Search Engines & Its Corporate Pioneers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-predictive-ai-technology-working-mechanism-revealed/"><u>Demystifying Predictive AI Technology: Working Mechanism Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-best-tools-to-spot-ai-generated-text-in-classrooms-and-offices/"><u>Discover the Best Tools to Spot AI-Generated Text in Classrooms and Offices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-leveraging-chatgpt-in-online-team-collaborations/"><u>Effective Strategies: Leveraging ChatGPT in Online Team Collaborations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-private-messaging-experience-access-chatgpt-and-additional-secure-options-on-duckduckgo/"><u>Elevate Your Private Messaging Experience: Access ChatGPT and Additional Secure Options on DuckDuckGo</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ev-advantages-on-the-road-convenient-parking-options-and-hov-lane-freebies-for-eco-friendly-drivers/"><u>EV Advantages on the Road: Convenient Parking Options and HOV Lane Freebies for Eco-Friendly Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-play-8t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Play 8T Quickly | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-graphics-a-guide-to-a-flourishing-career/"><u>In 2024, Mastering Graphics A Guide to a Flourishing Career</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-assessing-acid-pro-top-alternative-software/"><u>[New] 2024 Approved Assessing ACID Pro Top Alternative Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-speedy-workshop-converting-your-visuals-into-stellar-youtube-pics/"><u>[Updated] Speedy Workshop Converting Your Visuals Into Stellar YouTube Pics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-play-8t-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor Play 8T</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dynamic-dreaming-ai-mindmaps-for-inspiration/"><u>Dynamic Dreaming: AI, Mindmaps for Inspiration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-your-projects-with-chatgpt-strategies-for-superior-creativity-and-engagement/"><u>Elevating Your Projects with ChatGPT: Strategies for Superior Creativity and Engagement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enjoy-discreet-chatting-access-chatgpt-plus-advanced-features-on-duckduckgos-protected-ai-chat-service/"><u>Enjoy Discreet Chatting: Access ChatGPT Plus Advanced Features on DuckDuckGo's Protected AI Chat Service</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mac-users-ultimate-walkthrough-activating-microsoft-copilot-today/"><u>Mac Users' Ultimate Walkthrough: Activating Microsoft Copilot Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-huggingchat-the-best-open-source-option-to-challenge-chatgpts-dominance/"><u>Mastering HuggingChat - The Best Open Source Option To Challenge ChatGPT's Dominance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsoft-brings-ai-to-bing-heres-what-to-expect/"><u>Microsoft Brings AI to Bing: Here's What to Expect</u></a></li>
+<li><a href="https://article-files.techidaily.com/pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-and-utilizing-nvidias-rtx-ai-chatbot-on-personal-computers/"><u>Step-by-Step Guide: Activating and Utilizing Nvidia’s RTX AI Chatbot on Personal Computers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-your-imagination-best-drawers-for-ipados/"><u>Unleash Your Imagination Best Drawers for iPadOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winxvideo-artificial-intelligence-speed-up-any-video-and-audio-with-gpu-power/"><u>Winxvideo Artificial Intelligence - Speed Up Any Video & Audio with GPU Power</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/xiaomi-mi-smart-band-4-comprehensive-fitness-tracker-review/"><u>Xiaomi Mi Smart Band 4 - Comprehensive Fitness Tracker Review</u></a></li>
 </ul></div>
 

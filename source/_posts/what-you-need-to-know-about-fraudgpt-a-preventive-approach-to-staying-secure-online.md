@@ -1,7 +1,7 @@
 ---
 title: "What You Need to Know About FraudGPT: A Preventive Approach to Staying Secure Online"
-date: 2024-08-16T12:38:03.550Z
-updated: 2024-08-17T12:38:03.550Z
+date: 2025-01-01T17:33:41.639Z
+updated: 2025-01-06T17:36:51.859Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 ## How a Counterfeit Chrome App Puts Your Facebook Login at Risk – Stay Safe Online
 
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
@@ -32,8 +36,9 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
@@ -41,27 +46,26 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -70,4 +74,21 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-innovations-in-mobile-photography-a-look-at-iphone-x/"><u>[New] Innovations in Mobile Photography A Look at iPhone X</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-compreranzo-il-background-ottenere-video-piu-chiaro-su-youtube-for-2024/"><u>[Updated] Compreranzo Il Background Ottenere Video Più Chiaro Su YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-free-online-music-archives-copyright-free-gaming-tunes-for-2024/"><u>[Updated] Free Online Music Archives (Copyright-Free Gaming Tunes) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-peering-through-hololens-a-peek-at-next-gen-interaction-for-2024/"><u>[Updated] Peering Through HoloLens A Peek at Next-Gen Interaction for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-straightforward-approach-beginners-guide-to-creating-nfts/"><u>A Straightforward Approach Beginner's Guide to Creating NFTs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125533-9781609254728-apocalypse-of-baruch-and-the-assumption-of-moses/"><u>Apocalypse Of Baruch And The Assumption Of Moses | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-ai-detection-software-ideal-solutions-for-professors-and-supervisors/"><u>Best AI Detection Software: Ideal Solutions for Professors & Supervisors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-artificial-intelligence-prompt-design-programs-top-5-picks/"><u>Best Artificial Intelligence Prompt Design Programs: Top 5 Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clearing-your-conversations-with-chatgpt/"><u>Clearing Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ais-role-in-prompt-generation-and-career-viability/"><u>Decoding AI's Role in Prompt Generation & Career Viability</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-cringe-worthy-tweets-the-collection/"><u>In 2024, Cringe-Worthy Tweets The Collection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-training-solutions-using-chatgpt-to-design-tailored-exercercises-for-your-clients/"><u>Innovative Training Solutions: Using ChatGPT to Design Tailored Exercercises for Your Clients</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-writing-tips-11-powerful-gpt-3-queries-to-shape-book-characters/"><u>Innovative Writing Tips: 11 Powerful GPT-3 Queries to Shape Book Characters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-transcribing-and-converting-videos-with-captions/"><u>Step-by-Step Guide to Transcribing and Converting Videos With Captions</u></a></li>
+</ul></div>
 

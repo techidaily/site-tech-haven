@@ -1,7 +1,7 @@
 ---
 title: Score the Sweetest Price Yet on Apple's New M2 MacBook Air at Amazon for Only $800 – No Prime Day Necessary | ZDNet Exclusive Deal
-date: 2024-12-23T20:04:13.866Z
-updated: 2024-12-27T20:52:00.089Z
+date: 2025-01-02T23:38:47.559Z
+updated: 2025-01-07T01:39:05.628Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 Many folks don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C2R8MP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc29ebbda-99dd-4505-b503-7802d6019c7c%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,24 +79,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-guide-to-fb-video-repositories-windows-and-macos/"><u>[New] Guide to FB Video Repositories Windows & macOS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-premium-download-experience-best-youtube-playlist-extractors-reviewed/"><u>[Updated] Premium Download Experience Best YouTube Playlist Extractors Reviewed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/4-reasons-why-you-should-learn-a-language-in-your-forties/"><u>4 Reasons Why You Should Learn A Language In Your Forties</u></a></li>
-<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-to-fixing-the-voice-chat-glitch-in-among-us-on-windows-1011/"><u>A Comprehensive Guide to Fixing the Voice Chat Glitch in Among Us on Windows 10/11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-best-8-websites-where-gleaming-gold-meets-3d/"><u>Discover the Best 8 Websites Where Gleaming Gold Meets 3D</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y100t-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y100t Without PUK Codes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-htc-u23-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock HTC U23 Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/navigating-and-exploring-every-aspect-of-macs-preview-app-for-2024/"><u>Navigating and Exploring Every Aspect of Mac's Preview App for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ordinary-operations-which-bot-leads-the-charge/"><u>Ordinary Operations: Which Bot Leads the Charge?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/outdated-plugins-for-modern-chatgpt-usage/"><u>Outdated Plugins for Modern ChatGPT Usage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revive-your-photo-viewer-two-methods-to-try-in-win-11-for-2024/"><u>Revive Your Photo Viewer Two Methods to Try in Win 11 for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-conversations-defending-against-model-inversion-vulnerabilities-in-ai-chatbots/"><u>Securing Conversations: Defending Against Model Inversion Vulnerabilities in AI Chatbots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplify-daily-tasks-with-chatgpt-top-9-benefits/"><u>Simplify Daily Tasks with ChatGPT: Top 9 Benefits</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sophisticated-ai-enhancing-educational-outcomes/"><u>Sophisticated AI Enhancing Educational Outcomes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/speak-effortlessly-with-artificial-intelligence-your-gateway-through-chatgpt/"><u>Speak Effortlessly with Artificial Intelligence: Your Gateway Through ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-crafting-beautiful-verses-through-chatgpts-assistance/"><u>Step-by-Step Guide: Crafting Beautiful Verses Through ChatGPT's Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-for-working-around-gpt-cap/"><u>Strategies for Working Around GPT Cap</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-tutorial-for-playnite-on-your-television/"><u>The Essential Tutorial for Playnite on Your Television</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-interactive-media-blizzards-journey-into-microsofts-visionary-tech-world-industry-insights/"><u>The Future of Interactive Media: Blizzard's Journey Into Microsoft's Visionary Tech World [Industry Insights]</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-transformative-tiktok-editing-three-ways-to-alter-video-borders/"><u>[New] 2024 Approved Transformative TikTok Editing Three Ways to Alter Video Borders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unbeatable-online-headline-builder-for-2024/"><u>[New] Unbeatable Online Headline Builder for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-security-change-your-email-through-proton-vpn-add-on-for-chrome-and-detecting-fake-chatgpt-apps-for-pc/"><u>Enhancing Security: Change Your Email Through Proton VPN Add-On for Chrome and Detecting Fake ChatGPT Apps for PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-simplified-for-home-users/"><u>Generative AI Simplified for Home Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v29-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V29 Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-a54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone XS Max</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-from-scripting-a-podcast-using-chatgpt-what-you-need-to-know/"><u>Insights From Scripting a Podcast Using ChatGPT: What You Need to Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/installing-and-operating-chatgpt-in-windows/"><u>Installing and Operating ChatGPT in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-insights-and-tips-for-todays-guardians/"><u>Mastering Generative AI: Insights and Tips for Today's Guardians</u></a></li>
+<li><a href="https://discover-great.techidaily.com/missing-the-recycle-bin-in-windows-11-explore-our-top-7-solutions-today/"><u>Missing the Recycle Bin in Windows 11? Explore Our Top 7 Solutions Today!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mobile-magic-unleashed-funimate-pro-apk-exploration/"><u>Mobile Magic Unleashed Funimate Pro APK Exploration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-generation-gpt-will-we-see-a-gpt-5-soon-forecasting-its-release-window/"><u>Next Generation GPT: Will We See a GPT-5 Soon? Forecasting Its Release Window</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/numeric-excellence-excel-surpasses-gpt-in-complex-calculations/"><u>Numeric Excellence: Excel Surpasses GPT in Complex Calculations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-handiwork-horizon-introducing-gpt-4/"><u>The Handiwork Horizon: Introducing GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-vector-databases-in-accelerating-advanced-ai-applications/"><u>The Role of Vector Databases in Accelerating Advanced AI Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-conquers-in-battle-analyzing-chatgpt-vs-google-bards-performance/"><u>Which AI Conquers in Battle? Analyzing ChatGPT Vs. Google Bard's Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide"
-date: 2024-12-22T16:00:02.460Z
-updated: 2024-12-28T16:00:21.443Z
+date: 2025-01-06T01:40:28.977Z
+updated: 2025-01-07T04:15:57.825Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ I connect to a lot of different networks. At home, I have three different LANs t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -40,30 +40,30 @@ Let me show you how it works.
 
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to create different network locations in MacOS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open System Preferences
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a new network location
@@ -74,10 +74,6 @@ Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Configure the new location
 
 Make sure to select the new location you created from the Location drop-down. Click Advanced to open the location configuration window, where you can configure the location to meet your specific needs. For example, you can select the network to be used and then configure that network for a static IP address using the Cloudflare DNS servers.
@@ -87,6 +83,10 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -131,24 +131,15 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mov-files-saving-methods-for-windows-10-users/"><u>[New] .mov Files Saving Methods for Windows 10 Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-canvas-with-these-top-10-secrets/"><u>[New] Master the Art of Canvas with These Top 10 Secrets</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-future-of-sharing-videos-will-likes-outgrow-tiktoks-reach-in-2024/"><u>[New] The Future of Sharing Videos Will Likes Outgrow TikTok's Reach, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-eye-catching-insta-highlights-unveiling-3-secrets-for-2024/"><u>[Updated] Eye-Catching Insta Highlights Unveiling 3 Secrets for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-fifas-favorite-footage-charted-on-youtube/"><u>[Updated] FIFA's Favorite Footage Charted on YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-demystifying-whatsapp-audio-talks/"><u>[Updated] In 2024, Demystifying WhatsApp Audio Talks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-count-on-zerogpt-unraveling-the-reliance-issues-with-five-insightful-examples/"><u>Can You Count On ZeroGPT? Unraveling the Reliance Issues with Five Insightful Examples</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diverging-pathways-of-ai-assistance-understanding-siri-and-chatgpts-unique-capabilities/"><u>Diverging Pathways of AI Assistance: Understanding Siri and ChatGPT's Unique Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/futurists-unite-global-leaders-on-ai-prospects/"><u>Futurists Unite: Global Leaders on AI Prospects</u></a></li>
-<li><a href="https://win-forum.techidaily.com/hoogtepunten-van-het-ontsnappen-van-ondergrondsounds-uit-videos-en-audios-3-handige-tijgers/"><u>Hoogtepunten Van Het Ontsnappen Van Ondergrondsounds Uit Video's en Audios - 3 Handige Tijgers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/human-resources-transformed-by-chatai/"><u>Human Resources Transformed by ChatAI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-meta-ai-unraveling-the-secrets-of-advanced-machine-learning/"><u>Inside Meta AI: Unraveling the Secrets of Advanced Machine Learning</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insiders-guide-to-the-family-oriented-maisto-off-road-rc-challenge-vehicle/"><u>Insider's Guide to the Family-Oriented Maisto Off-Road RC Challenge Vehicle</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-earnings-chatbot-hustles-ultimate-pc-assembly-guidance-and-classic-portable-games/"><u>Maximize Your Earnings: Chatbot Hustles, Ultimate PC Assembly Guidance & Classic Portable Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-the-upsides-and-downsides-of-ai-powered-creativity-with-chatgpt/"><u>Navigating Through the Upsides and Downsides of AI-Powered Creativity with ChatGPT</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/say-goodbye-to-spreadsheet-woes-enhancing-excel-skills-with-chatgpt/"><u>Say Goodbye to Spreadsheet Woes: Enhancing Excel Skills with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-coding-predicting-how-artificial-intelligence-may-transform-developer-workflows/"><u>The Future of Coding: Predicting How Artificial Intelligence May Transform Developer Workflows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-chatbot-potential-setting-up-the-chatgpt-widget-for-android-users/"><u>Unlocking Chatbot Potential: Setting Up the ChatGPT Widget for Android Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-behind-the-scenes-of-360-degree-media/"><u>[Updated] In 2024, Behind the Scenes of 360-Degree Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-windows-8-movie-maker-an-easy-introduction/"><u>[Updated] Unlocking Windows 8 Movie Maker An Easy Introduction</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-efficiently-edit-your-tiktok-age-settings/"><u>2024 Approved Efficiently Edit Your TikTok Age Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-your-charge-up-elite-selection-of-wireless-chargers-for-2n4-featuring-in-depth-tests-zdnet/"><u>Ace Your Charge-Up: Elite Selection of Wireless Chargers for 2N4, Featuring In-Depth Tests | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-nuances-what-sets-gpt-4-apart-from-its-turbo-and-enhanced-counterparts/"><u>Delving Into Nuances: What Sets GPT-4 Apart From Its Turbo and Enhanced Counterparts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-endless-entertainment-connecting-and-watching-hulu-on-an-lg-smart-tv/"><u>Enjoy Endless Entertainment: Connecting and Watching Hulu on an LG Smart TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-connect-your-ps4-controller-with-steam-step-by-step-guide/"><u>How to Connect Your PS4 Controller with Steam: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-artificial-intelligence-transforming-diy-sector-the-arrival-of-gpt-4/"><u>Revolutionary Artificial Intelligence Transforming DIY Sector: The Arrival of GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-effective-chatgpt-techniques-for-minimizing-online-disruptions/"><u>Top 8 Effective ChatGPT Techniques for Minimizing Online Disruptions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-language-of-smart-machines-your-comprehensive-guide-to-ai-vocabulary-with-29-critical-terms/"><u>Unlock the Language of Smart Machines: Your Comprehensive Guide to AI Vocabulary with 29 Critical Terms</u></a></li>
 </ul></div>
 

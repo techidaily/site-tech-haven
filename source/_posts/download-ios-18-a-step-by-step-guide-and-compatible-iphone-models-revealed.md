@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed"
-date: 2024-12-26T16:00:00.761Z
-updated: 2024-12-28T16:00:01.885Z
+date: 2024-12-31T16:32:58.376Z
+updated: 2025-01-06T19:26:01.980Z
 tags:
   - apple
 categories:
@@ -33,12 +33,16 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -56,19 +60,23 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -77,10 +85,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -94,7 +98,7 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -112,10 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,19 +161,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-innovate-brand-identity-complimentary-logo-templates-customization/"><u>[New] 2024 Approved Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-discovering-top-10-must-watch-business-video-hubs/"><u>[Updated] 2024 Approved Discovering Top 10 Must-Watch Business Video Hubs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools-for-2024/"><u>[Updated] Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advanced-gemini-vs-chatgpt-plus-showdown-determining-the-best-conversational-ai/"><u>Advanced Gemini Vs. ChatGPT Plus Showdown: Determining the Best Conversational AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/anticipating-gpt-5-what-we-know-about-its-upcoming-debut/"><u>Anticipating GPT-5: What We Know About Its Upcoming Debut</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-artificer-assistance-for-windows-11-activation-explore-safer-options/"><u>Avoid Artificer Assistance for Windows 11 Activation - Explore Safer Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/civilization-6-wont-start-heres-how-to-fix-it-on-your-windows-10-pc/"><u>Civilization 6 Wont Start? Here's How to Fix It on Your Windows 10 PC</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-g2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mars-city-construction-chaos-building-blasts-into-wild-martian-windstorms/"><u>Mars City Construction Chaos: Building Blasts Into Wild Martian Windstorms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722038316641-personalized-ai-now-possible-with-chatgpts-latest-update-build-unique-gpt-models-easily/"><u>Personalized AI Now Possible with ChatGPT's Latest Update - Build Unique GPT Models Easily</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pursuing-dynamic-visuals-the-ultimate-guide-for-converting-sdr-to-hdri-for-2024/"><u>Pursuing Dynamic Visuals The Ultimate Guide for Converting SDR to HDRI for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-installing-the-dell-mouse-software/"><u>Step-by-Step Guide: Successfully Installing the Dell Mouse Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-generation-unfolds-with-samsung-galaxy-z-flip-6-dive-deep-into-news-and-features/"><u>The Next Generation Unfolds with Samsung Galaxy Z Flip 6 - Dive Deep Into News and Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722173794028-time-mastery-with-chatgpt-discover-4-key-techniques/"><u>Time Mastery with ChatGPT: Discover 4 Key Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-thanks-for-curating-premium-and-free-outro-themes/"><u>[Updated] In 2024, Thanks for Curating Premium & Free Outro Themes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-static-pngs-into-dynamic-gif-animations/"><u>Convert Static PNGs Into Dynamic GIF Animations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-14-premium-free-anime-streamers-for-smartphones-and-tablets/"><u>Discover the Ultimate List of 14 Premium-Free Anime Streamers for Smartphones & Tablets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dvd-imgburn/"><u>DVD コピーとコピーガード解除のための ImgBurn:使いやすさと強力代替ツールをご提案</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-to-rotating-videos-with-vlc-media-player/"><u>Easy Guide to Rotating Videos with VLC Media Player</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-disabling-auto-screen-activation-by-android-notification-alerts/"><u>Guide: Disabling Auto-Screen Activation by Android Notification Alerts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pioneering-ultra-thin-tech-samsung-leads-with-mass-production-of-groundbreaking-worlds-thinnest-lpddr5x-ram/"><u>Pioneering Ultra-Thin Tech: Samsung Leads with Mass Production of Groundbreaking 'World's Thinnest' LPDDR5X RAM</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solving-mkv-audio-video-sync-problems-a-comprehensive-guide/"><u>Solving MKV Audio-Video Sync Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-unmissable-films-for-your-easter-celebration/"><u>Top Picks: Unmissable Films for Your Easter Celebration</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pc/"><u>ストリーム配信をキャプチャし、PCやスマホで安全に保管するためのテクニック</u></a></li>
 </ul></div>
 

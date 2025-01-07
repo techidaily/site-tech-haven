@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Experience: How Apple's Intervention Could Benefit Disheartened Sonos Owners - Insights"
-date: 2024-12-24T16:00:13.732Z
-updated: 2024-12-28T16:00:18.378Z
+date: 2025-01-04T00:31:05.896Z
+updated: 2025-01-06T18:29:28.892Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -47,7 +43,7 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -65,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -76,15 +72,15 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -95,6 +91,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -114,10 +114,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,24 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-snap-clean-top-10-apps-to-sharpen-your-digital-world/"><u>[New] 2024 Approved Snap Clean Top 10 Apps to Sharpen Your Digital World</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-birds-eye-view-duel-dji-pro-max-against-gopro-hero6/"><u>[Updated] Bird's Eye View Duel DJI Pro Max Against GoPro HERO6</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-selfies-on-instagram-a-guide/"><u>[Updated] Mastering Selfies on Instagram A Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-movie-streaming-apps-12/"><u>Best Free Movie Streaming Apps (#12)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-advanced-ai-algorithms-in-chatgpt-surpass-magazine-horoscopes-at-anticipating-your-fortunes/"><u>Can Advanced AI Algorithms in ChatGPT Surpass Magazine Horoscopes at Anticipating Your Fortunes?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-methods-for-incorrante-audio-in-videos/"><u>Cutting-Edge Methods for Incorrante Audio in Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-types-how-public-ai-differs-from-private-and-personal-implementations/"><u>Demystifying AI Types: How Public AI Differs From Private and Personal Implementations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/extensive-analysis-the-complete-gear-360-camera-experience-for-2024/"><u>Extensive Analysis The Complete Gear 360 Camera Experience for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-determine-if-chatgpt-is-active-top-5-methods/"><u>How to Determine if ChatGPT Is Active - Top 5 Methods</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-streamlining-the-process-of-removing-a-discord-server/"><u>In 2024, Streamlining the Process of Removing a Discord Server</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-techniques-for-combining-chatgpt-and-additive-manufacturing-expertise/"><u>Innovative Techniques for Combining ChatGPT and Additive Manufacturing Expertise</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/lenovos-tablet-masterpiece-the-p11-pro-reviewed-impressive-yet-imperfect/"><u>Lenovo's Tablet Masterpiece: The P11 Pro Reviewed - Impressive Yet Imperfect</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-your-privacy-edit-proton-vpn-sign-in-plus-unveil-genuine-chatgpt-for-pcs/"><u>Master Your Privacy: Edit Proton VPN Sign In + Unveil Genuine ChatGPT for PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-money-with-chatgpt-driven-businesses/"><u>Maximizing Money with ChatGPT-Driven Businesses</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-burning-videos-to-dvds-on-windows-and-mac-os/"><u>New 2024 Approved The Ultimate Guide to Burning Videos to DVDs on Windows and Mac OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-using-gpt-4-and-dall-e-together/"><u>Unleashing Creativity: Using GPT-4 & DALL-E Together</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/unlocking-digital-restrictions-on-ebooks-a-guide-to-removing-drm-focus-on-chapter-14/"><u>Unlocking Digital Restrictions on eBooks - A Guide to Removing DRM (Focus on Chapter 14)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/your-gateway-to-cutting-edge-ai-how-to-easily-harness-the-power-of-openais-new-gpt-service/"><u>Your Gateway to Cutting-Edge AI: How to Easily Harness the Power of OpenAI's New GPT Service</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-conquer-ez-grabber-in-minutes-download-and-setup-made-simple/"><u>[New] 2024 Approved Conquer EZ Grabber in Minutes Download & Setup Made Simple</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-thorough-review-gopro-hero4-slr4-sliver-features/"><u>2024 Approved Thorough Review GoPro Hero4 SLR4 Sliver Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/free-cam-software-roundup-innovation-at-your-fingertips-for-2024/"><u>Free Cam Software Roundup Innovation at Your Fingertips for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/frontiers-in-virtuality-industry-analysis/"><u>Frontiers in Virtuality Industry Analysis</u></a></li>
+<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-para-administrar-dispositivos-apple-con-aomei-fonebackup/"><u>Guía Paso a Paso Para Administrar Dispositivos Apple Con AOMEI FoneBackup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-overcoming-amd-rx-560-driver-issues-on-windows-os-11-10-8-and-7/"><u>Guide to Overcoming AMD RX 560 Driver Issues on Windows OS (11, 10, 8, and 7)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y100t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y100t to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/metodo-definitivo-transferencia-de-archivos-desde-un-dvd-hacia-google-drive-resolucionado/"><u>Método Definitivo: Transferencia De Archivos Desde Un DVD Hacia Google Drive [Resolucionado]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-handbrake-audio-desynchronization-a-step-by-step-guide/"><u>Resolving HandBrake Audio Desynchronization: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-broken-video-files-with-these-10-best-restoration-programs-for-pc-and-mac-enthusiasts/"><u>Revive Broken Video Files with These 10 Best Restoration Programs for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-conversion-transform-your-videos-into-high-quality-mp3s-in-minutes/"><u>Seamless Conversion: Transform Your Videos Into High-Quality MP3s in Minutes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-converting-avi-movie-files-into-divx-codecs-for-multiple-devices/"><u>Step-by-Step Guide to Converting AVI Movie Files Into DivX Codecs for Multiple Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-converting-individual-screen-captures-into-a-unified-recording/"><u>Step-by-Step Guide to Converting Individual Screen Captures Into a Unified Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-mavnox-build-addon-in-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting up MavNox Build Addon in Kodi Version 19 (Matrix)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-samsung-galaxy-note-3-debut-schedule-capabilities-and-cost-breakdown/"><u>The Samsung Galaxy Note 3 Debut: Schedule, Capabilities & Cost Breakdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-the-top-rated-dvd-to-avi-converters-of-2024-on-windows-11/"><u>The Ultimate Guide to the Top-Rated DVD to AVI Converters of 2024 on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-free-4k-players-compatible-with-windows-11-get-them-now/"><u>Top 10 Free 4K Players Compatible with Windows 11 - Get Them Now!</u></a></li>
 </ul></div>
 

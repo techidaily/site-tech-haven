@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Discontinuing Your Apple Music Subscription Independent of iTunes"
-date: 2024-12-27T16:00:05.836Z
-updated: 2024-12-28T16:00:02.789Z
+date: 2025-01-02T18:41:03.347Z
+updated: 2025-01-07T02:14:45.713Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -40,7 +40,7 @@ But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Ap
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
@@ -60,7 +60,7 @@ David Gewirtz/Screenshot
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
@@ -121,22 +121,15 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlocking-the-archive-of-yesteryear-how-to-view-facebook-past-content/"><u>[New] 2024 Approved Unlocking the Archive of Yesteryear How To View Facebook Past Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-picks-the-best-10-recorders-for-podcasting-for-2024/"><u>[New] Top Picks The Best 10 Recorders for Podcasting for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-artificial-intelligence-prompts-assessing-its-viability-as-a-reliable-profession/"><u>A Deep Dive Into Artificial Intelligence Prompts: Assessing Its Viability as a Reliable Profession</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-dji-phantom-3-professional-drone/"><u>A Deep Dive Into DJI Phantom 3 Professional Drone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/aggiorna-il-tuo-backup-con-la-versione-pro-di-aomei-backupper-e-servizi-cloud-illimitati/"><u>Aggiorna Il Tuo Backup Con La Versione Pro Di AOMEI Backupper E Servizi Cloud Illimitati</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-chat-guidelines-sidestep-the-top-6-errors-in-dialogue/"><u>AI Chat Guidelines: Sidestep the Top 6 Errors in Dialogue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-ushers-new-era-key-capabilities-we-expect-in-gpt-5/"><u>AI Ushers New Era: Key Capabilities We Expect in GPT-5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-driven-research-the-new-norm-for-students/"><u>AI-Driven Research: The New Norm for Students</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-role-in-future-dev-workflows/"><u>AI's Role in Future Dev Workflows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722081567492-chatgpt-for-fun-check-out-the-6-best-games-you-can-play/"><u>ChatGPT for Fun? Check Out the 6 Best Games You Can Play!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/conversione-online-per-la-gratuita-da-wav-a-formato-m4b-senza-problemi-usando-movavi/"><u>Conversione Online per La Gratuità: Da WAV a Formato M4B Senza Problemi Usando Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722146022547-explore-the-new-chatgpt-mobile-app-now-available-on-ios-devices/"><u>Explore the New ChatGPT Mobile App Now Available on iOS Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/leading-free-non-commercial-android-recorders-for-2024/"><u>Leading Free Non-Commercial Android Recorders for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722120515701-navigate-through-the-best-free-ai-image-synthesis-programs-our-open-source-selection/"><u>Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/sounding-off-on-channel-titling-tips-from-experienced-filmmakers-for-2024/"><u>Sounding Off on Channel Titling Tips From Experienced Filmmakers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-function-key-issues-solutions-for-your-asus-laptop/"><u>Troubleshooting Non-Functional Function Key Issues: Solutions for Your ASUS Laptop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-videos-to-vault-ajays-revenue-journey-on-youtube/"><u>[New] In 2024, From Videos to Vault AJay’s Revenue Journey on YouTube</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-poco-x5-easily-by-drfone-android/"><u>How To Unlock a Poco X5 Easily?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-8620-driver-update-and-download-instructions-for-windows-users/"><u>HP OfficeJet Pro 8620 Driver Update and Download Instructions for Windows Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-expert-tips-for-creating-dynamic-youtube-splits/"><u>In 2024, Expert Tips for Creating Dynamic YouTube Splits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mikupaintpc/"><u>MikuPaintアプリ、PCとスマホで画面を記録する詳しいガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/movavi-video-editor-plus-walkthrough-effortlessly-converting-mpegx-files-into-mp4/"><u>Movavi Video Editor Plus Walkthrough: Effortlessly Converting MPEGX Files Into MP4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-account-needed-a-guide-to-viewing-facebook-live-videos/"><u>No Account Needed: A Guide to Viewing Facebook Live Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/oggmidi/"><u>OGG形式へのMIDIファイル変換手順</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-non-timebound-screen-recording-selection/"><u>Ultimate Non-Timebound Screen Recording Selection</u></a></li>
 </ul></div>
 

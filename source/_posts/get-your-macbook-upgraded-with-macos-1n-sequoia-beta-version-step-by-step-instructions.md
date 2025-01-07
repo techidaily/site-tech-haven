@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2024-12-27T12:31:24.241Z
-updated: 2024-12-28T13:10:04.432Z
+date: 2025-01-01T18:34:16.519Z
+updated: 2025-01-06T21:22:35.488Z
 tags:
   - apple
 categories:
@@ -26,10 +26,14 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -37,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -49,7 +53,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -59,10 +63,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -81,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -140,18 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-inside-look-obs-as-a-premier-screen-recorder/"><u>[New] In 2024, Inside Look OBS as a Premier Screen Recorder</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-soft-onset-visual-effects/"><u>[New] Soft Onset Visual Effects</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-comparing-recording-obs-studio-versus-bandicam/"><u>[Updated] 2024 Approved Comparing Recording OBS Studio Versus Bandicam</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-riding-the-wave-strategies-for-high-likes-tiktok-unpacking-videos/"><u>[Updated] Riding the Wave Strategies for High-Likes TikTok Unpacking Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-navigating-the-360-streaming-landscape-with-ease-on-youtube/"><u>2024 Approved Navigating the 360° Streaming Landscape with Ease on Youtube</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479624232-boosting-mobile-data-speeds-top-10-tips-to-surf-faster/"><u>Boosting Mobile Data Speeds: Top 10 Tips to Surf Faster!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easily-customize-your-input-methods-with-microsofts-on-screen-keyboard-feature-for-windows-10/"><u>Easily Customize Your Input Methods with Microsoft's On-Screen Keyboard Feature for Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-14-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 14 Plus without Security Questions?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/love-engineered-ais-role-in-dating-frauds/"><u>Love Engineered: AI's Role in Dating Frauds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-character-creation-in-dungeons-and-dragons-with-ai-a-guide-to-using-chatgpt-and-dall-e/"><u>Mastering Character Creation in Dungeons & Dragons with AI: A Guide to Using ChatGPT & DALL-E</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-code-synthesis-a-tutorial-on-deploying-codegpt-in-vs-code/"><u>Mastering Code Synthesis: A Tutorial on Deploying CodeGPT in VS Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-llama-er-2-functionality-explained-with-practical-advice/"><u>Mastering Llama Er 2: Functionality Explained with Practical Advice</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-buggy-fcpx-learn-how-to-reset-and-reboot-for-2024/"><u>New Buggy FCPX? Learn How to Reset and Reboot for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-zoom-essentials-for-webinar-novices-an-introductory-walkthrough/"><u>[New] 2024 Approved Zoom Essentials for Webinar Novices An Introductory Walkthrough</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-advanced-options-with-gopro-burst-features-for-2024/"><u>[Updated] Exploring Advanced Options with GoPro Burst Features for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-obs-dominion-vs-streamlabs-kingdom/"><u>[Updated] OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-and-updating-nvidia-geforce-mx150-drivers-on-windows-1011/"><u>Complete Guide to Downloading and Updating NVIDIA GeForce MX150 Drivers on Windows 10/11</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/complete-guide-restoring-your-ipad-using-an-icloud-backup-step-by-step-instructions/"><u>Complete Guide: Restoring Your iPad Using an iCloud Backup - Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-personalized-chatbot-solutions-using-your-dataset-a-step-by-step-guide/"><u>Creating Personalized Chatbot Solutions Using Your Dataset: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-mobile-browsing-with-bings-smart-ai-driven-search-compatible-with-android-and-iphone/"><u>Enhance Mobile Browsing with Bing’s Smart, AI-Driven Search - Compatible With Android & iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-question-of-user-data-security-in-chatgpt-interactions/"><u>Exploring the Question of User Data Security in ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generate-original-visual-content-using-microsoft-copilot-imagery-tool/"><u>Generate Original Visual Content Using Microsoft Copilot Imagery Tool</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-15-plus-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 15 Plus Before the Plan Expires</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-the-implications-for-windows-memory-safety/"><u>Insights Into ftdibus.sys: The Implications for Windows Memory Safety</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-ai-enhanced-microsoft-bing-experience-on-android-devices/"><u>Mastering the AI-Enhanced Microsoft Bing Experience on Android Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-trouble-free-setup-for-your-usb-camera-expertly-crafted-drivers-awaiting/"><u>Quick & Trouble-Free Setup for Your USB Camera - Expertly Crafted Drivers Awaiting!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4e-printer-driver-in-windows/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4e Printer Driver in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-code-companion-reigns-supreme-github-copilot-or-chaturbate-the-ultimate-developer-guide/"><u>Which Code Companion Reigns Supreme? GitHub Copilot or Chaturbate – The Ultimate Developer Guide</u></a></li>
 </ul></div>
 

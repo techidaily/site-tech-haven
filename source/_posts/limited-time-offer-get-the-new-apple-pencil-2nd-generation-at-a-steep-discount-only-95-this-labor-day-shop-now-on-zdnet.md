@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Get the New Apple Pencil (2Nd Generation) at a Steep Discount - Only $95 This Labor Day! Shop Now on ZDNet"
-date: 2024-12-23T16:00:03.500Z
-updated: 2024-12-28T16:00:00.171Z
+date: 2025-01-04T20:52:36.161Z
+updated: 2025-01-07T04:09:09.188Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,20 +71,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-capture-directly-on-instagram-for-2024/"><u>[New] OBS Capture Directly on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevate-your-channels-visibility-through-proven-methods/"><u>[Updated] 2024 Approved Elevate Your Channels Visibility Through Proven Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dissecting-the-financial-strategy-of-t-series-in-video-platforms-for-2024/"><u>[Updated] Dissecting the Financial Strategy of T-Series in Video Platforms for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-animators-artistry-archives/"><u>[Updated] In 2024, Animator's Artistry Archives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-alternative-ways-to-employ-chatbots-like-gpt/"><u>5 Alternative Ways to Employ ChatBots Like GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comprehensive-introduction-to-the-world-of-openai-apis/"><u>A Comprehensive Introduction to the World of OpenAI APIs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/academic-excellence-through-innovation-top-five-applications-of-chatgpt-for-students/"><u>Academic Excellence Through Innovation: Top Five Applications of ChatGPT for Students</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721897788645-affordable-phones-for-just-50-how-to-crack-ransomware-a-deep-dive-and-behind-the-scenes-with-chatgpt-on-our-show/"><u>Affordable Phones for Just $50, How to Crack Ransomware - A Deep Dive, and Behind the Scenes with ChatGPT on Our Show</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-gpt-3-responses-capped-at-a-specific-wordcharacter-number/"><u>Are GPT-3 Responses Capped at a Specific Word/Character Number?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722182901697-discover-the-power-of-chatgpt-in-personal-healthcare-learn-why-its-worth-considering-now/"><u>Discover the Power of ChatGPT in Personal Healthcare – Learn Why It's Worth Considering Now!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratuit-mxf-wmv-converter-online-deze-week-voor-movavi/"><u>Gratuit MXF-WMV Converter Online - Deze Week Voor Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fresh-take-on-the-enhanced-sony-s6500-media-device/"><u>In 2024, Fresh Take on the Enhanced Sony S6500 Media Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-packaging-growth-tactics/"><u>In 2024, Packaging Growth Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722138198242-sharpen-your-deduction-skills-through-these-engaging-ai-murder-mysteries-and-puzzles-4-best-brain-boosting-challenges/"><u>Sharpen Your Deduction Skills Through These Engaging AI Murder Mysteries & Puzzles - #4 Best Brain-Boosting Challenges!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/the-first-to-decipher-encrypted-drives-stellar-enters-history-books/"><u>The First to Decipher Encrypted Drives, Stellar Enters History Books</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-spice-up-your-videos-7-premium-royalty-free-audio-clips/"><u>[New] 2024 Approved Spice Up Your Videos 7 Premium, Royalty-Free Audio Clips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-spotlight-10-anonymous-story-gazers/"><u>[Updated] 2024 Approved Spotlight 10 Anonymous Story Gazers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-techniques-for-enhancing-game-stream-videos-with-ai-portrait-technology-for-2024/"><u>[Updated] Techniques for Enhancing Game Stream Videos with AI Portrait Technology for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/climb-the-linguistic-ladder-for-workplace-success/"><u>Climb the Linguistic Ladder for Workplace Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-visual-journey-capturing-videos-for-2024/"><u>Facebook's Visual Journey Capturing Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-vlc-media-player-for-midi-file-playback/"><u>How to Use VLC Media Player for MIDI File Playback</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-on-the-legality-of-duplicating-dvd-content-a-full-breakdown/"><u>In-Depth Analysis on the Legality of Duplicating DVD Content: A Full Breakdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/installing-the-blink-addon-for-seamless-viewing-a-users-manual-with-matrix-support-on-kodi/"><u>Installing the Blink Addon for Seamless Viewing - A User's Manual with Matrix Support on Kodi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-2-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 2 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-openwizard-integration-with-kodi-top-tips-for-flawless-operation-efficient-backups-and-streamlined-maintenance/"><u>Mastering OpenWizard Integration with Kodi: Top Tips for Flawless Operation, Efficient Backups & Streamlined Maintenance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-video-compression-essential-techniques-and-methods-explained/"><u>Mastering Video Compression: Essential Techniques and Methods Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-and-tricks-how-to-choose-a-winner-amongst-360-degree-cameras-for-2024/"><u>Tips & Tricks How to Choose a Winner Amongst 360-Degree Cameras for 2024</u></a></li>
 </ul></div>
 

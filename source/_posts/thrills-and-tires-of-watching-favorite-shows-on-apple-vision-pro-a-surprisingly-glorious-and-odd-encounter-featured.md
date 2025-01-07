@@ -1,7 +1,7 @@
 ---
 title: Thrills and Tires of Watching Favorite Shows on Apple Vision Pro; A Surprisingly Glorious & Odd Encounter, Featured
-date: 2024-12-22T16:04:09.450Z
-updated: 2024-12-28T16:00:07.461Z
+date: 2025-01-01T19:01:50.221Z
+updated: 2025-01-06T20:55:43.504Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ I've been wanting to rewatch the entire four seasons of _For All Mankind_, the a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Apple TV+ on the Vision Pro
 
 The Apple TV+ app provides a couple of viewing options on the Vision Pro. The first is just a window in passthrough mode, where you see the show floating in space, with whatever your room is as a backdrop. That didn't interest me at all. I wanted full immersion. 
@@ -85,16 +81,12 @@ It wasn't distracting enough for me to stop the show, but it was one of those an
 And yet, watching the show was incredible in that environment. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The reality of virtual reality
 
 But it wasn't all vintage 1969 Corvette Stingrays and Apollo 11\. There were some problems. The first was audio… 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. AirPods ala mode
 
@@ -128,6 +120,10 @@ So, yes, you can turn on noise cancellation. I just didn't know how to do it on 
 
 Just because I love you folks and want to give you the complete story, I later forced myself to watch the second episode of some of the best TV ever made, on what is probably the most intense giant TV screen I've ever watched. And yeah, both the AirPods Pro and AirPods Max worked just fine. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Eyestrain and itchy itch
 
 I watched the first 20 minutes of the show in entertainment center bliss, but then my eyes started to hurt and my face (the part inside the headset) started to itch. 
@@ -137,7 +133,7 @@ I made sure to close and blink my eyes throughout the viewing experience, but by
 To alleviate the itching, I stopped the video a few times, loosened the headset, and scratch it. That's a bit of an immersion killer. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. No coffee for you
@@ -158,21 +154,25 @@ It wasn't as much that it was startling. It was more that it took some coordinat
 
 I'm sure it looked ridiculous to her, and I know it was somewhat stressful to me. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Oh, my furrowed brow
 
 I did notice brow pain while watching, but the entertainment experience was so enthralling that I put up with it. After finishing the show and safely stowing the Vision Pro, I noticed that my brow, where the Vision Pro apparently transferred most of its pressure, really hurt. 
 
 To be fair, it's not a terrible level of hurt, like when you stub your toe. But it's painful enough that it's worth remarking about. The pain went away after about ten minutes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. In VR, nobody can hear you stream
 
 I can confirm the sense of isolation some [Vision Pro reviewers have reported](https://www.zdnet.com/article/i-tried-apple-vision-pro-for-a-weekend-and-here-are-my-3-biggest-takeaways/#:~:text=3.%20It%27s%20lonely%20in%20the%20spatial%20computing%20world). To be fair, I was purposely going for the isolation, because I didn't want to be involved in my wife's Zoom meeting. 
 
 But when my pup came over, I could feel him and pet him, but he couldn't look at my face and I couldn't see him. It wasn't a terrible moment, because he has prodigious lap-sitting skills, but I wanted to look back at his little face and couldn't. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Is it worth it?
 
@@ -228,21 +228,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-become-a-periscope-expert-with-our-full-guide/"><u>[New] 2024 Approved Become a Periscope Expert with Our Full Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-on-the-side-balancing-employment-with-youtube/"><u>[Updated] 2024 Approved Creating on the Side Balancing Employment with YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-video-game-top-unboxer-techniques/"><u>[Updated] Elevate Your Video Game Top Unboxer Techniques</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leveraging-tv-platforms-for-facebook-live-viewership/"><u>2024 Approved Leveraging TV Platforms for Facebook Live Viewership</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exclusive-free-trial-premium-us-based-vpn-services-ensure-ultimate-online-safety-and-access/"><u>Exclusive Free Trial: Premium U.S. Based VPN Services – Ensure Ultimate Online Safety & Access</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-newbie-to-ninja-an-easy-to-follow-guide-on-playing-fortnite-on-windows-or-mac/"><u>From Newbie to Ninja: An Easy-to-Follow Guide on Playing Fortnite on Windows or Mac</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-8-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 8 Plus Passcode not Working?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-zero-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Zero 30 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrect-your-keys-troubleshoot-win10-keyboard-problems/"><u>Resurrect Your Keys: Troubleshoot WIN10 Keyboard Problems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/riconnessione-di-file-avi-al-formato-mp4-con-il-miglior-convertitore-gratuito/"><u>Riconnessione Di File AVI Al Formato MP4 Con Il Miglior Convertitore Gratuito</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808325727-the-best-10-torrent-sites-most-popular-in-the-world/"><u>The Best 10 Torrent Sites – Most Popular in the World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-capturing-images-from-your-laptop-screen/"><u>Ultimate Guide: Capturing Images From Your Laptop Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-mastering-the-art-of-system-restore-on-windows-10/"><u>Ultimate Guide: Mastering the Art of System Restore on Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-vpns-boost-your-youtube-experience-securely/"><u>Ultimate Selection of VPNs: Boost Your YouTube Experience Securely</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-snapping-photos-of-your-desktop-on-windows-11/"><u>Ultimate Tutorial: Snapping Photos of Your Desktop on Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-intense-close-ups-in-minecraft-five-simple-steps/"><u>[New] 2024 Approved Intense Close-Ups in Minecraft Five Simple Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultra-30-camera-detailed-review-of-the-garmin-virb/"><u>[New] 2024 Approved Ultra 30 Camera Detailed Review of the Garmin VIRB</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-commanding-the-screen-top-10-women-gamers-yt-for-2024/"><u>[New] Commanding the Screen Top 10 Women Gamers YT for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dslr-mastery-broadcasting-with-facebook-live-via-computer/"><u>[New] DSLR Mastery Broadcasting with Facebook Live via Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-reclaim-your-loss-with-these-top-10-iphone-x-hacks/"><u>[New] In 2024, Reclaim Your Loss with These Top 10 iPhone X Hacks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-leading-links-to-googles-advertising-networks-on-videos/"><u>[Updated] 2024 Approved Leading Links to Google's Advertising Networks on Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beating-apple-vision-pro-jealousy-with-budget-friendly-xr-glasses-a-zdnet-review/"><u>Beating Apple Vision Pro Jealousy with Budget-Friendly XR Glasses: A ZDNET Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-news-apples-anticipated-artificial-intelligence-integration-postponed-to-october-insiders-reveal/"><u>Breaking News: Apple's Anticipated Artificial Intelligence Integration Postponed to October, Insiders Reveal</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-iphones-iphone-16-versus-iphone-15-essential-points-for-choosing-apples-latest-smartphone-cnet/"><u>Comparing iPhones: IPhone 16 Versus iPhone 15 – Essential Points for Choosing Apple's Latest Smartphone | CNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-iphone-13-case-compatible-with-the-latest-iphone-14-model-insights-and-tips-techradar/"><u>Is Your iPhone 13 Case Compatible with the Latest iPhone 14 Model? Insights & Tips | TechRadar</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/quick-guide-streamlining-video-calls-on-xbox-one/"><u>Quick Guide Streamlining Video Calls on Xbox One</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/selecting-the-perfect-ipad-pro-a-head-to-head-analysis-of-the-m1-vs-m2-processors-techadvisor/"><u>Selecting the Perfect iPad Pro: A Head-to-Head Analysis of the M1 Vs. M2 Processors | TechAdvisor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-adding-a-license-to-iphones-wallet-app-varies-by-location-tech-insights/"><u>Step-by-Step Tutorial on Adding a License to iPhone's Wallet App (Varies by Location) | Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-costly-secret-behind-the-absence-of-advanced-apple-ai-in-older-iphone-models-zdnet/"><u>The Costly Secret Behind the Absence of Advanced Apple AI in Older iPhone Models | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-mini-tablets-thoroughly-evaluated-and-recommended-by-tech-experts/"><u>Top-Rated Mini Tablets - Thoroughly Evaluated & Recommended by Tech Experts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-get-ready-to-be-amazed-the-best-4k-video-clips-for-2024/"><u>Updated Get Ready to Be Amazed The Best 4K Video Clips for 2024</u></a></li>
 </ul></div>
 

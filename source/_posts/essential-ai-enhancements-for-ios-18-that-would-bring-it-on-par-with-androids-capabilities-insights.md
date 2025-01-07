@@ -1,7 +1,7 @@
 ---
 title: Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights
-date: 2024-12-23T16:00:59.594Z
-updated: 2024-12-28T16:00:30.943Z
+date: 2025-01-01T19:52:47.004Z
+updated: 2025-01-07T00:41:36.971Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,18 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-navigating-apex-legends-gameplay-on-single-platforms-only/"><u>[New] 2024 Approved Navigating Apex Legends Gameplay on Single Platforms Only</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-defining-techniques-for-e-narrative-construction/"><u>[New] Defining Techniques for E-Narrative Construction</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-depth-guide-to-enhanced-video-clarity-on-google-meet-for-2024/"><u>[New] In-Depth Guide to Enhanced Video Clarity on Google Meet for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-excellent-envoys-top-laptops-to-edit-videos-in-4k/"><u>[Updated] In 2024, Excellent Envoys Top Laptops to Edit Videos in 4K</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-for-free-how-to-convert-twitter-videos-to-gifs/"><u>2024 Approved For Free! How to Convert Twitter Videos to GIFS?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-quick-quota-video-plus-voice-mix/"><u>2024 Approved Quick Quota Video + Voice Mix</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diy-fix-erasing-nvidia-graphics-driver-from-your-microsoft-windows-11-machine/"><u>DIY Fix: Erasing NVIDIA Graphics Driver From Your Microsoft Windows 11 Machine</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808315891-drive-smart-save-more-score-20-off-on-drivecare-with-our-authentic-discount-code/"><u>Drive Smart, Save More: Score 20% Off on Drivecare with Our Authentic Discount Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808282291-effortless-guide-set-google-as-your-default-browser-home-page/"><u>Effortless Guide: Set Google as Your Default Browser Home Page!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808323099-how-to-reduce-latency-for-gaming-2024-tips/"><u>How to Reduce Latency for Gaming – 2024 Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-v27-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo V27 Through Google Earth?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-texture-quality-issues-in-far-cry-island/"><u>Rectifying Texture Quality Issues in Far Cry Island</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808252249-step-by-step-guide-to-booting-windows-11-into-safe-mode-discover-all-4-methods-plus-visual-aids/"><u>Step-by-Step Guide to Booting Windows 11 Into Safe Mode – Discover All 4 Methods Plus Visual Aids!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-professional-webcam-setup-on-macbook-for-2024/"><u>[New] Professional Webcam Setup on MacBook for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-winning-scenarios-prime-video-recording-software-for-windows-for-2024/"><u>[New] Winning Scenarios Prime Video Recording Software for Windows for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-photo-vid-mosaic-designer-slideshows-for-sierra/"><u>2024 Approved Photo-Vid Mosaic Designer Slideshows for Sierra</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-apples-voice-assistants-choosing-between-the-homepod-and-homepod-mini/"><u>Comparing Apple's Voice Assistants: Choosing Between the HomePod and HomePod Mini</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dealing-with-unexpected-vision-pro-suspensions-follow-these-tips-for-quick-recovery/"><u>Dealing with Unexpected Vision Pro Suspensions? Follow These Tips for Quick Recovery!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-apples-latest-iphone-16-enhancements-that-prove-its-time-for-an-upgrade-exclusive-review/"><u>Discover Apple's Latest iPhone 16 Enhancements That Prove It's Time for an Upgrade – Exclusive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-new-affordable-apple-m2-macbook-air-at-just-799-arriving-early-before-the-october-prime-day-sale-techcrunch-exclusive/"><u>Discover the New Affordable Apple M2 MacBook Air at Just $799, Arriving Early Before the October Prime Day Sale - TechCrunch Exclusive</u></a></li>
+<li><a href="https://windows11.techidaily.com/ending-system-crashes-fix-for-code-0x0000011b-errors/"><u>Ending System Crashes: Fix for Code 0X0000011B Errors</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-online-groups-the-dichotomy-of-personal-and-professional/"><u>Exploring Online Groups: The Dichotomy of Personal and Professional</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-benefits-of-freeform-techniques-in-innovative-idea-generation/"><u>Exploring the Benefits of Freeform Techniques in Innovative Idea Generation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-premium-viewing-with-the-wallet-friendly-lg-prise-model-24lh4830-an-unbeatable-deal/"><u>Get Premium Viewing with the Wallet-Friendly LG Prise Model #24LH4830: An Unbeatable Deal</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-pro-video-creators-choice-10-exceptional-photo-background-alternators/"><u>In 2024, Pro Video Creators' Choice 10 Exceptional Photo-Background Alternators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipados-18-unveiled-at-apples-wwdc-2024-key-enhancements-and-targeted-devices-revealed-insights-on-zdnet/"><u>IPadOS 18 Unveiled at Apple's WWDC 2024: Key Enhancements and Targeted Devices Revealed - Insights on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/syncing-icloud-notebooks-with-linux-a-comprehensive-guide/"><u>Syncing iCloud Notebooks with Linux: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-2023-guide-to-best-in-class-professionals-spinning-cameras-for-2024/"><u>The 2023 Guide to Best-in-Class Professionals' Spinning Cameras for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-selection-of-mac-system-optimizers-recommended-by-tech-experts-at-zdnet/"><u>The Ultimate Selection of Mac System Optimizers - Recommended by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a59-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A59 5G Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-latest-in-smartphone-tech-discover-how-the-new-camera-button-on-iphone-16-models-transforms-your-photography-experience-insights-from-zdnet/"><u>Unveiling the Latest in Smartphone Tech: Discover How the New Camera Button on iPhone 16 Models Transforms Your Photography Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-motorola-moto-g73-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Motorola Moto G73 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Exceptional Presidents' Day Offers Over 60%% at Leading Retailers Like Amazon, Walmart and More | Comprehensive Deals Digest
-date: 2024-12-25T16:00:04.303Z
-updated: 2024-12-28T16:00:07.055Z
+date: 2025-01-02T18:33:21.650Z
+updated: 2025-01-06T19:08:31.314Z
 tags:
   - apple
 categories:
@@ -39,6 +39,10 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 * [Roborock Q7 Max+ Robot Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09NNFNWZ9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $520 (save $180 with coupon at Amazon)
 * [Amazon Fire HD 8 Kids Pro Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09BG63ZMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $100 (save $50 at Amazon)
 * [Blink Outdoor 4 Floodlight Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BBX45V5B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $85 (save $45 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Presidents Day tech deals still live
 
@@ -79,7 +83,7 @@ Jason Hiner/ZDNET
 * [Jabra Elite 10 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB91VRGV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $200 (save $50 at Amazon)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Presidents Day TV deals still live
@@ -98,7 +102,7 @@ Maria Diaz/ZDNET
 * [Samsung 75-inch Class QN85C UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-75-class-qn85c-neo-qled-4k-uhd-smart-tizen-tv%2F6536416.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,800 (save $500 at Best Buy)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Presidents Day robot vacuum deals still live
@@ -117,6 +121,10 @@ Beth Mauder/ZDNET
 * [Roborock S8 Pro Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $1,400 (save $200 at Amazon)
 * [Roborock S8 Pro Vacuum and Mop](https://roborock.pxf.io/c/159047/1179705/14848?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-s8-pro-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,400 (save $200 at Roborock)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Presidents Day home deals still live
 
 Arlo
@@ -130,17 +138,9 @@ Arlo
 * [iDoo Queen Air Mattress](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0C8TF4VK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $70 (save $46 at Amazon)
 * [Eve Light Strip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEve-Light-Strip-Full-Spectrum-Necessary%2Fdp%2FB07MTX8MR4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfe16783d-862b-40ab-9c46-7475b9406e55%7Cdtp&dtb=1): $40 (save $40 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When is President's Day?
 
 President's Day is always celebrated on the third Monday of February. This year, it falls on Feb. 19\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -153,7 +153,7 @@ We also looked over customer reviews to find out what matters to real people who
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does Amazon have a Presidents' Day sale?
@@ -202,22 +202,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-easy-peasy-memes-step-by-step-in-kinemaster/"><u>[New] 2024 Approved Easy-Peasy Memes Step by Step in KineMaster</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-strategies-for-endless-online-spaces/"><u>[New] Advanced Strategies for Endless Online Spaces</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-soundscapes-free-from-restrictions/"><u>[New] Soundscapes Free From Restrictions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-top-5-youtube-video-editor-alternatives/"><u>2024 Approved Top 5 YouTube Video Editor Alternatives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/7-ways-that-chatgpt-is-already-being-used-in-the-wild/"><u>7 Ways That ChatGPT Is Already Being Used in the Wild</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-shapley-explainer-shape-features-and-uses/"><u>A Comprehensive Guide to OpenAI's Shapley Explainer (ShapE): Features & Uses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-timeline-to-artificial-intelligences-beginnings/"><u>A Timeline to Artificial Intelligence's Beginnings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722016610906-access-chatgpt-anywhere-with-the-new-android-app/"><u>Access ChatGPT Anywhere with the New Android App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-agent-implementation-through-browser-with-agentgpt-tutorials/"><u>AI Agent Implementation Through Browser with AgentGPT Tutorials</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assistant-faceoff-which-reigns-supreme-chatgpt-or-hugbingchat/"><u>AI Assistant Faceoff: Which Reigns Supreme, ChatGPT or HugbingChat?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-fixing-fifa-20-pc-game-crashes-troubleshooting-steps-inside/"><u>Complete Guide: Fixing FIFA 20 PC Game Crashes - Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://win-hot.techidaily.com/demystifying-cyber-threats-understanding-zero-day-assaults-with-expert-insights-from-malwarefox/"><u>Demystifying Cyber Threats: Understanding Zero-Day Assaults with Expert Insights From MalwareFox</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722120349133-how-palm-2-elevates-googles-bard-ai-discover-7-key-upgrades/"><u>How PaLM 2 Elevates Google's Bard AI - Discover 7 Key Upgrades</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-90-lite-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor 90 Lite</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-x50i-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor X50i Without PUK Codes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722201689537-waiting-for-chatgpts-desktop-version-is-tough-heres-a-great-free-software-replacement/"><u>Waiting for ChatGPT's Desktop Version Is Tough – Here’s a Great, Free Software Replacement!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-gopro-vs-drift-ghost-speed-camera-showdown-explained/"><u>[New] 2024 Approved GoPro vs Drift Ghost - Speed Camera Showdown Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-echoes-in-the-room-mac-sound-studio/"><u>[New] Echoes in the Room Mac Sound Studio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-srt-file-management-for-seamless-audible-experience/"><u>[New] SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-pioneers-exploring-the-six-surging-in-nft-arts/"><u>[Updated] In 2024, Digital Pioneers Exploring the Six Surging in NFT Arts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hype-generator-chief-architect/"><u>2024 Approved Hype Generator Chief Architect</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-photomontage-effect-visual-synthesis-techniques/"><u>2024 Approved The Photomontage Effect Visual Synthesis Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bring-rainbow-six-siege-back-to-life-overcome-launch-challenges-with-these-effective-fixes/"><u>Bring Rainbow Six Siege Back to Life - Overcome Launch Challenges with These Effective Fixes!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/expert-tips-for-creating-dynamic-youtube-splits/"><u>Expert Tips for Creating Dynamic YouTube Splits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/generate-laughter-giphys-art-for-2024/"><u>Generate Laughter Giphy's Art for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-converting-audio-cds-into-mp3-files-via-vlc-and-wmp-tools/"><u>Step-by-Step Tutorial on Converting Audio CDs Into MP3 Files via VLC & WMP Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-on-switching-from-prores-to-avi-video-encoding/"><u>The Ultimate Tutorial on Switching From ProRes to AVI Video Encoding</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-simple-tools-to-undo-youtube-videos-with-a-click/"><u>Top 4 Simple Tools to Undo YouTube Videos with a Click</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-premium-free-movies-of-2024-your-ultimate-download-guide-without-signing-up/"><u>Top 7 Premium-Free Movies of 2024: Your Ultimate Download Guide Without Signing Up!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-unlocking-full-features-of-hd-video-converter-factory-pro-without-cost/"><u>Ultimate Tutorial on Unlocking Full Features of HD Video Converter Factory Pro Without Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-guide-capturing-high-quality-video-in-mp4-format/"><u>Windows Guide: Capturing High-Quality Video in MP4 Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vlcts-tips-for-seamlessly-combining-ts-files-in-vlc/"><u>シームレスな経験:VLCでTSファイルを効果的に結合するコツ - Tips for Seamlessly Combining TS Files in VLC</u></a></li>
 </ul></div>
 

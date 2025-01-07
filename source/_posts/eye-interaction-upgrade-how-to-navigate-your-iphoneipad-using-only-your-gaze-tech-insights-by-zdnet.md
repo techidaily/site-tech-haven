@@ -1,7 +1,7 @@
 ---
 title: "Eye Interaction Upgrade: How to Navigate Your iPhone/iPad Using Only Your Gaze - Tech Insights by ZDNet"
-date: 2024-12-24T08:19:46.085Z
-updated: 2024-12-28T13:35:37.162Z
+date: 2024-12-31T01:32:53.605Z
+updated: 2025-01-06T23:14:48.892Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -38,7 +34,7 @@ If you're going to be one of those people, read on.
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Update
@@ -61,13 +57,13 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -78,6 +74,10 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -106,7 +106,7 @@ Apple has made transferring to a new iPhone easy.
 Screenshot/Adrian Kingsley-Hughes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
@@ -136,16 +136,16 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,22 +187,22 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionize-your-podcast-with-these-ai-name-makers/"><u>[New] Revolutionize Your Podcast with These AI Name Makers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-no-money-down-mics-the-frugal-filmmakers-list/"><u>[Updated] No-Money-Down Mics The Frugal Filmmaker's List</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-camon-20-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Camon 20 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-y100-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo Y100 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-v27e-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo V27e to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cure-missing-fb-stories-on-devices/"><u>In 2024, Cure Missing FB Stories on Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-with-chatgpt-during-remote-group-discussions/"><u>Maximizing Productivity with ChatGPT During Remote Group Discussions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-new-age-of-tech-together-a-parents-handbook-to-chatgpt-and-artifice-intelligence/"><u>Navigating the New Age of Tech Together: A Parent's Handbook to ChatGPT & Artifice Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimizing-watch-time-chatgpt-for-film-selection/"><u>Optimizing Watch Time: ChatGPT for Film Selection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pro-tips-bulk-creation-via-canva-and-ai-assistance/"><u>Pro Tips: Bulk Creation via Canva and AI Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/proposed-alterations-streamlining-the-chatgpt-plugin-shop/"><u>Proposed Alterations: Streamlining the ChatGPT Plugin Shop</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/revamp-your-inventory-mastering-the-edit-product-sku-interface/"><u>Revamp Your Inventory: Mastering the Edit Product SKU Interface</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-harnessing-the-power-of-microsoft-chatgpt-for-enhanced-communication/"><u>Step-by-Step Tutorial on Harnessing the Power of Microsoft ChatGPT for Enhanced Communication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-sheet-tasks-through-ai-integration/"><u>Streamlining Sheet Tasks Through AI Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-new-frontier-in-ai-with-claude-2-whats-possible/"><u>The New Frontier in AI with Claude 2 – What's Possible?</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-windows-defense-plan-7-methods/"><u>The Ultimate Windows Defense Plan (7 Methods)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-next-level-content-workshop/"><u>[New] Next Level Content Workshop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-beyond-fun-and-games-deciphering-the-deep-meanings-in-emojis-for-2024/"><u>[Updated] Beyond Fun & Games Deciphering the Deep Meanings in Emojis for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-tweeting-short-videos-to-interactive-shareable-customized-gifs/"><u>[Updated] From Tweeting Short Videos to Interactive, Shareable Customized GIFS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-text-wonders-discover-the-top-10-for-videos/"><u>[Updated] Pro-Level Text Wonders - Discover the Top 10 for Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-productivity-with-these-8-innovative-ai-powered-chrome-tools/"><u>Boost Your Productivity with These 8 Innovative AI-Powered Chrome Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-legal-woes-google-news-feed-revised-and-get-the-best-mobile-internet-on-vacation/"><u>ChatGPT Legal Woes, Google News Feed Revised, and Get the Best Mobile Internet on Vacation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-strategies-for-compelling-proposal-drafts/"><u>ChatGPT-Powered Strategies for Compelling Proposal Drafts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-the-right-apple-notebook-a-comprehensive-guide-on-whether-to-opt-for-a-macbook-pro-or-macbook-air-insights-from-zdnet/"><u>Choosing the Right Apple Notebook: A Comprehensive Guide on Whether to Opt for a MacBook Pro or MacBook Air - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oppo-a78-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Oppo A78 Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-discretion-chatterbots-privacy-concerns/"><u>Ensuring Discretion: Chatterbots' Privacy Concerns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-evolution-of-ai-from-gpt-1-to-gpt-4-a-comprehensive-guide/"><u>Exploring the Evolution of AI: From GPT-1 to GPT-4 - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-implement-gpt-technology-on-your-ubuntu-system-through-command-line-interface-cli/"><u>How to Implement GPT Technology on Your Ubuntu System Through Command-Line Interface (CLI)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-techniques-for-your-windows-11-walls-for-2024/"><u>Innovative Techniques for Your Windows 11 Walls for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-the-tascam-cd-200bt-a-professional-music-player-for-studio-and-field-use/"><u>Inside the Tascam CD-200BT: A Professional Music Player for Studio and Field Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-to-elevate-your-social-media-strategy-with-chatgpt/"><u>Leveraging AI to Elevate Your Social Media Strategy with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsoft-infuses-bing-with-advanced-ai/"><u>Microsoft Infuses Bing With Advanced AI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
 

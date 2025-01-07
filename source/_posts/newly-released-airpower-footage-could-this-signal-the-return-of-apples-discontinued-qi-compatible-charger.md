@@ -1,7 +1,7 @@
 ---
 title: "Newly Released AirPower Footage: Could This Signal the Return of Apple's Discontinued Qi-Compatible Charger?"
-date: 2024-12-27T16:00:58.753Z
-updated: 2024-12-28T16:00:29.223Z
+date: 2024-12-30T23:55:30.029Z
+updated: 2025-01-06T20:22:31.657Z
 tags:
   - apple
 categories:
@@ -34,19 +34,11 @@ more buying choices
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I'll say it: The new [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is Apple's most advanced piece of hardware in 2024, besting the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-review/) and likely any [new AirPods](https://www.zdnet.com/article/two-new-airpods-models-expected-this-fall-heres-everything-we-know-so-far/) and [iPhone 16 models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/) to come. From the moment you pick up the ultra-thin slab of glass and aluminum to when you discover finer details in darker scenes thanks to the Tandem OLED display, such burdenless design choices make Apple's premium iPad model a justifiable option for those willing to spend the money.
 
 With configurations ranging from $999 to $2,599, keep in mind that the higher storage tiers (1TB and 2TB) also come with double the RAM (16GB vs. 8GB) and an extra CPU core. It's a subtle, under-the-hood difference that's easy to miss, especially when cross-shopping [between iPad models](https://www.zdnet.com/article/best-ipad/). If you can use the greater compute, have an offline-heavy workflow, and/or want the most future-proofed iPad on the market, it's worth the upcharge. Otherwise, the base 11- or 13-inch model will serve you just fine, as they have for me.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -63,7 +55,7 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPad Pro (2024)
@@ -71,6 +63,10 @@ With configurations ranging from $999 to $2,599, keep in mind that the higher st
 Over the past week and a half, I've used (or attempted to use) the 11-inch iPad Pro as my primary computer for work and as a secondary, entertainment-only device. When it wasn't paired to a Wi-Fi connection 90% of the time, it ran off my phone's T-Mobile hotspot. While Apple sells an [LTE version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) of the iPad Pro, my primary testing grounds for the device have been at home, a local café, and my work office -- nowhere adventurous enough to justify the always-connected upgrade.
 
 I also paired the iPad with Apple's revamped [Magic Keyboard](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR03LL%2FA%2Fmagic-keyboard-for-ipad-pro-11%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The $299 starting price gave me pause when I first checked out the accessory, but the thinner, lighter aluminum form factor, larger trackpad, and a new row of function keys this year make the keyboard case more essential than ever for the full iPad experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What are the best features of the iPad Pro (2024)?
 
@@ -110,6 +106,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What I'd like to see in the next model
 
 **More flexible software:** The limitations of iPadOS remain with every generation of iPad reviewed; I can talk all day about how lovely it'd be to have native apps that give me something remotely close to their desktop counterparts or how every iPadOS update feels like another small step towards an ever-distant [touchscreen MacBook dream](https://www.zdnet.com/article/touchscreen-macbook-4-reasons-why-we-love-the-idea-and-4-reasons-why-we-dont/).
@@ -129,7 +129,7 @@ I'm also aware that Apple sells iPads like no other tablet maker, generating an 
 Of course, slimming down the iPad Pro means Apple likely won't move towards adding ports. Given how essential the Magic Keyboard is to the iPad, however, it could be even more so with the additional I/O.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Final thought
@@ -139,7 +139,7 @@ Apple's tablet lineup is ultimately (and has always been) confined by an operati
 Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-11-Inch-Landscape%2Fdp%2FB0D3J9XDMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfbf10d9a-7cb8-49d5-8606-c235946e0be8%7Cdtp&dtb=1) is, for all intents and purposes, an iPad -- a tablet you carry around for getting certain tasks done and for consuming content. For many, being the [best tablet](https://www.zdnet.com/article/best-tablet/) on the market -- not the [best laptop or PC](https://www.zdnet.com/article/best-laptop/) \-- is more than enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,21 +176,24 @@ Regardless, the future of the iPad shouldn't be a dealbreaker because the [iPad 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/mart-growth-metropolis-balancing-development-and-nature-for-2024/"><u>[New] Smart Growth Metropolis Balancing Development and Nature for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-your-brand-with-these-biz-channel-standouts/"><u>[Updated] In 2024, Elevate Your Brand with These Biz Channel Standouts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-mobile-smartphones-and-youtube-success/"><u>[Updated] Maximizing Mobile Smartphones & YouTube Success</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-windows-high-dynamic-range-potential/"><u>[Updated] Unlocking Windows' High Dynamic Range Potential</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/clearing-your-windows-10-computer-of-saved-wi-fi-settings-for-improved-security-and-privacy/"><u>Clearing Your Windows 10 Computer of Saved Wi-Fi Settings for Improved Security and Privacy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cpu-usage-fix-for-antimalware-service-executable-on-windows-tips-and-tricks-for-windows-1110-users/"><u>CPU Usage Fix for 'Antimalware Service Executable' On Windows - Tips and Tricks for Windows 11/10 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diagnose-and-repair-headphone-connectivity-problems-on-laptops-running-windows-11/"><u>Diagnose and Repair Headphone Connectivity Problems on Laptops Running Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-and-install-asus-aura-interface-customizations-for-windows-users/"><u>Download & Install ASUS Aura Interface Customizations for Windows Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-disconnection-how-to-detach-a-microsoft-account-from-windows-10-in-minutes/"><u>Effortless Disconnection: How To Detach a Microsoft Account From Windows 10 in Minutes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-performance-by-flushing-cache-on-windows-11-systems/"><u>Enhance Performance by Flushing Cache on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensure-optimal-performance-with-asus-hardware-on-pcs-install-the-right-drivers-for-windows-10-and-7-users/"><u>Ensure Optimal Performance with ASUS Hardware on PCs: Install the Right Drivers for Windows 10 and 7 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-conversao-de-arquivos-convertendo-flash-swf-para-formato-quicktime-mov-sem-custo/"><u>Online Conversão De Arquivos: Convertendo Flash (.swf) Para Formato QuickTime (.mov) Sem Custo</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/tailored-solutions-for-high-quality-iptv-capture/"><u>Tailored Solutions for High-Quality IPTV Capture</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-poco-x6-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Poco X6 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/understanding-the-distinctions-computer-viruses-vs-ransomware-insights-by-yl-computing/"><u>Understanding the Distinctions: Computer Viruses Vs. Ransomware - Insights by YL Computing</u></a></li>
-<li><a href="https://media-tips.techidaily.com/us-launch-of-tivo-television-units-scheduled-for-next-spring-season/"><u>US Launch of TiVo Television Units Scheduled for Next Spring Season</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-improving-remote-work-communications-with-4-strategies/"><u>[New] 2024 Approved Improving Remote Work Communications with #4 Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-through-troubled-waters-instagram-videos-guide/"><u>[New] 2024 Approved Navigating Through Troubled Waters Instagram Videos Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-clarity-powerpoint-and-webcam-synergy/"><u>[New] In 2024, Capturing Clarity PowerPoint and Webcam Synergy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-quickcapturepro-the-definitive-guide-to-windows-snaps/"><u>[New] In 2024, QuickCapturePro The Definitive Guide to Windows Snaps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-steps-to-success-capturing-your-google-meet-sessions-for-2024/"><u>[New] Steps to Success Capturing Your Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-new-era-of-music-and-videos-on-windows-bid-farewell-to-itunes-as-cupertino-unveils-alternative-media-platforms-exclusive-insights-from-zdnet/"><u>Apple's New Era of Music & Videos on Windows: Bid Farewell to iTunes as Cupertino Unveils Alternative Media Platforms - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-most-popular-ios-apps-based-on-apples-rankings-explore-with-zdnet/"><u>Discover the Most Popular iOS Apps Based on Apple's Rankings - Explore with ZDNet</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-the-ultimate-list-of-free-dubbed-anime-sites-ranked/"><u>Discover the Ultimate List of Free Dubbed Anime Sites - Ranked!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-ai-erode-search-engine-role/"><u>Does AI Erode Search Engine Role?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-ios-18-complete-guide-to-installation-and-compatible-iphone-models-detailed-tutorial/"><u>Download IOS 18: Complete Guide to Installation & Compatible iPhone Models - Detailed Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gps-companions-top-10-drones-that-stay-close-for-2024/"><u>GPS Companions Top 10 Drones That Stay Close for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-apple-watch-ultra-2-became-a-game-changing-wearable-for-me-now-with-100-off-on-labor-day-exclusive-review/"><u>How the Apple Watch Ultra 2 Became a Game-Changing Wearable for Me, Now with $100 Off on Labor Day | Exclusive Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-13-mini-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 13 mini iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2016 Online with DigiSigner</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-apples-latest-unique-gadgets-debuted-silently-yesterday-a-closer-look-by-tech-expert-zdnet/"><u>Introducing Apple’s Latest Unique Gadgets Debuted Silently Yesterday - A Closer Look by Tech Expert [ZDNet]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-time-to-switch-to-the-iphone-16-pro-a-comprehensive-review-comparing-it-with-the-iphone-cued-14-pro-by-tech-expert-at-zdnet/"><u>Is It Time to Switch to the iPhone 16 Pro? A Comprehensive Review Comparing It with the iPhone Cued 14 Pro by Tech Expert at ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-remote-working-the-ultimate-guide-to-running-a-home-office-on-apples-latest-tablet/"><u>Revolutionize Remote Working: The Ultimate Guide to Running a Home Office on Apple's Latest Tablet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-apple-vision-pro-backstory-inside-reddits-top-7-reasons-for-its-popularity-zdnet/"><u>The Apple Vision Pro Backstory: Inside Reddit's Top 7 Reasons for Its Popularity | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-exercise-routine-discover-the-power-of-the-new-airpods-pros-fitness-tracking-and-heart-rate-sensor-features-zdnet/"><u>Transform Your Exercise Routine: Discover the Power of the New AirPods Pro's Fitness Tracking and Heart Rate Sensor Features | ZDNET</u></a></li>
 </ul></div>
 

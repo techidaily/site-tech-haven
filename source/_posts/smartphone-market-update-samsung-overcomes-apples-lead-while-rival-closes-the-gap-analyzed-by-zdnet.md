@@ -1,7 +1,7 @@
 ---
 title: "Smartphone Market Update: Samsung Overcomes Apple's Lead While Rival Closes the Gap - Analyzed by ZDNet"
-date: 2024-12-21T16:02:09.352Z
-updated: 2024-12-28T16:00:04.396Z
+date: 2024-12-30T21:37:34.228Z
+updated: 2025-01-06T16:39:32.250Z
 tags:
   - apple
 categories:
@@ -92,26 +92,22 @@ With Apple planning [to go all in with AI](https://www.zdnet.com/article/how-app
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-capture-and-share-the-discord-live-stream-method/"><u>[New] Capture and Share The Discord Live Stream Method</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-metaverse-shenanigans-a-treasury-of-hilarity-and-creative-memes/"><u>[New] In 2024, Metaverse Shenanigans A Treasury of Hilarity and Creative Memes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-deep-dive-into-zdsoft-recorder-features/"><u>[Updated] 2024 Approved A Deep Dive Into ZDSoft Recorder Features</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-aspect-ratios-for-stellar-youtube-thumbnails/"><u>[Updated] 2024 Approved Aspect Ratios for Stellar Youtube Thumbnails</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning/"><u>[Updated] In 2024, Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-voice-transformation-on-the-move-best-audio-modification-tools-for-smartphones-for-2024/"><u>[Updated] Voice Transformation on the Move Best Audio Modification Tools for Smartphones for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-lower-and-manage-excessive-cpu-utilization-in-windows-10-systems/"><u>Effective Strategies to Lower and Manage Excessive CPU Utilization in Windows 10 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enlisted-how-to-boost-fps-and-fix-lag/"><u>Enlisted - How to Boost FPS & Fix Lag</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expand-your-workspace-installing-and-using-a-second-monitor-with-windows-10/"><u>Expand Your Workspace: Installing and Using a Second Monitor with Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/frozen-on-update-expert-tips-to-resolve-a-stalled-windows-update-process/"><u>Frozen on Update: Expert Tips to Resolve a Stalled Windows Update Process</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-ensure-compatibility-updating-your-usb-device-drivers-on-multiple-windows-platforms/"><u>How to Ensure Compatibility: Updating Your USB Device Drivers on Multiple Windows Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-a-required-cddvd-drive-device-driver-is-missing-error/"><u>How to Fix ‘A Required CD/DVD Drive Device Driver Is Missing’ Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-excessive-hiperfonesys-and-pagedatasys-file-size-issues-in-windows-107-solutions-unveiled/"><u>How to Fix Excessive hiperfone.sys & pagedata.sys File Size Issues in Windows 10/7: Solutions Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/keeping-pace-with-tech-a-beginners-approach-to-bios-enhancements-for-windows-11-pcs/"><u>Keeping Pace with Tech: A Beginner’s Approach to BIOS Enhancements for Windows 11 PCs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-iphones-apple-logo-hang-up-with-our-7-effective-strategies/"><u>Overcome Your iPhone's Apple Logo Hang-Up with Our 7 Effective Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-out-of-video-memory-error-in-fortnite-tips-and-solutions/"><u>Overcoming the Out-of-Video-Memory Error in Fortnite: Tips & Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reducing-delusionary-data-in-machine-learning-with-targeted-prompts/"><u>Reducing Delusionary Data in Machine Learning with Targeted Prompts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-for-utilizing-instagram-story-sections/"><u>[Updated] In 2024, Essential Tips for Utilizing Instagram Story Sections</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-virtual-environments-in-cinema/"><u>[Updated] The Art of Virtual Environments in Cinema</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-laptop-video-edits-going-off-inshot/"><u>2024 Approved Laptop Video Edits Going Off-Inshot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-airpods-pro-2-vs-original-a-comprehensive-review-of-upgrades-and-improvements-techadvisor/"><u>Comparing AirPods Pro 2 vs Original: A Comprehensive Review of Upgrades and Improvements | TechAdvisor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expertly-reviewed-kid-friendly-tablets-the-parental-choice-showcased-on-zdnet/"><u>Expertly Reviewed Kid-Friendly Tablets: The Parental Choice Showcased on ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-with-destiny-2-servers-when-theyre-down/"><u>How to Restore Connectivity with Destiny 2 Servers When They're Down</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40i-messages-recovery-recover-deleted-messages-from-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>Infinix Hot 40i Messages Recovery - Recover Deleted Messages from Infinix Hot 40i</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-siri-how-apples-intelligence-evolution-will-transform-the-assistant-by-2025-according-to-zdnet-coverage/"><u>The Future of Siri: How Apple's Intelligence Evolution Will Transform the Assistant by 2025, According to ZDNet Coverage</u></a></li>
+<li><a href="https://win11.techidaily.com/the-project-pro-essential-ms-project-keys-explained/"><u>The Project Pro: Essential MS Project Keys Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-secrets-how-your-new-iphone-has-an-amazing-feature-you-might-not-know-about-exposed/"><u>Unlocking Secrets: How Your New iPhone Has an Amazing Feature You Might Not Know About, Exposed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-power-of-googles-notebooklm-engage-in-conversations-about-your-notes-today/"><u>Unveiling the Power of Google's NotebookLM: Engage in Conversations About Your Notes Today!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2024-12-25T11:34:56.807Z
-updated: 2024-12-28T14:30:56.963Z
+date: 2025-01-04T23:22:35.956Z
+updated: 2025-01-06T23:27:45.640Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,22 +129,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-soundscape-elements-advanced-techniques-for-smooth-transitions-audacity/"><u>[New] Harmonizing Soundscape Elements Advanced Techniques for Smooth Transitions (Audacity)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-meme-creation-with-kinemaster/"><u>[Updated] 2024 Approved The Ultimate Meme Creation with KineMaster</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bringing-text-to-life-dynamic-animated-content-on-ig-stories-for-2024/"><u>Bringing Text to Life Dynamic Animated Content on IG Stories for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comment-installer-et-utiliser-handbrake-sur-windows-7-8-10-ou-vista/"><u>Comment Installer Et Utiliser Handbrake Sur Windows 7, 8, 10 Ou Vista</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-need-for-more-robust-regulation-in-ai-according-to-openais-head/"><u>Decoding the Need for More Robust Regulation in AI According to OpenAI's Head</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-gpt-3s-sibling-the-comprehensive-guide-on-deploying-gpt-4-for-everyone/"><u>Demystifying GPT-3's Sibling: The Comprehensive Guide on Deploying GPT-4 for Everyone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diving-deep-into-gpt-3-usage-at-openai/"><u>Diving Deep Into GPT-3 Usage at OpenAI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-steps-to-start-using-the-advanced-intelligent-bing-search-by-microsoft/"><u>Easy Steps to Start Using the Advanced, Intelligent Bing Search by Microsoft</u></a></li>
-<li><a href="https://techtrends.techidaily.com/economical-essentials-for-assembling-a-budget-friendly-home-theatre/"><u>Economical Essentials for Assembling a Budget-Friendly Home Theatre</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-linkedin-applications-using-these-10-chatgpt-techniques-for-successful-hiring/"><u>Elevate Your LinkedIn Applications Using These 10 ChatGPT Techniques for Successful Hiring</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-imagination-ai-assistance-in-your-dungeon-and-dragons-sessions/"><u>Enhancing Imagination: AI Assistance in Your Dungeon & Dragons Sessions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/first-steps-for-aspiring-professionals-in-the-field-of-conversational-ai/"><u>First Steps for Aspiring Professionals in the Field of Conversational AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/futurescape-next-gen-ai-and-chatbots/"><u>Futurescape: Next-Gen AI & Chatbots</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-c02-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia C02 Phones with/without a PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-xsipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone XS/iPad Without Computer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-eliminate-dota-2-latency-issues-with-proven-strategies/"><u>Ultimate Guide: Eliminate Dota 2 Latency Issues with Proven Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-price-tracker-finding-the-best-cloud-services/"><u>[New] Price Tracker Finding the Best Cloud Services</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-beginners-guide-to-editing-digits-in-tiktoks/"><u>A Beginner’s Guide to Editing Digits in TikToks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/brainstorm-blueprint-gpt-3-meets-mindmaps/"><u>Brainstorm Blueprint: GPT-3 Meets Mindmaps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-writing-empowering-word-with-gpt/"><u>Cutting Edge Writing: Empowering Word with GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-artificial-intelligence-lexicon-discover-the-top-29-keywords/"><u>Demystifying Artificial Intelligence Lexicon: Discover the Top 29 Keywords</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embracing-ai-setup-gpt-on-pc/"><u>Embracing AI: Setup GPT on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpt-for-enhancing-writers-craft/"><u>Evaluating ChatGPT for Enhancing Writers’ Craft</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-zte-by-drfone-android/"><u>How to Bypass FRP on ZTE?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-teach-chatgpt-to-interpret-and-analyze-pdf-documents-a-4-step-guide/"><u>How to Teach ChatGPT to Interpret and Analyze PDF Documents: A 4-Step Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/identifying-a-defective-hard-drive-tips-and-guides-by-yl-computing/"><u>Identifying a Defective Hard Drive - Tips & Guides by YL Computing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-simplify-information-storage-via-mematic/"><u>In 2024, Simplify Information Storage via Mematic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/invisible-impact-the-underestimated-toll-of-trick-likes-for-2024/"><u>Invisible Impact The Underestimated Toll of Trick Likes for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-6-ai-enhanced-notetakers-revolutionizing-how-you-capture-and-organize-information/"><u>Leading 6 AI-Enhanced Notetakers: Revolutionizing How You Capture and Organize Information</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-windows-11-cmd-a-comprehensive-tutorial-for-file-deletion/"><u>Navigating Windows 11 CMD: A Comprehensive Tutorial for File Deletion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/techkey-universal-bluetooth-receiver-drivers-download-for-windows-11-7-and-nvidia-8/"><u>Techkey Universal Bluetooth Receiver Drivers - Download for Windows 11, 7 & nVidia 8</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-5-premier-sites-offering-mastery-in-artificial-intelligence-prompt-engineering/"><u>The 5 Premier Sites Offering Mastery in Artificial Intelligence Prompt Engineering</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-unfreezing-the-windows-update-troubleshooter/"><u>The Art of Unfreezing the Windows Update Troubleshooter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-accelerate-your-windows-11-performance-to-peak-efficiency/"><u>Ultimate Guide: Accelerate Your Windows 11 Performance to Peak Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-snapchats-my-ai-isnt-just-a-fun-gimmick-discover-its-6-unexpected-advantages/"><u>Why Snapchat's My AI Isn’t Just a Fun Gimmick – Discover Its 6 Unexpected Advantages</u></a></li>
 </ul></div>
 

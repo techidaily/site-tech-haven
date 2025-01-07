@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2024-12-21T06:29:54.709Z
-updated: 2024-12-27T17:45:28.080Z
+date: 2025-01-05T01:33:12.375Z
+updated: 2025-01-06T23:55:46.073Z
 tags:
   - apple
 categories:
@@ -26,13 +26,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -45,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -70,15 +70,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -90,15 +90,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -108,15 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,17 +154,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-innovative-techniques-for-ppts-and-webcams-2023-edition/"><u>[New] Innovative Techniques for PPTs and Webcams, 2023 Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-zooming-success/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Zooming Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-laughlens-pictorial-humor-studio/"><u>[Updated] LaughLens Pictorial Humor Studio</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-virtual-race-games-roundup/"><u>In 2024, Best Virtual Race Games Roundup</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-a2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi A2 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-seamlessly-share-videos-on-mstream-services/"><u>In 2024, Seamlessly Share Videos on MStream Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-storytelling-skills-using-chatgpt-a-guide-to-six-effective-strategies/"><u>Revolutionize Your Storytelling Skills Using ChatGPT - A Guide to Six Effective Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/siri-or-chatgpt-understanding-what-sets-them-apart-in-voice-assistance/"><u>Siri or ChatGPT? Understanding What Sets Them Apart in Voice Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-conversational-ai-7-benefits-with-palm-2-for-googles-bard-system/"><u>The Evolution of Conversational AI: 7 Benefits with PaLM 2 for Google's BARD System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-chatbot-substitutes-as-good-as-chatgpt/"><u>Top 10 Chatbot Substitutes as Good as ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-strategies-how-using-chatgpt-can-boost-your-linkedin-employment-success/"><u>Top 10 Strategies: How Using ChatGPT Can Boost Your LinkedIn Employment Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-exceptional-savings-your-guide-to-premier-samsung-promotions-for-early-spring-2023/"><u>Unlocking Exceptional Savings: Your Guide to Premier Samsung Promotions for Early Spring 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-snapchats-best-practices-for-image-and-video-zooming/"><u>[New] 2024 Approved Snapchat's Best Practices for Image and Video Zooming</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/windows-sd/"><u>针对 Windows 系统优化的 SD 卡（可启用）高效复制解决方案</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-images-with-intelligence-unlocking-chatgpts-potential-in-ai-based-image-production/"><u>Crafting Images with Intelligence: Unlocking ChatGPT's Potential in AI-Based Image Production</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tutorial-how-to-integrate-and-use-the-skynet-plugin-with-kodi-streaming-platform/"><u>Easy Tutorial: How to Integrate and Use the SkyNet Plugin with Kodi Streaming Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-walkthrough-crafting-your-first-cd-with-windows-10-features/"><u>Easy Walkthrough: Crafting Your First CD with Windows 10 Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-mkv-viewing-in-vlc-tips-for-overcoming-the-mkv-file-not-supported-problem/"><u>Effortless MKV Viewing in VLC: Tips for Overcoming the ‘MKV File Not Supported’ Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-techniques-to-isolate-and-save-audio-from-webm-media/"><u>Effortless Techniques to Isolate and Save Audio From WebM Media</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-techniques-to-shrink-video-size-below-5mb/"><u>Effortless Techniques to Shrink Video Size Below 5MB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-watch-mkv-files-on-chromebook-with-these-3-easy-methods/"><u>Effortlessly Watch MKV Files on Chromebook with These 3 Easy Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-your-live-broadcast-with-mixer-on-macos/"><u>Elevating Your Live Broadcast with Mixer on macOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-vlc-streams-7-speedy-solutions-for-smooth-4k-video/"><u>Fixing VLC Streams: 7 Speedy Solutions for Smooth 4K Video</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-x-flip-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo X Flip Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x-flip-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-free-convert-videos-to-youtube-a-simple-guide-for-upload-and-sharing/"><u>How To Free Convert Videos To YouTube: A Simple Guide For Upload And Sharing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 8 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-a-flickering-phone-screen-top-7-tips/"><u>Solutions for a Flickering Phone Screen: Top 7 Tips</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728473096381-windows-11/"><u>Windows 11備份失敗 - 解決不動產的尖端技術</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: OpenAI at a Crossroads with AI
-date: 2024-08-16T12:36:58.113Z
-updated: 2024-08-17T12:36:58.113Z
+date: 2025-01-02T02:41:39.600Z
+updated: 2025-01-06T21:46:08.786Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,18 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 
 ![AI prompt example asking for content strategy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-26.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Notice that the example provides context along with the instruction. When asking complex questions, going direct to the question or instruction without providing the proper context won't usually give you the best output.
 
 ## What Does an AI Prompt Engineer Do?
 
 ![binary code background showing a woman face to face with a robot ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As an AI prompt engineer or "AI whisperer," your task is to develop a set of inputs that an AI model can use to generate the most desirable output. As we have seen, the prompt's quality significantly affects an AI model's performance.
@@ -54,11 +59,16 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
  To help an AI system give the most accurate responses to problems, AI prompt engineers train the AI with prompts. They design prompts to get the best results. As an AI Prompt Engineer, you should be able to understand the problem and select the best data sources to do these tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Applications of AI Prompt Engineering
 
 ![online conversation with a customer service AI chatbot ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI prompt engineering creates more accurate and efficient language models that help people work efficiently. It's a legitimate career that helps develop the most[impressive web apps you can try right now](https://www.makeuseof.com/best-ai-web-apps/) .
 
@@ -79,15 +89,9 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
  Moreover, a simple search online shows that companies are hiring prompt engineers. You can check out job posts from the[Boston Children's Hospital](https://jobs.bostonchildrens.org/job/17785868/ai-prompt-engineer-idha-boston-ma/) and the AI safety and research company[Anthropic](https://jobs.lever.co/Anthropic/e3cde481-d446-460f-b576-93cab67bd1ed) .
 
 ![screenshot of Anthropic Prompt Engineer Job Opening](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-5-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  AI prompt engineering is necessary for companies and businesses looking to leverage AI. The AI revolution has just started, so you can safely assume there will be a growing demand for AI prompt engineers as long as people use AI tools.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Start Your AI Prompt Engineer Career
 
  You don't need coding skills, a tech background, or experience with AI to become an AI prompt engineer. For example, Anna Bernstein, previously mentioned in this article, is an English major and former freelance writer. To succeed in this role:
@@ -95,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/1a198795a8e787f87495ff53728e7afa23ff18e9e
 ### 1\. Develop Your AI Prompt Engineering Skills
 
 ![Webpage of ChatGPT, a prototype AI chatbot, is seen on the website of OpenAI, on iPhone or smartphone](https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c595922f616f6d67ab2cd3c7.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This non-exhaustive skills list will be helpful for your AI career:
@@ -119,15 +124,18 @@ This non-exhaustive skills list will be helpful for your AI career:
  That said, an AI prompt engineering career requires continuous learning and practice. Learning the principles while mastering the technology will help you become an AI prompt engineer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Build Your AI Prompt Engineering Portfolio
 
 ![AI prompt engineer portfolio built on Canva](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-8-1.jpg)
 
  To highlight your prompt engineering skills, build an online portfolio on a website builder like Canva. Include the prompts you designed, and any other projects related to technology and AI. A strong portfolio will help you position yourself as an AI prompt engineer professional.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Start Networking and Building Your Credibility
 
@@ -138,9 +146,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ### 4\. Look and Apply for Jobs
 
 ![screenshot of Joblist.ai website showing AI prompt engineering jobs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-6-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  AI prompt engineering is a new career path. But you can already start looking for jobs on these websites:
 
@@ -150,23 +155,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Always check the legitimacy of online jobs. Take note of[red flags that your job offer isn't legitimate](https://www.makeuseof.com/red-flags-job-isnt-legitimate/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Position Yourself as an AI Prompt Engineer
 
  While no job is truly stable, AI prompt engineering is a valuable skill to learn today. It's a viable career path as more companies seek AI prompt engineers. And even if AI tools are developing and changing quickly, you can already start your career as an AI prompt engineer.
 
  You should do two things to add AI prompt engineering to your job skills list. First, master the skills necessary to manipulate AI. Second, position yourself as someone up-to-date in using technology amid its iterations. Like in all careers, people's perception of you and skills mastery are essential in carving out a career in AI prompt engineering.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +174,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-screen-recording-faceoff-bandicam-versus-camtasiaenas/"><u>[New] In 2024, The Screen Recording Faceoff Bandicam Versus Camtasia'enas</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-we-trust-chatgpt-with-our-private-details/"><u>Can We Trust ChatGPT With Our Private Details?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eager-to-use-ai-conversations-locally-check-out-these-superb-open-source-options/"><u>Eager to Use AI Conversations Locally? Check Out These Superb Open Source Options!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-techniques-for-quiet-filming-for-2024/"><u>Essential Techniques for Quiet Filming for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-kobo-forma-a-dedicated-e-reader-for-book-lovers-seeking-quality-and-comfort/"><u>Evaluating the Kobo Forma - A Dedicated E-Reader for Book Lovers Seeking Quality and Comfort</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-claude-ai-work-insights-for-an-enhanced-digital-experience/"><u>How Does Claude AI Work? Insights for an Enhanced Digital Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpts-my-gpt-bots-to-learn-board-games-create-images-and-much-more/"><u>How to Use ChatGPT's My GPT Bots to Learn Board Games, Create Images, and Much More</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-quick-tips-for-high-quality-audio-recordings-on-your-imac/"><u>In 2024, Quick Tips for High-Quality Audio Recordings on Your iMac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-3-in-your-projects-using-python-the-ultimate-tutorial/"><u>Leveraging GPT-3 in Your Projects Using Python - The Ultimate Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ethical-concerns-with-chatgpt-is-it-susceptible-to-abuse-in-malware-development/"><u>Navigating Ethical Concerns with ChatGPT: Is It Susceptible to Abuse in Malware Development?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pros-cons-ai-driven-creative-writing-tools/"><u>Pros, Cons: AI-Driven Creative Writing Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-lag-and-stutter-in-fortnite-gameplay-on-your-computer/"><u>Resolving Lag and Stutter in Fortnite Gameplay on Your Computer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/vintage-vibes-in-fcp-a-step-by-step-guide-to-vhs-effects/"><u>Vintage Vibes in FCP A Step-by-Step Guide to VHS Effects</u></a></li>
+</ul></div>
 

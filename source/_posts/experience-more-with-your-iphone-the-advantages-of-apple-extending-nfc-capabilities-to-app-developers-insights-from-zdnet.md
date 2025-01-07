@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2024-12-26T00:49:40.516Z
-updated: 2024-12-27T18:47:17.006Z
+date: 2025-01-02T20:49:54.475Z
+updated: 2025-01-07T03:28:05.993Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -46,15 +46,15 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -64,6 +64,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -72,10 +76,6 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
@@ -83,7 +83,7 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -95,10 +95,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -117,6 +113,10 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,24 +171,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-channel-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>[New] 2024 Approved Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-exploring-picsart-the-ultimate-2024-guide/"><u>[New] Exploring PicsArt The Ultimate 2024 Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-free-screen-recorder-for-androids-seamless-use/"><u>[New] Free Screen Recorder for Android's Seamless Use</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-pioneering-profitability-your-videos-vs-competitors-success-stories/"><u>[Updated] 2024 Approved Pioneering Profitability Your Videos Vs. Competitors' Success Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-guide-to-designing-youtube-follow-links-for-2024/"><u>[Updated] Effortless Guide to Designing YouTube Follow Links for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/10-ways-chatgpt-could-help-you-land-a-job-on-linkedin/"><u>10 Ways ChatGPT Could Help You Land a Job on LinkedIn</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-key-techniques-for-elevating-academic-studies-using-artificial-intelligence-tools/"><u>5 Key Techniques for Elevating Academic Studies Using Artificial Intelligence Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-detailed-look-at-openais-bug-bounty-entry-requirements-and-processes/"><u>A Detailed Look At OpenAI’s Bug Bounty: Entry Requirements and Processes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/access-chatgpt-anywhere-the-new-mobile-app-is-here/"><u>Access ChatGPT Anywhere: The New Mobile App Is Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-babel-fish-assessing-new-translation-titles/"><u>AI Babel Fish: Assessing New Translation Titles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-chatbots-and-writing-understanding-the-8-hurdles-for-content-writers/"><u>AI Chatbots and Writing - Understanding the 8 Hurdles for Content Writers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-showdown-why-microsoft-copilot-takes-the-lead-with-these-reason-1-4-over-chatgpt/"><u>AI Showdown: Why Microsoft Copilot Takes the Lead with These #Reason #1 - 4 Over ChatGPT</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722969253010-amd-radeon-pro-w5700-drivers-download-compatible-with-windows-11-10-and-7/"><u>AMD Radeon Pro W5700 Drivers Download: Compatible with Windows 11, 10 and 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-guide-to-authentic-chatgpt-software/"><u>Apple's Guide to Authentic ChatGPT Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificer-of-words-the-science-behind-simulating-talks-with-chatbots/"><u>Artificer of Words: The Science Behind Simulating Talks with Chatbots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208812875-desktop-icon-mystery-in-windows-11-cracked-find-and-fix-your-missing-files-now/"><u>Desktop Icon Mystery in Windows 11 Cracked: Find and Fix Your Missing Files Now</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/evolving-photographic-moments-into-sequential-action/"><u>Evolving Photographic Moments Into Sequential Action</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mac-mastery-discover-how-to-retrieve-hidden-password-data-with-ease/"><u>Mac Mastery: Discover How to Retrieve Hidden Password Data with Ease</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-trim-and-cut-avi-files-like-a-pro-top-tools-for-every-platform-windows-mac-android-iphone-online/"><u>New In 2024, Trim and Cut AVI Files Like a Pro Top Tools for Every Platform Windows, MAC, Android, iPhone, Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aggregate-video-pieces-into-lists/"><u>Aggregate Video Pieces Into Lists</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-aspects-for-digital-photo-compilation/"><u>Audio Aspects for Digital Photo Compilation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bypassing-hurdles-seamless-pc-file-integration-tips-and-tricks-for-2024/"><u>Bypassing Hurdles Seamless PC File Integration Tips and Tricks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-windows-10-tools-for-exquisite-video-editing/"><u>Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mobiledesktop-seamless-fb-video-downloading-2023/"><u>Mobile/Desktop Seamless FB Video Downloading, 2023</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-turn-off-driver-signature-protection-in-windows-11-without-hassle/"><u>Quick Guide: Turn Off Driver Signature Protection in Windows 11 Without Hassle!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-video-downsampling-six-strategies-for-efficiently-shrinking-massive-videos/"><u>Ultimate Guide to Video Downsampling: Six Strategies for Efficiently Shrinking Massive Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-converting-your-dvds-into-mp4-format-using-vlc-media-player-on-windows/"><u>Ultimate Guide: Converting Your DVDs Into MP4 Format Using VLC Media Player on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-enhancing-720p-videos-by-mastering-bitrate-selection/"><u>Ultimate Guide: Enhancing 720P Videos by Mastering Bitrate Selection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-memes-edit-master/"><u>Ultimate Memes Edit Master</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-converting-your-flv-media-to-the-portable-3gp-file-type/"><u>Ultimate Tutorial on Converting Your FLV Media to the Portable 3GP File Type</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows4/"><u>Windows環境におけるビデオカラーコレクション手順：4つの有効なテクニック</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Travel Companion: The 3-in-1 MagSafe Charger with QI Wireless Charging | ZDNET"
-date: 2024-12-22T06:56:30.828Z
-updated: 2024-12-28T00:52:05.875Z
+date: 2025-01-02T20:26:53.909Z
+updated: 2025-01-07T00:39:47.982Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd998f7c-226e-4e30-aac6-656effe038d9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,22 +121,24 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-best-free-live-streaming-software-and-app-for-all-platforms-2023-list/"><u>2024 Approved Best Free Live Streaming Software and App for All Platforms [2023 List]</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-obs-studio-key-editing-tactics-unveiled/"><u>2024 Approved Mastering OBS Studio Key Editing Tactics Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-top-brainy-criminal-conundrums-mastermind-your-way-through-ai-driven-puzzles-and-games/"><u>5 Top Brainy Criminal Conundrums: Mastermind Your Way Through AI-Driven Puzzles & Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-driven-content-creation-mastering-social-media-posts/"><u>AI-Driven Content Creation: Mastering Social Media Posts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-writes-the-future-top-5-unseen-power-ups-for-conversations/"><u>AI' Writes the Future: Top 5 Unseen Power-Ups for Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artists-challenge-tech-giants-the-case-against-openai-and-meta-in-ai-controversy/"><u>Artists Challenge Tech Giants: The Case Against OpenAI and Meta in AI Controversy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-convenience-ethical-implications-of-using-ai-for-windows-keys/"><u>Beyond Convenience: Ethical Implications of Using AI for Windows Keys</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-polyglot-skills-through-innovative-tech-discover-how-chatgpt-plus-aids-language-education/"><u>Boost Your Polyglot Skills Through Innovative Tech: Discover How ChatGPT Plus Aids Language Education</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-magic5-ultimate-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor Magic5 Ultimate to iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-large-scale-tiktok-video-downloads/"><u>In 2024, Mastering Large-Scale TikTok Video Downloads</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-amd-radeon-rx-5700-xt-driver-updated-for-windows-11-windows-10-windows-8-and-7/"><u>Install AMD Radeon RX 5700 XT Driver: Updated for Windows 11, Windows 10, Windows 8 & 7</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-experts-insights-on-iphone-based-podcast-acquisition-for-2024/"><u>The Expert's Insights on iPhone-Based Podcast Acquisition for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-your-content-delivery-the-power-of-onestream/"><u>Transforming Your Content Delivery The Power of OneStream</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-call-of-duty-vanguard-n-error-code-on-pc-comprehve-solutions-revealed/"><u>Troubleshoot Call of Duty: Vanguard N Error Code on PC – Comprehve Solutions Revealed!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-zero-cost-4k-video-conversion-top-10-solutions/"><u>Updated Zero-Cost 4K Video Conversion Top 10 Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-leads-in-ai-chatter-analyzing-chatgpt-versus-google-bards-capabilities/"><u>Which Leads in AI Chatter? Analyzing ChatGPT Versus Google Bard's Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/will-generative-ai-like-chatgpt-take-over-my-job-understanding-the-impact-on-employment/"><u>Will Generative AI Like ChatGPT Take Over My Job? Understanding the Impact on Employment</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-premier-asmr-videographers-list/"><u>[Updated] 2024 Approved Premier ASMR Videographers' List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/blu-raydvd-rip-comparison-handbrake-or-makemkv-which-tool-wins-for-efficient-backup/"><u>Blu-Ray/DVD Rip Comparison - HandBrake or MakeMKV, Which Tool Wins for Efficient Backup?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-selection-of-4k-films-top-7-legitimate-torrent-sources-for-stunning-video-quality/"><u>Discover the Ultimate Selection of 4K Films: Top 7 Legitimate Torrent Sources for Stunning Video Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-to-transforming-avi-videos-into-divx-format-on-various-devices/"><u>Easy Guide to Transforming AVI Videos Into DivX Format on Various Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-setting-up-misfit-addons-with-kodi-custom-build/"><u>Easy Guide: Setting Up Misfit Addons with Kodi Custom Build</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-transform-your-aac-audio-files-into-wav-format-using-windows/"><u>Easy Steps to Transform Your AAC Audio Files Into WAV Format Using Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-transformation-change-your-avi-videos-into-mp4-with-simple-techniques/"><u>Effortless Transformation: Change Your AVI Videos Into MP4 with Simple Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/fort-mcpherson-national-cemetery-and-museum/"><u>Fort McPherson National Cemetery and Museum</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-downloads-of-nursery-rhyme-tutorials-how-to-access-from-youtube-facebook-and-more/"><u>Free Downloads of Nursery Rhyme Tutorials: How to Access From YouTube, Facebook & More</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-your-free-audio-sampling-tool-convert-mp3-bitrate-instantly/"><u>Get Your Free Audio Sampling Tool: Convert Mp3 Bitrate Instantly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-get-your-favorite-vk-songs-without-paying-three-trustworthy-free-download-options/"><u>How to Get Your Favorite VK Songs Without Paying: Three Trustworthy Free Download Options</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y27-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y27 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/impact-and-legacy-how-the-era-of-the-three-kingdoms-influenced-modern-chinese-history-insights-from-yl-computing/"><u>Impact and Legacy: How the Era of the Three Kingdoms Influenced Modern Chinese History - Insights From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-go-2024-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark Go (2024) Pattern Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/msvcp140dll-effective-correction-guide/"><u>MSVCP140.dll: Effective Correction Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-leading-6-digital-sound-snipping-applications/"><u>New Leading 6 Digital Sound Snipping Applications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rising-above-internet-naysayers-and-detractors-for-2024/"><u>Rising Above Internet Naysayers and Detractors for 2024</u></a></li>
 </ul></div>
 

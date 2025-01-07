@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple's Latest AI Features Fall Short, Overlooking 2 Major Breakthroughs - Will They Address Them Soon?"
-date: 2024-12-24T16:01:16.202Z
-updated: 2024-12-28T16:03:19.636Z
+date: 2025-01-01T03:12:22.718Z
+updated: 2025-01-06T20:15:16.532Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,19 +191,18 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-converting-spotify-playlist-content-for-youtube-music-compatibility/"><u>[New] Converting Spotify Playlist Content for YouTube Music Compatibility</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-permitted-recording-youtube-video-screenshots/"><u>[Updated] 2024 Approved Permitted Recording YouTube Video Screenshots?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-blended-vocalists-one-platform-at-a-time/"><u>[Updated] Blended Vocalists, One Platform at a Time</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-guide-for-digital-video-photo-effects-application/"><u>[Updated] Comprehensive Guide for Digital Video Photo Effects Application</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-vpn-for-school-to-unblock-websites/"><u>Best VPN for School to Unblock Websites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-gaming-speed-ultimate-tricks-for-enhancing-game-performance-on-pc/"><u>Boost Your Gaming Speed: Ultimate Tricks for Enhancing Game Performance on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-performance-in-godfall-effective-tactics-to-improve-gameplay-speed/"><u>Boosting Performance in Godfall: Effective Tactics to Improve Gameplay Speed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-guide-to-managing-web-cookies-across-multiple-browsers-on-your-windows-11-pc-chrome-firefox-opera-and-edge-included/"><u>Complete Guide to Managing Web Cookies Across Multiple Browsers on Your Windows 11 PC - Chrome, Firefox, Opera and Edge Included</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-entry-into-windows-11-advanced-boot-settings-a-step-by-step-tutorial/"><u>Effortless Entry Into Windows 11 Advanced Boot Settings - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-methods-for-disconnecting-microsoft-account-on-windows-10-system/"><u>Effortless Methods for Disconnecting Microsoft Account on Windows 10 System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-apple-envisions-the-role-of-ai-and-robots-in-shaping-our-living-spaces-an-insight-into-tomorrows-home-assistants/"><u>How Apple Envisions the Role of AI and Robots in Shaping Our Living Spaces - An Insight Into Tomorrow's Home Assistants</u></a></li>
-<li><a href="https://win-able.techidaily.com/speeding-up-your-chrome-in-no-time-expert-tips-and-tricks/"><u>Speeding Up Your Chrome in No Time - Expert Tips and Tricks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317492-9781848502338-through-my-eyes/"><u>Through My Eyes | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-baldurs-gate-iii-failed-startup/"><u>Troubleshooting Tips: How to Fix Baldur's Gate III Failed Startup</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-precision-in-video-documentation-windowsosxiphone-methods/"><u>[New] 2024 Approved Precision in Video Documentation Windows/OSX/iPhone Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/799-apple-m2-macbook-air-release-sets-new-standard-before-prime-day-latest-news/"><u>$799 Apple M2 MacBook Air Release Sets New Standard Before Prime Day - Latest News</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-tp-link-re2nac750-wireless-repeater-detailed-product-analysis/"><u>Affordable TP-Link RE2nAC750 Wireless Repeater - Detailed Product Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apples-siri-the-new-evolution-of-bing-with-ai-consider-this-the-future-insights/"><u>Apple's Siri: The New Evolution of Bing with AI? Consider This the Future! - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-simplicity-and-hidden-quirks-of-sonos-latest-s2-app-according-to-zdnets-insightful-review/"><u>Discover the Simplicity & Hidden Quirks of Sonos' Latest S2 App, According to ZDNet's Insightful Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-overcoming-no-output-on-your-mac-a-comprehensive-guide/"><u>Expert Tips: Overcoming 'No Output' On Your Mac - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-mjpeg-converter-tools-featuring-movavi-technology/"><u>Free Online MJPEG Converter Tools Featuring Movavi Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 Plus To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-peering-into-payment-structures-for-maker-profit-in-video-shorts/"><u>In 2024, Peering Into Payment Structures for Maker Profit in Video Shorts</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigating-the-virtual-landscape-an-overview/"><u>Navigating the Virtual Landscape An Overview</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/professional-webcam-videotaping-tips-and-tricks/"><u>Professional WebCam Videotaping Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/time-warp-footage-with-phantom-lens-expertise-for-2024/"><u>Time Warp Footage with Phantom Lens Expertise for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallet-reviews-comprehensive-testing-and-analysis-by-tech-experts/"><u>Top-Rated MagSafe Wallet Reviews : Comprehensive Testing & Analysis by Tech Experts</u></a></li>
 </ul></div>
 

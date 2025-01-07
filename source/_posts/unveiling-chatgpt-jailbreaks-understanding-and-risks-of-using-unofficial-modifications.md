@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ChatGPT Jailbreaks: Understanding & Risks of Using Unofficial Modifications"
-date: 2024-08-16T12:31:47.599Z
-updated: 2024-08-17T12:31:47.599Z
+date: 2025-01-01T18:49:29.985Z
+updated: 2025-01-07T03:19:01.266Z
 tags:
   - chatgpt
   - open-ai
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
  If iOS isn't your preferred platform, know that[ChatGPT is also available for Android devices](https://www.makeuseof.com/chatgpt-is-now-available-on-android/) , allowing you to bypass the somewhat clunky mobile browser experience.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Download ChatGPT on Your iPhone
 
  To download ChatGPT on your iPhone, search the App Store with the keywords "ChatGPT" or "OpenAI." The name of the official app is ChatGPT, and it has a subtitle that reads "The official app by OpenAI."
@@ -39,18 +40,21 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
  Once you've identified the ChatGPT app on the App Store, tap the**Get** button to download the app and follow the authentication steps that your iPhone will prompt. You can log in with your OpenAI account if you already have one or sign up with your Apple or Google account.
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT iOS app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-ios-app-welcome-screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT responding to a query in the official app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-responding-to-a-query-in-the-official-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -60,20 +64,18 @@ Close
 **Download** **:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2025542/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use ChatGPT Seamlessly on Your iPhone
 
  The launch of an official ChatGPT app for mobile devices makes the service convenient to access and significantly increases the ease of use, allowing users to focus more on using ideal prompts and getting a solution to their doubts sooner. It's a welcome development, and we can't wait to see what OpenAI builds next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -82,4 +84,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nhance-info-blocks-templates-for-youtube-titles/"><u>[New] Enhance Info Blocks Templates for YouTube Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-spectrum-physical-action-review/"><u>[Updated] Full Spectrum Physical Action Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-a-deep-dive-into-selecting-tiktok-screenshots/"><u>2024 Approved A Deep Dive Into Selecting TikTok Screenshots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-integration-guide-for-ios-and-android-users/"><u>ChatGPT Integration Guide for iOS & Android Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-and-install-macos-monterey-preview-version-on-your-mac-device-now-step-by-step-instructions-tech-insights/"><u>Download and Install macOS Monterey Preview Version on Your Mac Device Now! Step-by-Step Instructions Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-customer-interaction-integrating-gpt-and-whatsapp/"><u>Empowering Customer Interaction: Integrating GPT & WhatsApp</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-ai-prompt-design-can-it-lead-to-long-term-job-security/"><u>Exploring the World of AI Prompt Design: Can It Lead to Long-Term Job Security?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freedomgpt-tutorial-setting-up-an-unrestricted-ai-conversationalist-on-your-windows-system/"><u>FreedomGPT Tutorial: Setting Up an Unrestricted AI Conversationalist on Your Windows System</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-x-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone X and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free/"><u>In 2024, Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-the-power-of-photos-a-comprehensive-polarr-guide/"><u>In 2024, Unveiling the Power of Photos A Comprehensive Polarr Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/installing-auto-gpt-a-complete-ubuntu-tutorial/"><u>Installing Auto-GPT: A Complete Ubuntu Tutorial</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/make-your-own-cartoons-10-essential-animation-apps-for-mobile/"><u>Make Your Own Cartoons 10 Essential Animation Apps for Mobile</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-idea-to-screen-a-simplified-movie-making-process/"><u>New In 2024, From Idea to Screen A Simplified Movie Making Process</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-watch-nba-live-stream-free-anywhere/"><u>New In 2024, How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openais-pinnacle-introducing-groundbreaking-gpt-4/"><u>OpenAI's Pinnacle: Introducing Groundbreaking GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reducing-ai-misconceptions-six-key-prompting-methods-explored/"><u>Reducing AI Misconceptions: Six Key Prompting Methods Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-digital-muse-using-chatgpt-for-dynamic-story-creation/"><u>The Digital Muse: Using ChatGPT for Dynamic Story Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-with-google-delving-into-the-objectives-and-progress-of-project-gemini/"><u>The Future of AI with Google: Delving Into the Objectives and Progress of Project Gemini</u></a></li>
+</ul></div>
 

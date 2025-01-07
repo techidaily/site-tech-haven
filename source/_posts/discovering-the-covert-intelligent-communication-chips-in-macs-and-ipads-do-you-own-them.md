@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them?
-date: 2024-12-21T16:02:44.916Z
-updated: 2024-12-28T16:00:35.771Z
+date: 2024-12-31T16:16:28.821Z
+updated: 2025-01-06T19:24:06.011Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Air 13-inch Wi-Fi (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7GPRX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C736770ae-86a5-4d69-8240-565df015c0d7%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C736770ae-86a5-4d69-8240-565df015c0d7%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Macs with a Thread radio:
 
 * [MacBook Pro 16-inch (M3 Pro or M3 Max)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5BL45N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C736770ae-86a5-4d69-8240-565df015c0d7%7Cdtp&dtb=1) \-[_FCC report_](https://fcc.report/FCC-ID/BCGA2991/6866513.pdf)
@@ -62,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
@@ -74,17 +74,21 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Click on the device's report
 
@@ -92,19 +96,11 @@ Clicking on the device's report will bring up a list of all the reports created 
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Find the Thread testing report
 
 Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the technical standard on which Thread is built. 
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -132,6 +128,10 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
 No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](https://fcc.report/FCC-ID/BCGA2902/) or the [13-inch M3 Macbook Air](https://fcc.report/FCC-ID/BCGA3113/). This doesn't guarantee that a Thread radio isn't included in these devices, but Apple likely used a simpler chip for these starter models.
@@ -148,10 +148,6 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -163,6 +159,10 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,20 +204,24 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastery-over-disabling-personalized-podcast-suggestions-on-spotify/"><u>[New] Mastery over Disabling Personalized Podcast Suggestions on Spotify</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-high-definition-ready-enabling-av1-on-youtube-for-2024/"><u>[Updated] High Definition Ready Enabling AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bing-upgraded-microsofts-ai-breakthrough/"><u>Bing Upgraded: Microsoft’s AI Breakthrough</u></a></li>
-<li><a href="https://article-files.techidaily.com/delving-into-historical-masterpieces-without-copyrights/"><u>Delving Into Historical Masterpieces without Copyrights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>In 2024, Streamline Your Media Files 8 Pro Convertors, Sub to Srt Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-pitfalls-a-windows-11-overview/"><u>Navigating the Pitfalls: A Windows 11 Overview</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-and-efficient-techniques-for-changing-soundcloud-recordings-to-mp3-audio-files/"><u>Quick and Efficient Techniques for Changing SoundCloud Recordings to MP3 Audio Files</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/rapid-accessibility-of-instagram-videos-and-stories/"><u>Rapid Accessibility of Instagram Videos and Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reactivate-your-teams-webcam-fixing-camera-problems-with-windows-and-microsoft-teams/"><u>Reactivate Your Team's Webcam: Fixing Camera Problems with Windows and Microsoft Teams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/recommendations-for-cooking-classes-or-groccuplent-shopping-to-experience-cuisine-hands-on-without-overspending/"><u>Recommendations for Cooking Classes or Groccuplent Shopping to Experience Cuisine Hands-On without Overspending.</u></a></li>
-<li><a href="https://games-able.techidaily.com/relive-the-past-30-top-rated-ps3-emulators-for-your-pc/"><u>Relive the Past: 30 Top-Rated PS3 Emulators for Your PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/shop-with-confidence-a-guide-to-safe-e-commerce-practices/"><u>Shop with Confidence: A Guide to Safe E-Commerce Practices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-guide-finding-assistance-and-support-on-your-windows-10-device/"><u>Simple Guide: Finding Assistance & Support on Your Windows 10 Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stay-protected-from-phishing-expert-tips-and-tricks-for-recognizing-scam-emails/"><u>Stay Protected From Phishing: Expert Tips and Tricks for Recognizing Scam Emails</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-clearing-temporary-files-from-your-windows-10-pc/"><u>Step-by-Step Guide: Clearing Temporary Files From Your Windows 10 PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-learn-to-record-your-xbox-games-with-ease/"><u>[New] Learn to Record Your Xbox Games with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-quick-and-secure-lecture-capture-methods-for-mac-users/"><u>[Updated] In 2024, Quick and Secure Lecture Capture Methods for Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-xsplit-collection-comprehensive-gaming-review/"><u>[Updated] XSplit Collection Comprehensive Gaming Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>2024 Approved Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-90-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/grasping-the-concept-what-are-dual-capable-game-screens/"><u>Grasping the Concept: What Are Dual-Capable Game Screens?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guia-facil-de-borrar-los-archivos-de-reparacion-del-sistema-en-diversas-versiones-de-windows/"><u>Guía Fácil De Borrar Los Archivos De Reparación Del Sistema en Diversas Versiones De Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y200e-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y200e 5G?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-177-release-highlights-enhanced-security-features-overcoming-ios-18-insights/"><u>IOS 17.7 Release Highlights Enhanced Security Features Overcoming iOS 18 - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintain-your-iphone-13s-fresh-appearance-top-3-essential-gadgets-revealed-by-zdnet/"><u>Maintain Your iPhone 13'S Fresh Appearance: Top 3 Essential Gadgets Revealed by ZDNET</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/master-guide-ultimate-tips-for-maximizing-mobizens-screen-capture-for-2024/"><u>Master Guide Ultimate Tips for Maximizing Mobizen's Screen Capture for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-ipad-with-expert-advice-10-key-tips-and-setups-every-apple-user-must-know/"><u>Master Your iPad with Expert Advice: 10 Key Tips and Setups Every Apple User Must Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-quest-3-leapfrogs-with-ai-capabilities-before-vision-pro-launch-tips-to-activate-and-explore-by-zdnet/"><u>Meta Quest 3 Leapfrogs with AI Capabilities Before Vision Pro Launch - Tips to Activate and Explore by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/save-24-today-on-apples-latest-bluetooth-earbuds-with-hearing-aid-compatibility-get-airpods-pro-2/"><u>Save 24% Today on Apple's Latest Bluetooth Earbuds with Hearing Aid Compatibility - Get AirPods Pro 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-3-cutting-edge-iphone-16-innovations-that-will-make-you-eager-to-switch-insights-from-zdnet/"><u>Top 3 Cutting-Edge iPhone 16 Innovations That Will Make You Eager to Switch! - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-35-tablet-bargains-unbeatable-prime-day-2024-offers-in-stock-tech-insights/"><u>Top 35 Tablet Bargains: Unbeatable Prime Day 2024 Offers in Stock | Tech Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-trending-hashtags-on-instagram-boost-your-visibility/"><u>Top Trending Hashtags on Instagram: Boost Your Visibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-mp3-devices-features-and-reviews/"><u>Top-Rated MP3 Devices : Features and Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-new-safety-communications-on-your-iphone-discover-the-essential-ios-18-update-beyond-ai/"><u>Unlock New Safety Communications on Your iPhone: Discover the Essential iOS 18 Update Beyond AI</u></a></li>
 </ul></div>
 

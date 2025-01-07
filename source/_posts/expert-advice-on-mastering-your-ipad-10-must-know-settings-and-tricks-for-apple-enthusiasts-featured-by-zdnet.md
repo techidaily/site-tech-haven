@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET"
-date: 2024-12-26T15:38:11.259Z
-updated: 2024-12-28T03:29:37.886Z
+date: 2025-01-04T20:02:39.363Z
+updated: 2025-01-07T00:53:58.380Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -39,10 +35,6 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -62,6 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -73,6 +69,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **Also:** [**The best iPad models: Expert tested**](https://www.zdnet.com/article/best-ipad/)
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
 
@@ -98,6 +98,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Split or float your keyboard
 
 Max Buondonno/ZDNET
@@ -112,10 +116,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -125,7 +125,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -137,7 +137,7 @@ I've always felt like the Control Center is slightly underrated for all the stuf
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
@@ -180,20 +180,24 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-snicker-schematics-androids-with-sarcasm/"><u>[New] Snicker Schematics Androids with Sarcasm</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-enhancing-listener-engagement-through-excellent-intros-for-2024/"><u>[Updated] Enhancing Listener Engagement Through Excellent Intros for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instantize-dynamic-images-in-photoshop/"><u>[Updated] Instantize Dynamic Images in Photoshop</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>2024 Approved Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-make-an-emoji-of-yourself-on-android-and-iphone-emoji-yourself/"><u>In 2024, How to Make an Emoji of Yourself on Android and iPhone Emoji Yourself</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-restore-lost-sounds-to-twitter-vids/"><u>In 2024, Restore Lost Sounds to Twitter Vids</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-your-home-screen-configuring-facebook-portals-for-video-calls/"><u>Mastering Your Home Screen: Configuring Facebook Portals for Video Calls</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/solving-the-mystery-of-the-blue-screen-a-step-by-step-guide-by-yl-computing/"><u>Solving the Mystery of the Blue Screen: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/switching-proton-vpn-login-details-steps-and-security-tips/"><u>Switching Proton VPN Login Details: Steps & Security Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-sounding-guiding-chatgpt-in-music-software/"><u>The Art of Sounding: Guiding ChatGPT in Music Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essential-guide-to-different-ai-domains-dissecting-public-private-and-personal-applications/"><u>The Essential Guide to Different AI Domains: Dissecting Public, Private, and Personal Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essentials-of-chatgpt-plug-ins/"><u>The Essentials of ChatGPT Plug-Ins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-code-with-unique-ai-tools-beyond-chatgpt/"><u>The Future of Code with Unique AI Tools Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-communication-how-to-utilize-chatgpts-translation-features/"><u>The Future of Communication: How to Utilize ChatGPT’s Translation Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-truth-behind-chatgpt-jailbreak-limitations-a-deep-dive-into-seven-causes/"><u>The Truth Behind ChatGPT Jailbreak Limitations: A Deep Dive Into Seven Causes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-game-capture-clarified-for-2024/"><u>[New] In-Game Capture Clarified for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-cut-to-the-chase-newest-method-for-idevice-screen-recordings-2023/"><u>[Updated] Cut-to-the-Chase Newest Method for iDevice Screen Recordings, 2023</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nokia-130-music-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nokia 130 Music Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bogus-chatbot-extension-hijacks-linkedin-sign-in-details/"><u>Bogus Chatbot Extension Hijacks LinkedIn Sign-In Details</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-idea-generation-techniques-integrating-mindmaps-and-chatgpt-for-successful-brainstorming-sessions/"><u>Efficient Idea Generation Techniques: Integrating Mindmaps and ChatGPT for Successful Brainstorming Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engaging-with-ai-the-bing-chat-showdown-on-skype/"><u>Engaging with AI: The Bing Chat Showdown on Skype</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/expert-insights-into-mov-file-recording-on-latest-win-11-edition-for-2024/"><u>Expert Insights Into .MOV File Recording on Latest Win 11 Edition for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-lenovos-innovative-thinkpad-x1-fold-a-curious-blend-of-playful-design-and-premium-pricing/"><u>Exploring Lenovo’s Innovative ThinkPad X1 Fold: A Curious Blend of Playful Design & Premium Pricing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-your-free-download-of-official-hp-spectre-x360-drivers-for-windows/"><u>Get Your [Free Download] of Official HP Spectre X360 Drivers for Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-enhanced-docspace-workflows/"><u>Leveraging ChatGPT for Enhanced DocSpace Workflows</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-lowering-cpu-load-during-zoom-sessions/"><u>Mastering the Art of Lowering CPU Load During Zoom Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-the-literary-world-using-artificial-intelligence-top-5-sites-and-apps-for-your-next-great-read/"><u>Navigate the Literary World Using Artificial Intelligence: Top 5 Sites & Apps for Your Next Great Read</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-ai-conversations-expert-guide-to-thwarting-model-inversion-attacks-on-your-bot/"><u>Safeguarding AI Conversations: Expert Guide to Thwarting Model Inversion Attacks on Your Bot</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sierras-premier-picks-1-to-5-editing-applications-reviewed-for-2024/"><u>Sierra's Premier Picks #1 to #5 Editing Applications Reviewed for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-playing-audio-files-on-your-pc-using-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Playing Audio Files on Your PC Using Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-huawei-nova-y71-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Huawei Nova Y71 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncovering-software-flaws-with-openais-rewards-program/"><u>Uncovering Software Flaws with OpenAI's Rewards Program</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-styling-secrets-with-a-diy-video-editing-guide-for-2024/"><u>Unlock Styling Secrets with a DIY Video Editing Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-feature-for-tailored-guidance-a-comprehensive-guide/"><u>Unveiling ChatGPT's Feature for Tailored Guidance - A Comprehensive Guide</u></a></li>
 </ul></div>
 

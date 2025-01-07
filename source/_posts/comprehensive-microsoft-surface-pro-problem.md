@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Microsoft Surface Pro # Problem
-date: 2024-12-27T16:02:03.695Z
-updated: 2024-12-28T16:01:14.412Z
+date: 2025-01-02T18:11:00.424Z
+updated: 2025-01-06T22:28:31.509Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -51,10 +51,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -79,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -106,10 +102,6 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### More Microsoft
 
 * [The best Windows laptop models: Comparing Dell, Samsung, Lenovo, and more](https://www.zdnet.com/article/best-windows-laptop/)
@@ -132,6 +124,10 @@ Speaking of which, I had the Pro 8 connected to a monitor for the majority of my
 The ability to connect a tablet to an external display and have it actually work how it's supposed to is a huge boost for my productivity. I was able to have apps like Slack and iCloud email open on the Pro 8's screen, while writing in iA Writer on the larger external monitor with multiple Edge tabs open. 
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -167,10 +163,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -210,19 +210,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-sharex-examined-evaluations-and-alternatives/"><u>[New] 2024 Approved ShareX Examined Evaluations & Alternatives</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-instantaneously-showcasing-archived-video-sessions-via-facebook-live-for-2024/"><u>[New] Instantaneously Showcasing Archived Video Sessions via Facebook Live for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-securing-sound-output-fixes-for-silent-obs-streams-for-2024/"><u>[New] Securing Sound Output Fixes for Silent OBS Streams for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-eagle-eyes-for-blocks-no-more-chat-from-someone/"><u>[Updated] In 2024, Eagle Eyes for Blocks No More Chat From Someone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-social-media-fusion-tweet-facebook-connectivity-for-2024/"><u>[Updated] Social Media Fusion Tweet-Facebook Connectivity for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-about-pubg-mobile-comprehensive-tips-and-tricks-for-top-level-gameplay/"><u>All About PUBG Mobile: Comprehensive Tips & Tricks for Top-Level Gameplay</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-about-superfetch-expert-tips-and-full-disclosure-on-how-it-works/"><u>All About SuperFetch: Expert Tips and Full Disclosure on How It Works</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-your-elder-scrolls-online-game-solutions-to-increase-frames-per-second-fps/"><u>Boosting Your Elder Scrolls Online Game: Solutions to Increase Frames Per Second (FPS)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/connecting-your-printer-to-wireless-network-a-comprehensive-tutorial/"><u>Connecting Your Printer to Wireless Network - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dealing-with-constant-100-cpu-use-fixes-unveiled/"><u>Dealing with Constant 100% CPU Use - Fixes Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-torrents-with-vpn-to-stay-safe-the-fastest-vpn-around-the-world/"><u>Download Torrents with VPN to Stay Safe - The Fastest VPN Around the World</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-prime-routines-for-documenting-live-sports-events/"><u>In 2024, Prime Routines for Documenting Live Sports Events</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-using-the-durable-urban-armor-laptop-bag-with-your-macbook-pro/"><u>The Ultimate Guide to Using the Durable Urban Armor Laptop Bag with Your MacBook Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-techniques-for-reducing-digital-audio-file-sizes/"><u>Updated 2024 Approved Techniques for Reducing Digital Audio File Sizes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-luminous-leap-quick-brightening-tricks-for-iphone-recordings/"><u>[New] Luminous Leap Quick Brightening Tricks for iPhone Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-screen-recording-app-for-no-popups/"><u>[Updated] 2024 Approved Elite Screen Recording App for No Popups</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-fitness-frontiers-unveiling-premier-virtual-reality-walkers/"><u>[Updated] In 2024, Fitness Frontiers Unveiling Premier Virtual Reality Walkers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-detailed-tutorial-implementing-custom-lut-filters-in-obs-productions/"><u>2024 Approved Detailed Tutorial Implementing Custom LUT Filters in OBS Productions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-proven-winners-the-top-5-tools-for-video-conference-recording/"><u>2024 Approved Proven Winners The Top 5 Tools for Video Conference Recording</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>2024 Approved Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-latest-your-next-apple-phone-choice-post-iphone-13-and-15-pro-discontinuation-insights/"><u>Beyond the Latest: Your Next Apple Phone Choice Post-iPhone 13 & 15 Pro Discontinuation - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-premier-microsoft-enterprise-mobile-applications-a-comprehensive-guide-to-the-top-10-picks-for-iphones-and-ipads-biztech-insights/"><u>Discover the Premier Microsoft Enterprise Mobile Applications: A Comprehensive Guide to the Top 10 Picks for iPhones and iPads | BizTech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exclusive-spotlight-on-top-smartphone-picks-from-zdnets-tech-team-experts/"><u>Exclusive Spotlight on Top Smartphone Picks From ZDNet's Tech Team Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-customizing-individual-website-access-in-safari-extensions-a-detailed-walkthrough/"><u>Guide to Customizing Individual Website Access in Safari Extensions: A Detailed Walkthrough</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-magic-6-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor Magic 6 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pros-and-cons-of-switching-to-iphone-16-insights-from-leading-tech-experts-at-zdnet/"><u>Pros and Cons of Switching to iPhone 16: Insights From Leading Tech Experts at ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/sourav-joshis-guide-to-youtube-earning-power-by-2024/"><u>Sourav Joshi’s Guide to YouTube Earning Power by 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-essential-upgrades-for-android-how-it-can-surpass-ios-as-the-premier-os-techinsight/"><u>Top 5 Essential Upgrades for Android: How It Can Surpass iOS as the Premier OS | TechInsight</u></a></li>
 </ul></div>
 

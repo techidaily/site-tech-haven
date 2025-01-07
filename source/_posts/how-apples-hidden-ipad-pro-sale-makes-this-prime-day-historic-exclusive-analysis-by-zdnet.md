@@ -1,7 +1,7 @@
 ---
 title: How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis by ZDNet
-date: 2024-12-27T02:20:47.698Z
-updated: 2024-12-27T20:51:47.757Z
+date: 2024-12-31T20:06:49.917Z
+updated: 2025-01-07T03:52:36.864Z
 tags:
   - apple
 categories:
@@ -38,7 +38,7 @@ Internally, the new iPad Pro features Apple's most powerful Silicon yet, the M4,
 Right now, Amazon has both the [11- and 13-inch options on sale for $928 and $1,198](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1), respectively. Again, you'll only be saving between $80 to $100, but the discount can be offloaded towards [additional accessories](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dipad%2Bpro%2B2024%2Baccessories%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,15 +85,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-discovering-the-best-uses-for-nikon-d7500/"><u>[New] 2024 Approved Discovering the Best Uses for Nikon D7500</u></a></li>
-<li><a href="https://win-tips.techidaily.com/1728474265537-google/"><u>「スムーズな移行実践：ネットワークフォルダをGoogleドライブにシンクロさせる手順」</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-top-10-cost-free-image-format-change-software/"><u>Discover Top 10 Cost-Free Image Format Change Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-critical-examination-of-vlcs-rivals/"><u>In 2024, A Critical Examination of VLC's Rivals</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-mastering-the-art-of-srt-files-an-all-inclusive-guide-to-subtitles/"><u>In 2024, Mastering the Art of SRT Files An All-Inclusive Guide to Subtitles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-stalling-during-installation-how-to/"><u>Overcoming Windows 11 Stalling During Installation – How To</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/supercharge-productivity-with-these-chatgpt-plugins/"><u>Supercharge Productivity with These ChatGPT Plugins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailored-ai-solutions-our-top-5-prompt-generator-lists/"><u>Tailored AI Solutions: Our Top 5 Prompt Generator Lists</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/techniques-for-highlighting-illicit-gpt-interactions/"><u>Techniques for Highlighting Illicit GPT Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-latest-in-mobile-internet-for-holiday-goers/"><u>The Latest in Mobile Internet for Holiday Goers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-techniques-for-more-extended-instagram-video-posts/"><u>[New] 2024 Approved Unveiling Techniques for More Extended Instagram Video Posts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-adding-sounds-to-your-story-a-premiere-pro-guide/"><u>[New] In 2024, Adding Sounds to Your Story A Premiere Pro Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-expert-guide-how-to-keep-a-log-of-google-voice-chats/"><u>[Updated] 2024 Approved Expert Guide How to Keep a Log of Google Voice Chats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ahead-of-tomorrow-key-youtube-gatherings-post-vidcon/"><u>[Updated] Ahead of Tomorrow Key Youtube Gatherings (Post-VidCon)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tricks-for-transferring-twitter-video-to-your-phone/"><u>2024 Approved Tricks for Transferring Twitter Video to Your Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ace-your-zoom-cam-issues-with-ease-and-swiftness/"><u>Ace Your Zoom Cam Issues with Ease and Swiftness</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-k11x-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo K11x to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-massive-language-model-paradigms/"><u>Navigating Through Massive Language Model Paradigms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-rationale-5-key-points-for-company-wide-chatgpt-prohibitions/"><u>Understanding the Rationale: 5 Key Points for Company-Wide ChatGPT Prohibitions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-turings-assessment-and-its-competitive-horizon/"><u>Understanding Turing's Assessment & Its Competitive Horizon</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-of-artificial-intelligence-in-latest-apples-wwdc-event/"><u>Unveiling the Secrets of Artificial Intelligence in Latest Apple's WWDC Event</u></a></li>
 </ul></div>
 

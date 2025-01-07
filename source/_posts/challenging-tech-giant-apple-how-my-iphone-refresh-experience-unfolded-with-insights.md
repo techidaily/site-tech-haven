@@ -1,7 +1,7 @@
 ---
 title: "Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights"
-date: 2024-12-26T07:47:02.384Z
-updated: 2024-12-28T02:55:48.554Z
+date: 2024-12-31T17:24:51.391Z
+updated: 2025-01-07T01:13:30.951Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
@@ -35,7 +35,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -47,6 +47,10 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -71,7 +75,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -79,10 +83,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -93,6 +93,10 @@ If you don't want to share the default details with a Check In, you can easily c
 If you still wish to use a timer for the Check In option but change the amount of time allocated, tap Timer. Tap the button for hours and use the Digital Crown to cycle through different numbers. Do the same for the number of minutes. When finished, tap Done. Tap the yellow checkmark and then send the text. When you end the Check In at the appropriate time, your recipient will be alerted as an indication that you've arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
 
@@ -107,10 +111,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -154,20 +154,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-all-inclusive-screen-recorder-azs-app-analysis-for-2024/"><u>[New] All-Inclusive Screen Recorder - AZ's App Analysis for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-assemble-an-impactful-visual-saga-with-montage-skills/"><u>[New] In 2024, Assemble an Impactful Visual Saga with Montage Skills</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/acer-chromebook-r-11-review/"><u>Acer Chromebook R 11 Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-chatbot-faceoff-choosing-between-the-power-of-chatgpt-plus-and-perplexity/"><u>AI Chatbot Faceoff: Choosing Between the Power of ChatGPT Plus and Perplexity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-chatbot-pitfalls-for-writers-understand-the-top-8-risks/"><u>AI Chatbot Pitfalls for Writers - Understand the Top 8 Risks!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-image-creation-with-chatgpt-step-by-step-guide-to-unleash-creative-potential/"><u>AI Image Creation with ChatGPT: Step-by-Step Guide to Unleash Creative Potential</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artistic-defense-the-collective-suit-against-meta-and-openais-ai/"><u>Artistic Defense: The Collective Suit Against Meta & OpenAI's AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-data-exposure-with-chatgpt-heres-your-guide-to-opting-out-safely/"><u>Avoid Data Exposure with ChatGPT? Here’s Your Guide to Opting Out Safely</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-gopro-quik-alternatives-for-desktop-and-laptop-users/"><u>Best GoPro Quik Alternatives for Desktop and Laptop Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-conundrum-unveiling-why-chatgpt-fails-at-self-detecting-text-generation/"><u>Chatbot Conundrum: Unveiling Why ChatGPT Fails at Self-Detecting Text Generation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engage-with-intelligence-key-new-features-of-chatgpt-unveiled/"><u>Engage with Intelligence: Key New Features of ChatGPT Unveiled</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-create-viral-tiktok-content-step-by-step-templates-guide/"><u>In 2024, Create Viral TikTok Content Step-by-Step Templates Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-in-stardee-world-expert-tips-and-tricks/"><u>Overcoming Launch Errors in Stardee World - Expert Tips and Tricks</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/unsicher-ob-bilder-von-deinem-pc-heruntergeladen-werden-konnen-hier-ist-die-losung/"><u>Unsicher, Ob Bilder Von Deinem PC Heruntergeladen Werden Können? Hier Ist Die Lösung!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/whats-the-potential-of-using-chatgpt-for-generating-custom-designed-safe-and-highly-effective-exercpertise-programmes-just-for-me/"><u>What's The Potential Of Using ChatGPT For Generating Custom-Designed, Safe, And Highly Effective Exercpertise Programmes Just For Me?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-step-by-step-guide-to-navigating-io-screener-for-2024/"><u>[New] Step-by-Step Guide to Navigating IO Screener for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enrich-your-visuals-captions-on-the-go-in-instagram/"><u>2024 Approved Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-determining-the-top-contender-chatgpt-or-bing-chat/"><u>Chatbot Face-Off: Determining the Top Contender, ChatGPT or Bing Chat?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-financial-ally-8-authentic-sources-of-income-fact-or-fiction/"><u>ChatGPT as Your Financial Ally: 8 Authentic Sources of Income - Fact or Fiction?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/debating-on-the-significance-of-truthfulness-in-selfies-for-2024/"><u>Debating on the Significance of Truthfulness in Selfies for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-googles-latest-palm-evolved-insights-into-the-enhanced-large-language-model/"><u>Discover How Google’s Latest PaLM Evolved: Insights Into the Enhanced Large Language Model</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-hashtag-analyzers-facebook-twitter-and-instagram-edition/"><u>In 2024, Essential Hashtag Analyzers Facebook, Twitter & Instagram Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-it-accurate-prediction-the-story-of-180-weather-experts-providing-reliable-forecasts-insights-from-zdnet/"><u>Is It Accurate Prediction? The Story of 180 Weather Experts Providing Reliable Forecasts - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/notable-creators-superior-insta-highlight-craftsmen-for-2024/"><u>Notable Creators Superior Insta Highlight Craftsmen for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210642038-9781786787446-the-moon-dust-dream-dictionary/"><u>The Moon Dust Dream Dictionary | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y100i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y100i for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-cost-free-ai-travel-organizers-and-chatbot-apps-for-quick-trip-plans/"><u>Top 7 Cost-Free AI Travel Organizers & Chatbot Apps for Quick Trip Plans</u></a></li>
 </ul></div>
 

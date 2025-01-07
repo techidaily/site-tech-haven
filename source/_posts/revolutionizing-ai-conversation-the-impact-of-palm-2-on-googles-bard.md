@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing AI Conversation: The Impact of PaLM 2 on Google's Bard"
-date: 2024-08-16T12:34:24.793Z
-updated: 2024-08-17T12:34:24.793Z
+date: 2025-01-01T01:06:37.906Z
+updated: 2025-01-06T16:27:53.894Z
 tags:
   - chatgpt
   - open-ai
@@ -33,11 +33,12 @@ The below image shows ChatGPT suggesting text corrections.
 
 ![Bing Chat Edits Paragraphs by Quillbot's Standards ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-edits-text.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll find many[reliable grammar checkers online](http://www.makeuseof.com/tag/best-grammar-checker/) , but full-suite plans often come with monthly subscriptions. Free accounts get limited checks. On Grammarly, users can’t even unlock advanced suggestions until they upgrade to a Premium plan.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 2\. Poorly Researched Articles Spread Misinformation
 
 [One of the biggest problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and Bing Chat, among other platforms, is that they don’t double-check facts. They merely present what they know. ChatGPT formulates answers from datasets, and Bing Chat runs search queries, but neither performs fact-checking.
@@ -51,13 +52,15 @@ The below image shows ChatGPT suggesting text corrections.
  Many shady AI writers actually draw flak for spreading misinformation. Only use chatbots for preliminary research. Ask them to break down complex subjects before diving into academic journals and scholarly papers.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Generic AI-Generated Articles Flood SERPs
 
 ![Google Analytics Google Search Results on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-search-results-on-smartphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you’ll find AI content ranking on Google. AI writers use the time and effort they save to improve their SEO, boosting page visibility. Some of them even utilize backlinks to fake authoritativeness.
@@ -66,9 +69,6 @@ The below image shows ChatGPT suggesting text corrections.
 
  The upside is that Google rewards well-researched content. Googlebot eventually replaces ranking AI articles that provide no added value to readers. Even results on page one could quickly drop. Just keep publishing quality pieces. You could also brush up on[Google’s helpful content guide update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) to write even better.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Marketers Revamp Their SEO Strategies
 
  SEO tools often come with a steep price tag. Widely used options like[Ahrefs](https://ahrefs.com/) and[Semrush](https://semrush.sjv.io/c/119570/995972/13053?subId1=UUmuoUeUpU2024741&subId2=emuo&u=https%3A%2F%2Fwww.semrush.com%2F) could set you back by hundreds a month. The fees don’t make sense unless you run all their features.
@@ -79,13 +79,18 @@ The below image shows Bing Chat’s keyword research on AI.
 
 ![Bing Chat Suggesting Keywords Based on Your Topic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-doing-seo-keyword-research.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Since Bing Chat wasn’t designed for SEO research, you must phrase your prompts properly. Don’t just say you need SEO analytics. Ask for specific data, like top-ranking LSI keywords, search volume analytics, and market trends.
 
 ## 5\. Content Mills Publish AI-Generated Articles in Masses
 
 ![Asking ChatGPT to Write a 1,000 word Article on AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-1-000-word-article.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Content mills have always prioritized quantity over quality. But with the availability of AI-driven chatbots, they further sped up the writing process at no extra cost. It’s common for them to publish hundreds of AI content daily.
@@ -94,24 +99,21 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Avoid content mills like the plague. They pay industry-low rates, set unrealistic output expectations, and place zero value on quality writing. Your writing career won’t progress while working for them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## 6\. Plagiarism Has Become More Widespread
 
  Plagiarism has become more widespread recently. Remember: AI repeats answers. So if multiple writers were to discuss one topic, their articles would share the same angle, structure, outline, and theme. Some writers rephrase texts to avoid getting flagged for plagiarism.
 
  But since they also use publicly available paraphrasing tools, Google still detects their template outputs. Their sites quickly lose authority afterwards. You can’t cheat the system. To produce original pieces with unique insights, research various official and non-official sources.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. More Articles Share Similar Angles
 
  AI chatbots produce template responses. They pull information from the exact datasets even if you regenerate responses several times. Take the below conversation as an example. This photo shows ChatGPT answering a general knowledge question about AI.
 
 ![ChatGPT Answering a Basic Question General Kowledge Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answers-general-knowledge-question-about-ai.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
 
@@ -135,14 +137,11 @@ The below image shows Bing Chat’s keyword research on AI.
 
  Writers should learn to use AI responsibly. Find out about platforms that can help you find typos, research topics, outline articles, and analyze SEO keywords. Automate rote work whenever possible. Free up your time for writing tasks that require critical thinking and creativity.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +150,26 @@ The below image shows Bing Chat’s keyword research on AI.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastering-video-editing-on-a-budget-with-free-fcp/"><u>[New] 2024 Approved Mastering Video Editing on a Budget with Free FCP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-examination-for-straightforward-hdr/"><u>[New] Comprehensive Examination for Straightforward HDR</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-efficient-way-to-broadcast-tiktok-videos-via-facebook-for-2024/"><u>[New] Efficient Way to Broadcast TikTok Videos via Facebook for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-your-ultimate-cheat-sheet-for-seamlessly-looping-videos-on-youtube/"><u>[New] In 2024, Your Ultimate Cheat Sheet for Seamlessly Looping Videos on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-digital-content-filming-talents-release/"><u>[Updated] In 2024, Digital Content Filming Talents Release</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-turing-test-aims-and-challengers/"><u>Deciphering The Turing Test: Aims and Challengers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-iphone-watermark-software-guide-for-2024/"><u>Essential iPhone Watermark Software Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-chatgpt-hacks-how-to-benefit-from-its-features-even-without-an-account/"><u>Explore ChatGPT Hacks: How to Benefit From Its Features Even Without an Account</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-visual-intelligence-with-chatgpt-eight-key-applications-for-professionals/"><u>Exploring Visual Intelligence with ChatGPT: Eight Key Applications for Professionals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-dark-to-dynamic-asus-laptop-resurrection-guide/"><u>From Dark to Dynamic: Asus Laptop Resurrection Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-claude-ai-surpasses-chatgpt-in-user-experience-unveiling-4-distinct-advantages/"><u>How the Claude AI Surpasses ChatGPT in User Experience: Unveiling 4 Distinct Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-effect-delving-into-why-italy-enacted-a-ban-on-chatgpt-services/"><u>Immediate Effect: Delving Into Why Italy Enacted a Ban on ChatGPT Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-handling-with-voice-control-a-five-step-guide/"><u>Mastering ChatGPT Handling With Voice Control: A Five-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-tomorrows-security-landscape-the-top-7-predictions-in-cybersecurity/"><u>Navigating Tomorrow's Security Landscape: The Top 7 Predictions in Cybersecurity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-11-must-have-windows-and-mac-programs-you-need-to-boost-your-productivity-zdnet/"><u>Top 11 Must-Have Windows & Mac Programs You Need to Boost Your Productivity - ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-underrated-gpt-3-functions-unleashing-your-ai-potential/"><u>Top 5 Underrated GPT-3 Functions: Unleashing Your AI Potential</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-workflow-with-chatgpt-the-ultimate-guide-to-an-ai-assistant-at-work/"><u>Transform Workflow with ChatGPT - The Ultimate Guide to an AI Assistant at Work</u></a></li>
+</ul></div>
 

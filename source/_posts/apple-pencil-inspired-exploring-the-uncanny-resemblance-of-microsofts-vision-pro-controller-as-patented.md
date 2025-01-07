@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2024-12-25T11:14:22.005Z
-updated: 2024-12-28T05:04:00.475Z
+date: 2025-01-03T18:00:27.071Z
+updated: 2025-01-06T17:21:46.630Z
 tags:
   - apple
 categories:
@@ -75,21 +75,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation/"><u>[New] 2024 Approved Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>[New] Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-maximizing-socialization-with-ease-xbox-ones-zoom-functionality-for-2024/"><u>[Updated] Maximizing Socialization with Ease Xbox One's Zoom Functionality for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-rapid-growth-on-youtube-harnessing-the-potential-of-outros/"><u>[Updated] Rapid Growth on YouTube Harnessing the Potential of Outros</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-seamless-integration-of-skype-and-zoom-for-businesses/"><u>2024 Approved Seamless Integration of Skype and Zoom for Businesses</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-poco-c65-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Poco C65 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004562049-hell-let-loose-pc-compatibility-optimized-ensuring-smooth-gaming-experience/"><u>Hell Let Loose PC Compatibility Optimized: Ensuring Smooth Gaming Experience!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-enhancements-needed-for-the-chatgpt-plugin-marketplace/"><u>Top 4 Enhancements Needed for the ChatGPT Plugin Marketplace</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-artificular-intelligence-risks-and-concerns/"><u>Understanding Artificular Intelligence: Risks and Concerns</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-capabilities-of-emotional-artificial-intelligence-more-than-just-algorithmic-assumptions/"><u>Understanding the Capabilities of Emotional Artificial Intelligence: More Than Just Algorithmic Assumptions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-your-creative-potential-how-chatgpt-empowers-writers/"><u>Unleashing Your Creative Potential: How ChatGPT Empowers Writers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-chatgpt-4s-sluggishness-in-contrast-with-35/"><u>Unraveling ChatGPT-4's Sluggishness in Contrast with 3.5</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-gopro-editing-the-top-15-color-luts-selection-guide-for-2024/"><u>[Updated] Essential GoPro Editing The Top 15 Color LUTs Selection Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-strategies-and-costs-promoting-videos-effectively/"><u>[Updated] Strategies and Costs Promoting Videos Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-github-dialogues-with-enhanced-chatgpt-use/"><u>Cutting-Edge Github Dialogues with Enhanced ChatGPT Use</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/dealing-with-display-dysfunctions-a-guide-to-correcting-blue-screen-gpu-issues-by-yl-software/"><u>Dealing with Display Dysfunctions: A Guide to Correcting Blue Screen GPU Issues by YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-power-of-claude-navigate-3-uses-and-benefits/"><u>Discovering the Power of Claude Navigate 3: Uses and Benefits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-dialogues-with-gpt-chrome-edition/"><u>Enhancing Your Dialogues with GPT, Chrome Edition!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-script-to-scenario-chatgpts-six-steps-to-perfecting-roleplay/"><u>From Script to Scenario: ChatGPT's Six Steps to Perfecting Roleplay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-ai-evolving-unveiling-geminis-challenge-to-chatgpt/"><u>Is AI Evolving? Unveiling Gemini’s Challenge to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-dialogue-for-film-selection/"><u>Leveraging AI Dialogue for Film Selection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-effective-spotify-promotion/"><u>Mastering the Art of Effective Spotify Promotion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protonvpn-switching-email-and-browsing-safely/"><u>ProtonVPN: Switching Email & Browsing Safely</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-of-your-windows-11-taskbar/"><u>Troubleshooting Fixes: How To Restore Functionality Of Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/troubleshooting-vanished-playlists-on-apple-music-5-proven-solutions/"><u>Troubleshooting Vanished Playlists on Apple Music: 5 Proven Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/twitters-without-symbols-linuss-exposed-content-trojans-demystified-and-gpt-errors-spotlighted/"><u>Twitters Without Symbols, Linus’s Exposed Content, Trojans Demystified, & GPT Errors Spotlighted</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unhappy-with-vsdc-explore-these-top-mac-video-editing-options/"><u>Unhappy with VSDC? Explore These Top Mac Video Editing Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-exploring-the-different-facets-of-public-private-and-personal-artificial-intelligence/"><u>Unraveling the Mystery: Exploring the Different Facets of Public, Private, and Personal Artificial Intelligence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-artemis-1-liftoff-by-nasa-tips-on-streaming-the-event-live/"><u>Upcoming Artemis 1 Liftoff by NASA - Tips on Streaming the Event Live</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-windows-10-webcam-recording-top-10-software-options/"><u>Updated In 2024, Windows 10 Webcam Recording Top 10 Software Options</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

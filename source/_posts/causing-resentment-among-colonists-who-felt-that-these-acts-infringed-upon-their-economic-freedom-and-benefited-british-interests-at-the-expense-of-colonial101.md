@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2024-12-21T16:00:06.523Z
-updated: 2024-12-28T16:00:14.945Z
+date: 2024-12-31T01:00:33.664Z
+updated: 2025-01-06T21:21:00.190Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -72,10 +72,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -95,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -111,6 +107,10 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -134,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,16 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/42721633-new-in-2024-transform-videos-with-easy-to-use-sound-effects/"><u>[New] In 2024, Transform Videos with Easy-to-Use Sound Effects!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-exporting-snapchat-content-to-your-phones-gallery-for-2024/"><u>[Updated] Exporting SnapChat Content to Your Phone's Gallery for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-insignia-pc-drives-now-fast-and-simple-installation/"><u>Download Insignia PC Drives Now: Fast and Simple Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-pc-application-errors-discover-6-dependable-fixes-for-stray-crashing-issues/"><u>Eliminate PC Application Errors: Discover 6 Dependable Fixes for 'Stray Crashing' Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-system-diagnostics-a-guide-to-windows-ping-usage/"><u>Enhancing System Diagnostics: A Guide to Windows Ping Usage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-carve-out-a-reliable-career-with-artificial-intelligence-and-prompt-crafting-skills/"><u>How to Carve Out a Reliable Career with Artificial Intelligence and Prompt Crafting Skills</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-libgdk-win32-20-0dll-errors-on-your-windows-pc/"><u>Resolving Missing libgdk-win32-2.0-0.dll Errors on Your Windows PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-registering-on-the-intelligent-bing-search-platform/"><u>Step-by-Step Guide: Registering on the Intelligent Bing Search Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-best-tools-for-supercharging-your-browsers-ai-talking-power/"><u>The Best Tools for Supercharging Your Browsers' AI Talking Power</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-career-with-these-6-compelling-facts-about-chatgpt/"><u>Transform Your Career with These 6 Compelling Facts About ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/weaving-stories-together-chatgpt-and-ai-illustration-in-dungeons-and-dragons/"><u>Weaving Stories Together: ChatGPT & AI Illustration in Dungeons & Dragons</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-instruction-on-downloading-installing-and-using-ez-grabber-for-2024/"><u>[New] Step-by-Step Instruction on Downloading, Installing & Using EZ Grabber for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dissecting-mr-beasts-fortune-portfolio/"><u>[Updated] In 2024, Dissecting Mr. Beast's Fortune Portfolio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-pioneering-tech-in-vr-content-creation/"><u>[Updated] In 2024, Pioneering Tech in VR Content Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fastway-apeflac/"><u>「劣化しないFASTWAY: APEをFLAC形式に素早く変換するスチューディオガイド」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/flashhtml5/"><u>「FlashファイルをHTML5に効率良く変換する方法」</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-elite-collection-top-10-sites-for-professional-icons/"><u>2024 Approved The Elite Collection Top 10 Sites for Professional Icons</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-your-desktops-snooze-mode-troubleshoot-and-prevent-involuntary-shutdowns/"><u>Combat Your Desktop's Snooze Mode: Troubleshoot and Prevent Involuntary Shutdowns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/convert-your-m4v-files-to-dvd-format-for-playback/"><u>Convert Your M4V Files to DVD Format for Playback</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/digital-detritus-recovering-photos-from-camera/"><u>Digital Detritus: Recovering Photos From Camera</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-the-latest-xrecorder-software-for-windows-users-compatible-with-win11-win10-win81-win8-and-win7/"><u>Download the Latest XRecorder Software for Windows Users: Compatible with Win11, Win10, Win8.1, Win8 & Win7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-compatibility-a-guide-to-making-your-videos-work-on-all-nokia-smartphones/"><u>Ensuring Compatibility: A Guide to Making Your Videos Work on All Nokia Smartphones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-pioneer-bdr-xs06-a-comprehensive-guide-to-its-mobility-and-functionality/"><u>Evaluating the Pioneer BDR-XS06: A Comprehensive Guide to Its Mobility and Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-capturing-your-3ds-gaming-experience-techniques-with-and-without-a-capture-card/"><u>Guide to Capturing Your 3DS Gaming Experience: Techniques with and without a Capture Card</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/handbrake/"><u>HandBrakeで動画字幕統合＆保存手順：詳しいガイドと設定方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-time-through-pages-a-comprehensive-way-to-utilize-the-wayback-machine/"><u>Navigating Time Through Pages: A Comprehensive Way to Utilize the Wayback Machine</u></a></li>
 </ul></div>
 
