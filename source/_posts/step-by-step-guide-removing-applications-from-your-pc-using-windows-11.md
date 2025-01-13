@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Applications From Your PC Using Windows 11"
-date: 2024-08-16T10:06:22.730Z
-updated: 2024-08-17T10:06:22.730Z
+date: 2025-01-08T17:57:40.068Z
+updated: 2025-01-13T18:07:55.445Z
 tags:
   - win11
   - win10
@@ -42,8 +42,9 @@ Easy Steps for PS4 Remote Play Android devices !
  2) Check the box to**Enable Remote Play** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d99baced20.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then you can successfully enable the remote play feature in your PS4.
@@ -52,9 +53,6 @@ Then you can successfully enable the remote play feature in your PS4.
 
  After setting up the PS4 setting, you’ll need to configure settings in your Android device. First of all you need to download the application, and then you further set up the connection after installing the application. Follow the instructions below:
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Configure the settings in your Android device
 
  1) Go the**Settings** app in your Android device.
@@ -66,8 +64,9 @@ Then you can successfully enable the remote play feature in your PS4.
  Now your Android device is allowed to download and install applications without the Google Store.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Download and install the remote play application in your Android device
 
 **Note** : Please make sure that your Android device is**4.2 and above** .
@@ -81,9 +80,6 @@ Then you can successfully enable the remote play feature in your PS4.
  3) After installing,**launch the application** , then tap **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d6a5c0e1b0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  4)**Sign into your PlayStation account** in the application, then it will connect automatically.
 
@@ -100,6 +96,10 @@ Then you can successfully enable the remote play feature in your PS4.
  **Method 1:[Connect your PS4 controller to your Android device via Bluetooth](https://tools.techidaily.com/drivereasy/download/)**
  **Method 2:[Connect your PS4 controller to your Android device by the USB cable](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Connect your PS4 controller to your Android device via Bluetooth
 
  You can connect your PS4 controller to your Android device directly and easily via Bluetooth. Below is how:
@@ -111,8 +111,9 @@ Then you can successfully enable the remote play feature in your PS4.
  2) Go to**Settings** \>**Bluetooth** on your Android device, and**turn on Bluetooth** in your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5dae28187b1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Find the**Wireless Controller** on the Bluetooth page in**Available devices** , tap the device to**connect** . (If you don’t see your PS4 controller in the available device section,**refresh** the page to search for the**nearby devices** , and select your controller to connect when it comes up.)
@@ -120,8 +121,9 @@ Then you can successfully enable the remote play feature in your PS4.
  4) After connected successfully, you will see your controller in the**Paired devices** section, and you can now manage your Android device with your PS4 controller.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Connect your PS4 controller to your Android device by the USB cable
 
  You can also try to connect with a**USB OTG cable** without rooting your Android. First of all, you will need a **[USB OTG cable like this one](https://www.amazon.com/UGREEN-Adapter-Samsung-Controller-Android/dp/B00N9S9Z0G/?tag=easeware-lillianlai-20)**  , which you can buy it from the Internet, such as on Amazon (find one with reasonable price and good reviews). You can buy it with only several dollars. Then you can start to set it up.
@@ -147,8 +149,6 @@ Then you can successfully enable the remote play feature in your PS4.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +156,20 @@ Then you can successfully enable the remote play feature in your PS4.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-power-of-popularity-in-stock-images-and-stories/"><u>[New] In 2024, The Power of Popularity in Stock Images & Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-screen-capture-bandicam-vs-camtasia-battle/"><u>[New] Mastering Screen Capture Bandicam Vs. Camtasia Battle</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-productivity-on-mac-top-free-tts-app-picks-you-need/"><u>[New] Maximize Productivity on Mac TOP Free TTS App Picks You Need</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-crafting-captivating-real-time-tweets-for-maximum-impact/"><u>[Updated] In 2024, Crafting Captivating Real-Time Tweets for Maximum Impact</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photo-fusion-at-home-and-online-synergy-guide/"><u>[Updated] Photo Fusion at Home & Online Synergy Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-used-microsoft-surface-pro-4-deal-at-just-300-spotted/"><u>Affordable Used Microsoft Surface Pro 4 Deal at Just $300 - Spotted</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformative-ai-in-online-content-discovery/"><u>Transformative AI in Online Content Discovery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-resolve-plugin-service-connectivity-problems-with-chatgpt/"><u>Troubleshooting Steps: Resolve Plugin Service Connectivity Problems with ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-optimal-performance-by-taming-high-cpu-demands/"><u>Unleashing Optimal Performance by Taming High CPU Demands</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-your-access-to-openais-latest-specialized-gpt-shopping-experience-right-away/"><u>Unlock Your Access to OpenAI's Latest Specialized GPT Shopping Experience Right Away!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-the-five-must-have-ai-applications-for-modern-enterprises/"><u>Unlocking Potential: The Five Must-Have AI Applications for Modern Enterprises</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-of-ai-in-classrooms-8-essential-reasons-for-teachers-to-get-on-board/"><u>Unveiling the Potential of AI in Classrooms: 8 Essential Reasons for Teachers to Get on Board</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-steps-to-securely-disconnect/"><u>Worried About Your Data with ChatGPT? Learn the Steps to Securely Disconnect</u></a></li>
+</ul></div>
 

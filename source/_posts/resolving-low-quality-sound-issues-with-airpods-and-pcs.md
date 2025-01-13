@@ -1,7 +1,7 @@
 ---
 title: Resolving Low-Quality Sound Issues with AirPods and PCs
-date: 2024-08-16T10:04:36.764Z
-updated: 2024-08-17T10:04:36.764Z
+date: 2025-01-08T17:04:53.991Z
+updated: 2025-01-13T16:12:06.760Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ With **[Fortnite](https://www.epicgames.com/store/en-US/p/fortnite?epic%5Fcreato
 
 ![how to fix Fortnite audio delayed or cutting out](https://images.drivereasy.com/wp-content/uploads/2020/12/featured-image-4-1200x673.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Disable audio enhancements in Windows
 
  Audio enhancement packages are aimed to enhance your audio performance. But this feature sometimes causes problems with audio and sound. If you encounter any audio issues, you can try disabling audio enhancements.
@@ -38,16 +42,10 @@ Here’s how:
  1) In the right-bottom toolbar, right-click on the volume icon and select**Open Sound settings** .  
   
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2020/12/open-sound-settings.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  2) Click**Sound Control Panel** on the right side of the window.
 
 ![sound control panel](https://images.drivereasy.com/wp-content/uploads/2020/12/sound-control-panel.png)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the**Playback** tab, double-click on the speaker you’re currently using.  
  (Or you can choose the device and then click**Properties** .)  
@@ -57,20 +55,18 @@ Here’s how:
  4) In the Properties window, select the**Enhancements** tab. Then check the option**Disable all enhancements** .  
   
 ![disable all enhancements speaker](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-all-enhancements-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
  5) Select the**Advanced** tab. Click on the down arrow and choose the first value**16 bit, 44100 Hz (CD Quality)** on the list.  
   
 ![default format](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-tab.png)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once done, simply click**Apply > OK** . This should reduce audio dropouts. If it didn’t help you solve the issue, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your audio driver
 
@@ -78,12 +74,13 @@ Here’s how:
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your audio driver
 
  You can update your audio driver manually via Device Manager or go to your device’s manufacturer’s official website to download and install the correct driver for your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your audio driver (recommended)
 
@@ -103,9 +100,6 @@ Here’s how it works:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/click-update-all.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,9 +107,6 @@ Here’s how it works:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Fix 3: Verify your game files
 
  If updating the audio driver didn’t help you solve the issue, it could be that your game files are corrupted. This would happen either on an update installation for Fortnite or even just when changing your rendering mode. So to ensure this isn’t the case, you should verify your game files.
@@ -127,15 +118,13 @@ Here’s how it works:
  Depending on the size of the game, it may take a few minutes to verify all your files. Once it completes, click**Launch** to start your game.  
   
 ![launch Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/launch.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Disable fullscreen optimizations & high DPI scaling
 
  Fullscreen optimization is a Windows 10 feature designed to improve your PCs performance during gaming sessions. But there are certain games that are particularly affected by low FPS issues when players enable fullscreen optimizations. And when this feature is enabled, you may encounter other issues including the delayed audio or audio cutting out. To fix it, you should disable it.
@@ -149,20 +138,13 @@ Here’s how it works:
  3) Select the tab**Compatibility** tab. Check the option**Disable fullscreen optimizations** . Then click**Change high DPI settings** .  
   
 ![disable fullscreen optimizations Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/check-disable-fullscreen-optimizations.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  4) Check the option**Override high DPI scaling behavior** and then click**OK** .  
   
 ![disable high DPI scaling Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-high-DPI-scaling-behaviro.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**Apply > OK** to save the changes.  
@@ -185,13 +167,25 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the Processes tab, navigate to the**Fortnite** application. Right-click it and select**Go to details** . (Make sure that you have the game open, otherwise you won’t be able to see the Fortnite application under the tab.)  
   
 ![set priority to high Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-high.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) You’ll be directed to the**Details** tab and**FortniteClient-Win64** is highlighted. Right-click it and select**Set priority > Normal** .  
   
 ![set priority to normal Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-normal.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve done these, launch your game and test if this stops the delayed audio and the audio cutouts.
 
@@ -209,8 +203,9 @@ No advertising on the website.
  That’s it! Your support is much appreciated!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/accept.png)
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -219,8 +214,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +221,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/20-leading-no-cost-digital-editing-platforms/"><u>20 Leading No-Cost Digital Editing Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-embarking-on-the-av1-coding-journey/"><u>2024 Approved Embarking on the AV1 Coding Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-lost-11-methods-to-retrieve-them-through-apples-find-my-service/"><u>AirPod Lost? 11 Methods to Retrieve Them Through Apple's Find My Service</u></a></li>
+<li><a href="https://win-dash.techidaily.com/for-the-music-genre-recommendation-operation/"><u>For the Music Genre Recommendation Operation:</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-evaluating-bandicam-and-camtasia-for-mac-users/"><u>In 2024, Evaluating Bandicam and Camtasia for Mac Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p40plus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Itel P40+ Lock Screen Password?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-seeking-solutions-why-no-facebook-videos-pop-up/"><u>In 2024, Seeking Solutions Why No Facebook Videos Pop Up?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone SE (2022)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/installing-and-using-chatgpt-on-linux-made-simple/"><u>Installing and Using ChatGPT on Linux Made Simple</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/instantaneously-unleashing-web-based-agents-with-agentgpt/"><u>Instantaneously Unleashing Web-Based Agents with AgentGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gpt-navigate-through-the-openai-interface-easily/"><u>Mastering GPT-Navigate Through the OpenAI Interface Easily!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-ai-coding-assistance-comparing-the-capabilities-of-base-copilot-versus-the-enhanced-copilot-pro/"><u>Maximizing AI Coding Assistance: Comparing the Capabilities of Base Copilot Versus the Enhanced Copilot Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-around-chatgpts-input-size-constraint-for-extended-dialogues/"><u>Navigating Around ChatGPT's Input Size Constraint for Extended Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-tech-in-business-harnessing-powerful-insights-from-chatgpt-and-whisper-apis/"><u>Navigating the Future of Tech in Business: Harnessing Powerful Insights From ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-the-chatgpt-is-busy-hurdle-on-windows-platform/"><u>Overcoming the 'ChatGPT Is Busy' Hurdle on Windows Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/plan-like-a-pro-on-a-budget-top-eb-free-ai-itinerary-generators-and-chatgpt-applications-for-travel-buffs/"><u>Plan Like a Pro on a Budget: Top Eb-Free AI Itinerary Generators & ChatGPT Applications for Travel Buffs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-the-finest-steam-deck-titles-of-2023/"><u>Ultimate Selection: The Finest Steam Deck Titles of 2023</u></a></li>
+</ul></div>
 

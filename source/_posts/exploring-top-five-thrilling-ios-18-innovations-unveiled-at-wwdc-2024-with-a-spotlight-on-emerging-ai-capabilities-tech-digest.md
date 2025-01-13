@@ -1,7 +1,7 @@
 ---
 title: Exploring Top Five Thrilling iOS 18 Innovations Unveiled at WWDC 2024, with a Spotlight on Emerging AI Capabilities | Tech Digest
-date: 2025-01-02T19:18:30.415Z
-updated: 2025-01-06T17:54:54.390Z
+date: 2025-01-11T16:50:52.017Z
+updated: 2025-01-13T17:30:07.770Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,20 +128,24 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-organize-your-fb-content-access-to-free-downloaders-online/"><u>[New] 2024 Approved Organize Your FB Content Access to Free Downloaders Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlock-potential-a-101-step-guide-to-crafting-exceptional-bios-on-facebook/"><u>[Updated] 2024 Approved Unlock Potential A 101-Step Guide to Crafting Exceptional Bios on Facebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-premium-7-vlog-cameras-boosting-audience-engagement-and-retention/"><u>[Updated] In 2024, Premium 7 Vlog Cameras Boosting Audience Engagement & Retention</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-seo-boost-your-video-popularity-for-2024/"><u>[Updated] Mastering YouTube SEO Boost Your Video Popularity for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-and-share-live-to-the-max-with-4-pro-tips-on-fb/"><u>2024 Approved Capture and Share Live to The Max with 4 Pro Tips on FB</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-productivity-the-power-of-combining-onlyoffice-docspace-with-chatgpt-technology/"><u>Boosting Productivity: The Power of Combining ONLYOFFICE DocSpace with ChatGPT Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/defending-artwork-authenticity-against-generative-ai-using-nightshade-solutions/"><u>Defending Artwork Authenticity Against Generative AI Using Nightshade Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-can-you-tell-if-chatgpt-is-currently-unavailable-discover-5-methods/"><u>How Can You Tell if ChatGPT Is Currently Unavailable? Discover 5 Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foundations-in-digital-visual-narratives/"><u>In 2024, Foundations in Digital Visual Narratives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-turning-screen-time-into-cash-the-youtube-way/"><u>In 2024, Turning Screen Time Into Cash The YouTube Way</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-7-ai-content-creation-sites-the-ultimate-guide/"><u>Leading 7 AI Content Creation Sites: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-tailored-training-programs-in-the-fitness-industry/"><u>Leveraging ChatGPT for Tailored Training Programs in the Fitness Industry</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-cycling-sims-worth-your-time-for-2024/"><u>Top Cycling Sims Worth Your Time for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-ultimate-collection-of-ai-note-taking-solutions-top-picks/"><u>Unveiling the Ultimate Collection of AI Note Taking Solutions: Top Picks</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-how-to-enable-the-text-to-speech-function-on-iphone-for-2024/"><u>Updated How to Enable the Text to Speech Function on iPhone for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-spectacular-photo-narrative-construction-suite/"><u>[New] In 2024, Spectacular Photo Narrative Construction Suite</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-discover-7-premium-android-adblocking-tools-for-2024/"><u>[Updated] Discover 7 Premium Android AdBlocking Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-leading-marketplaces-for-bespoke-wrapping-marvels/"><u>[Updated] In 2024, Leading Marketplaces for Bespoke Wrapping Marvels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revisiting-erased-reddit-topics-fast-and-efficient-ways/"><u>[Updated] Revisiting Erased Reddit Topics Fast & Efficient Ways</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unbeatable-6-apps-for-crafting-perfect-reels-on-instagram/"><u>2024 Approved Unbeatable 6 Apps for Crafting Perfect Reels on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/free-audio-to-text-conversion-for-2024/"><u>Free Audio to Text Conversion for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-gpt-3s-successor-gpt-4-becomes-available-for-all-users-with-ease/"><u>How GPT-3's Successor - GPT-4 - Becomes Available for All Users with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-incorporating-chatgpt-and-whisper-apis-can-transform-your-business-strategies/"><u>How Incorporating ChatGPT & Whisper APIs Can Transform Your Business Strategies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-a2plusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi A2+FRP Lock</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-gesture-control-a-comprehensive-overview/"><u>In 2024, Mastering Gesture Control A Comprehensive Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-support-from-ai-discover-how-chnagpt-aids-content-artists-9-uses/"><u>Innovative Support From AI: Discover How Chnagpt Aids Content Artists (9 Uses)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-bard-googles-new-ai-rivals-chatgpt-in-the-world-of-conversational-technology/"><u>Introducing Bard: Google's New AI Rivals ChatGPT in the World of Conversational Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-googles-gemini-how-does-it-stack-up-against-chatgpt/"><u>Introducing Google's Gemini: How Does It Stack Up Against ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-trust-medical-advice-from-chatgpt-evaluating-ai-in-healthcare-guidance/"><u>Is It Safe to Trust Medical Advice From ChatGPT? - Evaluating AI in Healthcare Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-microsofts-chatbot-down-find-out-using-these-5-strategies/"><u>Is Microsoft's Chatbot Down? Find Out Using These 5 Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-daily-meditation-habits-insights-and-advice/"><u>Leveraging ChatGPT for Daily Meditation Habits - Insights & Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-image-creation-utilizing-dall-e-with-chatgpt-4/"><u>Mastering AI Image Creation: Utilizing DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tips-and-key-aspects-for-selecting-the-ideal-video-capture-unit/"><u>Top Tips and Key Aspects for Selecting the Ideal Video Capture Unit</u></a></li>
 </ul></div>
 

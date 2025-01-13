@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Kodi Setup on Xbox One - Step-by-Step Instructions"
-date: 2024-08-16T10:04:15.959Z
-updated: 2024-08-17T10:04:15.959Z
+date: 2025-01-06T17:14:24.153Z
+updated: 2025-01-13T17:06:44.551Z
 tags:
   - win11
   - win10
@@ -19,12 +19,13 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
 ## How do I connect my laptop to the TV with HDMI
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1
 
  Power on your laptop and TV (both with HDMI ports) and prepare an HDMI cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2
 
@@ -32,13 +33,22 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3
 
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4
@@ -46,6 +56,10 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 Tada! You may see the same screen with your laptop on the TV.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I couldn’t see the same screen with my laptop on the TV?
 
@@ -59,32 +73,28 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select**TV** from Display drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-27.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  6) Change the Resolution to earn a best view on TV screen. Then click OK to save your settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What if there’s no sound from TV speakers?
 
  If you can’t hear the audio from your TV, make sure the sound isn’t muted, and that the volume is set properly both on your laptop and TV.
@@ -94,9 +104,6 @@ In addition, set your HDMI audio output device as the default device.
  1) Right-click on the sound icon at the bottom right on your laptop’s screen. Then click**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-17.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Highlight your HDMI audio output device and click**Set Default** .
 
@@ -106,9 +113,6 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Still No Sound?
 
  If after all the settings above, there’s still no sound from your TV’s speakers, we highly recommend you update your HDMI audio output device driver. You can choose to download the latest driver from your device manufacturer’s website. However, it’s not as easy as it sounds. It needs you to find the correct driver and download it all manually.
@@ -118,9 +122,6 @@ In addition, set your HDMI audio output device as the default device.
  To update your drivers with Driver Easy, just click the **Scan Now** button, then when it lists the drivers you need to update, click **Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That’s all there is to it. Hopefully, you can enjoy the large screen now.
 
@@ -132,8 +133,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +140,21 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-prime-image-editing-techniques/"><u>[New] In 2024, Prime Image Editing Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-invisible-volume-tapering-a-guide-for-audacity-enthusiasts/"><u>[New] Invisible Volume Tapering A Guide for Audacity Enthusiasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-8-proven-video-growth-enhancers-for-2024/"><u>[New] Top 8 Proven Video Growth Enhancers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-altered-captions-a-video-guide/"><u>[Updated] Altered Captions A Video Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-decoding-youtubes-procedure-after-a-video-is-uploaded/"><u>[Updated] Decoding YouTube's Procedure After a Video Is Uploaded</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-end-scene-excellence-your-guide-to-yt-outro-mastery-for-2024/"><u>[Updated] End Scene Excellence Your Guide to YT Outro Mastery for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-viewer-recognition-the-play-button-reward-ribbon/"><u>[Updated] Viewer Recognition The Play Button Reward Ribbon</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-creative-project-success-using-chatgpts-advanced-tools/"><u>Boosting Creative Project Success Using ChatGPT's Advanced Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-remote-job-efficiency-top-6-uses-of-chatgpt/"><u>Boosting Remote Job Efficiency: Top 6 Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-waiting-list-growing-longer-switch-to-this-award-winning-open-source-desktop-solution/"><u>ChatGPT Waiting List Growing Longer? Switch to This Award-Winning Open Source Desktop Solution!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-solutions-for-holistic-healthcare/"><u>ChatGPT-Powered Solutions for Holistic Healthcare</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/code-crafting-conundrum-github-copilot-versus-gpt-3/"><u>Code Crafting Conundrum: GitHub Copilot Versus GPT-3?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-durability-why-this-apple-watch-titanium-band-is-a-game-changer-exclusive-review-zdnet/"><u>Ultimate Durability: Why This Apple Watch Titanium Band Is a Game Changer – Exclusive Review | Zdnet</u></a></li>
+</ul></div>
 

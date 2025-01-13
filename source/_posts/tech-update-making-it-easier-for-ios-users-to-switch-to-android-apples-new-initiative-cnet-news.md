@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Making It Easier for iOS Users to Switch to Android - Apple's New Initiative | CNET News"
-date: 2025-01-05T21:49:24.606Z
-updated: 2025-01-06T22:03:00.628Z
+date: 2025-01-07T17:34:08.478Z
+updated: 2025-01-13T16:17:00.128Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -67,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -87,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,6 +93,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,24 +158,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[New] 2024 Approved A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-enhancing-visual-effects-with-movie-maker-for-animation-projects-for-2024/"><u>[New] Enhancing Visual Effects with Movie Maker for Animation Projects for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-to-webm-top-tier-conversion-applications-reviewed-for-2024/"><u>[New] YouTube to WebM Top-Tier Conversion Applications Reviewed for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transforming-visuals-the-power-of-customized-luts/"><u>[Updated] Transforming Visuals The Power of Customized LUTs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-livestream-tools-and-solutions/"><u>2024 Approved Elite Livestream Tools & Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mp43swf/"><u>最適なMP4への変換!無料で人気がある3つのSWFファイルコンバーター</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hassle-free-methods-for-converting-facebook-footage-into-memorable-gifs/"><u>Hassle-Free Methods for Converting Facebook Footage Into Memorable GIFs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-outdated-is-your-ipad-compared-to-new-models-on-the-market/"><u>How Outdated Is Your iPad Compared to New Models on the Market?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-x6-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco X6 Through Google Earth?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/leading-firefox-recording-software-for-2024/"><u>Leading Firefox Recording Software for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/lossless-duplication-methods-for-the-hunger-games-part-ii-dvd-content/"><u>Lossless Duplication Methods for The Hunger Games Part II DVD Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-and-simple-guide-switching-your-videos-from-mp4-format-to-wmv-seamlessly/"><u>Quick & Simple Guide: Switching Your Videos From MP4 Format to WMV Seamlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-techniques-for-effortless-mts-file-compression/"><u>Simple Techniques for Effortless MTS File Compression</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transforming-crdownload-files-into-mp4-videos/"><u>Step-by-Step Guide: Transforming CRDOWNLOAD Files Into MP4 Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-preventing-permanent-changes-without-backup/"><u>Techniques for Preventing Permanent Changes without Backup</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-complete-process-for-customizing-video-game-channels-for-2024/"><u>The Complete Process for Customizing Video Game Channels for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-free-holiday-contests-and-prizes-exclusive-2020-christmas-gift-wins/"><u>Top Free Holiday Contests & Prizes: Exclusive 2020 Christmas Gift Wins!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-how-to-transform-your-dvd-collection-into-premium-mpeg2-format-videos/"><u>Ultimate Guide: How To Transform Your DVD Collection Into Premium MPEG2 Format Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-picks-5-premier-youtube-video-splitters-and-cutters-available-online/"><u>Ultimate Picks: 5 Premier YouTube Video Splitters and Cutters Available Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-10-key-strategies-to-enhance-insta-highlights/"><u>[New] 10 Key Strategies to Enhance Insta Highlights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-achieving-flawless-fb-live-via-zoom-streaming/"><u>[Updated] In 2024, Achieving Flawless FB Live via Zoom Streaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722118515473-bring-your-mobile-experience-upgrade-with-bings-new-ai-search-feature-for-iosandroid-devices/"><u>Bring Your Mobile Experience Upgrade with Bing's New AI Search Feature for iOS/Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722122779069-chatgpt-surprises-with-gaming-fun-check-out-these-exceptional-game-picks-for-non-stop-entertainment/"><u>ChatGPT Surprises with Gaming Fun! Check Out These Exceptional Game Picks for Non-Stop Entertainment</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-clear-images-made-easy-picart-backdrop-takedown-technique/"><u>In 2024, Clear Images Made Easy PicArt Backdrop Takedown Technique</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/legal-battle-cooler-master-files-lawsuit-over-unauthorized-use-of-proprietary-radiator-technology/"><u>Legal Battle: Cooler Master Files Lawsuit Over Unauthorized Use of Proprietary Radiator Technology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-fuser-crashes-ultimate-solutions-for-a-smooth-windows-experience/"><u>Mastering Fuser Crashes: Ultimate Solutions for a Smooth Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-perpetually-halted-100-in-windows-update/"><u>Troubleshooting Guide: Resolving Perpetually Halted 100% in Windows Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722130054102-tweet-no-more-emojis-linuss-secrets-revealed-trojan-dangers-decoded-and-gpt-issues-exposed/"><u>Tweet No More Emojis, Linus’s Secrets Revealed, Trojan Dangers Decoded, & GPT Issues Exposed.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-implications-for-privacy-when-interacting-with-chatgpt/"><u>Understanding the Implications for Privacy When Interacting with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-leap-forward-in-ai-an-insight-into-googles-palm-2-model/"><u>Understanding the Leap Forward in AI: An Insight Into Google's PaLM 2 Model</u></a></li>
 </ul></div>
 

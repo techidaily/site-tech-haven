@@ -1,7 +1,7 @@
 ---
 title: Turbocharge Your Mozilla Experience with These 10 Quick Fixes, Achieving Up to 5X Speeds
-date: 2024-08-16T10:07:54.885Z
-updated: 2024-08-17T10:07:54.885Z
+date: 2025-01-10T16:11:19.391Z
+updated: 2025-01-13T16:15:20.488Z
 tags:
   - win11
   - win10
@@ -57,6 +57,10 @@ Firefox will check for updates for you automatically.
 
  Overloaded history will slow your Firefox down. By private browsing, you won’t go through the trouble of deleting them every time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Free up memory
 
  1) Type**about:memory** in the address bar and hit**Enter** .
@@ -64,11 +68,16 @@ Firefox will check for updates for you automatically.
  2) Under the Free memory section, choose**Minimize memory usage** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/about-memory-1024x608.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Firefox will now release in-use memory that’s no longer needed. This should provide a pretty quick boost in speed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Enable hardware acceleration
 
@@ -81,24 +90,19 @@ Firefox will check for updates for you automatically.
  3) Uncheck the box**Use recommended performance settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/uncheck-the-box-1024x829.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check the box for**Use hardware acceleration when available** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/acceleration-1024x829.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  As for the content limit, it’s set to 8 at default. This can improve performance when using multiple tabs but it will also use more memory. It’s recommended to leave it at default if you have more than 8 GB of RAM. You can reduce the number if it eats up your memory.
 
  Tip: Press the**Windows logo** key and**Pause/Break** key to check the amount of RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Update your graphics driver
 
  Firefox and some plugins use your graphics card to speed up the display of web content. In addition, advanced web features like WebGL (Web Graphics Library) also need a graphics card to improve performance. To speed up Firefox, you may need to update your graphics card drivers.
@@ -127,17 +131,11 @@ Firefox will check for updates for you automatically.
  3) Click_**Update All**_ to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Manage your tabs
 
  If you are used to keeping many tabs open, you can try an extension called[Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/) to reduce your memory usage by hibernating inactive tabs. Also, you can whitelist the tabs you want active all the time.
@@ -147,13 +145,7 @@ Firefox will check for updates for you automatically.
  You can enter**Options** to change the settings as you wish. Just don’t forget to scroll down the page to**Save Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Auto-tab-discard-options-973x1024.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Prevent accessibility services
 
  Firefox Accessibility Service may negatively impact Firefox browsing performance. You can disable it if you’re not using any type of physical impairment assistive software.
@@ -167,9 +159,6 @@ Firefox will check for updates for you automatically.
  4) Check the**Prevent accessibility services from accessing your browser** box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/prevent-accessibility-services-1024x786.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
 5) Restart your Firefox for the changes to take effect.
 
@@ -183,9 +172,17 @@ Firefox will check for updates for you automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/restart-with-add-on-disabled-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Start in Safe Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Resart-in-Safe-Mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To speed up your Firefox, you can disable unnecessary extensions and themes to make it work to its best. To disable them, you can go to**Menu** \>**Add-ons** and disable the extensions and themes you don’t need.
 
@@ -203,18 +200,17 @@ Firefox will check for updates for you automatically.
 | **security.dialog\_enable\_delay**        | **0**     | disables the delay                 |
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/False-1024x250.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the toggle button![](https://images.drivereasy.com/wp-content/uploads/2020/01/1.png) to set it to false.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/set-it-to-0.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the edit![](https://images.drivereasy.com/wp-content/uploads/2020/01/edit.png) button and enter 0, then click the checkmark![](https://images.drivereasy.com/wp-content/uploads/2020/01/checkmark.png)
@@ -243,9 +239,6 @@ Firefox will check for updates for you automatically.
 * **Allow Firefox to install and run studies** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Firefox-Data-Collection-and-Use.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will delete all your telemetry data in the past within 30 days.
 
@@ -259,7 +252,15 @@ Firefox will check for updates for you automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/referesh-Firefox-1024x275.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wrapping up
 
@@ -273,8 +274,6 @@ Firefox will check for updates for you automatically.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,4 +281,20 @@ Firefox will check for updates for you automatically.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-harnessing-metaverse-promotion-power/"><u>[New] 2024 Approved Harnessing Metaverse Promotion Power</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unleashing-creativity-in-hd-windows-powered-visionary-editing-and-viewing/"><u>[New] Unleashing Creativity in HD Windows-Powered Visionary Editing & Viewing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-erasing-extra-borders-for-smooth-youtube-playback/"><u>[Updated] 2024 Approved Erasing Extra Borders for Smooth YouTube Playback</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-effortless-entertainment-top-free-free-meme-ideas-for-2024/"><u>[Updated] Effortless Entertainment Top Free, FREE Meme Ideas for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-exclusive-list-of-top-digital-tutorial-providers-sans-udemy/"><u>[Updated] In 2024, Exclusive List of Top Digital Tutorial Providers Sans Udemy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-ultimate-setup-guide-for-effective-after-effects-texting/"><u>[Updated] In 2024, The Ultimate Setup Guide for Effective After Effects Texting</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/navigating-uncertain-waters-a-guide-to-the-hazards-of-crypto-assets-with-yl-softwares-analysis/"><u>Navigating Uncertain Waters: A Guide to the Hazards of Crypto Assets with YL Software's Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailor-made-ai-communication-crafting-your-own-model/"><u>Tailor-Made AI Communication: Crafting Your Own Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-and-siri-features-on-iphones/"><u>The Ultimate Guide to Leveraging ChatGPT and Siri Features on iPhones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-top-ai-chatbots-comparing-features-and-performance-between-chatgpt-bing-ai-and-google-bard/"><u>The Ultimate Guide to Top AI Chatbots: Comparing Features and Performance Between ChatGPT, Bing AI & Google Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-enhancing-your-ai-communication-through-expert-prompt-writing-for-chatbots/"><u>The Ultimate Guide: Enhancing Your AI Communication Through Expert Prompt Writing for Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-20-essential-chatgpt-trigger-words-in-github-repositories/"><u>Top 20 Essential ChatGPT Trigger Words in GitHub Repositories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-factors-behind-chatgpts-unprecedented-rise-as-a-global-phenomenon/"><u>Top 5 Factors Behind ChatGPT's Unprecedented Rise as a Global Phenomenon</u></a></li>
+</ul></div>
 

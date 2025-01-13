@@ -1,7 +1,7 @@
 ---
 title: Enlisted - How to Boost FPS & Fix Lag
-date: 2024-08-16T10:02:46.453Z
-updated: 2024-08-17T10:02:46.453Z
+date: 2025-01-07T17:42:43.468Z
+updated: 2025-01-13T16:05:14.411Z
 tags:
   - win11
   - win10
@@ -44,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 1. Press the**Windows key** to open the Start menu, type**Windows Update settings** in the search box and select it from the result that appears.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Win11-type-wus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Check for updates** and wait for a while.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Win11-check-for-update.jpg)
 3. If the checking result is**updates available** , the system will automatically download and install it for you.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Win-11-update-available.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or if the checking result is **You’re up to date,**  then you can just close the Setting windows.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-up-to-date.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If this method doesn’t work for you, try the following below.
 
@@ -73,9 +69,6 @@ If this method doesn’t work for you, try the following below.
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DEscan-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All).  
@@ -94,17 +87,15 @@ If this method doesn’t work for you, try the following below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-Task-manager-2.jpg)
 2. Under the**Processes** tab, you will have detailed information on the right and the name of each process on the left. Select some processes using up most of the available resources and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-emd-task.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 If this method doesn’t work for you, try the following below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method** 4:**Adjust startup App** s
 
  Usually Windows 11 would run faster when you start your computer with less startup Apps. Disable some of the unnecessary startup Apps is a way to help with the lagging problem in Windows 11.
@@ -114,22 +105,24 @@ If this method doesn’t work for you, try the following below.
 2. Click the**toggles** to**Off** for those Apps you want to keep them from automatically opening (especially those with**High impact** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Win-11-startup-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying these settings, have a check to see if it works for you. If not, try next one below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method** 5:**Uninstall rarely-used apps**
 
 1. Press the**Windows key** to open the Start menu, type**apps & features** in the search box and select it from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-type-af.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 2. Next, you will see a list of apps installed in your system. Click the**3-dots button** on the apps you rarely use and then select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-app-unistall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some of the apps can not be uninstalled because they are critical built-in features of Windows 11.
 
@@ -141,11 +134,17 @@ If this method doesn’t work for you, try the following below.
 
 1. Press the**Windows key** to open the Start menu, type**visual effects** in the search box and select it from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-type-ve-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 2. If the**Transparency effects** and**Animation effects** are_on_ in the list, click on the**toggles** to turn them off.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Win-11-visual-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying these settings, have a check to see if it works for you. If not, try the following below.
 
@@ -159,43 +158,47 @@ If this method doesn’t work for you, try the following below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-type-ss.jpg)
 2. Click T**emporary files** in the right section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-tf.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 3. Click**Remove files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** The system will autumnally select the files that can be safely deleted. If you also want to clear the Recycle bin which wouldn’t be autumnally selected, tick the check box before you make sure that there is nothing important in the Recycle bin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-tf-remove.jpg)
 4. Click**Continue** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-tf-continue.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this method doesn’t work for you, try the following below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method** 8:**Run Disk Cleanup**
 
  Disk Cleanup is a built-in tool in Windows to assist users remove useless files and free up disk space.
 
 1. Press the**Windows key** to open the Start menu, type**disk cleanup** in the search box and select it from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-type-dc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 2. Wait a while for the calculating.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-dc-wait.jpg)
 3. Under the Disk Cleanup tab, tick the check box from the list of**Files to delete** and click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-dc-ok.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-dc-ok.jpg)
 4. Click**Delete Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-26_18-44-38.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -211,8 +214,6 @@ If this method doesn’t work for you, try the following below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +221,24 @@ If this method doesn’t work for you, try the following below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-strategies-for-measuring-igtv-popularity-indicators/"><u>[Updated] 2024 Approved Strategies for Measuring IGTV Popularity Indicators</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-wealth-creation-through-video-networking/"><u>2024 Approved Digital Wealth Creation Through Video Networking</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-shoot-and-score-top-techniques-for-great-youtube-cinematography/"><u>2024 Approved Shoot and Score Top Techniques for Great YouTube Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-instagram-video-success/"><u>2024 Approved The Insider’s Guide to Instagram Video Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-ultimate-guide-to-recording-gaming-with-fraps/"><u>2024 Approved The Ultimate Guide to Recording Gaming with Fraps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-version-numbers-unveiling-the-reasons-behind-my-devotion-to-the-apple-watch-series-7/"><u>Beyond Version Numbers: Unveiling the Reasons Behind My Devotion to the Apple Watch Series 7.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-apple-turn-the-tide-for-frustrated-sonos-customers-insights-and-possibilities/"><u>Can Apple Turn the Tide for Frustrated Sonos Customers? Insights & Possibilities</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-the-onetastic-add-in-enhancing-your-microsoft-onenote-experience/"><u>Comprehensive Analysis: The Onetastic Add-In Enhancing Your Microsoft OneNote Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-did-crowdstrikes-windows-meltdown-event-unfold-a-historical-analysis-revealed-by-zdnet/"><u>How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/lgs-latest-audio-enhancement-the-ultimate-tv-experience-that-will-thrill-apple-fans-insights-from-zdnet/"><u>LG's Latest Audio Enhancement: The Ultimate TV Experience That Will Thrill Apple Fans | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/title-option-2-navigating-the-world-of-apples-timepieces-a-comprehensive-guide-to-picking-between-the-apple-watch-ultra-and-series-vectors-1-4/"><u>Title Option #2: Navigating the World of Apple's Timepieces: A Comprehensive Guide to Picking Between the Apple Watch Ultra and Series Vectors = [1, -4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranked-desktops-and-laptops-a-comprehensive-review-by-brand/"><u>Top-Ranked Desktops & Laptops : A Comprehensive Review by Brand</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-seamless-shopping-with-apple-pay-benefits-and-strategies-for-using-it-offline-and-online/"><u>Unlock Seamless Shopping with Apple Pay: Benefits & Strategies for Using It Offline and Online</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-visualize-your-music-top-free-applications-to-watch-out-for-on-iphones-and-android-devices/"><u>Updated In 2024, Visualize Your Music Top Free Applications to Watch Out For on iPhones and Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrading-from-the-m3-macbook-pro-to-the-m1-model-is-it-worth-it-a-comprehensive-review-by-zdnet/"><u>Upgrading From the M3 MacBook Pro to the M1 Model: Is It Worth It? A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-earnings-guide-policy-overhaul-explained-for-2024/"><u>YouTube Earnings Guide Policy Overhaul Explained for 2024</u></a></li>
+</ul></div>
 

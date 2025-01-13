@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks
-date: 2025-01-02T05:39:49.341Z
-updated: 2025-01-06T21:10:52.145Z
+date: 2025-01-12T18:21:08.931Z
+updated: 2025-01-13T16:09:08.185Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -48,13 +48,13 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
@@ -62,7 +62,7 @@ So, clearly, Quick Actions is limited without a bit of extra work. However, if y
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -92,7 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -145,24 +145,19 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-igtv-techniques-seamlessly-transforming-vlogs-for-maximum-views-for-2024/"><u>[New] IGTV Techniques Seamlessly Transforming Vlogs for Maximum Views for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-explore-androids-best-moba-experiences-in-10/"><u>[Updated] 2024 Approved Explore Android's Best MOBA Experiences in #10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-adding-youtube-music-to-video/"><u>[Updated] Adding YouTube Music To Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensively-reviewed-androids-lightroom-features-and-functions/"><u>2024 Approved Comprehensively Reviewed Android’s Lightroom Features & Functions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comparative-study-samsung-vs-traditional-photo-tools/"><u>Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-8-plus-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 8 Plus In Easy Steps | Stellar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-poco-x6-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Poco X6 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-se-2020-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone SE (2020) Without a Home Button</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-landscape-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Navigating the Social Landscape: Strategies for Facebook, Twitter, Instagram & Youtube Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-preserving-sound-integrity-while-changing-aif-format-to-wav/"><u>Step-by-Step Guide: Preserving Sound Integrity While Changing AIF Format to WAV</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-making-the-switch-from-dvds-to-avi-seamlessly/"><u>Step-by-Step Tutorial: Making the Switch From DVDs to AVI Seamlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-15-ultimate-destinations-for-live-football-matches-streaming/"><u>Top 15 Ultimate Destinations for Live Football Matches Streaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-methods-for-capturing-screen-and-sound-seamlessly-on-windows-10/"><u>Top Methods for Capturing Screen & Sound Seamlessly on Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-pick-ultimate-guide-to-the-finest-pc-windows-software-for-converting-dvds-to-mkv/"><u>Top Pick: Ultimate Guide to the Finest PC Windows Software for Converting DVDs to MKV</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-4k-video-editor-programs-a-comprehensive-guide/"><u>Top Rated 4K Video Editor Programs: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-3gp-footage-into-engaging-animated-gifs-with-easy-tutorials/"><u>Transforming 3GP Footage Into Engaging Animated GIFs with Easy Tutorials</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-for-streaming-high-efficiency-video-coding-hevc-content-on-hdtvs/"><u>Troubleshooting Tips for Streaming High-Efficiency Video Coding (HEVC) Content on HDTVs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-bin-editor-quickly-switch-bin-files-to-mp4-and-avi-formats-for-flawless-viewing-across-devices/"><u>Ultimate BIN Editor: Quickly Switch BIN Files to MP4 and AVI Formats for Flawless Viewing Across Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-decode-the-mysteries-in-depth-guide-to-stardews-ginger-island/"><u>[New] In 2024, Decode the Mysteries In-Depth Guide to Stardew's Ginger Island</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-diving-into-the-world-of-igtv/"><u>[Updated] 2024 Approved Step-by-Step Diving Into the World of IGTV</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unlock-professional-video-quality-with-top-youtube-to-webm-tools/"><u>[Updated] In 2024, Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-codegpts-vision-could-it-automate-the-coding-process/"><u>Exploring CodeGPT's Vision: Could It Automate the Coding Process?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-every-aspect-of-apples-ai-breakthroughs-revealed-at-wwdc-2024/"><u>Exploring Every Aspect of Apple’s AI Breakthroughs Revealed at WWDC 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-future-how-machine-learning-is-shaping-gaming/"><u>Exploring the Future: How Machine Learning Is Shaping Gaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-truthgpt-coin-is-it-a-reliable-investment-or-just-another-scam/"><u>Exploring TruthGPT Coin - Is It a Reliable Investment or Just Another Scam?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-3-an-ally-for-aspiring-poets-and-writers/"><u>GPT-3: An Ally for Aspiring Poets and Writers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improve-your-professional-emailing-techniques-leverage-chatgpt-to-tackle-difficult-conversations-at-work/"><u>Improve Your Professional Emailing Techniques: Leverage ChatGPT to Tackle Difficult Conversations at Work</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 13 mini</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-securing-your-anonymity-during-instagrams-live-feature/"><u>In 2024, Securing Your Anonymity During Instagram's Live Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-transferring-images-from-google-photos-to-icloud-a-simple-guide/"><u>Seamlessly Transferring Images From Google Photos to iCloud: A Simple Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/voyage-for-valuables-5-prime-map-expeditions/"><u>Voyage for Valuables 5 Prime Map Expeditions</u></a></li>
 </ul></div>
 

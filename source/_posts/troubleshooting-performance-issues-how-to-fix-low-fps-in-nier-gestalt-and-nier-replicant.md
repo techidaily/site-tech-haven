@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Performance Issues: How to Fix Low FPS in NieR: Gestalt and NieR: Replicant"
-date: 2024-08-16T10:07:52.990Z
-updated: 2024-08-17T10:07:52.990Z
+date: 2025-01-09T17:34:15.821Z
+updated: 2025-01-13T17:45:38.228Z
 tags:
   - win11
   - win10
@@ -59,6 +59,10 @@ Below are the minimum hardware requirements for Windows 10:
 
  Once you get ready for upgrading to Windows 10, follow the step-by-step guide to download and install Windows 10 on your Window s 7 computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 1: Create Windows 10 installation media
 
  You’ll need a blank USB flash drive with at least 8GB of space to store the Windows 10 installation file.
@@ -66,82 +70,77 @@ Below are the minimum hardware requirements for Windows 10:
 1. Plug your prepared USB drive into your Windows 7 computer.
 2. Go to the official[Microsoft Windows 10 download website](https://www.microsoft.com/en-us/software-download/windows10) .
 3. Click**Download tool now** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_16-53-33.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 4. Double-click the downloaded file. Then click**Yes** when prompted by User Account Control.
 5. Click**Accept** to agree the license terms.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-21-04.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 6. You’ll then see the What do you want to do page. Select **Create installation media(USB flash drive, DVD, or ISO file) for another PC** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-22-56.png)
 7. Click**Next** if you accept to use the recommended options. If you want to change the option, unselect Use the recommended options for this PC, then set your preferred options and click Next to proceed.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-23-51.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Next** with the default selected option USB flash drive on the Choose which media to use page. Tick USB flash drive if it’s not selected.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-25-38.png)
 9. Select your USB drive from the list, then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-31-10-1.png)
 10. It’ll then start downloading Windows 10 ISO file and creating Windows 10 media onto your USB drive. The process may last around 10 minutes. Click Finish on the Your USB flash drive is ready page.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-44-54.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you’ve burnt Windows 10 ISO file to the USB flash drive. Follow along the next part to install Windows 10 on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Part 2: Install Windows 10 on your Windows 7 computer
 
  Plug your USB flash drive into your Windows 7 computer. If you’re using the same computer, then just leave your USB flash drive in the USB port.
 
 1. Restart your computer and continuously press**F2** to boot into**BIOS** .
 2. Press the**right arrow key** to select the**Boot** pane.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_11-13-04.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 3. Under the Boot pane, find your USB flash drive’s section, it may be**Removable Devices** ,**USB HDD** or something like that. Change the section to the top of the boot order list.  
  If you have different USB devices connected to your computer, make sure your USB flash drive is listed 1st of the section.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_11-13-04.png)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Press**F10** to save your setting and exit BIOS. Then press**Enter** with Yes selected.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_11-18-23.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Your computer will restart and boot from your USB flash drive.
 6. Set the language, time format and keyboard method, then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-45-31.png)
 7. Click Install now.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-47-24.png)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-8. Enter your product key.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_17-46-59.png)
-9. Choose the**Windows 10 edition** according to your product key type. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-50-39.png)
-10. Tick on**I accept the license terms** . Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-53-53.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-11. Click**Custom: Install Windows only(advanced)** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-54-30.png)
-12. Select the drive which you plan to install the system. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-55-53.png)  
- Windows should then start to be installing onto your computer.  
- Important: Remove your USB flash drive when you see the Windows needs to restart to continue page.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_17-01-19.png)  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
- Till now, the Windows 10 is almost installed on your computer.
-13. Follow the on-screen OOBE(Out-of-Box-Experience) instructions to set up Windows 10 on your computer. The setup includes but not only like Cortana and region settings.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_17-06-33.png)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+8. Enter your product key.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_17-46-59.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+9. Choose the**Windows 10 edition** according to your product key type. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-50-39.png)
+10. Tick on**I accept the license terms** . Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-53-53.png)
+11. Click**Custom: Install Windows only(advanced)** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-54-30.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+12. Select the drive which you plan to install the system. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-55-53.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Windows should then start to be installing onto your computer.  
+ Important: Remove your USB flash drive when you see the Windows needs to restart to continue page.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_17-01-19.png)  
+ Till now, the Windows 10 is almost installed on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+13. Follow the on-screen OOBE(Out-of-Box-Experience) instructions to set up Windows 10 on your computer. The setup includes but not only like Cortana and region settings.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_17-06-33.png)
+
  After the basic setup, your Windows 7 computer has successfully upgraded to Windows 10\. You’re able to download your frequent using apps and start enjoying Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What you might concern after the upgrade…
 
@@ -154,9 +153,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them –**either manually** through Windows or all automatically with[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-463.png)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -168,8 +164,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +171,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-sharex-review-and-alternatives/"><u>[New] 2024 Approved ShareX Review and Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor/"><u>[New] Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-digital-moguls-guide-to-vimeo-earnings-mastery-for-2024/"><u>[Updated] The Digital Mogul's Guide to Vimeo Earnings Mastery for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-tutorial-updating-nvme-controller-drivers-in-windows-easily/"><u>Complete Tutorial: Updating NVMe Controller Drivers in Windows Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshopping-magic-deformation-tips/"><u>In 2024, Photoshopping Magic Deformation Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-strategies-to-improve-your-dandd-experience-using-chatgpt/"><u>Innovative Strategies to Improve Your D&D Experience Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-ubuntu-mastering-conversational-ai-via-shell-interface/"><u>Integrating ChatGPT with Ubuntu: Mastering Conversational AI via Shell Interface</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-gpt-5-on-the-horizon-exploring-the-release-timeline/"><u>Is GPT-5 on the Horizon? Exploring the Release Timeline</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/learning-from-human-input-is-chatgpt-able-to-evolve/"><u>Learning From Human Input: Is ChatGPT Able to Evolve?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-chatgpts-strengths-in-7-health-factors/"><u>Leveraging AI: ChatGPT's Strengths in 7 Health Factors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-for-total-life-enhancement/"><u>Mastering ChatGPT for Total Life Enhancement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-pc-storage-identifying-excess-disk-usage-in-windows/"><u>Maximizing PC Storage: Identifying Excess Disk Usage in Windows</u></a></li>
+</ul></div>
 

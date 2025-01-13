@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2025-01-02T00:52:08.295Z
-updated: 2025-01-07T02:23:06.049Z
+date: 2025-01-09T16:27:16.481Z
+updated: 2025-01-13T16:13:32.226Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,20 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ps5-ssd-and-hdd-wonders-top-10-exteriors/"><u>[New] 2024 Approved PS5 SSD & HDD Wonders Top 10 Exteriors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-professional-screen-grabber-for-win11/"><u>[Updated] 2024 Approved Professional Screen Grabber for Win11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-your-monetized-channel-blueprint-for-online-creators/"><u>2024 Approved Your Monetized Channel Blueprint for Online Creators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-you-creating-a-roadmap-for-successful-health-ambitions-today/"><u>ChatGPT and You: Creating a Roadmap for Successful Health Ambitions Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehende-research-via-conversational-ai/"><u>Comprehende Research via Conversational AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deploying-ai-browsers-mastering-the-utilization-of-agentgpt/"><u>Deploying AI Browsers: Mastering the Utilization of AgentGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-gemini-15s-innovative-use-of-one-million-tokens-revolutionizes-the-market/"><u>How Gemini 1.5'S Innovative Use of One Million Tokens Revolutionizes the Market</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-itel-p40-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Itel P40 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-corrupt-nikon-mov-video-files/"><u>How to Fix Corrupt Nikon MOV Video Files?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nokia-c110-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nokia C110 Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/local-language-learning-models-llm-to-use-or-not-to-use/"><u>Local Language Learning Models (LLM): To Use or Not to Use?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-variants-browsing-versions-vs-plugin-solutions-for-optimal-use/"><u>Navigating ChatGPT Variants: Browsing Versions Vs. Plugin Solutions for Optimal Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimize-your-daily-tasks-with-chatgpt-smart-tips-for-a-streamlined-workflow/"><u>Optimize Your Daily Tasks with ChatGPT: Smart Tips for a Streamlined Workflow</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/orchestrating-a-journey-through-hidden-youtube-archives-for-2024/"><u>Orchestrating a Journey Through Hidden YouTube Archives for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-promote-instagram-post-successfully/"><u>[New] 2024 Approved How to Promote Instagram Post Successfully</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-transform-ppt-deck-into-video-stream/"><u>[New] In 2024, Transform PPT Deck Into Video Stream</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boosting-views-top-14-gaming-video-ideas-that-work/"><u>[Updated] Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-insight-visionpro-x-review-the-2023-edition-explored-for-2024/"><u>Complete Insight VisionPro X Review – The 2023 Edition Explored for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-canvases-with-code-ai-art-via-chatgpt-techniques/"><u>Crafting Canvases with Code: AI Art via ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/directive-bavarder-setup-path-linux-edition/"><u>Directive Bavarder Setup Path, Linux Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-6-chatgpt-addons-that-will-transform-your-vs-code-workflow/"><u>Discover the Leading 6 ChatGPT Addons That Will Transform Your VS Code Workflow</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-ai-programs-to-tackle-math-challenges/"><u>Discover the Ultimate List of AI Programs to Tackle Math Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diversify-your-skills-using-chatgpt-excel-in-board-games-and-generate-stunning-images-with-ease/"><u>Diversify Your Skills Using ChatGPT: Excel in Board Games and Generate Stunning Images with Ease</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-13ipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 13/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-social-media-game-by-integrating-chatgpt-into-your-content-strategy/"><u>Elevate Your Social Media Game by Integrating ChatGPT Into Your Content Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensure-digital-safety-for-children-5-strategies-to-utilize-chatgpt-securely/"><u>Ensure Digital Safety for Children: 5 Strategies to Utilize ChatGPT Securely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-untapped-benefits-essential-chatgpt-tools-you-might-be-ignoring/"><u>Explore Untapped Benefits: Essential ChatGPT Tools You Might Be Ignoring</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-height-tracking-the-ultimate-tutorial-for-using-iphones-elevation-features/"><u>Mastering Height Tracking: The Ultimate Tutorial for Using iPhone's Elevation Features</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/schritt-fur-schritt-guide-zum-wiederherstellen-von-adata-microsd-speicherkarte/"><u>Schritt-Für-Schritt-Guide Zum Wiederherstellen Von ADATA MicroSD-Speicherkarte</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-accessing-edit-logs-and-track-changes-in-microsoft-excel-online/"><u>Step-by-Step Guide: Accessing Edit Logs and Track Changes in Microsoft Excel Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison on ZDNet"
-date: 2025-01-02T22:28:55.318Z
-updated: 2025-01-06T21:58:52.061Z
+date: 2025-01-11T17:56:59.631Z
+updated: 2025-01-13T18:10:12.668Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -49,10 +53,6 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 
 Samsung
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You're committed to Samsung's ecosystem
 
 ### Samsung Unpacked
@@ -65,16 +65,12 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You expect to do any gaming
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want maximum software compatibility
@@ -87,19 +83,23 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
 The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook Pro.
 
 Apple
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### See also
 
@@ -120,10 +120,6 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You need a ton of RAM or storage
 
 The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra with are 32GB and 1TB, respectively. While these are plenty for the average user, a content creator might fill that storage quickly with 8K video, while the RAM limitation might strain processing times within their workflow. The MacBook Pro, however, can be configured with as much as 96GB of RAM and 8TB of storage. That's triple the memory and eight times the storage of its competitor. Of course, such a maxed-out beast would be expensive, but the option remains for the most demanding laptop users who actually need all of that memory and space. 
@@ -131,6 +127,10 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,24 +185,24 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-10-best-youtube-keyword-tools-to-get-more-views-filmora/"><u>[New] In 2024, 10 Best YouTube Keyword Tools to Get More Views - Filmora</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-top-10-live-audio-broadcast-networks/"><u>[New] Top 10 Live Audio Broadcast Networks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-ultimate-guide-to-adjusting-to-new-facebook-ranking-criteria/"><u>[Updated] 2024 Approved The Ultimate Guide to Adjusting to New Facebook Ranking Criteria</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-inside-the-scoring-of-toolwizs-photography-software/"><u>[Updated] In 2024, Inside the Scoring of Toolwiz's Photography Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-streaming-showdown-is-streamlabs-or-obs-your-best-choice/"><u>[Updated] In 2024, Streaming Showdown Is Streamlabs or OBS Your Best Choice?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-facebook-updates-with-chatgpt-insights/"><u>Boost Your Facebook Updates with ChatGPT Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/captivating-holiday-vistas-through-designed-panes/"><u>Captivating Holiday Vistas Through Designed Panes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-crypto-investment-understanding-the-5-key-constraints-you-should-know-about/"><u>ChatGPT and Crypto Investment: Understanding the 5 Key Constraints You Should Know About</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-literary-sidekick-9-innovative-ways-to-compose-engaging-novels/"><u>ChatGPT as Your Literary Sidekick: 9 Innovative Ways to Compose Engaging Novels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-insights-four-pathways-to-better-time-management/"><u>ChatGPT Insights: Four Pathways to Better Time Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-essential-artifice-intelligence-vocabulary/"><u>Comprehensive Guide to Essential Artifice Intelligence Vocabulary</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-phenomenon-of-ai-illusions-techniques-for-spotting-inaccuracuities-in-machine-learning-models/"><u>Decoding the Phenomenon of AI Illusions: Techniques for Spotting Inaccuracuities in Machine Learning Models</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/experience-the-next-dimension-of-cinema-how-to-playback-3d-movies-with-crystal-clear-resolution-on-4k-tvs/"><u>Experience the Next Dimension of Cinema: How to Playback 3D Movies with Crystal-Clear Resolution on 4K TVs!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-registering-for-bings-ai-enhanced-search-platform/"><u>Guide: Registering for Bing's AI Enhanced Search Platform</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-pova-5-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Pova 5 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-productivity-for-free-master-gpt-4-accelerated-technology-with-copilot-assistance/"><u>Maximize Productivity for Free – Master GPT-4 Accelerated Technology with Copilot Assistance</u></a></li>
-<li><a href="https://fox-links.techidaily.com/selfies-in-focus-iphones-8-innovative-tools/"><u>Selfies in Focus IPhone's #8 Innovative Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-key-contrast-in-ai-technology-exploring-strong-ai-versus-weak-ai/"><u>The Key Contrast in AI Technology: Exploring Strong AI Versus Weak AI</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-nine-game-streaming-haven-explored-for-2024/"><u>Top Nine Game Streaming Haven Explored for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-hash-strategies-for-optimizing-youtube-gameplay-videos/"><u>[New] 2024 Approved Essential Hash Strategies for Optimizing YouTube Gameplay Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-implementing-real-time-transcriptions-in-reels-and-stories/"><u>[New] In 2024, Implementing Real-Time Transcriptions in Reels and Stories</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ioneering-unmicrophoned-audio-capturing-methods-for-2024/"><u>[New] Pioneering Unmicrophoned Audio Capturing Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-2-directors-cut-downloads/"><u>[Updated] 2024 Approved Top 2 Director's Cut Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boosting-video-quality-in-zoom-with-advanced-effects/"><u>[Updated] Boosting Video Quality in Zoom With Advanced Effects</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>[Updated] Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>[Updated] In 2024, Direct Links Sharing Twitch Content with Friends on FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-transforming-facebook-streams-into-flawless-records/"><u>[Updated] In 2024, Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-with-ai-the-case-for-using-chatgpts-7-ways-in-healthcare/"><u>Bridging the Gap with AI: The Case for Using ChatGPT's 7 Ways in Healthcare</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-ai-like-chatgpt-contribute-to-the-creation-of-viruses-and-malware/"><u>Can AI Like ChatGPT Contribute to the Creation of Viruses and Malware?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-partner-in-conducting-productive-online-team-sessions/"><u>ChatGPT as Your Partner in Conducting Productive Online Team Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-installation-made-easy-for-windows-users/"><u>ChatGPT Installation Made Easy for Windows Users!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-now-on-ios-download-the-cutting-edge-ai-assistant-today/"><u>ChatGPT Now On iOS - Download the Cutting-Edge AI Assistant Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-speeds-analyzed-what-makes-chatgpt-4-less-efficient-than-35/"><u>ChatGPT Speeds Analyzed - What Makes ChatGPT-4 Less Efficient Than 3.5?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-the-titans-llama-3-against-gpt-4-for-ultimate-dominance/"><u>Comparing the Titans: Llama 3 Against GPT-4 for Ultimate Dominance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digital-discourse-dissection-my-ai-vs-bings-skype-replica/"><u>Digital Discourse Dissection: My AI vs Bing's Skype Replica</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-superior-alternatives-to-chatgpt-app-for-android-and-ios-users/"><u>Discover 7 Superior Alternatives to ChatGPT App for Android and iOS Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-stunning-video-invites-top-apps-for-ios-and-android/"><u>In 2024, Create Stunning Video Invites Top Apps for iOS and Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-editing-made-easy-shortening-video-lengths/"><u>In 2024, YouTube Editing Made Easy Shortening Video Lengths</u></a></li>
 </ul></div>
 

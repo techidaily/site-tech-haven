@@ -1,7 +1,7 @@
 ---
 title: "Stop Intrusive Ads Across Browsers: How to Block Pop-Ups in Chrome, Firefox & Edge Instantly!"
-date: 2024-08-16T10:05:00.962Z
-updated: 2024-08-17T10:05:00.962Z
+date: 2025-01-11T17:30:08.918Z
+updated: 2025-01-13T18:06:24.293Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Having problem logging into your Windows 10 desktop because of a blue screen of 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea3601034ac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea3661b66a1.png)
@@ -55,6 +59,10 @@ Having problem logging into your Windows 10 desktop because of a blue screen of 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea36c6d6c28.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Press **F4** ,**F5** , or**F6** according to your own needs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea36e1e59af.jpg)
@@ -62,38 +70,30 @@ Having problem logging into your Windows 10 desktop because of a blue screen of 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2: From Settings
 
  1) Type**settings** in the search bar, and click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea37a313dea.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Update & security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea37ad0c4e9.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Recovery** and **Restart Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea37b239f75.png)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Wait for a while at this page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea37b73b10f.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
  5) The rest of the procedure is the same with[**ste** **p** **5) to 9)**](https://tools.techidaily.com/drivereasy/download/) in the first option.
 
@@ -106,18 +106,17 @@ Having problem logging into your Windows 10 desktop because of a blue screen of 
 1) Open the **Start** menu and click the **Power** button. While pressing on the **Shift** key on your keyboard, click **Restart.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ea371ebd6f3.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  2) The rest of the procedure is the same with[**ste** **p** **5) to 9)**](https://tools.techidaily.com/drivereasy/download/) in the first option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +125,20 @@ Having problem logging into your Windows 10 desktop because of a blue screen of 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools-for-2024/"><u>[New] The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-discovering-the-edge-of-action-cam-excellence-with-intova-x/"><u>[Updated] 2024 Approved Discovering the Edge of Action Cam Excellence with Intova X</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-techniques-for-webcam-integration-in-game-recording-for-2024/"><u>[Updated] Top Techniques for WebCam Integration in Game Recording for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-sfpr-settings-for-leisurely-scenes/"><u>2024 Approved Best SFPR Settings for Leisurely Scenes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cut-to-the-chase-boosting-your-instagram-with-content/"><u>Cut to the Chase - Boosting Your Instagram with Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-chatgpt-freedom-tools-pros-cons-and-usage-advice/"><u>Demystifying ChatGPT Freedom Tools: Pros, Cons, and Usage Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-enhanced-interactions-with-chatgpt-turning-on-new-beta-features-for-web-navigation-and-plugin-integration/"><u>Discover Enhanced Interactions with ChatGPT: Turning On New Beta Features for Web Navigation and Plugin Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-how-to-communicate-with-chatgpt-a-comprehensive-guide/"><u>Discover How to Communicate with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-rectifying-failed-graphics-device-setup-in-directx/"><u>Effective Solutions for Rectifying Failed Graphics Device Setup in DirectX</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-top-7-ai-prompt-techniques-guaranteed-to-deliver-results/"><u>Effective Strategies: Top 7 AI Prompt Techniques Guaranteed to Deliver Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-writing-speed-via-hix-and-gpt/"><u>Elevate Writing Speed via HIX & GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-remote-work-discussions-using-ai/"><u>Elevating Remote Work Discussions Using AI</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-se-2022-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone SE (2022)</u></a></li>
+</ul></div>
 

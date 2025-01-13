@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2025-01-03T18:00:27.071Z
-updated: 2025-01-06T17:21:46.630Z
+date: 2025-01-09T17:20:56.278Z
+updated: 2025-01-13T16:54:22.215Z
 tags:
   - apple
 categories:
@@ -75,28 +75,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-essential-gopro-editing-the-top-15-color-luts-selection-guide-for-2024/"><u>[Updated] Essential GoPro Editing The Top 15 Color LUTs Selection Guide for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-strategies-and-costs-promoting-videos-effectively/"><u>[Updated] Strategies and Costs Promoting Videos Effectively</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-github-dialogues-with-enhanced-chatgpt-use/"><u>Cutting-Edge Github Dialogues with Enhanced ChatGPT Use</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/dealing-with-display-dysfunctions-a-guide-to-correcting-blue-screen-gpu-issues-by-yl-software/"><u>Dealing with Display Dysfunctions: A Guide to Correcting Blue Screen GPU Issues by YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-power-of-claude-navigate-3-uses-and-benefits/"><u>Discovering the Power of Claude Navigate 3: Uses and Benefits</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-your-dialogues-with-gpt-chrome-edition/"><u>Enhancing Your Dialogues with GPT, Chrome Edition!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-script-to-scenario-chatgpts-six-steps-to-perfecting-roleplay/"><u>From Script to Scenario: ChatGPT's Six Steps to Perfecting Roleplay</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-ai-evolving-unveiling-geminis-challenge-to-chatgpt/"><u>Is AI Evolving? Unveiling Gemini’s Challenge to ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-ai-dialogue-for-film-selection/"><u>Leveraging AI Dialogue for Film Selection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-effective-spotify-promotion/"><u>Mastering the Art of Effective Spotify Promotion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protonvpn-switching-email-and-browsing-safely/"><u>ProtonVPN: Switching Email & Browsing Safely</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-of-your-windows-11-taskbar/"><u>Troubleshooting Fixes: How To Restore Functionality Of Your Windows 11 Taskbar</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/troubleshooting-vanished-playlists-on-apple-music-5-proven-solutions/"><u>Troubleshooting Vanished Playlists on Apple Music: 5 Proven Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/twitters-without-symbols-linuss-exposed-content-trojans-demystified-and-gpt-errors-spotlighted/"><u>Twitters Without Symbols, Linus’s Exposed Content, Trojans Demystified, & GPT Errors Spotlighted</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unhappy-with-vsdc-explore-these-top-mac-video-editing-options/"><u>Unhappy with VSDC? Explore These Top Mac Video Editing Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-exploring-the-different-facets-of-public-private-and-personal-artificial-intelligence/"><u>Unraveling the Mystery: Exploring the Different Facets of Public, Private, and Personal Artificial Intelligence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-artemis-1-liftoff-by-nasa-tips-on-streaming-the-event-live/"><u>Upcoming Artemis 1 Liftoff by NASA - Tips on Streaming the Event Live</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-windows-10-webcam-recording-top-10-software-options/"><u>Updated In 2024, Windows 10 Webcam Recording Top 10 Software Options</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essential-guide-to-21-hdmi-monitors-comparative-analysis-for-2024/"><u>[New] Essential Guide to 2.1 HDMI Monitors - Comparative Analysis for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-discover-the-best-8-innovative-5k-panels/"><u>[New] In 2024, Discover the Best 8 Innovative 5K Panels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>[Updated] 2024 Approved Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-blend-sounds-in-presentation-ppts/"><u>[Updated] Blend Sounds in Presentation PPTs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>2024 Approved Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account/"><u>2024 Approved How To Get Paid on YouTube - From AdSense to Your Bank Account</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenge-accepted-how-twitter-x-checkmarks-stack-up-and-chatgpts-biggest-flaws-uncovered-by-a-tech-visionary/"><u>Challenge Accepted: How Twitter X Checkmarks Stack Up and ChatGPT's Biggest Flaws Uncovered by a Tech Visionary</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-cupids-arrow-elevating-your-search-for-love-through-technology/"><u>ChatGPT and Cupid's Arrow: Elevating Your Search for Love Through Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/combatting-loneliness-a-guide-on-leveraging-chatgpt/"><u>Combatting Loneliness: A Guide on Leveraging ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-thinking-in-ai-era-six-justifications-for-a-skeptical-approach/"><u>Critical Thinking in AI Era: Six Justifications for a Skeptical Approach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/daily-dharma-with-technology-cultivating-zen-through-gpt/"><u>Daily Dharma with Technology: Cultivating Zen Through GPT</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/depannage-rapide-pourquoi-votre-disque-dur-nest-pas-detecte-suite-au-formatage/"><u>Dépannage Rapide : Pourquoi Votre Disque Dur N'est Pas Détecté Suite Au Formatage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-pop-7-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Pop 7 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

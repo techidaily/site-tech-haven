@@ -1,7 +1,7 @@
 ---
 title: "Mastering Kodi Modding: A Step-by-Step Guide to Adding the KodiNerds Repository"
-date: 2024-08-16T10:06:49.108Z
-updated: 2024-08-17T10:06:49.108Z
+date: 2025-01-08T17:34:58.984Z
+updated: 2025-01-13T17:14:55.557Z
 tags:
   - win11
   - win10
@@ -26,18 +26,17 @@ With a Google account, you can enjoy all the wonderful services provided by Goog
 1. **[Laptop or desktop](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Android device](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Create a Google account on your laptop or desktop
 
 1. Go to the Google account creation page.
 2. Enter your name, username and**password** , then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 3. **Verify your phone number** . Select your country, then enter your phone number to receive the 6-digit verification code message. Click**Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/verify-your-phone-number.png)
 4. Enter the 6-digit verification code you received and click**Verify** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/verify-your-phone-number-2.png)
@@ -48,33 +47,38 @@ With a Google account, you can enjoy all the wonderful services provided by Goog
 7. Google will present the privacy policies for your Google Account. Once you’ve read these terms, click **I agree** to complete Google account creation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/google-account-creation.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s it! It’s pretty easy, isn’t it? Now it’s time to enjoy Google services with your Google account.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Create a Google account on your Android device
 
  If you’re using an Android phone, you can also create a Google account right on your phone. Now I’ll show you how to do it on a Google Pixel phone. For other Android phones, the steps are similar.
 
 1. Unlock your Android phone and go to**Settings** \>**Accounts** \>**Add account** . Then Select**Google** to start creating.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Settings-Accounts-Add-account-google.png)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 2. Tap**Create account** in the lower-left corner. Then follow the on-screen instructions to enter your name and phone number. Tap**Next** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Create-Google-account-on-Android-phone.png)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Enter the verification code and your basic information, then choose your Gmail address, which is also your Google account.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account-3.png)
 4. Google will present the privacy policies for your Google Account. Once you’ve read these terms, click **I agree** to complete Google account creation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account-4-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, you’ve successfully created a new Google account!
@@ -91,8 +95,6 @@ Now, you’ve successfully created a new Google account!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +102,20 @@ Now, you’ve successfully created a new Google account!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-pioneering-eco-friendly-visual-effects-aids-for-2024/"><u>[Updated] Pioneering Eco-Friendly Visual Effects Aids for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/critical-choices-for-perfect-snaps/"><u>Critical Choices for Perfect Snaps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722139505512-entertainment-meets-intelligence-top-6-games-you-can-enjoy-on-chatgpt/"><u>Entertainment Meets Intelligence – Top 6 Games You Can Enjoy on ChatGPT!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/explore-the-finest-movie-series-youtubes-10-pack-no-cost-in-2024/"><u>Explore the Finest Movie Series YouTube's 10-Pack, No Cost, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-case-study-how-to-grow-on-youtube-to-have-millions-of-subs/"><u>In 2024, Case Study How to Grow on YouTube to Have Millions of Subs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-g22-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia G22 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-great.techidaily.com/introducing-the-new-copilotplus-pc-microsofts-answer-to-apples-powerful-m3-macbooks-insights-from-zdnet/"><u>Introducing the New Copilot+ PC: Microsoft's Answer to Apple's Powerful M3 MacBooks - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-emojis-on-snapchat-your-fast-track-guide-to-understanding-symbols/"><u>Mastering Emojis on Snapchat: Your Fast Track Guide to Understanding Symbols</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prevent-data-extraction-by-online-bots/"><u>Prevent Data Extraction by Online Bots</u></a></li>
+<li><a href="https://article-files.techidaily.com/pro-free-photo-workspace-discover-the-best-editing-suites/"><u>Pro Free Photo Workspace Discover the Best Editing Suites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/virtual-mixologist-prowess-can-chatgpt-whip-up-a-perfect-cocktail/"><u>Virtual Mixologist Prowess: Can ChatGPT Whip Up a Perfect Cocktail?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-artificial-intelligence-bots-arent-the-right-tool-for-legitimate-windows-11-key-production/"><u>Why Artificial Intelligence Bots Aren't the Right Tool for Legitimate Windows 11 Key Production</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/will-chatgpt-be-able-to-formulate-effective-and-secure-custom-workouts-perfect-for-your-fitness-goals/"><u>Will ChatGPT Be Able To Formulate Effective And Secure Custom Workouts Perfect For Your Fitness Goals?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2025-01-05T18:46:27.427Z
-updated: 2025-01-07T01:22:40.771Z
+date: 2025-01-07T16:42:53.236Z
+updated: 2025-01-13T16:40:16.745Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you've ever wondered how we evaluate the [latest smartphones](https://www.zdn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test phones in 2024
@@ -43,7 +43,7 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What makes a phone ZDNET recommended?
@@ -53,7 +53,7 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -66,10 +66,6 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance
 
 Kerry Wan/ZDNET
@@ -79,6 +75,10 @@ Several factors affect a phone's performance, including LTE/5G signal, battery l
 Performance testing also includes putting phones through varying levels of graphic-intensive tasks, including importing and exporting spreadsheets, photo-editing in Adobe Lightroom, and playing mobile games like _Genshin Impact_ and _Asphalt 9\._ I'll oftentimes have a music player app running in the background or YouTube Picture-in-Picture just to push the mobile processor a little more.
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cameras
 
@@ -90,10 +90,6 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery life and charging
 
 Kerry Wan/ZDNET
@@ -101,6 +97,10 @@ Kerry Wan/ZDNET
 It's also important for us to evaluate how long phones last under light, moderate, and heavy usage, how long they take to recharge, and how they do it (wired, wireless, or both). We typically judge the endurance of phones based on screen-on time (SOT); that's the total amount of time the screen is turned on, whether you're scrolling through TikTok or typing an email. The higher the SOT, the longer the phone lasts.
 
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Special features
 
@@ -148,14 +148,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-find-hotspots-for-online-video-dialogue/"><u>[Updated] In 2024, Find Hotspots for Online Video Dialogue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top5/"><u>最新動画合成ツールが入手できる！今年のおすすめフリーソフトウェアランキングTOP5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-intel-reliable-array-raid-controller-drivers-for-latest-windows-operating-systems/"><u>Download & Update Intel Reliable Array (RAID) Controller Drivers for Latest Windows Operating Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-compatible-logitech-g-pro-wireless-controller-drivers-for-windows-11-10-8-and-7/"><u>Free Download: Compatible Logitech G Pro Wireless Controller Drivers for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nspired-from-top-10-recruitment-videos/"><u>Get Inspired From Top 10 Recruitment Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-battle-of-mobile-os-a-closer-look-at-android-iphone-and-symbian/"><u>The Battle of Mobile OS: A Closer Look at Android, iPhone, and Symbian</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-converting-videoclips-to-m4a-with-minimal-hustle/"><u>The Ultimate Tutorial: Converting Videoclips to M4A with Minimal Hustle</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-lava-storm-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Storm 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trustworthy-guide-for-converting-high-efficiency-video-coding-hevc-to-mp4-with-hitfilm-express-software/"><u>Trustworthy Guide for Converting High-Efficiency Video Coding (HEVC) to MP4 with Hitfilm Express Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-enhance-your-experience-with-mi-11-screen-capture-guide/"><u>[New] 2024 Approved Enhance Your Experience with Mi 11 Screen Capture Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-exclusive-performers-webcasts/"><u>[New] In 2024, Exclusive Performers' Webcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-effectively-move-files-between-two-ios-units/"><u>[New] In 2024, How to Effectively Move Files Between Two iOS Units</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-premier-recommendations-best-iphone-tones-designers/"><u>[New] Premier Recommendations Best iPhone Tones Designers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-no-charge-subtitle-makers-srt/"><u>[Updated] The Ultimate Guide to No-Charge Subtitle Makers (SRT)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-branding-in-videos-incorporating-logoswatermarks-for-youtube-content/"><u>2024 Approved Branding in Videos Incorporating Logos/Watermarks for YouTube Content</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-12-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 12 Pro?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-key-points-when-choosing-between-bing-chat-and-chatgpt-as-a-self-employed-professional/"><u>Top 8 Key Points When Choosing Between Bing Chat and ChatGPT as a Self-Employed Professional</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-immediate-chatgpt-add-ons-for-enhanced-ai-interaction/"><u>Top 9 Immediate ChatGPT Add-Ons for Enhanced AI Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-six-strategies-leveraging-chatgpt-in-your-remote-and-freelance-career/"><u>Top Six Strategies: Leveraging ChatGPT in Your Remote & Freelance Career</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-risks-in-mobile-gpt-downloads/"><u>Understanding Risks in Mobile GPT Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-the-ai-revolution-advantages-and-vulnerabilities/"><u>Unpacking the AI Revolution: Advantages and Vulnerabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-how-computers-cant-take-over-creative-writing-jobs/"><u>Unveiling How Computers Can't Take Over Creative Writing Jobs</u></a></li>
 </ul></div>
 

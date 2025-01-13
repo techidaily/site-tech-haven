@@ -1,7 +1,7 @@
 ---
 title: "From Newbie to Ninja: An Easy-to-Follow Guide on Playing Fortnite on Windows or Mac"
-date: 2024-08-16T10:02:22.891Z
-updated: 2024-08-17T10:02:22.891Z
+date: 2025-01-06T17:14:42.202Z
+updated: 2025-01-13T18:08:20.038Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How can I set up a VPN on Xbox One?
 
  There are two methods to set up a VPN for Xbox One: through either your Wi-Fi router or your computer. The step-by-step guides for both ways will be shown below.  
@@ -85,9 +82,17 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331b51871bd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4)**Configure your Wi-Fi router’s setting.**
  Enter the details of your VPN subscription(IP, Subnet Mask, username and password, etc) into your Wi-Fi router’s setting.  
@@ -96,20 +101,22 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3327633bb2e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5)**Connect your Xbox One to the configured Wi-Fi router** .(Skip this step if your Xbox One has been already connected to the router.)
 
 5-1) Click the Settings icon if your Xbox Live. Then select All settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
@@ -134,8 +141,9 @@ a) get it through your Windows computer:
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  b) If you’re using a**Mac computer** , go with the followings:  
@@ -146,9 +154,6 @@ a) get it through your Windows computer:
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c33250282eb8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) **Buy a VPN subscription and install its software to configure it on your computer.** You can review[how to choose a VPN service through the method above](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -161,18 +166,6 @@ a) get it through your Windows computer:
  3-2) Click Sign up as a new user and follow the on-screen instructions to sign up and log in.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8c899a82.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3-3) Click Quick connect to automatically connect to the server recommended for you. Or you can also connect to a server in a specific country by clicking on the country pin on the map.
 
@@ -194,8 +187,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +194,26 @@ Enjoy playing Xbox One games!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-playlist-for-bike-enthusiasts/"><u>[Updated] 2024 Approved Ultimate Playlist for Bike Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-top-5-ios-tools-to-download-facebook-movies-and-clips/"><u>[Updated] Top 5 iOS Tools to Download Facebook Movies & Clips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-intelligence-vs-the-latest-tech-why-the-iphone-16-may-not-be-worth-it-insights/"><u>Apple Intelligence Vs. The Latest Tech: Why the iPhone 16 May Not Be Worth It - Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-redmi-a2plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Redmi A2+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-ios-158-how-upgrading-can-cause-ipad-malfunctions-tips-for-a-safe-update/"><u>Beware of iOS 15.8: How Upgrading Can Cause iPad Malfunctions - Tips for a Safe Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-security-in-silicon-valley-the-importance-of-apples-approach-to-guarding-cloud-based-ai-data-zdnet/"><u>Ensuring Security in Silicon Valley: The Importance of Apple's Approach to Guarding Cloud-Based AI Data | ZDNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/expertise-in-cutting-edge-encoders-for-live-media-for-2024/"><u>Expertise in Cutting-Edge Encoders for Live Media for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-code-to-cocktails-how-effective-is-chatgpt-at-concocting-liquid-innovations/"><u>From Code to Cocktails: How Effective Is ChatGPT at Concocting Liquid Innovations?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/implementing-youtube-video-automatic-start-on-facebook-for-2024/"><u>Implementing Youtube Video Automatic Start on Facebook for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-11-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 11 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-upgrade-unlocking-the-potential-of-ios-16-beta-version-now-or-should-you-wait-expert-advice-gizmotrends/"><u>IPhone Upgrade: Unlocking the Potential of iOS 16 Beta Version Now or Should You Wait? Expert Advice | GizmoTrends</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/macbook-air-with-apple-m1-chip-unbeatable-deal-at-only-649-top-saving/"><u>MacBook Air with Apple M1 Chip: Unbeatable Deal at Only $649 – Top Saving</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pros-and-cons-of-switching-to-iphone-16-insights-from-top-zdnet-editors/"><u>Pros and Cons of Switching to iPhone 16: Insights From Top ZDNet Editors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rediscovering-fun-in-fortnite-battle-royale-detailed-reviews-of-a-newly-exciting-season/"><u>Rediscovering Fun in Fortnite Battle Royale: Detailed Reviews of a Newly Exciting Season</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-faulty-ports-the-windows-way-to-reclaim-usb-health/"><u>Restoring Faulty Ports - The Windows Way to Reclaim USB Health</u></a></li>
+<li><a href="https://fox-http.techidaily.com/samsung-ubd-k8500-review/"><u>Samsung UBD-K8500 Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-great-2024-crowdstrike-windows-crisis-explained-a-deep-dive-into-the-events-that-shook-cybersecurity/"><u>The Great 2024 CrowdStrike-Windows Crisis Explained: A Deep Dive Into the Events that Shook Cybersecurity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-apple-watch-straps-thoroughly-evaluated-by-tech-gurus/"><u>Top Rated Apple Watch Straps - Thoroughly Evaluated by Tech Gurus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrade-or-not-in-depth-review-and-comparison-between-the-new-macbook-airs-m3-and-m2-chips-by-tech-experts-at-zdnet/"><u>Upgrade or Not? In-Depth Review and Comparison Between the New MacBook Air's M3 & M2 Chips by Tech Experts at ZDNET</u></a></li>
+</ul></div>
 

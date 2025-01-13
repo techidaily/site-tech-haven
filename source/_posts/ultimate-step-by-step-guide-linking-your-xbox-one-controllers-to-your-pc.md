@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Step-by-Step Guide: Linking Your Xbox One Controllers to Your PC"
-date: 2024-08-16T10:07:56.864Z
-updated: 2024-08-17T10:07:56.864Z
+date: 2025-01-06T16:30:42.624Z
+updated: 2025-01-13T17:16:33.218Z
 tags:
   - win11
   - win10
@@ -20,45 +20,43 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 ## How do I connect my laptop to the TV with HDMI
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1
 
  Power on your laptop and TV (both with HDMI ports) and prepare an HDMI cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2
 
  Plug the HDMI cable into both your laptop’s and TV’s HDMI ports.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3
 
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 4
 
 Tada! You may see the same screen with your laptop on the TV.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What if I couldn’t see the same screen with my laptop on the TV?
 
  1) On your laptop’s keyboard, press the**Windows logo** key +**R** key together to open the Run box.
@@ -67,16 +65,21 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Display** when viewed by Large icons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-30.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Select**TV** from Display drop-down list.
 
@@ -102,16 +105,14 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE:** If you cannot see your HDMI audio output device, right-click on the blank area of and tick on**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Still No Sound?
 
  If after all the settings above, there’s still no sound from your TV’s speakers, we highly recommend you update your HDMI audio output device driver. You can choose to download the latest driver from your device manufacturer’s website. However, it’s not as easy as it sounds. It needs you to find the correct driver and download it all manually.
@@ -132,8 +133,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +140,23 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-best-4k-video-recorders-the-leading-18-models/"><u>[New] In 2024, Best 4K Video Recorders The Leading 18 Models</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-ideas-into-engaging-youtube-video-plans/"><u>2024 Approved Transforming Ideas Into Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide-to-crafting-your-health-ambitions-with-chatgpt/"><u>A Step-by-Step Guide to Crafting Your Health Ambitions with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-on-demand-connecting-to-chatgpt-from-any-location-using-the-power-of-chatgpt-everywhere/"><u>AI on Demand: Connecting to ChatGPT From Any Location Using the Power of ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-deciding-between-claude-and-chatgpt-for-your-routine-use/"><u>AI Showdown: Deciding Between Claude & ChatGPT for Your Routine Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-discreet-dialogues-with-chatgpt-and-additional-services-on-duckduckgos-ai-chat-tool/"><u>Begin Discreet Dialogues with ChatGPT and Additional Services on DuckDuckGo's AI Chat Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-10-zero-cost-video-collaboration-platforms-for-enterprises-and-education-for-2024/"><u>Best 10 Zero-Cost Video Collaboration Platforms For Enterprises & Education for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/block-unauthorized-openai-access/"><u>Block Unauthorized OpenAI Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-wellbeing-with-ai-discover-the-9-key-ways-to-use-chatgpt/"><u>Boosting Wellbeing with AI: Discover the 9 Key Ways to Use ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-the-complexity-of-ai/"><u>Breaking Down the Complexity of AI</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/effortless-capture-iphones-dual-task-technique-for-2024/"><u>Effortless Capture IPhone's Dual-Task Technique for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-setting-up-windows-movie-maker-60/"><u>In 2024, Masterclass Setting Up Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-firmware-update-for-dells-system-management-bus-driver-what-you-need-to-know/"><u>Latest Firmware Update for Dell's System Management Bus Driver: What You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-y100a-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y100A Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-the-enhanced-ease-of-iphone-16s-maintenance-over-earlier-versions-insights-from-apple-zdnet/"><u>Unpacking the Enhanced Ease of iPhone 16'S Maintenance Over Earlier Versions - Insights From Apple | ZDNet</u></a></li>
+</ul></div>
 

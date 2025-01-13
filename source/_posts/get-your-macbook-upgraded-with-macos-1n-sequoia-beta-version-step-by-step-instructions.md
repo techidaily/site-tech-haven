@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2025-01-01T18:34:16.519Z
-updated: 2025-01-06T21:22:35.488Z
+date: 2025-01-09T17:49:35.933Z
+updated: 2025-01-13T17:05:05.815Z
 tags:
   - apple
 categories:
@@ -33,16 +33,12 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -53,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -81,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,20 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-zoom-essentials-for-webinar-novices-an-introductory-walkthrough/"><u>[New] 2024 Approved Zoom Essentials for Webinar Novices An Introductory Walkthrough</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-exploring-advanced-options-with-gopro-burst-features-for-2024/"><u>[Updated] Exploring Advanced Options with GoPro Burst Features for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-obs-dominion-vs-streamlabs-kingdom/"><u>[Updated] OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-and-updating-nvidia-geforce-mx150-drivers-on-windows-1011/"><u>Complete Guide to Downloading and Updating NVIDIA GeForce MX150 Drivers on Windows 10/11</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/complete-guide-restoring-your-ipad-using-an-icloud-backup-step-by-step-instructions/"><u>Complete Guide: Restoring Your iPad Using an iCloud Backup - Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creating-personalized-chatbot-solutions-using-your-dataset-a-step-by-step-guide/"><u>Creating Personalized Chatbot Solutions Using Your Dataset: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-mobile-browsing-with-bings-smart-ai-driven-search-compatible-with-android-and-iphone/"><u>Enhance Mobile Browsing with Bing’s Smart, AI-Driven Search - Compatible With Android & iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-question-of-user-data-security-in-chatgpt-interactions/"><u>Exploring the Question of User Data Security in ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generate-original-visual-content-using-microsoft-copilot-imagery-tool/"><u>Generate Original Visual Content Using Microsoft Copilot Imagery Tool</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-15-plus-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 15 Plus Before the Plan Expires</u></a></li>
-<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-the-implications-for-windows-memory-safety/"><u>Insights Into ftdibus.sys: The Implications for Windows Memory Safety</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-ai-enhanced-microsoft-bing-experience-on-android-devices/"><u>Mastering the AI-Enhanced Microsoft Bing Experience on Android Devices</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-trouble-free-setup-for-your-usb-camera-expertly-crafted-drivers-awaiting/"><u>Quick & Trouble-Free Setup for Your USB Camera - Expertly Crafted Drivers Awaiting!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4e-printer-driver-in-windows/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4e Printer Driver in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-code-companion-reigns-supreme-github-copilot-or-chaturbate-the-ultimate-developer-guide/"><u>Which Code Companion Reigns Supreme? GitHub Copilot or Chaturbate – The Ultimate Developer Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-tutorials-on-precision-digital-video-capture/"><u>[New] Expert Tutorials on Precision Digital Video Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-beyondthebaseline-mycams-successor/"><u>[New] In 2024, BeyondTheBaseline MyCam's Successor?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-tailoring-game-recording-features-for-windows-11-gamers-for-2024/"><u>[New] Tailoring Game Recording Features for Windows 11 Gamers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/our-path-forward-on-youtube-self-publishing-vs-major-label-partnership-for-2024/"><u>[New] Your Path Forward on YouTube Self-Publishing vs Major Label Partnership for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-boosting-visual-appeal-in-tiktok-videos/"><u>2024 Approved Boosting Visual Appeal in TikTok Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-conversations-you-can-return-to-anytime-techniques-for-bookmarking-interactions/"><u>ChatGPT Conversations You Can Return to Anytime: Techniques for Bookmarking Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-elevates-gpt-plus-launch-us-exclusive-edition/"><u>ChatGPT Elevates: GPT-Plus Launch US-Exclusive Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-boundaries-explored-7-inquiries-it-cant-resolve/"><u>ChatGPT's Boundaries Explored - 7 Inquiries It Can't Resolve</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-reducing-your-stress-levels-a-guide/"><u>ChatGPT's Role in Reducing Your Stress Levels: A Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-insights-why-blind-trust-in-ai-isnt-wise/"><u>Critical Insights: Why Blind Trust in AI Isn't Wise</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-mastery-top-6-ways-to-utilize-chatgpts-interpreter/"><u>Cutting-Edge Mastery: Top 6 Ways to Utilize ChatGPT's Interpreter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-practicality-of-localized-artificinal-thinking/"><u>Decoding the Practicality of Localized Artificinal Thinking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-problem-addressed-full-functionality-regained/"><u>GPU Problem Addressed, Full Functionality Regained</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-70-lite-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 70 Lite 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-successfully-install-pacific-drive-on-your-computer/"><u>Steps to Successfully Install Pacific Drive on Your Computer</u></a></li>
 </ul></div>
 

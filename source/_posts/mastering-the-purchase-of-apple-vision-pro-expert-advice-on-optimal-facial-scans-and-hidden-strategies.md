@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2025-01-05T23:48:02.037Z
-updated: 2025-01-07T01:18:17.098Z
+date: 2025-01-12T16:27:12.936Z
+updated: 2025-01-13T17:41:12.234Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,14 +129,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagrams-hidden-details-uncovering-story-viewer-truths/"><u>[New] 2024 Approved Instagram's Hidden Details Uncovering Story Viewer Truths</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mirrorless-vs-dslr-in-the-realm-of-video-filmmaking/"><u>[Updated] 2024 Approved Mirrorless vs DSLR in the Realm of Video Filmmaking</u></a></li>
-<li><a href="https://fox-links.techidaily.com/economical-panoramic-hd-camcorders-on-a-budget/"><u>Economical Panoramic HD Camcorders on a Budget</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-claude-3-language-model/"><u>Exploring the Capabilities of Claude 3 Language Model</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-gpt3-for-fitness-inquiry-mastery/"><u>Leveraging GPT3 for Fitness Inquiry Mastery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/no-emojis-on-twitter-linuss-leaks-trojan-explained-and-chatbot-glitches-highlighted/"><u>No Emojis on Twitter, Linus’s Leaks, Trojan Explained, & ChatBot Glitches Highlighted</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-choose-the-desktop-app-top-benefits-of-chatgpt-away-from-the-browser/"><u>Why Choose the Desktop App? Top Benefits of ChatGPT Away From the Browser</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-live-stream-frontier-deciding-between-obs-and-twitch-space/"><u>[New] In 2024, Live Stream Frontier Deciding Between OBS and Twitch Space</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-art-of-online-earnings-youtubes-money-matrix-for-2024/"><u>[New] The Art of Online Earnings YouTube's Money Matrix for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-rapid-camera-movements-home-filmmakers-guide/"><u>[Updated] 2024 Approved Rapid Camera Movements Home Filmmaker's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-security-outlook-discover-the-latest-trends-and-future-projections/"><u>Cyber Security Outlook: Discover the Latest Trends and Future Projections</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dialogue-to-discovery-using-chatgpt-for-views/"><u>Dialogue to Discovery: Using ChatGPT for Views</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-every-aspect-of-life-with-insights-from-chatgpt/"><u>Elevate Every Aspect of Life with Insights From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-instruction-design-with-these-7-digital-strategies/"><u>Elevate Your Instruction Design with These 7 Digital Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empower-your-job-quest-with-chatgpt-tips/"><u>Empower Your Job Quest with ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expect-swift-arrival-how-fast-youll-get-your-new-apple-vision-pro-revealed/"><u>Expect Swift Arrival: How Fast You'll Get Your New Apple Vision Pro Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-open-source-possibilities-deploying-an-unrestricted-chatbot-like-gpt-on-your-pc/"><u>Exploring Open-Source Possibilities: Deploying an Unrestricted Chatbot Like GPT on Your PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-youtube-to-wav-file-4-best-free-convert-solutions/"><u>In 2024, YouTube to WAV File 4 Best Free Convert Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Display Expansion: Setting Up Your Laptop for Second-Screen Functionality"
-date: 2024-08-16T10:08:12.085Z
-updated: 2024-08-17T10:08:12.085Z
+date: 2025-01-10T18:17:37.288Z
+updated: 2025-01-13T18:13:06.895Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba324261c48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) You’ll see Skype’s system status from the newly opened web page. If something is wrong with Skype, you’ll see the message here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3393bc52d.jpg)
@@ -44,8 +48,9 @@ _Skype can’t connect_
  3) If you do see message concerning connection problem, all you can do is to wait for Skype technicians to solve it on their end.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Upgrade Skype to the latest version
 
  If you don’t see error message on Skype Heartbeat, then it’s time for you to upgrade your Skype.
@@ -54,12 +59,13 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3c3c53b24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Update Classic Skype** or**Try the new Skype** as per your own needs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3ce447ed7.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
  3) You can also go the the official website of Skype to download the latest version from there.
 
@@ -72,10 +78,6 @@ _Skype can’t connect_
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba41495099c.png) and**I** at the same time. Click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4105e1a55.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
  2) Click**Check for updates** .
 
@@ -84,9 +86,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  3) Wait for Windows to search for and download available updates for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba41bf10bc6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) You may need to restart your PC for the changes to take effect.
 
@@ -101,6 +100,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  1) On your keyboard, press **Windows key**   and**X** at the same time, then click**Command Prompt (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba445219ad3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When prompted to give administrator permission, click**Yes** .
 
@@ -134,8 +137,9 @@ netsh int tcp show global
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
@@ -143,9 +147,6 @@ netsh int tcp show global
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
@@ -155,8 +156,6 @@ netsh int tcp show global
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +163,24 @@ netsh int tcp show global
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-easy-steps-for-perfect-screen-capture-with-mobizen/"><u>[New] Easy Steps for Perfect Screen Capture with Mobizen</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-precision-problem-solving-for-social-media-stories-issues/"><u>[New] Precision Problem-Solving for Social Media Stories Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-a-comprehensive-look-at-vlc-recorder/"><u>[Updated] 2024 Approved A Comprehensive Look at VLC Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-detailed-review-optimal-screen-recorders-for-live-broadcasts/"><u>[Updated] 2024 Approved Detailed Review Optimal Screen Recorders for Live Broadcasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro/"><u>[Updated] 2024 Approved Smoothly Softening Endings Audio Fades Made Simple with Adobe Premiere Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-mobile-technology-for-dji-visual-storytelling/"><u>[Updated] Mastering Mobile Technology for DJi Visual Storytelling</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/most-popular-sustainable-image-editing-tools-for-photographers/"><u>Most Popular Sustainable Image Editing Tools for Photographers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/six-key-benefits-of-opting-for-the-chatgpt-app-on-apple-devices-instead-of-the-web-site/"><u>Six Key Benefits of Opting for the ChatGPT App on Apple Devices Instead of the Web Site</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smarter-choices-better-lifestyle-mastering-ai-driven-conversation-skills/"><u>Smarter Choices, Better Lifestyle: Mastering AI-Driven Conversation Skills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-guide-to-seamless-editing-of-full-spherical-video-content-for-2024/"><u>Step-by-Step Guide to Seamless Editing of Full Spherical Video Content for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-success-with-anthropics-revolutionary-claude-3-prompt-hub/"><u>Step-by-Step Success with Anthropic's Revolutionary Claude 3 Prompt Hub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/to-choose-wisely-freelancers-guide-to-bing-chat-and-chatgpt-comparison/"><u>To Choose Wisely: Freelancer's Guide to Bing Chat and ChatGPT Comparison</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-complimentary-ai-applications-crafting-expert-level-business-emails-using-chatgpt-and-tidying-up-your-messages/"><u>Top 5 Complimentary AI Applications: Crafting Expert-Level Business Emails Using ChatGPT and Tidying Up Your Messages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-troubleshooting-tips-for-fixing-auto-gpt-setup-challenges/"><u>Top 6 Troubleshooting Tips for Fixing Auto-GPT Setup Challenges</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-your-non-functional-samsung-soundbar/"><u>Troubleshooting Tips: Resolving Issues with Your Non-Functional Samsung Soundbar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-maximum-response-tokens-how-to-optimize-usage/"><u>Understanding ChatGPT's Maximum Response Tokens: How to Optimize Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-workings-behind-ai-black-boxes-an-exploration-into-algorithmic-concealment/"><u>Unraveling the Workings Behind AI Black Boxes - An Exploration Into Algorithmic Concealment</u></a></li>
+</ul></div>
 

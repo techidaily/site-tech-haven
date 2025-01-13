@@ -1,7 +1,7 @@
 ---
 title: How to Connect an Xbox One Controller to a PC — 2024 Guide
-date: 2024-08-16T10:03:24.917Z
-updated: 2024-08-17T10:03:24.917Z
+date: 2025-01-11T16:21:50.856Z
+updated: 2025-01-13T16:24:08.443Z
 tags:
   - win11
   - win10
@@ -29,13 +29,18 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/usb-cable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The image is from[Electronicgrup](https://commons.wikimedia.org/wiki/File:0783.jpg) .
 
  Then plug the cable to the controller and the console. Once the controller and the console are connected, the controller will be paired automatically. You can check it by playing games with the PS4 controller on PS3 console.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Connect PS4 controller to PS3 console wirelessly
 
  If you prefer to play games wirelessly, you can choose to connect the PS4 controller to the console through bluetooth.
@@ -51,36 +56,33 @@ Then follow steps below to pair the controller:
  3) In the XMB menu, go to**Settings** \>**Accessory settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/accessory-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  4) Select**Manage Bluetooth Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/manage-bluetooth-devices.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) If you don’t have other bluetooth device paired, you’ll see the message: The Bluetooth device has not been registered. Do you want to register it? In this case, highlight**Yes** and press the**X** button on the controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a55ec01d26e2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  If some bluetooth devices have been paired, you’ll be prompted to pair a new bluetooth device. Highlight**Register Now Device** and press the**X** button on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/register-now-devcie.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Highlight**Start Scanning** and press the**X** button, then the system will scan available bluetooth devices to pair. You’ll expect the connected PS4 controller will be detected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/starting-scanning.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Disconnect PS4 controller.
@@ -98,14 +100,11 @@ Then follow steps below to pair the controller:
 * [PlayStation 3 (PS3)](https://www.drivereasy.com/tag-search/?tagId=10247)
 * [PlayStation 4 (PS4)](https://www.drivereasy.com/tag-search/?tagId=180)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +113,26 @@ Then follow steps below to pair the controller:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[Updated] 2024 Approved Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-vids-excellence-the-top-20-techniques-for-2024/"><u>[Updated] Facebook Vids Excellence The Top 20 Techniques for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-nord-3-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus Nord 3 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-chatbot-skills-7-key-methods-for-better-chatgpt-conversations/"><u>Boost Your Chatbot Skills: 7 Key Methods for Better ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-options-live-web-browsing-capabilities-against-powerful-plugin-integrations/"><u>Comparing ChatGPT Options: Live Web Browsing Capabilities Against Powerful Plugin Integrations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conquering-gpt-chatbeta-web-and-plugin-features-guide/"><u>Conquering GPT ChatBeta: Web & Plugin Features Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/content-design-breakthroughs-via-chatxt-influence/"><u>Content Design Breakthroughs via ChaTxt Influence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-a-unique-ai-writer-guidelebase-for-training-chatgpt-in-your-tone/"><u>Crafting a Unique AI Writer: Guidelebase for Training ChatGPT in Your Tone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-individualistic-gpt-3-writing-guidelines/"><u>Crafting Individualistic GPT-3 Writing Guidelines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-love-traps-how-artificial-intelligence-fuels-digital-relationship-swindles/"><u>Cyber Love Traps: How Artificial Intelligence Fuels Digital Relationship Swindles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-mysteries-of-claude-2/"><u>Decoding the Mysteries of Claude 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-generative-ai-the-basics-for-beginners/"><u>Demystifying Generative AI: The Basics for Beginners</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/explore-stunningly-detailed-minnie-mouse-graphics-and-hd-backgrounds-for-your-device-curated-by-yl-software-solutions/"><u>Explore Stunningly Detailed Minnie Mouse Graphics & HD Backgrounds for Your Device, Curated by YL Software Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-7-plus-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 7 Plus to iPad? | Dr.fone</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/manten-el-rendimiento-en-tu-video-transformar-formatos-de-mpeg-ts-a-mp4-sin-compromisos-top-10-metodos/"><u>Mantén El Rendimiento en Tu Video: Transformar Formatos De MPEG-TS a MP4 Sin Compromisos - Top 10 Metodos</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-transition-dance-mastering-enterexit-rituals-of-terminals-focused-state/"><u>Navigating the Transition Dance: Mastering Enter/Exit Rituals of Terminal's Focused State</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-solutions-for-resolving-the-no-user-login-issue-in-csgo/"><u>Top 5 Solutions for Resolving the 'No User Login' Issue in CSGO</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-resolving-0x8007007e-windows-error/"><u>Understanding and Resolving 0X8007007E Windows Error</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Take Screenshots in Windows
-date: 2024-08-16T10:06:46.103Z
-updated: 2024-08-17T10:06:46.103Z
+date: 2025-01-11T18:13:21.530Z
+updated: 2025-01-13T17:20:07.995Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 **[Way 3: Contact Windows Support online](https://tools.techidaily.com/drivereasy/download/)**
 **[Way 4: Contact Windows Support via Twitter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to Get Help Using Windows 10 Contact Support app**
 
  Windows 10 has a Contact Support app which has a built-in contact center. Through this way, you can find a solution to your issue or contact Windows technical support directly.
@@ -38,14 +42,29 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582bddfee56b3.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Choose the product that you are having problem with. In my case, I choose Windows.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582bdf00811d3.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then app will show you the solution to your problem.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582bdffabc7e6.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the app failed to show you the solution directly, you can choose to contact Windows tech support for further assistance. As you can see in the above screen shot, 3 contact ways are available:**Call me back** ,**Schedule a call** and**Chat** . Please note you may need to wait in a long telephone queue.
 
  If this way does not help, you might want to try below ways to get help for Windows 10.  
@@ -58,24 +77,16 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582bfb5f7aea3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
 
  **How to Get Windows 10 Help using Windows Support online**
 
  Microsoft provides contact form on their website. Just click[here](https://support.microsoft.com/en-us/contactus/) to go to the contact page. Follow the simple on-screen instructions to find the solution to your problem.  
   
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582bfb7e72c60.png)
   
  **Contact Windows Support via Twitter**
@@ -92,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +110,26 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-elite-collection-of-online-video-grabbers-and-savers/"><u>[New] In 2024, Elite Collection of Online Video Grabbers & Savers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-methods-6-steps-for-recording-minecraft-play/"><u>[Updated] 2024 Approved Essential Methods 6 Steps for Recording Minecraft Play</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-prime-mp4-conversion-for-seamless-facebook-sharing/"><u>[Updated] Prime MP4 Conversion for Seamless Facebook Sharing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-up-your-instagram-game-with-these-highest-rated-grid-makers/"><u>[Updated] Step Up Your Instagram Game with These Highest-Rated Grid Makers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/immediate-video-capture-and-audio-guide-app/"><u>Immediate Video Capture & Audio Guide App</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-secrets-to-high-impact-live-streaming-with-wirecast-on-youtube/"><u>In 2024, Unveiling the Secrets to High-Impact Live Streaming with WireCast on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/loschen-von-foto-uploads-auf-ihrem-ipad-mit-einfachen-schritten-tipps-and-tricks/"><u>Löschen Von Foto-Uploads Auf Ihrem iPad Mit Einfachen Schritten - Tipps & Tricks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/new-update-fire-tv-introduces-advertising-in-its-ambient-theme-screen-saver-feature/"><u>New Update: Fire TV Introduces Advertising in Its Ambient Theme Screen Saver Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pythons-role-in-harnessing-gpt-3/"><u>Python's Role in Harnessing GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/remote-work-revolutionized-6-insider-tricks-to-integrate-chatgpt-into-your-gig-jobs/"><u>Remote Work Revolutionized: 6 Insider Tricks to Integrate ChatGPT Into Your Gig Jobs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shielding-private-talks-stop-chatgpt-from-recording/"><u>Shielding Private Talks: Stop ChatGPT From Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/should-you-break-free-an-analysis-of-using-chatgpt-jailbreak-tools/"><u>Should You Break Free? An Analysis of Using ChatGPT Jailbreak Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sign-up-simplified-bypassing-mobile-numbers-on-apps/"><u>Sign-Up Simplified: Bypassing Mobile Numbers on Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchats-ai-vs-microsoft-bings-ai-face-off-on-skype-exploring-the-top-8-distinctions/"><u>Snapchat's AI Vs. Microsoft Bing's AI Face-Off on Skype: Exploring the Top 8 Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/start-immediate-use-top-8-tailored-gpt-models-available/"><u>Start Immediate Use: Top 8 Tailored GPT Models Available</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-finest-chatgpt-phrases-to-elevate-your-understanding-of-cryptocurrencies/"><u>The Finest ChatGPT Phrases to Elevate Your Understanding of Cryptocurrencies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-is-now-for-watches-unleashing-potential-via-chatgpt/"><u>The Future Is Now for Watches: Unleashing Potential via ChatGPT</u></a></li>
+</ul></div>
 

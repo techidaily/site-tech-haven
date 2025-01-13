@@ -1,7 +1,7 @@
 ---
 title: "Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights"
-date: 2025-01-01T04:11:36.991Z
-updated: 2025-01-06T23:56:40.367Z
+date: 2025-01-06T17:33:50.403Z
+updated: 2025-01-13T17:36:09.224Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ How and why did I come to those conclusions? Let's dig in.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Familiar design, with one exception
@@ -83,16 +83,12 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
 
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -115,7 +111,7 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Camera upgrades
@@ -136,6 +132,10 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -147,7 +147,7 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -186,17 +186,22 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-10-leading-4k-displays/"><u>[New] 2024 Approved 10 Leading 4K Displays</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-step-by-step-process-to-embed-timestamps-on-youtube-links/"><u>[New] The Step-by-Step Process to Embed Timestamps on YouTube Links</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-does-youtube-work-after-a-video-is-uploaded/"><u>[Updated] How Does YouTube Work After a Video Is Uploaded</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-insights-on-the-recent-upgrades-of-sonys-s6500-player/"><u>[Updated] Insights on the Recent Upgrades of Sony’s S6500 Player</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/brainstorm-breakthroughs-mindmap-plus-ai-dialogue/"><u>Brainstorm Breakthroughs: Mindmap + AI Dialogue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-discover-the-best-3-techniques-for-excelling-with-excel/"><u>ChatGPT Mastery: Discover the Best 3 Techniques for Excelling with Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/connecting-to-imessage-from-a-windows-laptop-or-desktop/"><u>Connecting to iMessage From a Windows Laptop or Desktop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-public-authorities-can-influence-the-development-and-use-of-ai-systems-an-insightful-analysis/"><u>How Public Authorities Can Influence the Development and Use of AI Systems: An Insightful Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/my-ai-vs-chatgpt-on-snapchat-choosing-the-right-tool-for-your-needs/"><u>My AI Vs. ChatGPT on Snapchat: Choosing the Right Tool for Your Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-and-communicate-seamlessly-using-mercedes-benzs-chatgpt-enabled-voice-controlled-infotainment-system/"><u>Navigate and Communicate Seamlessly Using Mercedes-Benz’s ChatGPT-Enabled, Voice-Controlled Infotainment System</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-11-proplus-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme 11 Pro+</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tips-for-dealing-with-hanging-screens-in-windows-10-operating-system/"><u>Top Tips for Dealing With Hanging Screens in Windows 10 Operating System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-sing-your-own-song-with-an-iphone-ringtone/"><u>[New] How to Sing Your Own Song with an iPhone Ringtone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-simplifying-the-screen-recording-process-for-dell-users/"><u>[Updated] 2024 Approved Simplifying the Screen-Recording Process for Dell Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-basic-framework-for-crafting-persuasive-social-media-messages/"><u>[Updated] Basic Framework for Crafting Persuasive Social Media Messages</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-full-examination-samsungs-complete-360-camera-experience/"><u>[Updated] In 2024, Full Examination Samsung's Complete 360° Camera Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-high-results-the-creme-de-la-liste-of-drone-editors/"><u>[Updated] Sky-High Results The Crème De La Liste of Drone Editors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-reasons-you-shouldnt-blindly-trust-artificial-intelligence/"><u>6 Reasons You Shouldn't Blindly Trust Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721958804055-chatgpt-enhanced-with-new-capabilities-key-attractions-revealed/"><u>ChatGPT Enhanced with New Capabilities - Key Attractions Revealed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-for-the-winhttpdll-not-present-problem/"><u>Comprehensive Troubleshooting for the 'Winhttp.dll Not Present' Problem</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/agic-how-to-download-top-dj-content/"><u>Mix Magic How to Download Top DJ Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-pdf-access-4-methods-for-enabling-chatgpt-to-read-files/"><u>Unlocking PDF Access: 4 Methods for Enabling ChatGPT to Read Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-an-insight-into-chatgpt-jailbreaks-and-their-usage/"><u>Unlocking Potential: An Insight Into ChatGPT Jailbreaks and Their Usage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-limitation-on-messages-and-responses/"><u>Unveiling ChatGPT's Limitation on Messages and Responses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-premier-6-giant-ai-language-models/"><u>Unveiling the Premier 6 Giant AI Language Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-drivers-for-hp-laserjet-p1007-how-to-easily-install-them-today/"><u>Updated Drivers for HP LaserJet P1007 - How to Easily Install Them Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-for-text-corrections/"><u>Utilizing ChatGPT for Text Corrections</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/who-can-benefit-from-nvidias-ai-foundation-unraveling-its-use-cases-in-customizable-generative-ai-services/"><u>Who Can Benefit From NVIDIA's AI Foundation: Unraveling Its Use Cases in Customizable Generative AI Services</u></a></li>
 </ul></div>
 

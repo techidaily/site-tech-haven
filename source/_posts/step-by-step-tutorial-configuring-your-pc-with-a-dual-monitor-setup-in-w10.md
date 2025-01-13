@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Configuring Your PC with a Dual Monitor Setup in W10"
-date: 2024-08-16T10:03:09.809Z
-updated: 2024-08-17T10:03:09.809Z
+date: 2025-01-12T16:53:40.677Z
+updated: 2025-01-13T16:21:16.023Z
 tags:
   - win11
   - win10
@@ -20,15 +20,13 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 ## How do I connect my laptop to the TV with HDMI
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1
 
  Power on your laptop and TV (both with HDMI ports) and prepare an HDMI cable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2
 
  Plug the HDMI cable into both your laptop’s and TV’s HDMI ports.
@@ -40,23 +38,13 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4
 
 Tada! You may see the same screen with your laptop on the TV.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## What if I couldn’t see the same screen with my laptop on the TV?
 
  1) On your laptop’s keyboard, press the**Windows logo** key +**R** key together to open the Run box.
@@ -69,6 +57,10 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
@@ -80,11 +72,16 @@ Tada! You may see the same screen with your laptop on the TV.
  6) Change the Resolution to earn a best view on TV screen. Then click OK to save your settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-18.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if there’s no sound from TV speakers?
 
@@ -100,16 +97,22 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE:** If you cannot see your HDMI audio output device, right-click on the blank area of and tick on**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Still No Sound?
 
  If after all the settings above, there’s still no sound from your TV’s speakers, we highly recommend you update your HDMI audio output device driver. You can choose to download the latest driver from your device manufacturer’s website. However, it’s not as easy as it sounds. It needs you to find the correct driver and download it all manually.
@@ -119,9 +122,6 @@ In addition, set your HDMI audio output device as the default device.
  To update your drivers with Driver Easy, just click the **Scan Now** button, then when it lists the drivers you need to update, click **Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That’s all there is to it. Hopefully, you can enjoy the large screen now.
 
@@ -133,8 +133,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +140,21 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>[New] Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ultimate-compact-player-guide-for-on-the-go-movie-lovers/"><u>[Updated] 2024 Approved Ultimate Compact Player Guide for On-The-Go Movie Lovers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-outstanding-movies-beyond-the-leading-titles/"><u>[Updated] Outstanding Movies Beyond the Leading Titles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-rapidrun-framefrozen-capture/"><u>[Updated] RapidRun FrameFrozen Capture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-refurbished-apple-tv-and-siri-remote-setup-at-just-75-insider-look-from-zdnet-ahead-of-festive-rush/"><u>Affordable Refurbished Apple TV and Siri Remote Setup at Just $75 – Insider Look From ZDNET Ahead of Festive Rush</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/aqualive-audit-robust-submerged-audio-quality/"><u>Aqualive Audit: Robust Submerged Audio Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-iphone-performance-by-clearing-clutter-master-these-tricks-and-save-precious-memory-space-now/"><u>Boosting iPhone Performance by Clearing Clutter: Master These Tricks & Save Precious Memory Space Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-the-latest-choosing-between-m3-and-m2-macbook-air-models-your-ultimate-guide/"><u>Comparing the Latest: Choosing Between M3 and M2 MacBook Air Models - Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-communication-using-your-apple-watch-to-reach-loved-ones-effortlessly-zdnet/"><u>Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-improvements-for-android-steps-toward-surpassing-apples-iphone-techinsight/"><u>Essential Improvements for Android: Steps Toward Surpassing Apple's iPhone | TechInsight</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-purchase-of-apple-vision-pro-expert-advice-on-optimal-facial-scans-and-hidden-strategies/"><u>Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-filmmakers-guide-to-enhancing-close-ups-using-kinemaster/"><u>The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/veiled-realities-an-insight-into-story-viewers-world/"><u>Veiled Realities An Insight Into Story Viewers' World</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-moto-g13-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Moto G13 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2025-01-05T04:30:23.394Z
-updated: 2025-01-06T22:17:31.679Z
+date: 2025-01-09T17:54:07.209Z
+updated: 2025-01-13T16:33:58.464Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,15 +176,16 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-humor-at-your-fingertips-complimentary-toolset/"><u>[New] 2024 Approved Humor at Your Fingertips - Complimentary Toolset</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-inversion-workshop/"><u>[New] In 2024, Inversion Workshop</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-stepwise-guide-for-discovering-recent-watch-history-on-fb-for-2024/"><u>[New] Stepwise Guide for Discovering Recent Watch History on FB for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-x50-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-gionee-f3-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Gionee F3 Pro Lock Screen Password</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-strategies-to-swiftly-remove-unwanted-video-post-comments/"><u>In 2024, Strategies to Swiftly Remove Unwanted Video Post-Comments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-flac-audio-files-into-mp3-format-using-vlc/"><u>Transforming FLAC Audio Files Into MP3 Format Using VLC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-silent-davinci-resolve-projects-top-strategies-and-solutions/"><u>Troubleshooting Silent DaVinci Resolve Projects: Top Strategies and Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tverpc/"><u>TVer番組のPCでの無料ダウンロードに最適なツールを見つける方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-step-by-step-powerpoint-screen-capture-course/"><u>Ultimate Step-by-Step PowerPoint Screen Capture Course</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-platform-pick-go-live-with-obs-or-twitch-studio/"><u>[New] In 2024, Platform Pick Go Live with OBS or Twitch Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/12-quick-methods-to-access-windows-10-file-explorer/"><u>12 Quick Methods to Access Windows 10 File Explorer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparacion-clave-cual-es-la-diferencia-entre-video-en-resolucion-1080p-y-4k/"><u>Comparación Clave: ¿Cuál Es La Diferencia Entre Video en Resolución 1080P Y 4K?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spotlight-on-premium-360cameras-for-professionals/"><u>In 2024, Spotlight on Premium 360°Cameras for Professionals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aging-imovie-features-to-upgrade-your-youtube-content-quality/"><u>Leveraging iMovie Features to Upgrade Your YouTube Content Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scriptwriting-made-simple-boost-your-youtube-videos-with-chatgpt-insights/"><u>Scriptwriting Made Simple: Boost Your YouTube Videos with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/side-by-side-comparison-how-myai-outperforms-bing-chat-across-8-crucial-aspects-in-social-media-platforms/"><u>Side-by-Side Comparison: How MyAI Outperforms Bing Chat Across 8 Crucial Aspects in Social Media Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-6-revolutionary-traits-of-snapchats-my-ai/"><u>The 6 Revolutionary Traits of Snapchat's My AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-conundrum-of-ensuring-harmonious-human-ai-objectives-an-insight/"><u>The Conundrum of Ensuring Harmonious Human-AI Objectives: An Insight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-popular-windows-7-screen-recording-tools-of-2024-best-recommendations/"><u>Top 7 Popular Windows 7 Screen Recording Tools of 2024: Best Recommendations</u></a></li>
 </ul></div>
 

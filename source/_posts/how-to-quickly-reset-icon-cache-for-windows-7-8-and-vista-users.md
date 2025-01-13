@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Reset Icon Cache for Windows 7, 8 and Vista Users
-date: 2024-08-16T10:08:20.837Z
-updated: 2024-08-17T10:08:20.837Z
+date: 2025-01-06T16:30:53.969Z
+updated: 2025-01-13T17:01:05.298Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ Want to check the RAM on your Windows 10 computer or laptop? You’ve come to th
 
  There are two main types of RAM in the current market: DRAM (Dynamic Random Access Memory) and SRAM (Static Random Access Memory). Generally speaking, the more RAM your computer is, the faster it can run. If your computer is running slow to a crawl, one of the main causes can be the small RAM capacity that influences the system performance.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to check how much RAM you have
 
 1. [**Check RAM via msinfo32.exe**](https://tools.techidaily.com/drivereasy/download/)
@@ -34,8 +31,9 @@ Want to check the RAM on your Windows 10 computer or laptop? You’ve come to th
 4. **[Bonus Tip](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Check RAM via msinfo32.exe
 
  Since Windows 98, Microsoft includes a built-in tool called Microsoft System Information (msinfo32.exe), which enables you to gather information about your computer.Here’s how to use it:
@@ -46,17 +44,22 @@ Want to check the RAM on your Windows 10 computer or laptop? You’ve come to th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee1b7c7526.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You can check your RAM in**Installed Physical Memory (RAM)** . You can also browse other system information from this window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2291df98.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you should be able to check your computer memory without problems!
 
  If this method doesn’t work for you, don’t worry. We have other solutions for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Check RAM via Task Manager
 
  You can also check your RAM on Windows 10 from Task Manager. To do so, follow the steps below:
@@ -66,14 +69,7 @@ Now you should be able to check your computer memory without problems!
  2) Click**Performance** , then click**Memory** , and you will see the RAM in use and the available memory in your Windows 10 computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee269376df.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Check RAM in Control Panel
 
  Control Panel is a powerful feature where you can check information and diagnose the issues in your Windows 10 computer.
@@ -81,17 +77,10 @@ Now you should be able to check your computer memory without problems!
  1) Type**Control Panel** in the search bar from the**Start** menu, then click**Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2b7db7c5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) View Control Panel items**by category** , then click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2d98fe01.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  3) Click**View amount of RAM and processor speed** in the**System** section.
 
@@ -103,6 +92,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  That’s it. These are the three easy methods to check RAM on Windows 10 quickly and easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Bonus Tip
 
  It requires time to manually check your computer information, including your graphics card information. If you don’t have time or computer skills, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -112,13 +105,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2) Click**Hardware Info** and click**Yes** verify UAC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee3deadb42.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) You can then check the memory in your Windows computer, and you can also check other system information such as Motherboard, Processor, Video cards, Networks card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee3c9d2600.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you may have already known, Windows 10 computers usually run into various issues, and one of the possible problems is the device drivers. So it’s recommended to keep your device drivers up to date.
 
@@ -151,8 +149,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +156,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-unmatched-value-top-tier-asmr-microphones-on-a-budget-for-2024/"><u>[New] Unmatched Value Top-Tier ASMR Microphones on a Budget for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-the-art-of-locating-fb-lately-seen-videos/"><u>[Updated] Mastering the Art of Locating Fb Lately Seen Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advance-your-wellness-journey-with-leading-8-plugins/"><u>Advance Your Wellness Journey with Leading 8 Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-coding-bots-discover-the-top-7-options-after-chatgpt/"><u>Advanced Coding Bots: Discover the Top 7 Options After ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advantages-why-upgrading-to-chatgpt-plus/"><u>Advantages: Why Upgrading to ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721853448894-elevate-your-tech-game-with-these-9-must-try-chatgpt-plugins-today/"><u>Elevate Your Tech Game with These 9 Must-Try ChatGPT Plugins Today!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-c51-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco C51 Unlock Without Password</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 11 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722208444845-ready-for-chatgpt-on-windows-or-macos-opt-for-an-incredible-free-and-open-source-replacement-now/"><u>Ready for ChatGPT on Windows or macOS? Opt for an Incredible Free and Open-Source Replacement Now</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-cybersecurity-roles-a-guide-to-identifying-white-black-gray-and-other-categories-of-hackers/"><u>Understanding Cybersecurity Roles: A Guide to Identifying White, Black, Gray, and Other Categories of Hackers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-of-gpt-with-android/"><u>Unveiling the Potential of GPT with Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-leads-the-pack-comparing-chatgpt-with-microsoft-bing-and-google-bard-in-digital-dialogue-excellence/"><u>Which AI Leads the Pack? Comparing ChatGPT with Microsoft Bing and Google Bard in Digital Dialogue Excellence</u></a></li>
+</ul></div>
 

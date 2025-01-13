@@ -1,7 +1,7 @@
 ---
 title: "Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights"
-date: 2024-12-31T17:24:51.391Z
-updated: 2025-01-07T01:13:30.951Z
+date: 2025-01-06T16:15:19.522Z
+updated: 2025-01-13T17:27:46.600Z
 tags:
   - apple
 categories:
@@ -26,17 +26,9 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -49,7 +41,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -57,6 +49,10 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -75,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -95,7 +91,7 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -117,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,18 +154,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-step-by-step-guide-to-navigating-io-screener-for-2024/"><u>[New] Step-by-Step Guide to Navigating IO Screener for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enrich-your-visuals-captions-on-the-go-in-instagram/"><u>2024 Approved Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-determining-the-top-contender-chatgpt-or-bing-chat/"><u>Chatbot Face-Off: Determining the Top Contender, ChatGPT or Bing Chat?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-financial-ally-8-authentic-sources-of-income-fact-or-fiction/"><u>ChatGPT as Your Financial Ally: 8 Authentic Sources of Income - Fact or Fiction?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/debating-on-the-significance-of-truthfulness-in-selfies-for-2024/"><u>Debating on the Significance of Truthfulness in Selfies for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-googles-latest-palm-evolved-insights-into-the-enhanced-large-language-model/"><u>Discover How Google’s Latest PaLM Evolved: Insights Into the Enhanced Large Language Model</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-hashtag-analyzers-facebook-twitter-and-instagram-edition/"><u>In 2024, Essential Hashtag Analyzers Facebook, Twitter & Instagram Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-it-accurate-prediction-the-story-of-180-weather-experts-providing-reliable-forecasts-insights-from-zdnet/"><u>Is It Accurate Prediction? The Story of 180 Weather Experts Providing Reliable Forecasts - Insights From ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/notable-creators-superior-insta-highlight-craftsmen-for-2024/"><u>Notable Creators Superior Insta Highlight Craftsmen for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210642038-9781786787446-the-moon-dust-dream-dictionary/"><u>The Moon Dust Dream Dictionary | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y100i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y100i for Parents | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-cost-free-ai-travel-organizers-and-chatbot-apps-for-quick-trip-plans/"><u>Top 7 Cost-Free AI Travel Organizers & Chatbot Apps for Quick Trip Plans</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-how-to-for-ifunnys-meme-app/"><u>[Updated] The Ultimate How-To for iFunny's Meme App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-the-risk-can-chatgpt-assist-cybercriminal-activity-against-banks-and-personal-pcs/"><u>Examining the Risk: Can ChatGPT Assist Cybercriminal Activity Against Banks & Personal PCs?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-safety-concerns-of-using-chatgpt-potential-issues-unveiled/"><u>Exploring the Safety Concerns of Using ChatGPT: Potential Issues Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-gpt-4-to-gpt-4o-distinguishing-between-advanced-ai-models/"><u>From GPT-4 to GPT-4o: Distinguishing Between Advanced AI Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gemini-ai-versus-chatgpt-plus-which-delivers-better-results/"><u>Gemini AI Versus ChatGPT Plus: Which Delivers Better Results?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-integrating-chatgpt-into-your-ubuntu-command-line-with-shellgpt/"><u>Guide: Integrating ChatGPT Into Your Ubuntu Command Line with ShellGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/handling-peak-limit-issues-in-windows-gpt/"><u>Handling Peak Limit Issues in Windows GPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-note-30-vip-racing-edition-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Note 30 VIP Racing Edition to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-jumping-into-the-virtual-discussions-via-google/"><u>In 2024, Jumping Into the Virtual Discussions via Google</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/perfecting-image-previews-top-4-win-friendly-viewers/"><u>Perfecting Image Previews: Top 4 Win-Friendly Viewers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hing-resilience-for-online-criticism/"><u>Polishing Resilience for Online Criticism</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stop-spam-on-your-iphone-now-master-these-3-simple-strategies-to-secure-your-messages-zdnet-insider-tips/"><u>STOP SPAM ON YOUR IPHONE NOW! Master These 3 Simple Strategies to Secure Your Messages | ZDNET Insider Tips</u></a></li>
 </ul></div>
 

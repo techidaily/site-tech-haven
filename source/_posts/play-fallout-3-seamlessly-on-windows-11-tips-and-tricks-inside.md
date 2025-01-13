@@ -1,7 +1,7 @@
 ---
 title: Play Fallout 3 Seamlessly on Windows 11 – Tips & Tricks Inside
-date: 2024-08-16T10:02:57.410Z
-updated: 2024-08-17T10:02:57.410Z
+date: 2025-01-08T16:55:35.300Z
+updated: 2025-01-13T16:49:38.920Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Fallout 3 is an old but classic game. If you look at the Fallout 3 webpage on St
 
  Only**2 steps** , then you’re good to go!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Download Games for Windows Live
 
 1. Go to XBOX webpage. Click the green “here” to download[Games for Windows Live](https://support.xbox.com/en-US/games/game-setup/games-for-windows-live-info) .  
@@ -38,37 +42,31 @@ Fallout 3 is an old but classic game. If you look at the Fallout 3 webpage on St
 1. Run Steam. Right-click on Fallout 3 and click**Properties** .
 2. Under the LOCAL FILES tab, click**Browse LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Right-click on Fallout 3 and click the**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f3-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the**Compatibility** tab, tick**Run this program in compatibility mode for.**
 5. Open the dropdown menu and choose**Windows XP (Service Pack 3)** .
 6. Tick**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f31.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click**Apply** \>**OK** .
 8. In the same folder, right-click on Fallout 3 Launcher and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f30.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 9. In the**Compatibility** tab, tick**Run this program in compatibility mode for.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Tick**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f32.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 11. Click**Apply** \>**OK** .
 12. Run Fallout 3.
 
 That’s it! You can play Fallout 3 now!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your graphics card drivers
 
@@ -83,8 +81,9 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-play-fallout-3-on-windows-10/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  You can download graphics drivers from the manufacturer’s official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
@@ -104,6 +103,10 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -117,8 +120,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +127,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-apex-legends-mastery-exploring-single-platform-potential/"><u>[New] 2024 Approved Apex Legends Mastery Exploring Single Platform Potential</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-canva-guide-swiftly-erasing-image-borders/"><u>[New] Canva Guide Swiftly Erasing Image Borders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premium-portable-switch-game-clones/"><u>[New] Premium Portable Switch Game Clones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-quick-and-easy-xbox-one-image-snaps-for-gaming/"><u>[Updated] 2024 Approved Quick & Easy Xbox One Image Snaps for Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ace-picks-top-ranked-gaming-screens-in-4k-for-2024/"><u>Ace Picks Top-Ranked Gaming Screens in 4K for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/alluring-headline-manufacturer/"><u>Alluring Headline Manufacturer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-picks-for-stylish-and-durable-iphone-1212-pro-cases-of-2023-your-complete-selection/"><u>Expert Picks for Stylish and Durable iPhone 12/12 Pro Cases of 2023 - Your Complete Selection</u></a></li>
+<li><a href="https://techidaily.com/exploring-musical-insights-bcr-guide-and-nostalgic-reflections-aabbys-latest-post/"><u>Exploring Musical Insights: BCR Guide & Nostalgic Reflections - AABBY's Latest Post</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-transforming-messages-into-memorable-video-experienits/"><u>In 2024, Transforming Messages Into Memorable Video Experienits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-the-apple-vision-pro-right-for-you-answer-these-key-5-queries-before-pre-ordering-insights-from-zdnet/"><u>Is the Apple Vision Pro Right For You? Answer These Key 5 Queries Before Pre-Ordering - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/july-2024s-top-apple-watch-promotions-the-ultimate-shopping-list-for-smartwatch-enthusiasts-insights/"><u>July 2024'S Top Apple Watch Promotions: The Ultimate Shopping List for Smartwatch Enthusiasts Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplify-your-inbox-how-one-simple-tactic-can-clear-out-clutter-without-creating-new-accounts-or-strict-filters-learn-the-secrets-with-zdnet/"><u>Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranked-iphone-16-and-16-pro-protectors-of-2024-comprehensive-reviews-by-tech-gurus-picks/"><u>Top-Ranked iPhone 16 & 16 Pro Protectors of 2024: Comprehensive Reviews by Tech Gurus Picks</u></a></li>
+</ul></div>
 

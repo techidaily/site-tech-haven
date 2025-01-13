@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Microsoft Defender Antivirus on Demand"
-date: 2024-08-16T10:06:57.759Z
-updated: 2024-08-17T10:06:57.759Z
+date: 2025-01-10T16:11:08.188Z
+updated: 2025-01-13T17:51:52.372Z
 tags:
   - win11
   - win10
@@ -17,27 +17,32 @@ thumbnail: https://thmb.techidaily.com/4f65577dd94f5403dbbd328bfa81ec9fa85995c2b
 
 Perhaps you’ve heard of a graphics card. You may know it’s a part of your computer, but you’re not sure what it really is. But don’t worry. We’ll give you a simple explanation that helps you easily understand what a graphics card is and what it actually does.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a graphics card?
 
 **Graphics card** is also known as **video card** . It’s an expansion card plugged into your computer that handles**what your computer displays on your computer screen** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/asus1050-300x300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What a graphics card looks like.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How does a graphics card work?
 
  The core of a graphics card is a chip called**GPU** (graphics processing unit). GPU is responsible for**displaying images to your computer screen** .
 
  GPU receives instructions and data on displaying an image from the**CPU** ( _central processing unit, the command and control center of your computer_ ). Then it processes the data and tells the computer screen what to display. And your computer screen receives the signals from the GPU and displays the image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Do I need a graphics card?
 
  The answer depends on what type of GPU you have and what are you going to do with it.
@@ -45,8 +50,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  In fact, it’s the GPU that is necessary for you. A graphics card is just an expansion card that**contains a GPU** . There’s an alternative to it called**integrated graphics adapter** . That is basically a GPU integrated to your**CPU** or**motherboard** ( _the base board in your computer that connects all your hardware together_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf3e30b2e23c-300x237.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AMD’s Ryzen CPU with integrated graphics
@@ -63,13 +69,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 **Don’t know what graphics card you should use?** There are usually “system requirements” for a program or game. Those are the information on the minimum hardware requirements for you to run the program. They are usually listed on the program/game web page.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is there anything else I need if I have a graphics card installed?
 
  To make sure your graphics card works smoothly, you should check that the device driver for your graphics card is up to date. This is important especially if you use your computer to run demanding programs, such as games.
@@ -85,14 +87,8 @@ or
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** .
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to your graphics card to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .  
@@ -108,8 +104,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +111,21 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-4k-spectacle-top-10-monitors-compatible-with-macs-for-2024/"><u>[New] 4K Spectacle Top 10 Monitors Compatible with Macs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-bellylaugh-blast-websites-with-the-best-comical-ringtones-for-2024/"><u>[New] BellyLaugh Blast Websites with the Best Comical Ringtones for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ditors-compendium-top-devices-transforming-media-projects/"><u>[New] Editor's Compendium Top Devices Transforming Media Projects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-pathway-guide-acquiring-movie-maker-6-on-your-system/"><u>[Updated] In 2024, Pathway Guide Acquiring Movie Maker 6 on Your System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bikers-ultimate-camera-companion-list-update/"><u>2024 Approved Biker's Ultimate Camera Companion List Update</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cost-vs-capabilities-nikon-sb-700-revealed/"><u>Cost vs Capabilities: Nikon SB-700 Revealed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-integration-of-gpt-4-how-these-top-7-applications-harness-its-power/"><u>Understanding the Integration of GPT-4: How These Top 7 Applications Harness Its Power</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-dialogue-with-chatgpt-now/"><u>Unleash Dialogue with ChatGPT Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-advanced-uses-of-chatgpt-in-ubuntu-the-step-by-step-shellgpt-method/"><u>Unlocking Advanced Uses of ChatGPT in Ubuntu: The Step-by-Step ShellGPT Method</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-googles-artificial-intelligence-gemini-project/"><u>Unpacking Google's Artificial Intelligence Gemini Project</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-auto-gpt-download-and-installation/"><u>Unveiling Auto-GPT: Download & Installation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-ai-chatgpt-to-boost-sheet-productivity/"><u>Using AI: ChatGPT to Boost Sheet Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cant-use-powershell/"><u>What to Do When Windows Can’t Use PowerShell</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Resolve 'No SD Card Detected' Issues"
-date: 2024-08-16T10:03:16.241Z
-updated: 2024-08-17T10:03:16.241Z
+date: 2025-01-07T17:17:29.444Z
+updated: 2025-01-13T18:03:13.915Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
  Though it might look complicated at first glance, just work your way down the list, step-by-step, and we’ll try to get you back on track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 1: Force restart your computer
 
  If all you see is a black screen after pressing the power button, try pressing the power button for 10 seconds to force shut down your PC, then turn it on. Doing this repeatedly for three times, the Windows Startup repair should launch automatically.
@@ -40,8 +37,9 @@ Your screen remains black after turning on the PC? This is very frustrating, and
  If you boot into Automatic Repair, select **Troubleshoot**  \> **Advanced options** \> **Startup settings** \> **Restart** \>**Safe Mode with Networking** , then try running a system scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to detect broken or damaged system files and repair them.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check if your monitor is working
 
  If your computer starts but displays nothing, you should check is if your monitor is working properly.
@@ -65,8 +63,9 @@ Your screen remains black after turning on the PC? This is very frustrating, and
  If any connector on your device is bent or damaged, you’ll need to take the device to a repair shop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
@@ -75,18 +74,6 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 If your computer fails again, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Sometimes, certain peripherals connected to your computer may also cause the black screen issue. Try disconnecting all your peripherals to see if that’s the core problem. Here is how to do it:
@@ -100,6 +87,10 @@ If your computer fails again, read on and check the fix below.
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should**reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. (Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance. )
 
 If your computer still can’t boot correctly, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall your RAM
 
@@ -116,6 +107,10 @@ If your computer still can’t boot correctly, try the fix below.
 RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Put**your RAM** back into the slot.
 
@@ -136,18 +131,11 @@ RAM looks like this:
 The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **4)** Wait for 5 minutes, and then reinstall your**CMOS battery** .
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer to see if your problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus Tip: Check for corrupt system files with Forect
 
  There are many factors that can cause Windows booting failures, like corrupted or missing Windows system files, registry, and more.
@@ -166,6 +154,10 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -181,8 +173,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +180,23 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-smart-strategies-for-itunes-video-logging-for-2024/"><u>[New] The Smart Strategies for iTunes Video Logging for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-tactics-for-advanced-iphone-x-animoji-utilization/"><u>[New] Transformative Tactics for Advanced iPhone X Animoji Utilization</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-rip-audio-from-youtube-in-3-ways-free-and-safe/"><u>[Updated] 2024 Approved How to Rip Audio From YouTube in 3 Ways [Free and Safe]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-burst-to-blast-android-apps-transform-slow-motion/"><u>[Updated] Burst to Blast Android Apps Transform Slow Motion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-yi-in-focus-the-future-of-4k-filmmaking/"><u>[Updated] In 2024, Yi in Focus The Future of 4K Filmmaking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-stream-wars-unveiled-which-wins-obs-or-twitch-in-2024/"><u>[Updated] Stream Wars Unveiled Which Wins, OBS or Twitch, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-finest-selection-of-magsafe-wallets-in-depth-expert-testing-and-ratings-zdnet/"><u>2024'S Finest Selection of MagSafe Wallets: In-Depth Expert Testing & Ratings | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/buy-these-three-new-apple-devices-announced-at-wwdc-today-plus-your-guide-on-how-and-where-to-pre-order-them-tech-insights-by-zdnet/"><u>Buy These Three New Apple Devices Announced at WWDC Today - Plus, Your Guide on How and Where to Pre-Order Them | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenging-tech-giant-apple-how-my-iphone-refresh-experience-unfolded-with-insights/"><u>Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-ultimate-gamepad-companion-logitech-g-pro-drivers-for-windows-111087/"><u>Download the Ultimate Gamepad Companion - Logitech G Pro Drivers for Windows 11/10/8/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-system-speed-new-thinkpad-drivers-for-win11/"><u>Elevate System Speed: New Thinkpad Drivers for Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-time-for-a-new-apple-watch-battery-discover-surprising-facts-about-its-life-span/"><u>Is It Time for a New Apple Watch Battery? Discover Surprising Facts About Its Life Span</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-apple-watch-factory-reset-expert-tips-and-tricks-digitalwisetech/"><u>Mastering the Apple Watch Factory Reset: Expert Tips & Tricks | DigitalWiseTech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-computing-unveiled-meet-the-mac-studio-where-mac-minis-legacy-continues-to-thrive-innovations-on-zdnet/"><u>Next-Gen Computing Unveiled: Meet the Mac Studio, Where Mac Mini's Legacy Continues to Thrive | Innovations on ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-new-ipad-air-unveiled-4-fantastic-reasons-to-upgrade-your-tablet-today-explored-by-tech-experts-at-zdnet/"><u>The New iPad Air Unveiled: 4 Fantastic Reasons to Upgrade Your Tablet Today, Explored by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-cable-modem-models-for-optimal-internet-speed/"><u>Top-Rated Cable Modem Models for Optimal Internet Speed</u></a></li>
+</ul></div>
 

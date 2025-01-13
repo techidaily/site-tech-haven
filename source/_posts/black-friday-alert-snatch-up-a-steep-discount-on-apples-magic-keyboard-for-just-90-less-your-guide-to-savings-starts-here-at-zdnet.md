@@ -1,7 +1,7 @@
 ---
 title: Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.
-date: 2025-01-05T03:58:32.437Z
-updated: 2025-01-06T23:27:53.730Z
+date: 2025-01-12T17:51:33.837Z
+updated: 2025-01-13T17:08:30.416Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ And while spending $100 on a four-pack doesn't seem that bad after living throug
 Since AirTags are powered by a CR2032 coin cell battery, you can [replace the battery](https://www.zdnet.com/article/how-to-change-the-battery-in-your-apple-airtag/) whenever it dies, preventing you from buying a new one each time. Remember, since AirTags are thin pocket-sized devices, you can use them for just about anything and repurpose them as often as you'd like. From helping you find a parking spot to tracking your child's favorite toy, there are endless possibilities with your AirTags -- you just have to get [creative](https://www.zdnet.com/article/seven-ways-apple-airtags-can-help-you-beyond-tracking-keys/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,18 +77,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube/"><u>[New] 2024 Approved A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebook-live-and-video-to-mp3-in-seconds-no-boundaries/"><u>[New] 2024 Approved Facebook Live & Video to MP3 in Seconds, No Boundaries</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>[Updated] 2024 Approved Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-perfect-pairings-adding-captions-that-enhance-your-tiktoks/"><u>[Updated] In 2024, Perfect Pairings Adding Captions that Enhance Your TikToks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027117180-2024/"><u>2024年に注目!:スマートフォン向け動画圧縮ソフトウェアのベストをご紹介します</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027219613-dvd/"><u>最新のスマートフォン向けソフトウェア：パソコンからDVDダビング完全ガイド</u></a></li>
-<li><a href="https://fox-making.techidaily.com/hd-abstract-graphics-stunning-desktop-walls-and-backgrounds-by-yl-computing/"><u>HD Abstract Graphics: Stunning Desktop Walls & Backgrounds by YL Computing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-dish-to-screen-your-recipe-video-blueprint/"><u>In 2024, Dish to Screen Your Recipe Video Blueprint</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocket-engagement-with-youtubes-powerful-featured-channels-strategy/"><u>In 2024, Skyrocket Engagement with Youtube’s Powerful Featured Channels Strategy</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/um-10-audio-enhancers-for-multiple-systems-for-2024/"><u>Premium 10 Audio Enhancers for Multiple Systems for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027780419-windows-10mp3/"><u>Windows 10で音楽を最適化する：MP3ファイルの処理方法 - 結合・トリミングテクニック</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028460514-wlmpmp4avimov/"><u>WLMPからMP4/AVI/MOVへの効率的変換手順とテクニック</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726026386632-3/"><u>あなたのウェブ動画にぴったりの分割ツールベスト3選！</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-channel-expansion-via-youtube-outros-maximizing-visibility/"><u>[New] In 2024, Channel Expansion via YouTube Outros Maximizing Visibility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-ez-grabber/"><u>[Updated] In 2024, Unlocking the Potential of EZ Grabber</u></a></li>
+<li><a href="https://facebook.techidaily.com/bringing-the-court-home-facebook-and-twitters-game-plan/"><u>Bringing the Court Home: Facebook & Twitter's Game Plan</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-k70-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi K70 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>In 2024, Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Camon 30 Pro 5G Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-quest-3-outpaces-apple-vision-pro-with-advanced-ai-capabilities-activate-now/"><u>Meta Quest 3 Outpaces Apple Vision Pro with Advanced AI Capabilities - Activate Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-office-matts-for-health-and-productivity-gains/"><u>Optimal Office Matts for Health and Productivity Gains</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/real-time-streaming-with-manycam-professional-virtual-webcam-solutions/"><u>Real-Time Streaming with ManyCam: Professional Virtual Webcam Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/shaping-new-normals-innovative-brands-and-youtube-partnerships/"><u>Shaping New Normals Innovative Brands and YouTube Partnerships</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-eu-blueprint-on-ai-insights-into-chatgpt-evolution/"><u>The EU Blueprint on AI: Insights Into ChatGPT Evolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-implications-of-chatgpts-current-data-accessibility-on-society/"><u>The Implications of ChatGPT's Current Data Accessibility on Society</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-gptbot-and-its-impact-on-online-site-visibility/"><u>The Rise of GPTBot & Its Impact on Online Site Visibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-advanced-llms-an-in-depth-review/"><u>Top 6 Advanced LLMs: An In-Depth Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-gpt-powered-tools-you-should-skip-avoiding-unworthy-investments/"><u>Top 6 GPT-Powered Tools You Should Skip: Avoiding Unworthy Investments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-industries-through-chatgpt-and-whisper-apis/"><u>Transforming Industries Through ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/translation-showdown-chatgpt-vs-google-translate-who-reigns-supreme/"><u>Translation Showdown: ChatGPT Vs. Google Translate - Who Reigns Supreme?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/truth-or-fiction-top-free-ppc-games-reviewed/"><u>Truth or Fiction? Top Free PPC Games Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-types-public-private-and-personal-the-key-distinctions/"><u>Understanding AI Types: Public, Private & Personal - The Key Distinctions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Bard's AI Evolution: 7 Innovative Traits Announced"
-date: 2024-08-16T12:31:08.581Z
-updated: 2024-08-17T12:31:08.581Z
+date: 2025-01-12T17:34:51.683Z
+updated: 2025-01-13T16:06:32.865Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8df3a9bbe5d32c1e5c4eef1f9c5ff4d8504e6e331
 
  ChatGPT has far-reaching uses for many writing tasks, including informative and academic essays, copywriting, social media posts, and much more. It’s also an excellent resource for playing with poetry, short stories, and even personal essays and memoirs. Here’s how to use ChatGPT as a tool to help energize your creative writing and even overcome writer's block.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Work With Poetic Forms
 
  When you're studying poetry, it's easy to get a bit overwhelmed by the variety of different poetic forms. Because ChatGPT can generate a poem in just about any form, however, it’s a fun way to play around with common poetic types, and you can endlessly tweak the prompts to create different responses.
@@ -25,9 +29,17 @@ thumbnail: https://thmb.techidaily.com/8df3a9bbe5d32c1e5c4eef1f9c5ff4d8504e6e331
 
 ![ChatGPT sonnet about movies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-sonnet-about-movies.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try “write an edgy sonnet about going to the movies with your best friend” for a laugh.
 
 ![ChatGPT edgy sonnet example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-edgy-sonnet-example.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It can also generate acrostic poems, or ones in which the first letter of each line spells out a word.
 
@@ -37,30 +49,16 @@ thumbnail: https://thmb.techidaily.com/8df3a9bbe5d32c1e5c4eef1f9c5ff4d8504e6e331
 
 ![ChatGPT unrhymed poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unrhymed-poem.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Find Rhymes
 
  You can also use the app to find perfect, imperfect, and more varieties of rhymes for different words. It's a playful way to expand your rhyming options for verses.
 
 ![ChatGPT long e rhymes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-long-e-rhymes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  It's also a helpful tool for finding matches for words that are notoriously difficult to rhyme.
 
 ![ChatGPT rhyme feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-rhyme-feature.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Check Poetic Meter
 
  The app can scan poems for meter and rhythm as well, which is handy if you’re trying to work with a specific metrical form in your own poetry. It can differentiate trochaic tetrameter from iambic pentameter in an instant.
@@ -69,27 +67,26 @@ Simply prompt ChatGPT to scan the poem, then paste in your verses.
 
 ![ChatGPT scans a Robert Frost poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-scans-a-robert-frost-poem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can ask the bot follow-up questions about the scansion, as well as poetic form.
 
 ![ChatGPT poetic scansion explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-poetic-scansion-explanation.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This offers a helpful way to study poetry and check your own original verses for form.
 
 ![ChatGPT explanation of Frost poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explanation-of-frost-poem.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Generate Story Ideas
 
  ChatGPT really shines as an idea generator for just about any genre of story. Prompt it to “give me 20 story ideas for a sci-fi tale about space travel and adventure.”
 
 ![ChatGPT sci fi story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-sci-fi-story-ideas.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You'll get a huge list of ideas to spark your creativity.
@@ -98,18 +95,24 @@ You'll get a huge list of ideas to spark your creativity.
 
 ![ChatGPT mystery story ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-mystery-story-ideas.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also get the app to use specific authors for inspiration, too. For instance, prompt it to “provide 15 story ideas in the style of Hemingway about choosing a new pet” or “provide 12 ideas for love stories in the style of Philip K. Dick.”
 
 ![ChatGPT story ideas similar to Hemingway](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-story-ideas-similar-to-hemingway.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The app keys in on each author's familiar themes and styles to construct these inspiring (and sometimes a bit bizarre) story ideas.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Play With Audience and Tone
 
  Because you can assign roles to ChatGPT, as well as instruct it to address particular audiences, it’s easy to adjust the tone of your pieces for different readers. This is a fantastic way to learn more about tailoring stories for various audiences.
@@ -126,9 +129,6 @@ You'll get a huge list of ideas to spark your creativity.
 
  It’s fun to see what changes appear, and it’s an instructive practice in customizing your work for different audiences.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Overcome Writer’s Block
 
  Use ChatGPT to find the right word, rephrase sentences, and generally overcome some of the common hurdles associated with writer’s block. If you get stuck on one sentence, for instance, then you can prompt the chatbot to rephrase it a number of different ways.
@@ -138,9 +138,6 @@ You'll get a huge list of ideas to spark your creativity.
  Choose your favorite rendition of the sentence and get back to your piece.
 
 ![ChatGPt overcoming writer's block prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-overcoming-writer-s-block-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In addition, you can ask the bot to help with whatever is keeping you from writing, whether that's getting started or taking your story to the next chapter.
 
@@ -162,18 +159,19 @@ You'll get a huge list of ideas to spark your creativity.
 
  Lastly, remember that your own memories and experiences can’t be generated by AI, so tap into them for your creative writing. ChatGPT is an excellent tool, but it can’t tell your stories for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Boost Your Creative Writing Skills With ChatGPT
 
  Whether you're writing fiction, poetry, journal entries, blog posts, or other nonfiction content, ChatGPT offers a wide array of guidance for writers. Dig deeper into poetic forms, find the word that's on the tip of your tongue, and generate endless story ideas with help from the popular AI chatbot. With a little help from ChatGPT, you may never have to stare down a blank screen again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +180,21 @@ You'll get a huge list of ideas to spark your creativity.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/boost-battery-life-with-apple-watchs-low-power-mode-a-comprehensive-walkthrough-and-benefits-explanation/"><u>Boost Battery Life with Apple Watch's Low Power Mode: A Comprehensive Walkthrough and Benefits Explanation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-samsung-galaxy-a20-analysis-unlocking-the-secrets-of-an-affordable-powerhouse/"><u>Comprehensive Samsung Galaxy A20 Analysis: Unlocking the Secrets of an Affordable Powerhouse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-establishing-a-new-playstation-online-presence/"><u>Easy Steps for Establishing a New PlayStation Online Presence</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foremost-top-5-lightweight-video-capturers-guide/"><u>Foremost Top 5 Lightweight Video Capturers Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-complet-pour-la-reconstruction-des-donnees-image-a-partir-de-disques-endommages-en-utilisant-windows-11/"><u>Guide Complet Pour La Reconstruction Des Données Image À Partir De Disques Endommagés en Utilisant Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-14-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 14 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-of-the-newest-apple-watch-series-section-1-advanced-problem-on-pump-performance-characteristics/"><u>In-Depth Assessment of the Newest Apple Watch Series # Section 1: Advanced Problem on Pump Performance Characteristics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/masterclass-in-visual-storytelling-for-youtube-live-videos-for-2024/"><u>Masterclass in Visual Storytelling for YouTube Live Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/my-spontaneous-upgrade-how-the-new-17-usb-c-apple-earpods-stole-my-heart-during-prime-day/"><u>My Spontaneous Upgrade: How the New $17 USB-C Apple EarPods Stole My Heart During Prime Day!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-your-mac-experience-a-step-by-step-guide-to-activating-and-utilizing-hot-corners-expert-tips/"><u>Optimize Your Mac Experience: A Step-by-Step Guide to Activating and Utilizing Hot Corners | Expert Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/score-a-complimentary-macbook-air-m3-from-best-buy-the-clever-trick-revealed-zdnet/"><u>Score a Complimentary MacBook Air M3 From Best Buy: The Clever Trick Revealed! [ZDNet]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-htc-u23-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from HTC U23 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-protective-covers-for-apples-latest-iphones-a-comprehensive-guide-iphone-12-and-12-pro-expert-reviews-by-zdnet/"><u>Top-Rated Protective Covers for Apple's Latest iPhones: A Comprehensive Guide (iPhone 12 & 12 Pro) - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-most-compelling-small-tablet-picks-for-2amoons-with-professional-insights-zdnet/"><u>Ultimate Guide to the Most Compelling Small Tablet Picks for 2Amoons, with Professional Insights | ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions to Boost Google Chrome's Performance
-date: 2024-08-16T10:03:53.363Z
-updated: 2024-08-17T10:03:53.363Z
+date: 2025-01-06T16:10:31.114Z
+updated: 2025-01-13T16:13:38.170Z
 tags:
   - win11
   - win10
@@ -47,11 +47,23 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
  1) Launch Google Chrome, click the three dots button in the upper right corner, then click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/5.10-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to the bottom and click**Advanced** .
 
  3) Under System, click**Open proxy settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the Security tab, select**Restricted sites** then click**Sites** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If the website you want to access is on the list, you can select it and click**Remove** . Then click**OK** to finish setting.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/g1.jpg)
@@ -67,15 +79,16 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 **Note** : Please ensure your Hosts file is not hidden. Go to Control Panel, set it to view by Large icons. Click**File Explorer Options** . Under the View tab, click**Show hidden files, folders, and drives** to make sure you can find hosts file.
 
  1) Right-click on the**hosts** and open it with Notepad. If you see the website which you want to access with the numerals 127.0.0.1, your hosts file may have been modified, so you can’t access the site.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gg.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select the entire line that contains the URL and delete it. Save the changes and close the Notepad.
 
  3) Restart Google Chrome to see whether it takes effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Use a VPN to unblock websites
 
@@ -92,9 +105,6 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
  3) Click **Quick Connect** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Nord-unprotected.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait for Nord to display **PROTECTED** .
 
@@ -102,9 +112,6 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Method 4: Use Google Chrome extensions to unblock websites
 
  Installing Google Chrome extensions can help you unblock websites on Chrome. In fact, it works in the same way as[Method 3](https://tools.techidaily.com/drivereasy/download/) . The difference is that the Google Chrome extension is only available for Google Chrome.  
@@ -112,23 +119,20 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 
  1) Launch Google Chrome, click the three dots button in the upper right corner, then click**More tools** and find**Extensions** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g3.jpg)
 
- 2) Open the Extensions menu on the left side and click**Open Chrome Web Store** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g4.jpg)
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+ 2) Open the Extensions menu on the left side and click**Open Chrome Web Store** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g4.jpg)
+
  3) Search Zenmate and then click**Add to Chrome** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/g5.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Sign up and run the extension.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Method 5: Repair system files
 
  Sometimes corrupted system files and hardware issues will lead to all kinds of errors. To identify the cause and repair it, you don’t have to check those components one by one but perform a quick automatic system scan.
@@ -140,10 +144,12 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -152,9 +158,9 @@ Google Chrome is one of the most popular browsers in the world. But you may meet
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Tip** : Change settings for a specific site
 
  You can change permissions for a specific site when you enter the site easily. If you’re not allowed to download from a site that you trust, you can use this tip to change the settings easily and quickly.
@@ -163,15 +169,9 @@ The ultimate burning program for all your needs!</a>
 
  2) Choose**Site settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2020-10-12_15-42-51-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  3) Change the permission you want.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2020-10-12_15-44-46.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -185,8 +185,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +192,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-wallet-friendly-mirrorless-choices/"><u>[New] 2024 Approved Wallet-Friendly Mirrorless Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-5-rapid-steps-unearthing-disappeared-reddit-posts/"><u>[New] 5 Rapid Steps Unearthing Disappeared Reddit Posts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-driving-income-from-views-on-youtube/"><u>In 2024, Driving Income From Views on YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-tecno-spark-10-5g-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Tecno Spark 10 5G to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-siri-a-step-by-step-guide-for-iphone-users/"><u>Integrating ChatGPT with Siri: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-a-source-of-unwavering-honesty/"><u>Is ChatGPT a Source of Unwavering Honesty?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955436210-latest-software-secure-the-new-nvidia-quadro-rtx-8000-driver-for-your-win-11-8-or-7-pc-today/"><u>Latest Software: Secure the New Nvidia Quadro RTX #8000 Driver for Your Win 11, 8 or 7 PC Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launching-into-personalization-how-to-navigate-and-utilize-openais-new-gpt-store/"><u>Launching Into Personalization: How to Navigate and Utilize OpenAI's New GPT Store</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lost-instagram-reels-found-the-ultimate-recovery-tips/"><u>Lost Instagram Reels Found: The Ultimate Recovery Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/masterclass-in-kinemaster-application-and-top-tier-opponents-online-for-2024/"><u>Masterclass in KineMaster Application & Top-Tier Opponents Online for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-4-techniques-for-reading-pdfs/"><u>Mastering ChatGPT: 4 Techniques for Reading PDFs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gpt-3-conversations-5-critical-chat-prompt-faux-pas-to-sidestep/"><u>Mastering GPT-3 Conversations: 5 Critical Chat Prompt Faux Pas to Sidestep</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-idea-generation-utilizing-mindmaps-and-chatgpt/"><u>Mastering Idea Generation: Utilizing Mindmaps & ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-chatgpt-api-for-advanced-automated-communication-solutions/"><u>Navigating the ChatGPT API for Advanced Automated Communication Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/perfect-integration-add-ons-unleash-chatgpt-power-with-vs-code/"><u>Perfect Integration Add-Ons: Unleash ChatGPT Power with VS Code</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-the-art-of-audio-in-audacity-professionally/"><u>Perfecting the Art of Audio in Audacity Professionally</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safer-chatgpt-experiences-for-children-embracing-five-security-measures/"><u>Safer ChatGPT Experiences for Children: Embracing Five Security Measures</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-netflix-subtitle-translation-methods-comprehensive-guide/"><u>Updated 2024 Approved Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+</ul></div>
 
