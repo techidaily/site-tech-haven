@@ -1,7 +1,7 @@
 ---
 title: "Top Cellphone Promotions and Discounts This Independence Day: A Guide From ZDNet"
-date: 2025-01-10T18:03:18.169Z
-updated: 2025-01-13T17:31:29.961Z
+date: 2025-01-16T16:37:40.590Z
+updated: 2025-01-19T17:20:06.307Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ I've rounded up the best phone deals ahead of Independence Day below, including 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best phone deals of July 4th
@@ -96,6 +96,10 @@ For a budget option, consider the Motorola Moto G 5G (2023). It rolls right off 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2SP2L4K%2Fref%3Dasc%5Fdf%5FB0C2SP2L4K1727262000000%3Fcreative%3D395261%26creativeASIN%3DB0C2SP2L4K%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C50561793-d225-4352-9dfd-2b20e20a1cd6%7Cdtp&dtb=1)[View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F2126374727&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best refurbished phones deals of July 4th
 
 * [Apple iPhone 15 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-15-Pro-Titanium%2Fdp%2FB0CMZKHTQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C50561793-d225-4352-9dfd-2b20e20a1cd6%7Cdtp&dtb=1) (Unlocked, 128GB, Renewed): $839
@@ -103,7 +107,7 @@ For a budget option, consider the Motorola Moto G 5G (2023). It rolls right off 
 * [Google Pixel 7 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Telephoto%2Fdp%2FB0BKD96YJT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C50561793-d225-4352-9dfd-2b20e20a1cd6%7Cdtp&dtb=1) (Unlocked, 128GB, Renewed): $360
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these 4th of July deals?
@@ -112,13 +116,13 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best phone?
 
 Right now, ZDNET's pick for the [best phone overall](https://www.zdnet.com/article/best-phone/) is the [Samsung Galaxy S24 Ultra](https://www.zdnet.com/article/samsung-galaxy-s24-ultra-review/). It features everything you could want from a smartphone, including a large display, four cameras that can shoot 200MP photos and 8K video, up to 1TB of storage, a built-in S Pen for writing and drawing, and a 5,000mAh battery powering the system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a phone
 
@@ -132,16 +136,12 @@ Ultimately, we weigh in the following aspects when curating this list:
 * **Battery**: Every option in this guide should last you at least a day of moderate use. We also consider what devices support fast charging and/or wireless charging.
 * **Value**: Price points are noted, but the most important thing with buying a phone is getting your money's worth. With these picks, you can rest assured that you're getting the best bang for your buck.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much storage should my phone have?
 
 Most smartphones have a base storage capacity of 128GB, which is plenty of space for average users to download apps and music, take photos, and shoot videos. However, if you're a mobile or creative professional, you'll need more space. Many smartphones have expanded storage options up to 512GB or even 1TB, and you can always sync your phone to your preferred cloud storage service to free up local storage space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -188,20 +188,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-a-compilation-of-the-best-10-image-sharing-sites-for-2024/"><u>[New] A Compilation of the Best 10 Image Sharing Sites for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-explorations-reward-6-innovative-minecraft-residences/"><u>[Updated] In 2024, Exploration's Reward 6 Innovative Minecraft Residences</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-streamline-your-content-upload-instagram-videos-from-desktop/"><u>[Updated] Streamline Your Content Upload Instagram Videos From Desktop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-comparing-the-latest-macbook-prototypes-in-depth-review-of-m3-vs-m2-choose-your-perfect-apple-machine/"><u>1. Comparing the Latest MacBook Prototypes: In-Depth Review of M3 Vs. M2 - Choose Your Perfect Apple Machine</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-boosting-your-youtube-presence-key-tips-for-popularity/"><u>2024 Approved Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
-<li><a href="https://windows11.techidaily.com/alter-ip-settings-with-confidence-windows-11/"><u>Alter IP Settings with Confidence (Windows 11)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/designing-engaging-film-teasers/"><u>Designing Engaging Film Teasers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tuning-non-admin-account-permissions-in-windows/"><u>Fine-Tuning Non-Admin Account Permissions in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/parents-complete-companion-navigating-chatgpt-and-generative-ai/"><u>Parent's Complete Companion: Navigating ChatGPT & Generative AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pioneering-character-conception-with-gpt-artificial-intelligence/"><u>Pioneering Character Conception with GPT, Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preserving-originality-safeguarding-art-against-generative-ai-with-nightshade-tools/"><u>Preserving Originality: Safeguarding Art Against Generative AI with Nightshade Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/privacy-control-how-to-break-free-from-chatgpt/"><u>Privacy Control: How to Break Free From ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/programming-showdown-determining-the-superior-ai-between-chatgpt-and-gemini/"><u>Programming Showdown: Determining the Superior AI Between ChatGPT and Gemini</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-in-car-experience-mercedes-benz-integrates-chatgpt-with-voice-control-features/"><u>Revolutionizing In-Car Experience: Mercedes-Benz Integrates ChatGPT with Voice Control Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-web-development-the-power-of-chatgpts-assistance/"><u>Revolutionizing Web Development: The Power of ChatGPT's Assistance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-tips-for-embedding-music-in-social-media-videos/"><u>[New] Tips for Embedding Music in Social Media Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-jokesterjuxtaposer/"><u>2024 Approved JokesterJuxtaposer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-free-tunes-steps-for-youtube-content-creators/"><u>2024 Approved Unlock Free Tunes Steps for YouTube Content Creators</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-meta-quest-3-sale-alert-snag-the-best-value-51-gb-model-during-october-prime-day-insider-deals-on-zdnet/"><u>Exclusive Meta Quest 3 Sale Alert: Snag the Best Value 51^ GB Model During October Prime Day | Insider Deals on ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-gpt-4-amidst-verified-social-landscape/"><u>Exploring GPT-4 Amidst Verified Social Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-progressive-enhancements-in-ai-comparing-openais-gpt-series/"><u>Exploring Progressive Enhancements in AI: Comparing OpenAI's GPT Series</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-beta-to-breakthrough-an-analytical-comparison-across-all-versions-of-openais-revolutionary-generative-pre-trained-transformer-models-gpt-1-to-gpt-4/"><u>From Beta to Breakthrough: An Analytical Comparison Across All Versions of OpenAI's Revolutionary Generative Pre-Trained Transformer Models (GPT-1 to GPT- 4)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-words-to-visuals-harnessing-the-power-of-dall-e-and-chatgpt-4-for-ai-creations/"><u>From Words to Visuals: Harnessing the Power of DALL-E & ChatGPT-4 for AI Creations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/ios-data-detective-unearth-files-with-trust/"><u>IOS Data Detective: Unearth Files with Trust</u></a></li>
 </ul></div>
 

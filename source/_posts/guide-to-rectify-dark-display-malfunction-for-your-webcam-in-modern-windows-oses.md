@@ -1,7 +1,7 @@
 ---
 title: Guide to Rectify Dark Display Malfunction for Your Webcam in Modern Windows OSes
-date: 2024-08-16T10:11:09.549Z
-updated: 2024-08-17T10:11:09.549Z
+date: 2025-01-17T18:31:24.645Z
+updated: 2025-01-19T20:14:19.532Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Change your user account name in Control Panel
 
  You can change a lot settings of Windows system through**Control Panel** , including changing your account name.
@@ -43,17 +40,20 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c258750ba902.png)
 3. Click**Change account type** under**User Accounts** when View by**Category** selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25877dcf40e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Double-click the account you want to change the user name.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a6a563ded.png)
 5. Select**Change the account name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bc4e8452a.jpg)
 6. Type the new name into the New account name box, then click**Change Name** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bcf06209d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bcf06209d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You’ll then see your account shows with the new name.
@@ -74,18 +74,17 @@ Here’s how you can do that:
 3. You’ll then see the Local Users and Groups window. Click**User** then double-click the user account which you want to rename.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be388d040.jpg)
 4. Type the new name in the**Full name** box. Then click**Apply** \>**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
 
 The new name is set successfully.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Change your user account name in Settings
 
  If you log in your Windows 10 computer with a**Microsoft account** , you can change your account name in Settings. Go with these following steps:
@@ -93,19 +92,28 @@ The new name is set successfully.
 1. On your keyboard, hold down the**Windows logo** key, then press**X** to bring up the quick-access menu.
 2. Click**Accounts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bf52c64f4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Manage my Microsoft account** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c071b4eb6.jpg)
 4. On the open page, click the drop-down menu of**More options** under your Microsoft account. Then select**Edit Profile** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c0d63158a.jpg)
 5. Click**Edit name** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
 6. Type the new name into the box and enter the characters you see for verification. Then click**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Please note that this will change the account name of your Microsoft account.
 
 The new account name of your Windows 10 computer is set successfully.
@@ -122,8 +130,6 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +137,22 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-instantly-post-photosvideos-to-twitter-skipping-retweets/"><u>[Updated] 2024 Approved Instantly Post Photos/Videos to Twitter, Skipping Retweets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-thankful-discoveries-unlimited-outro-options/"><u>2024 Approved Thankful Discoveries Unlimited Outro Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-video-quality-pc-and-mobile-filter-integration/"><u>Enhance Video Quality PC & Mobile Filter Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-abilities-to-create-delightful-drinks/"><u>Exploring ChatGPT's Abilities to Create Delightful Drinks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-lucrative-side-projects-using-chatgpt-top-8-options-revealed/"><u>Exploring Lucrative Side Projects Using ChatGPT - Top 8 Options Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-chatgpt-understanding-its-tailored-command-options/"><u>Exploring the Capabilities of ChatGPT: Understanding Its Tailored Command Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-possibility-of-utilizing-chatgpt-for-malicious-software-design-and-execution/"><u>Exploring the Possibility of Utilizing ChatGPT for Malicious Software Design and Execution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-script-to-speech-the-role-of-chatgpt-in-elevating-my-podcast-content/"><u>From Script to Speech: The Role of ChatGPT in Elevating My Podcast Content</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-laserjet-5200-driver-for-windows-10811-free-download-guide/"><u>Get the Latest HP LaserJet ^5200 Driver for Windows 10/8/11 - Free Download Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-effective-is-chatgpt-for-wilderness-crisis-management-and-rescue-advice/"><u>How Effective Is ChatGPT for Wilderness Crisis Management and Rescue Advice?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-undo-history-erasing-previous-conversations-with-gpt/"><u>How to Undo History: Erasing Previous Conversations with GPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/imaginarium-collagecraft-cutting-edge-assembler/"><u>Imaginarium CollageCraft Cutting-Edge Assembler</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-lava-yuva-3-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Lava Yuva 3 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-obs-for-live-skype-recording/"><u>Mastering OBS for Live Skype Recording</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/transformer-des-fichiers-tiff-en-png-gratuitement-convertissez-facilement-avec-movavi/"><u>Transformer Des Fichiers TIFF en PNG Gratuitement - Convertissez Facilement Avec Movavi</u></a></li>
+</ul></div>
 

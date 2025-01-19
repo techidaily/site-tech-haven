@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2025-01-06T17:29:42.797Z
-updated: 2025-01-13T17:14:02.591Z
+date: 2025-01-17T21:03:11.263Z
+updated: 2025-01-19T17:54:27.035Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
@@ -65,7 +65,7 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -89,7 +89,7 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -117,7 +117,7 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -135,7 +135,7 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -184,24 +184,24 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-ticket-video-countdown-of-the-hour/"><u>[New] 2024 Approved Hot Ticket Video Countdown of the Hour</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-leading-9-movie-extractors-for-fb-for-2024/"><u>[New] Leading 9 Movie Extractors for FB for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-core-of-vimeo-empowering-video-artists-and-audiences/"><u>[Updated] In 2024, The Core of Vimeo Empowering Video Artists & Audiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/an-introduction-to-claude-ai-advantages-and-uses/"><u>An Introduction to Claude AI: Advantages and Uses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beneath-the-surface-of-ai-exploring-black-boxes/"><u>Beneath the Surface of AI: Exploring Black Boxes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-workflow-discover-the-8-premier-ai-enhanced-google-chrome-plugins/"><u>Boost Workflow: Discover the 8 Premier AI-Enhanced Google Chrome Plugins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bypassing-high-demand-alerts-troubleshooting-chatgpt-limitations-in-windows/"><u>Bypassing High Demand Alerts: Troubleshooting ChatGPT Limitations in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-computers-develop-a-sense-of-humour-a-deep-dive-into-the-origins-of-laptop-pcs-and-the-progress-of-vpn-solutions/"><u>Can Computers Develop a Sense of Humour? A Deep Dive Into the Origins of Laptop PCs & The Progress of VPN Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-trust-the-safety-of-your-data-on-chatgpt-platforms/"><u>Can You Trust the Safety of Your Data on ChatGPT Platforms?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/charting-a-course-for-connected-watches-with-gpts-six-keys/"><u>Charting a Course for Connected Watches with GPT's Six Keys</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-by-openai-a-critical-examination-of-its-significant-flaws/"><u>ChatGPT by OpenAI: A Critical Examination of Its Significant Flaws</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/content-writers-guide-to-streamlining-workflow-using-advanced-ai-tech/"><u>Content Writer's Guide to Streamlining Workflow Using Advanced AI Tech</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-90-lite-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor 90 Lite FRP In 3 Different Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nokia-c210-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nokia C210 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/stellar-file-eraser-5-windows-standard-en-erasing-files-folders/"><u>Stellar File Eraser 5 Windows Standard en Erasing Files Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-sluggish-windows-printer/"><u>Troubleshoot Sluggish WIndows Printer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/wit-wave-twitters-funniest-content/"><u>Wit Wave Twitter's Funniest Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-sound-recorder-quality-overview/"><u>[New] 2024 Approved Sound Recorder Quality Overview</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-science-behind-your-top-ranked-youtube-videos/"><u>[New] The Science Behind Your Top-Ranked YouTube Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pro-tips-15-expertly-chosen-tripods-for-gopro-cameras/"><u>[Updated] Pro Tips 15 Expertly Chosen Tripods for GoPro Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-fall-lineup-comprehensive-guide-to-new-iphone-ipad-mac-ai-innovations-uncovered-by-tech-gurus-at-zdnet/"><u>Apple's Fall Lineup: Comprehensive Guide to New iPhone, iPad, Mac AI Innovations Uncovered by Tech Gurus at ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-dying-light-performance-solutions-for-frame-rate-issues-and-gameplay-interruptions/"><u>Boost Your Dying Light Performance - Solutions for Frame Rate Issues and Gameplay Interruptions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-oppo-find-x7-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Oppo Find X7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficiently-discerning-authentic-from-fake-chatbot-interactions/"><u>Efficiently Discerning Authentic From Fake ChatBot Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-learning-efficiency-with-ai-driven-note-taking-gpt-edition/"><u>Elevate Learning Efficiency with AI-Driven Note Taking - GPT Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-ai-clarity-and-reduce-errors-discover-6-proven-prompt-methods-for-better-results/"><u>Enhance AI Clarity and Reduce Errors: Discover 6 Proven Prompt Methods for Better Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-ai-techniques-for-bing-android-app-users/"><u>Essential AI Techniques for Bing Android App Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-traits-the-selection-guide-to-chatbot-services/"><u>Essential Traits: The Selection Guide to Chatbot Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-fixing-unresponsive-disc-readers-and-ejectors/"><u>Expert Advice on Fixing Unresponsive Disc Readers and Ejectors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-bot-excellence-gpt-plus-versus-perplexity/"><u>Exploring Bot Excellence: GPT Plus versus Perplexity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/foundations-in-creating-interactive-conversation-elements/"><u>Foundations in Creating Interactive Conversation Elements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-face-off-notion-ai-versus-chatgpt-determining-the-top-contender/"><u>Generative AI Face-Off: Notion AI Versus ChatGPT – Determining the Top Contender</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guarding-against-unintended-data-leakage-in-custom-gpts/"><u>Guarding Against Unintended Data Leakage in Custom GPTs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-your-computers-security-at-risk-research-reveals-data-and-photo-vulnerabilities-with-certain-technicians/"><u>Is Your Computer's Security at Risk? Research Reveals Data and Photo Vulnerabilities with Certain Technicians</u></a></li>
+<li><a href="https://fox-http.techidaily.com/perfecting-presentation-adding-textures-to-your-project/"><u>Perfecting Presentation Adding Textures to Your Project</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-and-tricks-for-seamless-integration-of-nintendo-switch-console-with-your-television-setup/"><u>Tips & Tricks for Seamless Integration of Nintendo Switch Console With Your Television Setup</u></a></li>
 </ul></div>
 

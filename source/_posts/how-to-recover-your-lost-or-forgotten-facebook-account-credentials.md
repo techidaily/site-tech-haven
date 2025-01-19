@@ -1,7 +1,7 @@
 ---
 title: How to Recover Your Lost or Forgotten Facebook Account Credentials
-date: 2024-08-16T10:11:48.768Z
-updated: 2024-08-17T10:11:48.768Z
+date: 2025-01-15T20:01:40.799Z
+updated: 2025-01-19T20:34:43.456Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03fb709c64.png)
 
  As one of the biggest social media platforms, Facebook has become an important part of our lives. It’s recommended to change your Facebook password constantly for security concerns. And this guideline introduces three easy ways on**how to change password for Facebook** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I change my password on Facebook?
 
@@ -38,17 +42,15 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Dashlane on your device ( PC, Mac, Android and iOS devices).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6b7042abd9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Run Dashlane in your device.
 
 3) You can now **store your passwords** , **change your passwords** , and automatically **generate strong passwords** (you can do this and more with the **FREE** version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6b7acd468b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can also **sync your passwords and data across all your devices** (this requires **Dashlane Premium** ) to save your time and patience.
@@ -57,9 +59,6 @@ You can also **sync your passwords and data across all your devices** (this requ
 
  Now say goodbye to the long and tedious password changing process and keep your Facebook password safe and strong.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 2: Change your Facebook password on web browser**
 
  One of the general ways to reset your Facebook password is to do it on the web browser. To do so, follow the steps below:
@@ -69,27 +68,26 @@ You can also **sync your passwords and data across all your devices** (this requ
  2) Click the**inverted triangle** at the upper right corner, and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03fec24d8a.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Security and Login** in the left menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03ffcd4cd1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Change Password** in the**Login** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd04012e320d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  5) Enter your current password, and enter your new**Facebook password** twice, then click**Save Changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0402a0016d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve forgotten your current password, click**Forgot your password?** to reset your Facebook password.
 
@@ -99,9 +97,17 @@ You can also **sync your passwords and data across all your devices** (this requ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0405473593.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Then you can select which devices you would like to log out. After that, you should type your new Facebook password to log in again on that device.
 
  This’s a rather easy way to change the password for Facebook. If it’s not the option for you, don’t worry. We have other solutions for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Change your Facebook password in Facebook application**
 
@@ -115,6 +121,10 @@ You can also **sync your passwords and data across all your devices** (this requ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0407184aa8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Scroll down and tap**Settings & Privacy** \>**Account Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd04088bab54.jpg)
@@ -126,17 +136,10 @@ You can also **sync your passwords and data across all your devices** (this requ
  6) Tap**Change Password** in the**Login** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd040be04417.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  7) Enter your current Facebook, and type your new**Facebook password** twice.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae412b91f8f3.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  If you forgot your Facebook password, tap**Forgot Password?** to reset your Facebook password.
 
@@ -145,9 +148,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  8) Tap**Save Changes** to save your new Facebook password.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae4130712bbb.png)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll be logged out your Facebook after changing Facebook password. Just enter your new Facebook password to log in again.
 
@@ -161,8 +161,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +168,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-award-winners-in-writing-for-different-movie-types/"><u>[New] In 2024, Award Winners in Writing for Different Movie Types</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-panasonic-hx-a1-revolutionizing-wearable-cameras-for-the-outdoors/"><u>[Updated] Panasonic HX-A1 Revolutionizing Wearable Cameras for the Outdoors</u></a></li>
+<li><a href="https://win-top.techidaily.com/ai2024/"><u>最适合您的图片放大解决方案: AI照片放大器的前七名[2024年推荐列表]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-determine-if-chatgpt-has-word-or-character-constraints-for-its-answers/"><u>Can You Determine if ChatGPT Has Word or Character Constraints for Its Answers?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-podcast-production-a-firsthand-tale-of-efficiency-and-innovation/"><u>ChatGPT and Podcast Production: A Firsthand Tale of Efficiency and Innovation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-6-essential-techniques-for-advancing-in-your-professional-search/"><u>ChatGPT Mastery: 6 Essential Techniques for Advancing in Your Professional Search</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-redefined-the-power-to-shape-and-construct-tailored-gpt-solutions-now-available/"><u>ChatGPT Redefined: The Power to Shape and Construct Tailored GPT Solutions Now Available</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/commanding-conversational-innovation-unveiling-5-best-ways-to-use-personalized-chatgpt-instructions/"><u>Commanding Conversational Innovation: Unveiling 5 Best Ways to Use Personalized ChatGPT Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-claude-and-chatgpt-determining-the-superior-ai-chatbot-for-daily-use/"><u>Comparing Claude and ChatGPT: Determining the Superior AI Chatbot for Daily Use</u></a></li>
+<li><a href="https://win-net.techidaily.com/fixing-windows-10-file-history-issues-why-you-cant-back-up-certain-folders/"><u>Fixing Windows 10 File History Issues: Why You Can't Back Up Certain Folders</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prove-your-expertise-with-these-windows-10-tricks-for-2024/"><u>Prove Your Expertise with These Windows 10 Tricks for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/sicherung-ihres-raid-0-speichers-ohne-kosten-effiziente-und-schrittweise-methode-fur-die-datensicherheit/"><u>Sicherung Ihres RAID-0 Speichers Ohne Kosten: Effiziente Und Schrittweise Methode Für Die Datensicherheit</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-how-to-detect-your-graphics-card-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: How to Detect Your Graphics Card on Windows - Tips From YL Computing</u></a></li>
+</ul></div>
 

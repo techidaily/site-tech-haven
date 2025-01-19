@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2025-01-09T17:49:35.933Z
-updated: 2025-01-13T17:05:05.815Z
+date: 2025-01-13T19:26:27.260Z
+updated: 2025-01-19T20:14:52.858Z
 tags:
   - apple
 categories:
@@ -26,19 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -59,6 +59,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -76,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,20 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-tutorials-on-precision-digital-video-capture/"><u>[New] Expert Tutorials on Precision Digital Video Capture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-beyondthebaseline-mycams-successor/"><u>[New] In 2024, BeyondTheBaseline MyCam's Successor?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-tailoring-game-recording-features-for-windows-11-gamers-for-2024/"><u>[New] Tailoring Game Recording Features for Windows 11 Gamers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/our-path-forward-on-youtube-self-publishing-vs-major-label-partnership-for-2024/"><u>[New] Your Path Forward on YouTube Self-Publishing vs Major Label Partnership for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-boosting-visual-appeal-in-tiktok-videos/"><u>2024 Approved Boosting Visual Appeal in TikTok Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-conversations-you-can-return-to-anytime-techniques-for-bookmarking-interactions/"><u>ChatGPT Conversations You Can Return to Anytime: Techniques for Bookmarking Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-elevates-gpt-plus-launch-us-exclusive-edition/"><u>ChatGPT Elevates: GPT-Plus Launch US-Exclusive Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-boundaries-explored-7-inquiries-it-cant-resolve/"><u>ChatGPT's Boundaries Explored - 7 Inquiries It Can't Resolve</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-reducing-your-stress-levels-a-guide/"><u>ChatGPT's Role in Reducing Your Stress Levels: A Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/critical-insights-why-blind-trust-in-ai-isnt-wise/"><u>Critical Insights: Why Blind Trust in AI Isn't Wise</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-mastery-top-6-ways-to-utilize-chatgpts-interpreter/"><u>Cutting-Edge Mastery: Top 6 Ways to Utilize ChatGPT's Interpreter</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-practicality-of-localized-artificinal-thinking/"><u>Decoding the Practicality of Localized Artificinal Thinking</u></a></li>
-<li><a href="https://network-issues.techidaily.com/gpu-problem-addressed-full-functionality-regained/"><u>GPU Problem Addressed, Full Functionality Regained</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-70-lite-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 70 Lite 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-successfully-install-pacific-drive-on-your-computer/"><u>Steps to Successfully Install Pacific Drive on Your Computer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-audio-shaping-secrets-the-fading-technique-for-2024/"><u>[New] Audio Shaping Secrets The Fading Technique for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-whatsapp-mastery-discovering-surprising-functionality/"><u>[Updated] In 2024, WhatsApp Mastery Discovering Surprising Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-a56s-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo A56s 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-navigating-to-the-best-10-affordable-online-channels-for-graphic-design/"><u>2024 Approved Navigating to the Best 10 Affordable Online Channels for Graphic Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-the-brains-evaluating-llama-3-against-gpt-n-4/"><u>Battle of the Brains: Evaluating Llama 3 Against GPT-N-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-language-skills-with-chatgpt-plus-a-comprehensive-guide/"><u>Boosting Your Language Skills with ChatGPT Plus: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-coding-quirk-an-insight-into-why-it-fails-at-self-editing-tasks/"><u>ChatGPT's Coding Quirk: An Insight Into Why It Fails at Self-Editing Tasks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-ai-branches-unveiling-the-distinctions-between-nlp-and-ml/"><u>Comparing AI Branches: Unveiling the Distinctions Between NLP and ML</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/converging-ai-and-messaging-chatgpt-meets-whatsapp/"><u>Converging AI & Messaging: ChatGPT Meets WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversing-with-giants-the-new-era-of-ai-comparison-between-gemini-and-chatgpt/"><u>Conversing with Giants: The New Era of AI Comparison Between Gemini and ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/craft-your-ais-voice-integrating-your-dataset-with-a-homemade-chatgpt-model/"><u>Craft Your AI's Voice: Integrating Your Dataset with a Homemade ChatGPT Model</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-10-proplus-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 10 Pro+ 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-green-screen-recorders-how-to-use-them/"><u>In 2024, Best Green Screen Recorders How to Use Them?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-navigate-the-sea-of-stunning-pexels-imagery-with-ease/"><u>In 2024, Navigate the Sea of Stunning Pexels Imagery with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-your-computing-questions-toms-hardware/"><u>The Ultimate Resource for Your Computing Questions - Tom's Hardware</u></a></li>
 </ul></div>
 

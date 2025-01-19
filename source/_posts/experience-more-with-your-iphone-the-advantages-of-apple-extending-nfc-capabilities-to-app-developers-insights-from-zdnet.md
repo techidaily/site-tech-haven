@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2025-01-12T17:46:49.010Z
-updated: 2025-01-13T18:22:58.063Z
+date: 2025-01-18T17:24:12.412Z
+updated: 2025-01-19T20:54:59.839Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
@@ -49,7 +53,7 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -60,6 +64,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -67,10 +75,6 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -88,10 +92,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -101,7 +101,7 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -114,6 +114,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,22 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns/"><u>[New] How to Profit From YouTube Shorts Key Requirements & Possible Returns</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-tailoring-composite-results-blend-mode-proficiency/"><u>[Updated] Tailoring Composite Results Blend Mode Proficiency</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effektiv-sichern-sie-ihre-e-mail-adressen-in-gmail-ein-umfassender-leitfaden/"><u>Effektiv Sichern Sie Ihre E-Mail Adressen in Gmail: Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-itel-p40-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel P40 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-g24-power-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola G24 Power to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-approaches-applying-chatgpt-tools-within-cbt-techniques/"><u>Innovative Approaches: Applying ChatGPT Tools Within CBT Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/interview-success-with-chatgpt-top-tips-and-techniques/"><u>Interview Success with ChatGPT: Top Tips and Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigate-through-the-best-free-ai-image-synthesis-programs-our-open-source-selection/"><u>Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-bert-and-gpts-nlp-landscapes/"><u>Navigating Through BERT and GPT's NLP Landscapes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/open-up-a-world-of-possibilities-start-talking-to-chatgpt-now/"><u>Open Up a World of Possibilities - Start Talking to ChatGPT Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pacing-and-plot-twists-enhanced-with-gpts-9-tips/"><u>Pacing & Plot Twists Enhanced with GPT's 9 Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/premier-smart-search-systems-harnessing-ai-technology-for-superior-web-queries/"><u>Premier Smart Search Systems Harnessing AI Technology for Superior Web Queries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/professional-writers-meet-your-new-ai-allies/"><u>Professional Writers, Meet Your New AI Allies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-complete-guide-to-creating-memorable-youtube-outros-for-2024/"><u>The Complete Guide to Creating Memorable YouTube Outros for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ower-of-collaborations-youtube-shorts-edition/"><u>The Power of Collaborations YouTube Shorts Edition</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-classroom-10-best-animation-software/"><u>Updated In 2024, Revolutionize Your Classroom 10 Best Animation Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-windows-videography-embrace-hdr-magic/"><u>[Updated] In 2024, Windows Videography Embrace HDR Magic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-cooling-system-pwm-or-dc-fans-for-your-pc/"><u>Choosing the Right Cooling System: PWM or DC Fans for Your PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exclusive-nintendo-switch-fighter-lineups-max-156/"><u>Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-oppo-find-x7-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Oppo Find X7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-boosting-engagement-joint-video-strategies-for-growth/"><u>In 2024, Boosting Engagement Joint Video Strategies for Growth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-around-key-errors-mastering-content-creation-with-chatgpt/"><u>Navigating Around Key Errors: Mastering Content Creation with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-on-smartphones-comprehensive-guide-for-android-and-ios-devices/"><u>Navigating ChatGPT on Smartphones: Comprehensive Guide for Android and iOS Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-new-frontiers-ais-influence-on-digital-entertainment/"><u>Navigating New Frontiers: AI's Influence on Digital Entertainment</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device/"><u>New In 2024, Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reconsidering-a-download-why-avoid-chatgpt-on-phone/"><u>Reconsidering a Download: Why Avoid ChatGPT on Phone?</u></a></li>
+<li><a href="https://win-community.techidaily.com/revert-your-pc-to-an-older-windows-version-methods-for-windows-11-10-8-and-39old/"><u>Revert Your PC to an Older Windows Version - Methods for Windows 11, 10, 8 & #39;Old</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/reverting-scanning-device-configuration-back-to-factory-conditions-with-yl-software-solutions/"><u>Reverting Scanning Device Configuration Back to Factory Conditions with YL Software Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-synergy-combining-dall-e-and-chatgpt-4-to-generate-artificial-images/"><u>Seamless Synergy: Combining DALL-E and ChatGPT-4 to Generate Artificial Images</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-efficiently-reference-and-discuss-user-defined-gpts-within-chatbot-talks/"><u>Strategies to Efficiently Reference and Discuss User-Defined GPTs Within Chatbot Talks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-family-friendly-introduction-to-chatgpt-and-the-wonders-of-generative-ai/"><u>The Family Friendly Introduction to ChatGPT and the Wonders of Generative AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-next-generation-of-bots-chatgpt-plus-launch-at-us-20-monthly/"><u>The Next Generation of Bots: ChatGPT Plus Launch at US ($20 Monthly)</u></a></li>
 </ul></div>
 

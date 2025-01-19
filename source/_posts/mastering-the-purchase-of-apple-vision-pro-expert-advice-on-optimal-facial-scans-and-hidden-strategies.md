@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2025-01-12T16:27:12.936Z
-updated: 2025-01-13T17:41:12.234Z
+date: 2025-01-14T17:38:30.436Z
+updated: 2025-01-19T20:43:14.517Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,16 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-live-stream-frontier-deciding-between-obs-and-twitch-space/"><u>[New] In 2024, Live Stream Frontier Deciding Between OBS and Twitch Space</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-art-of-online-earnings-youtubes-money-matrix-for-2024/"><u>[New] The Art of Online Earnings YouTube's Money Matrix for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-rapid-camera-movements-home-filmmakers-guide/"><u>[Updated] 2024 Approved Rapid Camera Movements Home Filmmaker's Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cyber-security-outlook-discover-the-latest-trends-and-future-projections/"><u>Cyber Security Outlook: Discover the Latest Trends and Future Projections</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dialogue-to-discovery-using-chatgpt-for-views/"><u>Dialogue to Discovery: Using ChatGPT for Views</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-every-aspect-of-life-with-insights-from-chatgpt/"><u>Elevate Every Aspect of Life with Insights From ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-instruction-design-with-these-7-digital-strategies/"><u>Elevate Your Instruction Design with These 7 Digital Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empower-your-job-quest-with-chatgpt-tips/"><u>Empower Your Job Quest with ChatGPT Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expect-swift-arrival-how-fast-youll-get-your-new-apple-vision-pro-revealed/"><u>Expect Swift Arrival: How Fast You'll Get Your New Apple Vision Pro Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-open-source-possibilities-deploying-an-unrestricted-chatbot-like-gpt-on-your-pc/"><u>Exploring Open-Source Possibilities: Deploying an Unrestricted Chatbot Like GPT on Your PC</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-youtube-to-wav-file-4-best-free-convert-solutions/"><u>In 2024, YouTube to WAV File 4 Best Free Convert Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-device-agnostic-recording-techniques-for-youtube-live-streams/"><u>[Updated] 2024 Approved Master Device-Agnostic Recording Techniques for YouTube Live Streams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-tips-for-restarting-disrupted-fb-live-videos/"><u>2024 Approved Tips for Restarting Disrupted FB Live Videos</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728487345441-youtube5/"><u>如何在YouTube上恢复已删除的视频：5个技巧与指南</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-with-slack-alert-systems-a-detailed-exploration/"><u>Boost Productivity with Slack Alert Systems: A Detailed Exploration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-error-handling-a-closer-look-at-6-common-problems-and-solutions/"><u>ChatGPT Error Handling: A Closer Look at 6 Common Problems and Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-for-remote-success-stories-discover-6-key-approaches/"><u>ChatGPT for Remote Success Stories – Discover 6 Key Approaches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatting-to-the-future-gpt-and-bing-in-ai-dialogue-duel/"><u>Chatting to the Future: GPT & Bing in AI Dialogue Duel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-shifts-and-sways-prognosticating-top-7-trends/"><u>Cyber Shifts and Sways: Prognosticating Top 7 Trends</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-on-your-preferred-ai-companion-evaluating-chatgpt-against-microsoft-bings-creation-and-google-bard/"><u>Deciding on Your Preferred AI Companion - Evaluating ChatGPT Against Microsoft Bing's Creation & Google Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-conversations-unveiling-the-process-of-chatgpt/"><u>Decoding Conversations: Unveiling the Process of ChatGPT</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-balance-between-cost-and-convenience-with-the-microsoft-surface-laptop-go/"><u>Discovering the Balance Between Cost and Convenience with the Microsoft Surface Laptop Go</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-up-space-a-comprehensive-method-to-empty-cache-on-android-devices/"><u>Free Up Space: A Comprehensive Method to Empty Cache on Android Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-f04-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy F04 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-11-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 11 Pro to iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
 

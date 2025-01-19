@@ -1,7 +1,7 @@
 ---
 title: "Eye Interaction Upgrade: How to Navigate Your iPhone/iPad Using Only Your Gaze - Tech Insights by ZDNet"
-date: 2025-01-11T16:17:05.291Z
-updated: 2025-01-13T18:06:48.901Z
+date: 2025-01-14T16:21:14.121Z
+updated: 2025-01-19T17:14:26.502Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -36,10 +32,6 @@ If you're going to be one of those people, read on.
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/)
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  1\. Update
 
@@ -61,12 +53,16 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### read this
@@ -91,6 +87,10 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Get ready for the transfer
 
 Apple has made the transfer process pretty straightforward. 
@@ -104,10 +104,6 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -136,6 +132,10 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
@@ -144,7 +144,7 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -187,22 +187,22 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-cam-protection-the-ultimate-10-guide/"><u>[New] 2024 Approved Cam Protection The Ultimate 10 Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-5-drone-friendly-vr-experiences/"><u>[New] 2024 Approved Top 5 Drone-Friendly VR Experiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-collection-5-outstanding-book-tts/"><u>[New] The Ultimate Collection 5 Outstanding Book TTs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/discovering-the-most-trusted-mac-snipers-for-2024/"><u>Discovering the Most Trusted Mac Snipers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-basics-to-bots-understanding-openais-api-strengths/"><u>From Basics to Bots: Understanding OpenAI’s API Strengths</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-concept-to-click-integrating-chatgpt-into-your-daw-sound-design-process/"><u>From Concept to Click: Integrating ChatGPT Into Your DAW Sound Design Process</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hassle-free-setup-for-chatgpt-users-on-linux-platforms/"><u>Hassle-Free Setup for ChatGPT Users on Linux Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-uses-of-chatgpt-to-revolutionize-your-3d-prints/"><u>Innovative Uses of ChatGPT to Revolutionize Your 3D Prints</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-ways-to-plan-a-wholesome-menu-with-chatgpts-ai-support/"><u>Innovative Ways to Plan a Wholesome Menu with ChatGPT's AI Support</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-ai-prompt-creation-with-these-5-key-online-learning-programs/"><u>Master AI Prompt Creation with These 5 Key Online Learning Programs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-setup-initiating-your-journey-with-chatgpts-advanced-plug-in-functionality/"><u>Master the Setup: Initiating Your Journey with ChatGPT's Advanced Plug-In Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-conversational-support-merging-gpt-with-whatsapp/"><u>Mastering Conversational Support: Merging GPT with WhatsApp</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/level-content-workshop-for-2024/"><u>Next Level Content Workshop for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-critical-dxgkrnl-bsod-issue-in-windows-11/"><u>Resolved: Fixing the Critical 'Dxgkrnl' BSOD Issue in Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975358225-step-by-step-download-of-latest-drivers-for-your-nvidia-quadro-rtx-8000-on-win-10-8-or-7/"><u>Step-by-Step Download of Latest Drivers for Your Nvidia Quadro RTX 8000 on Win 10, 8 or 7</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-samsung-galaxy-watch-active-unveiled-a-complete-wellness-tracker-evaluation/"><u>The Samsung Galaxy Watch Active Unveiled: A Complete Wellness Tracker Evaluation</u></a></li>
-<li><a href="https://win-web.techidaily.com/troubleshooting-guide-identifying-the-reasons-why-your-cddvd-drive-wont-function/"><u>Troubleshooting Guide: Identifying the Reasons Why Your CD/DVD Drive Won't Function</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-10-best-offline-ios-games/"><u>[Updated] 2024 Approved Top 10 Best Offline iOS Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-framed-facets-guide-to-the-best-apps-and-websites-for-image-framing/"><u>[Updated] In 2024, Framed Facets Guide to the Best Apps and Websites for Image Framing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-top-facts-in-the-asmr-world/"><u>[Updated] Top Facts in the ASMR World</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/2-the-ultimate-guide-efficient-backup-strategies-for-ipad-and-ipad-pro-users/"><u>2. The Ultimate Guide: Efficient Backup Strategies for iPad and iPad Pro Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-opening-doors-to-collective-listening-on-youtube/"><u>2024 Approved Opening Doors to Collective Listening on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-overcoming-voice-chat-connectivity-problems/"><u>COD: Vanguard - Overcoming Voice Chat Connectivity Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-persuasive-chatgpt-interactions-by-tailoring-user-personas-for-optimal-impact/"><u>Crafting Persuasive ChatGPT Interactions by Tailoring User Personas for Optimal Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/daily-assistants-showdown-comparing-claude-and-chatgpt-for-routine-needs/"><u>Daily Assistants Showdown: Comparing Claude and ChatGPT for Routine Needs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-4-tools-to-spot-gpt-powered-texts-in-academics-and-workplaces/"><u>Discover the Best 4 Tools to Spot GPT-Powered Texts in Academics and Workplaces</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-instructions-for-disabling-and-deleting-chatgpt-accounts/"><u>Easy Instructions for Disabling and Deleting ChatGPT Accounts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-productivity-set-up-microsofts-bing-conversational-ai-in-the-heart-of-your-android-keyboard/"><u>Enhancing Productivity: Set Up Microsoft's Bing Conversational AI in the Heart of Your Android Keyboard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-errors-to-sidestep-in-generative-ai-tool-utilization/"><u>Essential Errors to Sidestep in Generative AI Tool Utilization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-top-4-methods-of-governing-artificial-intelligence/"><u>Essential Guide: Top 4 Methods of Governing Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eus-ethical-framework-for-ai-implications-for-gpt-systems/"><u>EU's Ethical Framework for AI: Implications for GPT Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-xs-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone XS Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme C55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola G54 5G | Dr.fone</u></a></li>
 </ul></div>
 

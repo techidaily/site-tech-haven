@@ -1,7 +1,7 @@
 ---
 title: Top 18 Unbeatable Prime Day PC Bargains - Find Saving on HP, Apple & Razer Devices Now | TechSavvy
-date: 2025-01-07T16:21:34.095Z
-updated: 2025-01-13T17:10:54.269Z
+date: 2025-01-12T16:58:55.610Z
+updated: 2025-01-19T20:02:57.684Z
 tags:
   - apple
 categories:
@@ -91,6 +91,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -100,7 +104,7 @@ HPZDNET
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
@@ -109,10 +113,6 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -131,18 +131,18 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
@@ -150,7 +150,7 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd2312807-8e25-42d5-8918-45dec6ed5ae8%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
@@ -230,18 +230,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[New] Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-digest-your-facebook-memories/"><u>[New] In 2024, Digest Your Facebook Memories</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-12-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 12 mini without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-demystifying-pexelscom-the-ultimate-resource-for-photographers-and-designers/"><u>In 2024, Demystifying Pexels.com The Ultimate Resource for Photographers and Designers</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-your-home-routine-how-to-utilize-chatgpt-in-6-different-ways/"><u>Streamlining Your Home Routine: How to Utilize ChatGPT in 6 Different Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/supercharge-dialogue-the-ultimate-10-tweaks-for-better-chatgpt/"><u>Supercharge Dialogue: The Ultimate 10 Tweaks for Better ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-impact-of-gemini-15s-unprecedented-million-token-context-on-todays-tech-landscape/"><u>The Impact of Gemini 1.5'S Unprecedented Million-Token Context on Today's Tech Landscape</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-storytellers-ai-companion-chatgpt-for-engaging-narratives/"><u>The Storyteller’s AI Companion: ChatGPT for Engaging Narratives</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-eliminating-yakuza-6-pc-freezing-problems/"><u>Troubleshooting Steps: Eliminating Yakuza 6 PC Freezing Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-mastering-video-conversion-with-top-of-the-line-vob-editors/"><u>Ultimate Guide: Mastering Video Conversion with Top-of-the-Line VOB Editors</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/updating-your-scanners-drivers-made-easy-a-step-by-step-guide-by-yl-computing/"><u>Updating Your Scanner's Drivers Made Easy: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-5-ways-to-download-facebook-story-on-desktop-and-mobile-for-2024/"><u>[New] 5 Ways to Download Facebook Story on Desktop and Mobile for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-harnessing-google-trends-for-video-concept-generation/"><u>[New] In 2024, Harnessing Google Trends for Video Concept Generation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-taking-the-plunge-a-stepwise-strategy-to-set-up-your-personal-tech-review-platform/"><u>[New] Taking the Plunge A Stepwise Strategy to Set Up Your Personal Tech Review Platform</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-art-of-online-recording/"><u>[Updated] The Art of Online Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-powered-character-building-for-roleplayers-leveraging-chatgpt-and-dall-e-in-dungeons-and-dragons/"><u>AI-Powered Character Building for Roleplayers: Leveraging ChatGPT & DALL-E in Dungeons & Dragons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-integrity-vs-tech-might-the-sarah-silverman-suit/"><u>Artistic Integrity Vs. Tech Might: The Sarah Silverman Suit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-common-pitfalls-with-these-6-inessential-gpt-tools/"><u>Avoid Common Pitfalls with These 6 Inessential GPT Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-hp-printer-drivers-for-windows-11/"><u>Download & Install the Latest HP Printer Drivers for Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 14 Plus to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-infinix-smart-8-plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Infinix Smart 8 Plus IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209704925-9781632658203-kitchen-witchs-guide-to-divination/"><u>Kitchen Witch's Guide to Divination | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721926695089-no-more-waiting-embrace-an-expert-open-source-conversation-tool-while-chatgpt-is-on-hold/"><u>No More Waiting – Embrace an Expert Open Source Conversation Tool While ChatGPT Is on Hold</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722196716335-the-countdown-to-official-desktop-chatgpt-boost-productivity-with-these-premium-free-to-use-alternatives-in-the-meantime/"><u>The Countdown to Official Desktop ChatGPT: Boost Productivity with These Premium, Free-to-Use Alternatives in the Meantime!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-for-improving-iphones-incoming-call-audio-level/"><u>Troubleshooting Techniques for Improving iPhone's Incoming Call Audio Level</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-potential-chatgpts-role-in-interview-readiness/"><u>Unlock Potential: ChatGPT's Role in Interview Readiness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/want-to-ensure-your-data-is-safe-from-chatgpt-learn-the-steps-to-disengage/"><u>Want to Ensure Your Data Is Safe From ChatGPT? Learn the Steps to Disengage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/warning-avoid-suspicious-win-chatgpt-software/"><u>Warning: Avoid Suspicious Win ChatGPT Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/who-wins-a-side-by-side-review-of-googles-bard-microsofts-chatgpt-and-alpaca-in-language-modeling/"><u>Who Wins? A Side-by-Side Review of Google's Bard, Microsoft's ChatGPT, & Alpaca in Language Modeling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-writers-programs-ignore-errors/"><u>Why Writers Programs Ignore Errors</u></a></li>
 </ul></div>
 

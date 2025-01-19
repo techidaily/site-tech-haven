@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Removing Cache Data From Mozilla Firefox"
-date: 2024-08-16T10:09:20.979Z
-updated: 2024-08-17T10:09:20.979Z
+date: 2025-01-13T17:52:10.930Z
+updated: 2025-01-19T16:55:39.314Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
 If you’re looking to**update DirectX** on your Windows 11 or 10 computer, you’ve come to the right place. Read on and check it out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update DirectX in Windows 10 or 11
 
  If you don’t know the current version of DirectX on your computer, please start with[**Step 1: check your version of DirectX**](https://tools.techidaily.com/drivereasy/download/) .
@@ -30,20 +34,20 @@ If you’re looking to**update DirectX** on your Windows 11 or 10 computer, you�
 Here’s how to check your DirectX version:
 
 1. On your keyboard, press**the**   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  , then copy & paste **dxdiag** into the box and click**dxdiag** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Check out your **DirectX version** in the first page of the report.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Update DirectX
 
@@ -51,22 +55,17 @@ Here’s how to check your DirectX version:
 
  Since there is no stand-alone package of DirectX available in Windows 10, you can only update DirectX via Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press**the**   **Windows logo key**  and type**check** . Then click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -76,10 +75,16 @@ Here’s how to check your DirectX version:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -98,11 +103,6 @@ Here’s how to check your DirectX version:
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -121,8 +121,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +128,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-step-by-step-utilizing-your-twitter-archive-for-2024/"><u>[New] Step-by-Step Utilizing Your Twitter Archive for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz-for-2024/"><u>[New] The Gateway Guide Entering the World of Photo-Video with Pixiz for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-streaming-enabling-av1-technology-in-youtube/"><u>[New] Transform Your Streaming Enabling AV1 Technology in YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-building-a-solid-foundation-for-authenticity-in-design/"><u>[Updated] In 2024, Building a Solid Foundation for Authenticity in Design</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-v-purse-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor V Purse</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-instructions-for-generating-restore-points-on-your-windows-10-device/"><u>Easy Instructions for Generating Restore Points on Your Windows 10 Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-to-follow-tutorial-for-installing-the-newest-ios-version-on-your-device/"><u>Easy-to-Follow Tutorial for Installing the Newest iOS Version on Your Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-huawei-p60-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Huawei P60 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-100-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-manufacturing-chatgpt-and-3d-printing/"><u>Navigating the Future of Manufacturing: ChatGPT & 3D Printing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-generative-ais-search-mechanisms/"><u>Navigating Through Generative AI's Search Mechanisms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-and-meta-face-backlash-from-artists-litigating-for-expression/"><u>OpenAI & Meta Face Backlash From Artists Litigating for Expression</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/opt-for-secure-and-personalized-ai-talks-experience-more-than-just-chatgpt-on-duckduckgos-encrypted-chat-interface/"><u>Opt for Secure and Personalized AI Talks: Experience More Than Just ChatGPT on DuckDuckGo's Encrypted Chat Interface</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcome-the-chatgpt-body-stream-challenge-your-ultimate-fix-it-guide-for-smoother-interactions/"><u>Overcome the ChatGPT Body Stream Challenge - Your Ultimate Fix-It Guide for Smoother Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/personalized-literature-at-your-fingertips-dive-into-these-5-innovative-ai-tools/"><u>Personalized Literature at Your Fingertips - Dive Into These 5 Innovative AI Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchats-my-ai-6-reasons-to-take-seriously/"><u>Snapchat's My AI: 6 Reasons to Take Seriously</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/snapchats-personal-assistant-my-ai-versus-openais-chatgpt-which-fits-your-needs/"><u>Snapchat's Personal Assistant My AI versus OpenAI's ChatGPT – Which Fits Your Needs?</u></a></li>
+</ul></div>
 

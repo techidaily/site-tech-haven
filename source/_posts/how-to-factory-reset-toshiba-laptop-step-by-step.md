@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset Toshiba Laptop | Step by Step
-date: 2024-08-16T10:09:01.885Z
-updated: 2024-08-17T10:09:01.885Z
+date: 2025-01-18T17:54:49.123Z
+updated: 2025-01-19T19:18:46.397Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Step 1: Turn off your laptop and the projector**
 
  Make sure your laptop and the projector are both turned off before you connect your laptop to the projector.
@@ -42,10 +39,11 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 
 1. Please ensure that the video port on your PC matches an available video port on the projector, like DisplayPort ( **DP** ), **HDMI** , **VGA,** and **DVI**  . If not, you may need a **video output adapter cable** to convert one type of video signal to another.  
  ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Connect your laptop to the projector firmly with a compatible video cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 3: Turn on the projector and your laptop**
 
@@ -58,8 +56,9 @@ If you want to connect your laptop to a projector but don’t know how to do it,
  If you don’t know which key on the remote control you should press, please refer to the instruction manual of the projector remote control.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Step 4: Update your graphics driver to the latest version**
 
  It is important to ensure that your graphics driver has been updated to the latest version. If not, please update your graphics driver to ensure stability and the best performance. It is recommended that you update your graphics driver with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -73,6 +72,10 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8.png)
 3. Click**Update**  next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
 
@@ -89,15 +92,19 @@ If you want to connect your laptop to a projector but don’t know how to do it,
 
 1. Right-click an empty area of the desktop and select **Screen resolution**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-1.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 2. In the pop-up window, click the drop-down lists of **Display** and**Multiple displays**  to configure the display settings. **Normally, you don’t have to change the Resolution setting.**  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/43-1.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/43-1.png)  
  If Windows doesn’t detect the projector, then click**Detect** . If it still doesn’t work, restart your PC and then repeat the two steps above.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/43.png)
 3. Select a display mode from the drop-down list of **Multiple displays** according to your preference.  
    * **Duplicate these displays:** the projector projects the screen of your laptop with  the monitor of your laptop turned on.  
@@ -105,21 +112,25 @@ If you want to connect your laptop to a projector but don’t know how to do it,
    * **Show desktop only on 1:**  to show your screen only on your laptop (the display on the projector is disabled).  
    * **Show desktop only on 2:**  to show your screen only on the projector (the monitor of your laptop is disabled).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/3-1-1.png)  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     To switch the multiple displays mode quickly, on your keyboard, press**the Windows logo key** and**P** on your keyboard at the same time.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap56.png)
 4. Click **Apply**   and then click **Keep changes**   to save the new settings if you’re prompted to do so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **OK**  to save the setting and close the window.
 
 #### If your current operating system is **Windows 10**
 
 1. Right-click an empty area of the Desktop and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-1.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 2. In the pop-up window, click the drop-down lists of **Scale and layout** and **Multiple displays**  to configure the display settings. **Normally, you don’t have to change the Resolution setting.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap47-1.png)  
  If Windows doesn’t detect the projector, then click**Detect** . If it still doesn’t work,**restart** your PC and then repeat the two steps above.  
@@ -130,14 +141,8 @@ If you want to connect your laptop to a projector but don’t know how to do it,
    * **Show desktop only on 1:**  to show your screen only on your laptop (the display on the projector is disabled).  
    * **Show desktop only on 2:**  to show your screen only on the projector (the monitor of your laptop is disabled).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap47.png)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     To switch the multiple displays mode quickly, on your keyboard, press**the Windows logo key** and**P** at the same time.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap55.png)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click **Keep changes**  to save the new settings if you’re prompted to do so.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap48.png)
 
@@ -151,8 +156,6 @@ If you want to connect your laptop to a projector but don’t know how to do it,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +163,19 @@ If you want to connect your laptop to a projector but don’t know how to do it,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-expert-techniques-in-creating-timelapses-on-black-hero5-for-2024/"><u>[Updated] Expert Techniques in Creating Timelapses on Black Hero5 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-srt-file-fundamentals-from-basics-to-advanced-techniques/"><u>[Updated] SRT File Fundamentals From Basics to Advanced Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-accessing-and-utilizing-chatgpts-api-features/"><u>Effective Strategies for Accessing and Utilizing ChatGPT's API Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-possibilities-with-openly-accessible-gpt-4-technology/"><u>Explore the Possibilities with Openly Accessible GPT-4 Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-built-in-extensions-uses-and-functionalities/"><u>Exploring ChatGPT's Built-In Extensions: Uses & Functionalities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-eight-effective-chatgpt-alternatives-can-these-side-hustles-boost-your-income/"><u>Exploring Eight Effective ChatGPT Alternatives – Can These Side Hustles Boost Your Income?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-depths-of-poetry-with-chatgpt-guidance/"><u>Exploring the Depths of Poetry with ChatGPT Guidance</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/guide-to-swiftly-eliminate-unwanted-youtube-comments-for-2024/"><u>Guide to Swiftly Eliminate Unwanted YouTube Comments for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-14-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 14 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Itel A70 | Dr.fone</u></a></li>
+</ul></div>
 

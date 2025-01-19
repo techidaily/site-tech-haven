@@ -1,7 +1,7 @@
 ---
 title: "Ensure Optimal Performance with ASUS Hardware on PCs: Install the Right Drivers for Windows 10 and 7 Users"
-date: 2024-08-16T10:11:04.738Z
-updated: 2024-08-17T10:11:04.738Z
+date: 2025-01-16T18:44:42.180Z
+updated: 2025-01-19T16:53:07.048Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 
 It’s important to optimize your Windows 10 operating system if you want a best gaming experience. You should make sure your system runs as smoothly and efficiently as possible and it won’t bother you when you’re playing your games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To optimize your Windows 10 computer for gaming
 
  The following are a few methods that have helped many Windows 10 users have better gaming experiences. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,9 +32,6 @@ It’s important to optimize your Windows 10 operating system if you want a best
 5. [**Disable your visual effects**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Upgrade your computer hardware**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Limit your startup items
 
  Startup items mean the programs or processes that run automatically when your operating system starts. They can affect your Windows 10 system and your game performance. You should check these items and disable the ones you don’t need.
@@ -43,6 +44,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a1b3f9adc9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Startup** tab, then disable the items you don’t need.
 
  If you’re not sure what an item is, do some research on the Internet to know what it is and if you can disable it.
@@ -50,11 +55,12 @@ To do so:
  To disable a startup item, right click this item and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a1ccd1d664.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The next time you start your Windows 10 system, the items you disabled won’t start automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Configure your power plan
 
@@ -63,8 +69,9 @@ To do so:
 **1)** Right click the**Start** button in the lower left corner of your screen, then click**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a25d5dd9a1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**Additional power settings** .
@@ -77,6 +84,14 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a293b83333.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Update your system
 
  Installing updates for your system can fix your performance issues and make it run smoother. You should run Windows Update to update your Windows 10 operating system. To do so:
@@ -84,23 +99,14 @@ To do so:
 **1)** Click the**Start** button in the lower left corner of your screen, then click the**Settings** icon.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2ce44241f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
 **2)** Click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2dbf235d3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2e1292ffc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Wait for Windows Update to update your operating system.
 
@@ -115,6 +121,10 @@ To do so:
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
@@ -137,9 +147,6 @@ To do so:
 **2)** Click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eea6be5120.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **3)** Turn on**Pause updates** .
 
@@ -156,23 +163,18 @@ To do so:
 **2)** Type “_sysdm.cpl_ ” and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a342a037e9.png)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click the**Advanced** tab, then click**Settings** in the_Performance_ section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a355c28e29.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click**Adjust for best performance** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a35afc6368.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click**OK** .
 
@@ -193,8 +195,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +202,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-chasing-profit-on-platforms-youtube-partner-application-steps/"><u>[New] Chasing Profit on Platforms YouTube Partner Application Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-craft-laughs-eyedroppermemes/"><u>[New] In 2024, Craft Laughs EyeDropperMemes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ntegrate-youtube-content-into-google-slides-effectively/"><u>[New] Integrate YouTube Content Into Google Slides Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking-for-2024/"><u>[Updated] From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721838632128-faux-chatgpt-browser-tool-targeting-facebook-logins-stay-alert/"><u>Faux ChatGPT Browser Tool Targeting Facebook Logins – Stay Alert</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/first-major-breakthrough-for-cerebras-as-leading-ai-chipmaker-enters-energy-sector-with-totalenergies-partnership-highlights-tech-evolution-in-zdnet-report.61/"><u>First Major Breakthrough for Cerebras as Leading AI Chipmaker Enters Energy Sector with TotalEnergies Partnership, Highlights Tech Evolution in ZDNet Report</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-6-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 6 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-guide-20-proven-techniques-for-facebook-video-ads/"><u>In 2024, The Ultimate Guide 20 Proven Techniques for Facebook Video Ads</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oneplus-open-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of OnePlus Open? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-instances-where-artificial-intelligence-fuses-facts-with-fiction/"><u>Top 8 Instances Where Artificial Intelligence Fuses Facts with Fiction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-resume-writing-process-using-chatgpt-techniques/"><u>Transform Your Resume Writing Process Using ChatGPT Techniques</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/trois-techniques-pour-recuperer-des-messages-effaces-dans-votre-compte-gmail/"><u>Trois Techniques Pour Récupérer Des Messages Effacés Dans Votre Compte Gmail</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-for-resolving-chatgpt-and-plugin-service-connectivity-issues/"><u>Troubleshooting Steps for Resolving ChatGPT and Plugin Service Connectivity Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unchecked-power-is-chatgpt-beyond-control/"><u>Unchecked Power: Is ChatGPT Beyond Control?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-limitations-and-hazards-of-using-ai-instead-of-professional-counselors/"><u>Understanding the Limitations and Hazards of Using AI Instead of Professional Counselors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-5-ai-apps-designed-for-emotional-care/"><u>Unraveling 5 AI Apps Designed for Emotional Care</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worlds-top-techies-and-their-ai-predictions/"><u>World's Top Techies and Their AI Predictions</u></a></li>
+</ul></div>
 

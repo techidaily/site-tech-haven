@@ -1,7 +1,7 @@
 ---
 title: Improving Performance in Rust - A Comprehensive Guide to Increasing Your Frames Per Second (FPS)
-date: 2024-08-16T10:12:07.176Z
-updated: 2024-08-17T10:12:07.176Z
+date: 2025-01-18T19:46:47.972Z
+updated: 2025-01-19T19:15:24.560Z
 tags:
   - win11
   - win10
@@ -27,30 +27,44 @@ With a Google account, you can enjoy all the wonderful services provided by Goog
 2. **[Android device](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Create a Google account on your laptop or desktop
 
 1. Go to the Google account creation page.
 2. Enter your name, username and**password** , then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account.png)
 3. **Verify your phone number** . Select your country, then enter your phone number to receive the 6-digit verification code message. Click**Next** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/verify-your-phone-number.png)
 4. Enter the 6-digit verification code you received and click**Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/verify-your-phone-number-2.png)
 5. Use one of your Email addresses**as the recovery email address for your Google account** . Enter your**birthday and gender** , then click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/welcome-to-Google.png)
 6. If you want to add your phone number to your account for use across Google services, click**Yes, I’m in** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/get-more-from-your-number.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/get-more-from-your-number.png)
 7. Google will present the privacy policies for your Google Account. Once you’ve read these terms, click **I agree** to complete Google account creation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/google-account-creation.png)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That’s it! It’s pretty easy, isn’t it? Now it’s time to enjoy Google services with your Google account.
 
@@ -62,21 +76,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 1. Unlock your Android phone and go to**Settings** \>**Accounts** \>**Add account** . Then Select**Google** to start creating.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Settings-Accounts-Add-account-google.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 2. Tap**Create account** in the lower-left corner. Then follow the on-screen instructions to enter your name and phone number. Tap**Next** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Create-Google-account-on-Android-phone.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 3. Enter the verification code and your basic information, then choose your Gmail address, which is also your Google account.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account-3.png)
 4. Google will present the privacy policies for your Google Account. Once you’ve read these terms, click **I agree** to complete Google account creation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account-4-1.png)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, you’ve successfully created a new Google account!
 
@@ -92,8 +97,6 @@ Now, you’ve successfully created a new Google account!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +104,21 @@ Now, you’ve successfully created a new Google account!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlock-your-creativity-with-these-under-1k-4k-cameras/"><u>[New] In 2024, Unlock Your Creativity with These Under-$1k 4K Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>[New] The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-make-your-own-youtube-opening-and-closing-graphics/"><u>[Updated] In 2024, Make Your Own YouTube Opening & Closing Graphics</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-integrate-siri-on-tiktok-a-comprehensive-guidebook/"><u>How to Integrate Siri on TikTok - A Comprehensive Guidebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-maximize-your-anthropics-ai-experience/"><u>How to Maximize Your Anthropic's AI Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-the-chatgpt-extension-shop-what-were-looking-forward-to/"><u>Improving the ChatGPT Extension Shop: What We're Looking Forward To</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-finding-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>In 2024, Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-on-codegpt-could-ai-revolutionize-development/"><u>Insights on CodeGPT: Could AI Revolutionize Development?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-driving-enhanced-with-chatgpt-voice-control-by-mercedes-benz/"><u>Intelligent Driving Enhanced with ChatGPT Voice Control by Mercedes-Benz</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-for-better-health-with-chatgpt-techniques/"><u>Leveraging AI for Better Health with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opt-for-basic-or-advanced-chatgpt-functionality/"><u>Opt for Basic or Advanced ChatGPT Functionality</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-capturing-the-essence-of-whistle-audio-resonance/"><u>Updated 2024 Approved Capturing the Essence of Whistle Audio Resonance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/webmiphone/"><u>WebMファイルのiPhoneでのスムーズな再生技術解説</u></a></li>
+</ul></div>
 

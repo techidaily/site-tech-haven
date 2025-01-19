@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2025-01-07T18:19:30.421Z
-updated: 2025-01-13T17:33:02.363Z
+date: 2025-01-14T19:50:26.988Z
+updated: 2025-01-19T21:01:22.149Z
 tags:
   - apple
 categories:
@@ -29,16 +29,24 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -48,29 +56,17 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-phantasm-captures-action-tech-diary/"><u>2024 Approved Phantasm Captures Action Tech Diary</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/clearing-up-confusion-a-detailed-walkthrough-to-fix-home-pregnnty-test-code-e43-issues/"><u>Clearing Up Confusion: A Detailed Walkthrough to Fix Home Pregn^nty Test Code E43 Issues</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-how-to-write-a-script-for-a-youtube-video/"><u>In 2024, How to Write a Script for a YouTube Video</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/"><u>In 2024, Unlock Efficiency Cutting-Edge Techniques for Cropping & Exporting Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/shooting-for-greatness-iphones-10-vital-composition-guidelines-for-2024/"><u>Shooting for Greatness IPhone's 10 Vital Composition Guidelines for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-or-advanced-decide-on-pure-text-or-add-on-gpt-features/"><u>Simple or Advanced: Decide on Pure Text or Add-On GPT Features</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-150-2023-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia 150 (2023) with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-addressing-chatgpt-full-capacity-alerts-on-your-pc/"><u>Step-by-Step Guide: Addressing ChatGPT Full Capacity Alerts on Your PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-entertainment-a-guide-to-utilizing-chatgpt-for-personalized-watchlist-suggestions/"><u>Streamline Your Entertainment: A Guide to Utilizing ChatGPT for Personalized Watchlist Suggestions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-comprehensive-guide-to-leveraging-chatgpts-api-capabilities/"><u>The Comprehensive Guide to Leveraging ChatGPT's API Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-enigma-of-ai-deciphering-black-box-logic/"><u>The Enigma of AI: Deciphering Black Box Logic</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-heart-of-adventure-polaroid-cubeplus-video-analysis/"><u>The Heart of Adventure Polaroid Cube+ Video Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-latest-android-to-ios-with-chatgpt/"><u>The Latest Android to iOS with ChatGPT</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-smartphone-lens-creating-sweeping-panos-for-2024/"><u>[New] The Smartphone Lens Creating Sweeping Panos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-streamlining-youtube-audio-pace-via-devices/"><u>[Updated] 2024 Approved Streamlining YouTube Audio Pace via Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-headset-audio-fixes-mend-that-silent-mic-now/"><u>Astro A50 Headset Audio Fixes - Mend That Silent Mic Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-windows-7-sound-card-driver-download-updated-guide/"><u>Free Windows 7 Sound Card Driver Download: Updated Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fun-on-a-budget-meme-creators-handbook/"><u>Fun on a Budget – Meme Creator’s Handbook</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-over-music-flow-the-art-of-audio-blending/"><u>In 2024, Mastery Over Music Flow The Art of Audio Blending</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-windows-upside-down-error/"><u>Rectifying Window's Upside-Down Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-openais-shapley-values-how-they-transform-model-clarity-and-decision-making/"><u>The Power of OpenAI's Shapley Values: How They Transform Model Clarity and Decision Making</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-bard-googles-new-ai-ambition-against-chatgpt/"><u>The Rise of 'Bard': Google's New AI Ambition Against ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-on-generating-bulk-visuals-and-text-with-canva-and-chatgpt/"><u>The Ultimate Tutorial on Generating Bulk Visuals and Text with Canva & ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-to-clearing-dns-in-microsofts-latest-windows-versions/"><u>The Ultimate Tutorial to Clearing DNS in Microsoft's Latest Windows Versions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncovering-genuine-chatbot-programming-on-ios/"><u>Uncovering Genuine ChatBot Programming on iOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-best-practices-for-using-chatgpt-as-a-writer/"><u>Unlocking Potential: Best Practices for Using ChatGPT as a Writer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmatched-add-ons-supercharging-your-gpt-experience-in-vs-code/"><u>Unmatched Add-Ons: Supercharging Your GPT Experience in VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrade-to-excellence-discover-9-superior-reasons-for-choosing-chatgpt-plus/"><u>Upgrade to Excellence: Discover 9 Superior Reasons for Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-shines-brighter-evaluating-chatgpt-vs-gemini-in-the-world-of-software-development/"><u>Which AI Shines Brighter? Evaluating ChatGPT Vs. Gemini in the World of Software Development</u></a></li>
 </ul></div>
 

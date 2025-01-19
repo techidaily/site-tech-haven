@@ -1,7 +1,7 @@
 ---
 title: "Unlock Exciting New MacOS 15 Perks: Your Apple MacBook's Secret Boost Revealed by ZDNet!"
-date: 2025-01-11T18:02:26.952Z
-updated: 2025-01-13T17:47:02.904Z
+date: 2025-01-18T19:58:17.590Z
+updated: 2025-01-19T20:35:37.333Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Each pair of Apple headphones debut with interesting upgrades which should make 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Hearing aid mode
@@ -39,7 +39,7 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -49,7 +49,7 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -110,18 +110,16 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-tips-acquiring-high-quality-backdrop-visuals/"><u>[New] Top Tips Acquiring High-Quality Backdrop Visuals</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-best-microphone-combinations-for-superior-4k-audio-and-visuals/"><u>[Updated] Best Microphone Combinations for Superior 4K Audio and Visuals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-guffaw-guide-the-leading-text-generator-companions/"><u>[Updated] In 2024, Guffaw Guide The Leading Text Generator Companions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-obs-studio-vs-bandicam-which-takes-the-crown-in-2024/"><u>[Updated] OBS Studio Vs. Bandicam Which Takes the Crown, In 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-mechanisms-of-generative-ai-functionality-and-industry-applications/"><u>Exploring the Mechanisms of Generative AI: Functionality and Industry Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freelancers-guide-should-you-opt-for-bing-chat-or-chatgpt-evaluate-these-8-key-points/"><u>Freelancer's Guide: Should You Opt for Bing Chat or ChatGPT? Evaluate These 8 Key Points</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-explained-revolutionizing-innovation-in-tech/"><u>Generative AI Explained: Revolutionizing Innovation in Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-can-i-use-chatgpt-for-my-smart-home-automation/"><u>How Can I Use ChatGPT For My Smart Home Automation?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-transfer-learning-power-up-ai-unveiling-the-intricacies/"><u>How Does Transfer Learning Power Up AI? Unveiling the Intricacies</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1726028762577-mp3/"><u>MP3フォーマットにおけるサウンドクオリティ向上のステップバイステップガイド</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/syncing-youtube-with-facebooks-sharing-mechanism-for-2024/"><u>Syncing YouTube With Facebook's Sharing Mechanism for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/870997-9781101590935-the-synchronicity-key/"><u>The Synchronicity Key | Free Book</u></a></li>
-<li><a href="https://article-posts.techidaily.com/which-motorsport-cam-is-supreme-hero4-or-ghost-s-for-2024/"><u>Which Motorsport Cam Is Supreme? Hero4 or Ghost-S for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-9-online-mic-recorders/"><u>[New] Best 9 Online Mic Recorders</u></a></li>
+<li><a href="https://win-great.techidaily.com/award-winning-audio-samples-for-producers-get-free-tracks-from-the-bbc-with-this-comprehensive-guide/"><u>Award-Winning Audio Samples for Producers - Get Free Tracks From the BBC with This Comprehensive Guide!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/easy-and-effective-way-to-change-gifs-into-videos-using-a-proven-free-tool-by-movavi/"><u>Easy and Effective Way to Change GIFs Into Videos Using a Proven, Free Tool by Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-gt-5-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme GT 5 Pro Device</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/master-windows-clock-customization-expert-techniques-by-yl-software/"><u>Master Windows Clock Customization: Expert Techniques by YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reaching-new-heights-with-chatgpts-token-limit/"><u>Reaching New Heights with ChatGPT's Token Limit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-job-application-process-using-chatgpt-for-resume-creation/"><u>Revolutionize Your Job Application Process Using ChatGPT for Resume Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-operations-the-impact-of-chatgpt-and-whisper-apis-on-modern-enterprises/"><u>Revolutionize Your Operations: The Impact of ChatGPT & Whisper APIs on Modern Enterprises</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/separating-nlp-from-ml-in-data-science-fields/"><u>Separating NLP From ML in Data Science Fields</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/superior-hd-video-capture-options-reviewed-here/"><u>Superior HD Video Capture Options Reviewed Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-etiquette-of-engaging-with-artificial-intelligence-considering-chatgpt-alexa-and-siri/"><u>The Etiquette of Engaging with Artificial Intelligence: Considering ChatGPT, Alexa & Siri</u></a></li>
 </ul></div>
 

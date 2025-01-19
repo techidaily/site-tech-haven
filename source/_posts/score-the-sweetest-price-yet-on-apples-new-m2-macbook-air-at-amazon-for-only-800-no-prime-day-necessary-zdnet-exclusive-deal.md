@@ -1,7 +1,7 @@
 ---
 title: Score the Sweetest Price Yet on Apple's New M2 MacBook Air at Amazon for Only $800 – No Prime Day Necessary | ZDNet Exclusive Deal
-date: 2025-01-12T17:55:25.144Z
-updated: 2025-01-13T17:02:06.546Z
+date: 2025-01-15T18:24:38.822Z
+updated: 2025-01-19T21:04:44.599Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 Many folks don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C2R8MP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc29ebbda-99dd-4505-b503-7802d6019c7c%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,24 +79,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-scheduling-with-premium-recording-software-for-2024/"><u>[Updated] Advanced Scheduling with Premium Recording Software for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-easily-download-specific-youtube-sections-for-2024/"><u>[Updated] Easily Download Specific YouTube Sections for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-revolutionary-srt-adjustments-unleash-potential-on-both-oses/"><u>2024 Approved Revolutionary SRT Adjustments Unleash Potential on Both OSes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-cutting-edge-conversational-agents-empowered-by-ai-to-support-mental-wellness/"><u>5 Cutting-Edge Conversational Agents Empowered by AI to Support Mental Wellness</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-the-bert-model-for-nlp-and-how-it-stands-out-against-gpt/"><u>A Deep Dive Into the BERT Model for NLP & How It Stands Out Against GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-new-world-of-ai-discover-insights-in-these-9-communities/"><u>A New World of AI: Discover Insights in These 9 Communities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-code-rivals-analyzing-chatgpt-and-gemini-for-best-coding-performance/"><u>AI Code Rivals: Analyzing ChatGPT and Gemini for Best Coding Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-alan-turing-exploring-modern-substitutes-for-the-classic-ai-assessment/"><u>Beyond Alan Turing: Exploring Modern Substitutes for the Classic AI Assessment</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-the-path-to-improved-emotional-intelligence/"><u>ChatGPT and the Path to Improved Emotional Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-virtual-mixologist-how-effective-is-it/"><u>ChatGPT as a Virtual Mixologist: How Effective Is It?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-guide-to-selective-focus-imaging-for-2024/"><u>Expert Guide to Selective Focus Imaging for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-discovering-all-in-youtube-shorts-guide/"><u>In 2024, Discovering All in YouTube Shorts Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-devices-for-frame-by-frame-filmmaking/"><u>In 2024, Excellent Devices for Frame-by-Frame Filmmaking</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-platform-dominance-a-comprehensive-twitch-vs-youtube-review/"><u>In 2024, Platform Dominance A Comprehensive Twitch Vs. YouTube Review</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unleash-the-power-of-pixels-expert-tips-on-live-tv-recording-with-windows-pc/"><u>In 2024, Unleash the Power of Pixels Expert Tips on Live TV Recording with Windows PC</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/overcoming-obstacles-strategies-for-success-after-setbacks/"><u>Overcoming Obstacles: Strategies for Success After Setbacks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722173224442-streamline-your-routine-with-these-9-chatgpt-hacks/"><u>Streamline Your Routine with These 9 ChatGPT Hacks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-fortnites-audio/"><u>Troubleshooting Steps: Resolving Issues with Fortnite's Audio</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-chatbots-shouldnt-be-your-tool-for-windows-11-unlocks/"><u>Why Chatbots Shouldn't Be Your Tool for Windows 11 Unlocks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>2024 Approved Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-15-proipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 15 Pro/iPad/iPod</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/color-depth-from-rgb-to-srgb-for-2024/"><u>Color Depth From Rgb to Srgb for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-make-your-screenshots-stand-out-the-ultimate-ios-and-android-app-list/"><u>In 2024, Make Your Screenshots Stand Out The Ultimate iOS & Android App List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-integration-how-to-effectively-utilize-chatgpt-and-wolfram-language-in-3-ways/"><u>Innovative Integration: How to Effectively Utilize ChatGPT and Wolfram Language in 3 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-ai-writing-with-chatgpt-discover-9-key-benefits-for-authors/"><u>Leverage AI Writing with ChatGPT - Discover 9 Key Benefits for Authors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-for-success-how-chatgpt-can-transform-your-proposal-writing-strategy/"><u>Leveraging AI for Success: How ChatGPT Can Transform Your Proposal Writing Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterful-resumes-made-easy-with-ai-assistance-from-chatgpt/"><u>Masterful Resumes Made Easy with AI Assistance From ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-job-interviews-a-step-by-step-guide-with-chatgpt/"><u>Mastering Job Interviews: A Step-by-Step Guide with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-mindfulness-using-chatgpt-to-establish-regular-meditation-sessions/"><u>Mastering Mindfulness: Using ChatGPT to Establish Regular Meditation Sessions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-reduced-ai-fallacies-six-ingenious-prompt-tactics-revealed/"><u>Mastering the Art of Reduced AI Fallacies: Six Ingenious Prompt Tactics Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-web-development-4-key-uses-of-chatgpt/"><u>Maximizing Web Development: 4 Key Uses of ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-chatter-re-enable-microsoft-microphone-for-google-meet/"><u>No Chatter? Re-Enable Microsoft Microphone for Google Meet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/razer-blade-17-driver-update-tutorial-ensuring-optimal-performance-across-all-windows-os-versions/"><u>Razer Blade 17 Driver Update Tutorial: Ensuring Optimal Performance Across All Windows OS Versions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swiftly-piece-together-a-stunning-google-photo-collage-for-2024/"><u>Swiftly Piece Together a Stunning Google Photo Collage for 2024</u></a></li>
 </ul></div>
 

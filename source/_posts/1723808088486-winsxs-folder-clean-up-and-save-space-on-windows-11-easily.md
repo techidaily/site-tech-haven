@@ -1,7 +1,7 @@
 ---
 title: "WinSxS Folder: Clean Up and Save Space on Windows 11 Easily"
-date: 2024-08-16T10:10:51.785Z
-updated: 2024-08-17T10:10:51.785Z
+date: 2025-01-15T19:22:44.286Z
+updated: 2025-01-19T16:53:27.481Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ The answer is, no.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975b754c83e3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If you haven’t changed the location where you placed your system file, choose**(C:)** and click**OK** . If you have changed the file location before, choose the correct file directory accordingly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975b948ea778.png)
@@ -55,9 +59,6 @@ The answer is, no.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975bf68b4ff6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## **2\. Use DISM Tool**
 
 **DISM**  stands for Deployment Image & Servicing Management. It is a tool that allows you to make changes to Windows features, packages, drivers, and international settings. In this case, we will use it to help us clean up our WinSxS folder.
@@ -77,16 +78,13 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup
  This command helps you clean up files when your system is not in use.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c1fc428ac.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  3) Check for possible typo. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c4b394177.png)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the same DISM window, type in or copy and paste in the following command:
@@ -97,11 +95,16 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup /ResetBase
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c546794f7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Make sure you have made no typo and hit**Enter** . Wait for it to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c55d520c4.png)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Still in the same window, type in or copy and paste in the following command:
@@ -111,15 +114,13 @@ Dism.exe /online /Cleanup-Image /SPSuperseded
  This command helps you reduce the amount of space used by a Service Pack.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c5c8b3c70.png)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Make sure that you have made no typo and hit Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c5eb65aaf.png)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need more assistance, feel free to leave us comment and we will see what else we can do to help.
@@ -134,8 +135,6 @@ Hope your problem solved!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +142,24 @@ Hope your problem solved!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-7-hydro-resistant-camcorders-explored/"><u>[New] Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-facebook-live-mastery-a-recording-journey/"><u>[Updated] In 2024, Facebook Live Mastery A Recording Journey</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/acclaimed-websites-for-google-pixel-tonal-sounds/"><u>Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-evolution-unlocked-by-integrating-ai-ingenuity-of-chatgpt/"><u>Excel Evolution Unlocked by Integrating AI Ingenuity of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-how-to-enroll-in-chatgpts-innovative-plug-in-platform/"><u>Expert Advice: How to Enroll in ChatGPT's Innovative Plug-In Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-text-limit-techniques-to-surpass-the-character-threshold/"><u>Exploring ChatGPT's Text Limit: Techniques to Surpass the Character Threshold</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-gemini-15s-game-changing-feature-of-handling-over-a-million-tokens-in-context/"><u>Exploring Gemini 1.5'S Game-Changing Feature of Handling Over a Million Tokens in Context</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-myth-is-chatgpt-losing-its-smart-edge-insights-from-openai/"><u>Exploring the Myth: Is ChatGPT Losing Its Smart Edge? Insights From OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-concepts-to-canvas-ai-driven-painting-via-chatgpt/"><u>From Concepts to Canvas: AI-Driven Painting via ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-data-to-decisions-the-journey-of-ai-through-transfer-learning/"><u>From Data to Decisions: The Journey of AI Through Transfer Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-gpt-35-writes-journey-to-gpt-4s-innovations/"><u>From GPT-3.5' Writes: Journey to GPT-4's Innovations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oppo-find-x6-by-drfone-android/"><u>Full Guide to Unlock Your Oppo Find X6</u></a></li>
+<li><a href="https://article-tips.techidaily.com/high-performance-drones-sold-here-for-2024/"><u>High-Performance Drones Sold Here for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mobile-scanning-solutions-for-iphone-transform-pdfsjpegs-into-searchable-files/"><u>Mobile Scanning Solutions for iPhone: Transform PDFs/JPEGs Into Searchable Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-video-and-photography-mobile-apps-for-iphoneandroid-users/"><u>Top 5 Video & Photography Mobile Apps for iPhone/Android Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-reinstating-the-picture-showcase-tool-in-windows-11/"><u>Troubleshooting Guide: Reinstating the Picture Showcase Tool in Windows 11</u></a></li>
+</ul></div>
 

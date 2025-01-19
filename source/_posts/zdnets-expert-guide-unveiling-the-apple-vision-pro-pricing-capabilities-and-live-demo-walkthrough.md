@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Expert Guide: Unveiling the Apple Vision Pro - Pricing, Capabilities & Live Demo Walkthrough"
-date: 2025-01-07T17:42:21.015Z
-updated: 2025-01-13T17:52:56.033Z
+date: 2025-01-12T20:17:44.885Z
+updated: 2025-01-19T21:22:53.151Z
 tags:
   - apple
 categories:
@@ -80,6 +80,10 @@ The Apple Vision Pro is a mixed-reality headset that combines augmented reality 
 
 **Also: [7 upgrades Apple Vision Pro needs to succeed in business](https://www.zdnet.com/article/7-upgrades-apple-vision-pro-needs-to-succeed-in-business/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What can you do with the Vision Pro headset?
 
 The headset can run popular Apple apps, including Books, Camera, Contacts, FaceTime, Mail, Maps, Messages, Music, Notes, Photos, Safari, and more in mixed reality -- a blend of both AR and VR. The headset launched with [600 new apps](https://www.zdnet.com/article/apples-vision-pro-will-launch-with-600-new-apps-built-just-for-the-headset/), including [Zoom](https://www.zdnet.com/article/zoom-is-coming-to-the-vision-pro-headset-and-your-meetings-could-get-weird/), [Microsoft 365](https://www.zdnet.com/article/apples-vision-pro-to-get-word-excel-and-other-microsoft-365-apps-at-launch/), Slack, Todoist, and more.
@@ -126,10 +130,6 @@ Vision Pro scanning a user.
 
 Screenshot by Christina Darby/ZDNET 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much does the Vision Pro cost?
 
 The Vision Pro has a hefty price tag of $3,499 for the 256GB base storage model, setting a premium category apart from [Meta](https://www.zdnet.com/article/meta-quest-3-unveiled-price-features-and-when-you-can-buy-metas-new-vr-headset/), [HTC](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/), and other manufacturers that play in the sub-$1,000 range. 
@@ -146,10 +146,6 @@ There are other bells and whistles you can opt for, such as Apple Care+ for $499
 
 **Also: [Itching to try Vision Pro's Travel Mode? Here's what to expect before you go](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What comes in the Apple Vision Pro box?
 
 Included in the $3,499 purchase price is the headset, the battery pack, a Dual Loop Band, a cover, a light seal cushion, a polishing cloth, a USB-C Power Adapter, and a USB‑C Charge Cable. You [can watch Hiner unbox the device here](https://www.youtube.com/shorts/mEaUtquyqZ4).
@@ -157,6 +153,10 @@ Included in the $3,499 purchase price is the headset, the battery pack, a Dual L
 **Also: [Installing a VPN on Apple Vision Pro: How to do it and why you should](https://www.zdnet.com/article/installing-a-vpn-on-apple-vision-pro-how-to-do-it-and-why-you-should/)**
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I wear the Apple Vision Pro with glasses?
 
@@ -169,7 +169,7 @@ However, Apple knows that people who wear glasses need to be able to see to use 
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does the Apple Vision Pro have controllers?
@@ -182,25 +182,21 @@ However, if you want controllers in the future, you may be in luck. Apple recent
 
 **Also: [To rescue the Vision Pro, Apple must do these 3 things](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When is the Vision Pro available?
 
 The Apple Vision Pro is available for purchase on the Apple website and in stores. Preorders for the device began on January 19, and those units began arriving on February 2\. 
 
 **Also: [These are the Vision Pro apps Apple says will transform healthcare](https://www.zdnet.com/article/these-are-the-vision-pro-apps-apple-says-will-transform-healthcare/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you try the Vision Pro before buying it?
 
 Yes, you can try the Vision Pro before purchasing by booking a one-on-one demo experience with a specialist at an Apple Store. You can find the booking link on [Apple's website](https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro). You can also purchase the Vision Pro, try it for yourself, and return it after two weeks. 
 
 **Also: [Apple Vision Pro's in-store demos are better than ever - here's why and how to book one](https://www.zdnet.com/article/apple-vision-pros-in-store-demos-are-better-than-ever-heres-why-and-how-to-book-one/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the return policy on the Apple Vision Pro?
 
@@ -211,6 +207,10 @@ The return policy on the Vision Pro is the same Standard Return Policy as any ot
 Now that it has been over two weeks since the Vision Pro's launch, some users have already returned the headset for several reasons, including design flaws or simply wanting to get their money back after trying the device. 
 
 **Also: [How to return the Apple Vision Pro](https://www.zdnet.com/article/how-to-return-the-apple-vision-pro/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Apple Vision Pro updates were announced at WWDC 2024?
 
@@ -283,18 +283,20 @@ ZDNET experts have Apple Vision Pro headsets in their hands, so stay tuned for m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-influencer-insight-essential-hashtags-for-maximum-impact/"><u>[New] Influencer Insight Essential Hashtags for Maximum Impact</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-top-vimeo-downloader-tools-for-2024/"><u>[New] Top Vimeo Downloader Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-break-through-bot-barriers-rising-from-the-crowd/"><u>[Updated] In 2024, Break Through Bot Barriers Rising From the Crowd</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-jokes-and-puns-iphone-edition-for-2024/"><u>[Updated] Jokes and Puns IPhone Edition for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-unboxing-gurus-toolkit-amplifying-video-likes-on-tiktok/"><u>2024 Approved The Unboxing Guru's Toolkit Amplifying Video Likes on TikTok</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-ai-projects-unveiling-the-power-of-vector-databases/"><u>Enhance Your AI Projects: Unveiling the Power of Vector Databases</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-apps-to-elevate-your-mobile-experience-on-any-device/"><u>Essential AI Apps to Elevate Your Mobile Experience on Any Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-next-level-writing-with-4-leading-ai-based-story-engine-tools/"><u>Experience Next-Level Writing with 4 Leading AI-Based Story Engine Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-cybersecurity-risks-deciphering-new-twitter-schemes-the-arrival-of-metas-verified-feature-and-demystifying-chatgpt/"><u>Exploring Cybersecurity Risks : Deciphering New Twitter Schemes, The Arrival of Meta’s Verified Feature, and Demystifying ChatGPT-</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/free-download-ultimate-system-restore-solution-with-aomei-partition-assistant/"><u>Free Download: Ultimate System Restore Solution with AOMEI Partition Assistant</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-flight-to-film-the-drone-editors-playbook/"><u>From Flight to Film The Drone Editor's Playbook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-finances-in-your-podcast-journey-for-2024/"><u>Navigating Finances in Your Podcast Journey for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-your-iphone-essential-tips-if-it-falls-into-the-wrong-hands/"><u>Protect Your iPhone: Essential Tips if It Falls Into the Wrong Hands</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-igtv-presence-strategies-for-perfecting-video-lengths-and-widths-for-2024/"><u>[New] Elevate Your IGTV Presence Strategies for Perfecting Video Lengths and Widths for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-must-do-tasks-for-enhanced-podcast-experience/"><u>[New] Must-Do Tasks for Enhanced Podcast Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-captivating-clicks-the-top-8-yt-thumbnails-to-use-for-2024/"><u>[Updated] Captivating Clicks The Top 8 YT Thumbnails to Use for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10/"><u>[Updated] Renewal of Windows Photo Viewer Two Efficient Methods in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-smart-8-hd-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Smart 8 HD Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-picsart-secret-conceal-faces-easily/"><u>In 2024, Picsart Secret Conceal Faces Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ion-air-pro-3-camera-analysis-gearing-up-for-great-shots/"><u>ION Air Pro 3 Camera Analysis - Gearing Up for Great Shots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/job-security-queries-are-careers-at-stake-with-ai/"><u>Job Security Queries: Are Careers at Stake with AI?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterful-penmanship-over-artificial-craftsmanship/"><u>Masterful Penmanship Over Artificial Craftsmanship</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-on-linux-with-an-easy-to-follow-bavarder-implementation-tutorial/"><u>Mastering ChatGPT on Linux with an Easy-to-Follow Bavarder Implementation Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-landscape-of-automated-moderation-in-digital-dialogues/"><u>Navigating the Landscape of Automated Moderation in Digital Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-nlp-innovations-discover-the-7-upgrades-powering-googles-bard-ai-through-palm-2-technology/"><u>Next-Level NLP Innovations: Discover the 7 Upgrades Powering Google's Bard AI Through PaLM 2 Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserving-privacy-while-leveraging-chatgpt-tools-at-work-a-comprehensive-guide/"><u>Preserving Privacy While Leveraging ChatGPT Tools at Work: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pushing-boundaries-of-gpts-interactive-capacity/"><u>Pushing Boundaries of GPT's Interactive Capacity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unbreakable-legacy-thriving-through-generational-resilience-of-black-survivors/"><u>Unbreakable Legacy: Thriving Through Generational Resilience of Black Survivors</u></a></li>
 </ul></div>
 

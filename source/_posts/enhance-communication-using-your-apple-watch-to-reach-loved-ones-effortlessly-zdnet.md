@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly | ZDNET"
-date: 2025-01-09T16:55:43.263Z
-updated: 2025-01-13T17:37:22.887Z
+date: 2025-01-17T17:37:07.903Z
+updated: 2025-01-19T17:18:29.908Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
 One of the biggest additions to the Apple Watch in WatchOS 11 is the new Vitals app, which helps you explore and contextualize your health by tracking your heart rate, respiratory rate, wrist temperature, and blood oxygen while you're asleep. These metrics are processed through an algorithm and displayed on a chart the next morning to tell you whether you're in your normal range. 
@@ -42,17 +38,9 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -63,10 +51,6 @@ WatchOS 11 will help those who are pregnant log their physical and mental health
 The feature plays into the Apple Watch's cycle-tracking experience, so everything remains cohesive and easy to find.
 
 Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
@@ -79,7 +63,7 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -96,9 +80,17 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -114,9 +106,17 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -152,24 +152,22 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/eading-videographers-best-editor-picks-for-2024/"><u>[New] Leading Videographers' Best Editor Picks for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-these-27-purely-free-youtube-audio-ripper-tools/"><u>[Updated] In 2024, Discover These 27 Purely Free YouTube Audio Ripper Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-learn-fb-live-mastering-2023-streaming/"><u>[Updated] Learn FB Live Mastering 2023 Streaming</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-master-the-archive-navigating-social-media-live-recordings-for-2024/"><u>[Updated] Master the Archive Navigating Social Media Live Recordings for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-5-strategies-for-fb-story-access-on-pctablet-and-phone/"><u>[Updated] Unveiling 5 Strategies for FB Story Access on PC/Tablet and Phone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhanced-viewing-fb-videos-on-large-displays/"><u>2024 Approved Enhanced Viewing FB Videos On Large Displays</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-trusted-recommendations-the-ultimate-10-for-real-time-tennis-and-rugby-viewing/"><u>In 2024, Trusted Recommendations The Ultimate 10 for Real-Time Tennis and Rugby Viewing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/redefine-your-browsing-experience-bings-smart-ai-search/"><u>Redefine Your Browsing Experience: Bing's Smart AI Search.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-browsing-experience-the-ultimate-list-of-chatgpt-extensions/"><u>Revolutionize Your Browsing Experience: The Ultimate List of ChatGPT Extensions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/shedding-light-on-ais-black-box-secrets/"><u>Shedding Light on AI's Black Box Secrets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steer-clear-of-these-4-blunders-when-creating-content-with-chatgpt/"><u>Steer Clear of These 4 Blunders When Creating Content With ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-up-to-smart-searching-with-perplexity-ai-the-google-companion-you-need/"><u>Step Up to Smart Searching with Perplexity AI - The Google Companion You Need</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-and-running-chatgpt-on-your-pc/"><u>Step-by-Step Guide: Setting Up & Running ChatGPT on Your PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-futures-here-with-gpt-4-but-dont-miss-the-platinum-plans-6-distinguished-benefits/"><u>The Future's Here with GPT-4; But Don't Miss the Platinum Plan’s 6 Distinguished Benefits.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-science-behind-emotion-ai-does-it-genuinely-grasp-our-inner-worlds/"><u>The Science Behind Emotion AI: Does It Genuinely Grasp Our Inner Worlds?</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-prohibited-windows-based-program/"><u>Unblocking Prohibited Windows-Based Program</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-chatgpts-maximum-response-length-is-going-beyond-possible/"><u>Understanding the ChatGPT's Maximum Response Length: Is Going Beyond Possible?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/visualization-vanguards-battle-for-2024/"><u>Visualization Vanguard's Battle for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-device-companion-for-metaventureers/"><u>[New] The Ultimate Device Companion for Metaventureers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-backgrounds-teammeeting-blurring-guide/"><u>[Updated] Mastering Video Backgrounds TeamMeeting Blurring Guide</u></a></li>
+<li><a href="https://solve-info.techidaily.com/expert-advice-on-debugging-and-repairing-ram-write-failures-a-comprehensive-guide-with-13-methods/"><u>Expert Advice on Debugging and Repairing RAM Write Failures - A Comprehensive Guide with 13 Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-use-the-instagram-question-sticker/"><u>How to Use the Instagram Question Sticker?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/language-logic-loops-le-chat-ai-meets-chatgpt/"><u>Language Logic Loops: Le Chat AI Meets ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-samurai-in-yakuza-like-a-dragon-now-flourishing-on-steam/"><u>Master the Art of Samurai in 'Yakuza: Like a Dragon' - Now Flourishing on Steam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-tabletop-fantasy-infusing-dandd-with-artificial-intelligence/"><u>Mastering Tabletop Fantasy: Infusing D&D with Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-not-misusing-chatgpt-in-your-studies/"><u>Mastering the Art of Not Misusing ChatGPT in Your Studies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-of-steams-vr-gadget-error-message-code-308-tutorial/"><u>Mastering the Fix of Steam's VR Gadget Error Message - Code 308 Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-and-openai-artists-group-takes-stand-for-creative-rights/"><u>Meta & OpenAI: Artists' Group Takes Stand for Creative Rights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-dismisses-sam-altman-from-leadership-implications-for-the-future-of-chatgpt/"><u>OpenAI Dismisses Sam Altman From Leadership: Implications for the Future of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-transitions-gpts-horizon-altered/"><u>OpenAI Transitions, GPT's Horizon Altered</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-to-finding-and-downloading-lenovo-x220-drivers/"><u>Quick Guide to Finding and Downloading Lenovo X220 Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolution-in-rendering-the-convergence-of-blizzard-microsoft-and-deep-learning-podcast-discussion/"><u>Revolution in Rendering: The Convergence of Blizzard, Microsoft & Deep Learning [Podcast Discussion]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/should-freelancers-use-bing-chat-or-chatgpt-8-factors-to-consider/"><u>Should Freelancers Use Bing Chat or ChatGPT? 8 Factors to Consider</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-package-unregistered-photo-problems-in-windows-os/"><u>Solving 'Package Unregistered' Photo Problems in Windows OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/start-a-conversation-learn-how-to-use-chatgpt-for-instant-communication/"><u>Start a Conversation: Learn How To Use ChatGPT for Instant Communication</u></a></li>
 </ul></div>
 

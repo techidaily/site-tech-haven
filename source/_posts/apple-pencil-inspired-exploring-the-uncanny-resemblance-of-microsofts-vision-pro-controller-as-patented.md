@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2025-01-09T17:20:56.278Z
-updated: 2025-01-13T16:54:22.215Z
+date: 2025-01-13T17:41:55.303Z
+updated: 2025-01-19T16:24:27.920Z
 tags:
   - apple
 categories:
@@ -75,22 +75,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-essential-guide-to-21-hdmi-monitors-comparative-analysis-for-2024/"><u>[New] Essential Guide to 2.1 HDMI Monitors - Comparative Analysis for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-discover-the-best-8-innovative-5k-panels/"><u>[New] In 2024, Discover the Best 8 Innovative 5K Panels</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>[Updated] 2024 Approved Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-blend-sounds-in-presentation-ppts/"><u>[Updated] Blend Sounds in Presentation PPTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>2024 Approved Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account/"><u>2024 Approved How To Get Paid on YouTube - From AdSense to Your Bank Account</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenge-accepted-how-twitter-x-checkmarks-stack-up-and-chatgpts-biggest-flaws-uncovered-by-a-tech-visionary/"><u>Challenge Accepted: How Twitter X Checkmarks Stack Up and ChatGPT's Biggest Flaws Uncovered by a Tech Visionary</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-cupids-arrow-elevating-your-search-for-love-through-technology/"><u>ChatGPT and Cupid's Arrow: Elevating Your Search for Love Through Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/combatting-loneliness-a-guide-on-leveraging-chatgpt/"><u>Combatting Loneliness: A Guide on Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/critical-thinking-in-ai-era-six-justifications-for-a-skeptical-approach/"><u>Critical Thinking in AI Era: Six Justifications for a Skeptical Approach</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/daily-dharma-with-technology-cultivating-zen-through-gpt/"><u>Daily Dharma with Technology: Cultivating Zen Through GPT</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/depannage-rapide-pourquoi-votre-disque-dur-nest-pas-detecte-suite-au-formatage/"><u>Dépannage Rapide : Pourquoi Votre Disque Dur N'est Pas Détecté Suite Au Formatage</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-pop-7-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Pop 7 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-from-static-to-dynamic-making-text-pop-on-instagram-stories/"><u>[New] 2024 Approved From Static to Dynamic Making Text Pop on Instagram Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-maintain-youtube-session-in-the-background/"><u>[New] 2024 Approved How to Maintain YouTube Session in the Background</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-with-these-8-free-youtube-thumbnail-builders/"><u>[New] Unleash Creativity with These 8 Free YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-studio-editor-unveiled-ultimate-editing-companion-for-2024/"><u>[New] YouTube Studio Editor Unveiled Ultimate Editing Companion for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-budget-friendly-digital-screen-reader/"><u>2024 Approved Best Budget-Friendly Digital Screen Reader</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-spectrum-of-artificial-insights-true-false-and-imagined/"><u>Exploring the Spectrum of Artificial Insights: True, False, and Imagined</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-skyrocketed-to-fame-a-look-at-its-5-key-ingredients-for-success/"><u>How ChatGPT Skyrocketed to Fame: A Look at Its 5 Key Ingredients for Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-easily-save-your-ai-powered-chatbot-discussions-with-chatgpt-for-later-use/"><u>How to Easily Save Your AI-Powered Chatbot Discussions with ChatGPT for Later Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-effectively-interact-with-the-nvidia-rtx-ai-chat-service-on-windows-or-mac-pcs/"><u>How to Effectively Interact with the NVIDIA RTX AI Chat Service on Windows or Mac PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-chatbots-confidentiality-compromised-an-insight-into-neural-network-inversion-exploits/"><u>Is Your Chatbot's Confidentiality Compromised? An Insight Into Neural Network Inversion Exploits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-productivity-leveraging-chatgpt-as-a-professional-aide/"><u>Mastering Productivity: Leveraging ChatGPT as a Professional Aide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-imaginary-interpretations-in-artificial-intelligence/"><u>Navigating Through Imaginary Interpretations in Artificial Intelligence</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-your-photos-best-vignette-editing-apps-for-mobile/"><u>New In 2024, Transform Your Photos Best Vignette Editing Apps for Mobile</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/reel-them-in-a-step-by-step-approach-to-livestreaming-on-youtube/"><u>Reel Them In A Step-by-Step Approach to Livestreaming on Youtube</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

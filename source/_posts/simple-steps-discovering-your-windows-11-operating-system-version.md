@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Discovering Your Windows 11 Operating System Version"
-date: 2024-08-16T10:11:56.364Z
-updated: 2024-08-17T10:11:56.364Z
+date: 2025-01-13T16:52:14.406Z
+updated: 2025-01-19T20:56:45.493Z
 tags:
   - win11
   - win10
@@ -26,6 +26,11 @@ To start printing right away, you have to connect your printer with your PC or a
 3. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-8.jpg)
 4. Click**Printers & scanners** . Click**Add a printer or scanner** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Wait till it finds your printer and chooses the one you want. Click**Add device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-5.jpg)
 
@@ -34,22 +39,9 @@ To start printing right away, you have to connect your printer with your PC or a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install or add a local printer
 
  Using a USB cable from your printer to connect with your computer and turn it on.
@@ -57,23 +49,19 @@ Key features:
 1. On your computer, press the**Windows logo key + I** to open Settings.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Printers & scanners** . Click**Add a printer or scanner** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 4. Wait till it finds your printer and chooses the one you want. Click**Add device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Troubleshoot for installing printers in Windows 10
 
  Usually, Windows will download and install the printer’s driver automatically. But if the driver provided by Windows isn’t updated to the latest version, there might be some problems.
@@ -87,8 +75,9 @@ OR
 **[Option 2 – Automatically](https://tools.techidaily.com/drivereasy/download/)**  (Recommended) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  Printers keep updating drivers. To get them, you need to go to the[](https://support.hp.com/us-en/drivers/selfservice/hp-envy-5000-all-in-one-printer-series/14095644/model/14095768) printer’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -123,8 +112,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +119,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-earning-by-critiquing-goodies-a-youtube-guide/"><u>[New] 2024 Approved Earning by Critiquing Goodies A YouTube Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide/"><u>[Updated] Get Hooked on EZ Grabber A Step-by-Step Downloading Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-tecno-pova-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Tecno Pova 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-with-your-secrets-investigating-privacy-safeguards/"><u>Can You Trust ChatGPT with Your Secrets? Investigating Privacy Safeguards</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/code-masters-clash-determining-if-gemini-can-surpass-chatgpt-in-programming-excellence/"><u>Code Masters Clash: Determining if Gemini Can Surpass ChatGPT in Programming Excellence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/command-line-control-of-chatgpt-bash-and-shellgpt-synergy/"><u>Command-Line Control of ChatGPT: Bash & ShellGPT Synergy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-epic-dandd-personas-with-ai-tips-on-using-chatgpt-and-dall-e/"><u>Crafting Epic D&D Personas with AI: Tips on Using ChatGPT & DALL-E</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-stunning-visuals-integrating-dall-e-and-chatgpt-4-for-advanced-imagery/"><u>Crafting Stunning Visuals: Integrating DALL-E and ChatGPT-4 for Advanced Imagery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-new-ideas-with-these-5-cutting-edge-ai-writers-for-inspiration/"><u>Discover New Ideas with These 5 Cutting-Edge AI Writers for Inspiration</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-bouncie-connect-an-easy-and-economical-choice-for-gps-trackers/"><u>Exploring Bouncie Connect - An Easy & Economical Choice for GPS Trackers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-review-prime-cars-surveillance-devices/"><u>In 2024, Exclusive Review Prime Cars Surveillance Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-6-essential-applications-for-the-ai-code-interpreter/"><u>Mastering ChatGPT: 6 Essential Applications for the AI Code Interpreter</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Agni 2 5G | Dr.fone</u></a></li>
+</ul></div>
 

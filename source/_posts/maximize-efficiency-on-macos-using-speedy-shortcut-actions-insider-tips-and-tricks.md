@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks
-date: 2025-01-12T18:21:08.931Z
-updated: 2025-01-13T16:09:08.185Z
+date: 2025-01-15T16:58:53.442Z
+updated: 2025-01-19T17:29:01.755Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -37,6 +37,10 @@ Of course, not every file type has an associated Quick Action but you can add ne
 
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What files offer Quick Actions?
 
 By default, the following file types offer Quick Actions from within the Finder context menu:
@@ -48,21 +52,17 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -92,7 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -145,19 +145,18 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-decode-the-mysteries-in-depth-guide-to-stardews-ginger-island/"><u>[New] In 2024, Decode the Mysteries In-Depth Guide to Stardew's Ginger Island</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-diving-into-the-world-of-igtv/"><u>[Updated] 2024 Approved Step-by-Step Diving Into the World of IGTV</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unlock-professional-video-quality-with-top-youtube-to-webm-tools/"><u>[Updated] In 2024, Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-codegpts-vision-could-it-automate-the-coding-process/"><u>Exploring CodeGPT's Vision: Could It Automate the Coding Process?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-every-aspect-of-apples-ai-breakthroughs-revealed-at-wwdc-2024/"><u>Exploring Every Aspect of Apple’s AI Breakthroughs Revealed at WWDC 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-future-how-machine-learning-is-shaping-gaming/"><u>Exploring the Future: How Machine Learning Is Shaping Gaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-truthgpt-coin-is-it-a-reliable-investment-or-just-another-scam/"><u>Exploring TruthGPT Coin - Is It a Reliable Investment or Just Another Scam?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-3-an-ally-for-aspiring-poets-and-writers/"><u>GPT-3: An Ally for Aspiring Poets and Writers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/improve-your-professional-emailing-techniques-leverage-chatgpt-to-tackle-difficult-conversations-at-work/"><u>Improve Your Professional Emailing Techniques: Leverage ChatGPT to Tackle Difficult Conversations at Work</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 13 mini</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-securing-your-anonymity-during-instagrams-live-feature/"><u>In 2024, Securing Your Anonymity During Instagram's Live Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/seamlessly-transferring-images-from-google-photos-to-icloud-a-simple-guide/"><u>Seamlessly Transferring Images From Google Photos to iCloud: A Simple Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/voyage-for-valuables-5-prime-map-expeditions/"><u>Voyage for Valuables 5 Prime Map Expeditions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>[New] Fantasy Realms Awaits Ultimate List of No-Cost RPGs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-innovative-responses-the-ultimate-guide-to-youtube-reacts/"><u>[Updated] Innovative Responses The Ultimate Guide to YouTube Reacts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-time-trackers-in-action-using-obs-for-timed-events/"><u>2024 Approved Time Trackers in Action Using OBS for Timed Events</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-edge-40-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Edge 40 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-dynamic-range-the-essential-guide-to-modern-camera-tech/"><u>In 2024, High Dynamic Range The Essential Guide to Modern Camera Tech</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-conversation-with-chatgpt-safe-from-eavesdroppers/"><u>Is Your Conversation with ChatGPT Safe From Eavesdroppers?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/language-mastery-accelerated-by-chatgpt-plus-strategies-and-tips/"><u>Language Mastery Accelerated by ChatGPT Plus: Strategies and Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterful-techniques-7-proven-ai-tools/"><u>Masterful Techniques: 7 Proven AI Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-on-linux-a-simple-installation-process-using-the-bavarder-solution/"><u>Mastering ChatGPT on Linux: A Simple Installation Process Using the Bavarder Solution</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/save-my-page-moments-for-2024/"><u>Save My Page Moments for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stereo-mix-malfunction-heres-the-ultimate-guide-to-repairing-two-channel-audio-outputs/"><u>Stereo Mix Malfunction? Here's the Ultimate Guide to Repairing Two-Channel Audio Outputs</u></a></li>
 </ul></div>
 

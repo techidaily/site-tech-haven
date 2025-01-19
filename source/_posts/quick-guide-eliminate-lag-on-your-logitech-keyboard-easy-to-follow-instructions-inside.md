@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Eliminate Lag on Your Logitech Keyboard - Easy-to-Follow Instructions Inside"
-date: 2024-08-16T10:11:54.256Z
-updated: 2024-08-17T10:11:54.256Z
+date: 2025-01-15T17:38:42.133Z
+updated: 2025-01-19T20:41:54.027Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 [**Option One: Use Media Creation Tool to Upgrade Windows 10**](https://tools.techidaily.com/drivereasy/download/)
 [**Option Two: Use Media Creation Tool to Create Installation Media (USB flash drive, DVD, or ISO files)**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Option One: Use Media Creation Tool to Upgrade**   **Windows 10**
 
 **Note** : The following instructions are for users who are considering upgrading your own PC from Windows 7 or Windows 8.1\. If you are installing Windows 10 on a PC running Windows XP or Windows Vista, you need to move on to the[**second option**](https://tools.techidaily.com/drivereasy/download/) .
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5832bcb6321f9-1024x488.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double click the**MediaCreationTool.exe** file to run the installation of it. If prompted by UAC, just click**Yes** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/mediacreationtool-exe-installation-media-tool.png)
@@ -40,9 +48,17 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/license-termination.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Then choose**Upgrade this PC now** . Hit**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5870453c73720.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Then the tool will start downloading Windows 10\.
   
@@ -73,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
  1) Go to the Get Windows 10 download[**website**](https://www.microsoft.com/en-gb/software-download/windows10) , then download the Download Tool by clicking pressing the blue button.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5832bcb6321f9-1024x488.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Double click the**MediaCreationTool.exe** file to run the installation of it. If prompted by UAC, just click**Yes** .
   
@@ -85,45 +98,43 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/license-termination.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Choose**Create installation media for another PC** . Then choose**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/create-installation-media-for-another-pc-next-600x478.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) If you leave the box**Use the recommended options for this PC** checked, your language, edition and architecture settings will remain the same as your current PC. So, uncheck the option, then fill in your own preference settings. Then press**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/use-the-recommended-options-for-this-pc.png)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
  6) Choose**USB flash drive** , and then click**Next** . If you want to**burn the ISO file to a DVD later** , you can choose the second option instead. We will go with USB flash drive.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/usb-flash-drive.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  7) Now plug in your USB flash drive, then choose the flash drive you have and click**Next** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/next-select-a-usb-flash-drive.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
   
  8) Windows 10 will now begin to download. The speed of which will be determined by the Internet speed that you have.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/downloading-windows-10.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
  9) When the download is finished, you will be seeing this window. Just click**Finish** to continue.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/your-usb-flash-drive-is-ready.png)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Then plug the USB flash driver in the computer you want to upgrade to Windows 10, and upgrade it as per the instructions.
   
  For more information, you can visit the post here to see **[how to install Windows 10 with USB flash drive](https://tools.techidaily.com/drivereasy/download/) .**
@@ -136,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +154,24 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-typology-of-fb-video-dimensions/"><u>[Updated] 2024 Approved Typology of FB Video Dimensions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-captivates-potential-for-video-creation/"><u>[Updated] 2024 Approved Unlocking Captivate's Potential for Video Creation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-4-top-choices-for-seamless-pcmac-video-capture-for-2024/"><u>[Updated] 4 Top Choices for Seamless PC/Mac Video Capture for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-silverleaf-studio-exploring-lightroom-substitutes/"><u>2024 Approved Silverleaf Studio Exploring Lightroom Substitutes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-gpt-series-differences-between-each-generation-from-gpt-1-to-gpt-4/"><u>A Comprehensive Guide to OpenAI's GPT Series: Differences Between Each Generation From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-at-your-fingertips-setting-up-auto-gpt-on-ubuntu/"><u>AI at Your Fingertips: Setting up Auto-GPT on Ubuntu</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-governance-principles-and-practices/"><u>AI Governance: Principles & Practices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-assessing-the-strengths-of-chatgpt-and-google-bard/"><u>AI Showdown: Assessing the Strengths of ChatGPT and Google Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-productivity-essential-tools-for-content-gurus/"><u>AI-Driven Productivity: Essential Tools for Content Gurus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722210620612-decrypting-the-ransomware-challenge-a-50-mobile-solution-and-behind-the-scenes-with-chatgpt-on-our-podcast/"><u>Decrypting the Ransomware Challenge: A $50 Mobile Solution & Behind-the-Scenes with ChatGPT on Our Podcast!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-6-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 6</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722170752889-navigate-smarter-in-style-discover-the-power-of-chatgpt-voice-command-in-your-mercedes-benz/"><u>Navigate Smarter in Style – Discover the Power of ChatGPT Voice Command in Your Mercedes Benz</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-dota-2-play-experience-overcoming-frame-rate-problems-on-new-windows-versions/"><u>Optimizing Dota 2 Play Experience: Overcoming Frame Rate Problems on New Windows Versions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots-for-2024/"><u>Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-mac-optimization-tools-in-23-2022-expert-picks-for-peak-performance/"><u>Top 5 Essential Mac Optimization Tools in 2^3#%@! 2022: Expert Picks for Peak Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-a14-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy A14 4G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/winchatgpt-separating-fact-from-fiction/"><u>WinChatGPT: Separating Fact From Fiction</u></a></li>
+</ul></div>
 

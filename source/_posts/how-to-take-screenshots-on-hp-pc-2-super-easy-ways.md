@@ -1,7 +1,7 @@
 ---
 title: How to Take Screenshots on HP PC [2 Super Easy Ways]
-date: 2024-08-16T10:12:24.330Z
-updated: 2024-08-17T10:12:24.330Z
+date: 2025-01-12T18:40:30.452Z
+updated: 2025-01-19T19:15:39.188Z
 tags:
   - win11
   - win10
@@ -39,11 +39,16 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) The**Bluetooth Network Connection** shows you have Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2cc5bce058.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If the icon is grayed out, right click on**Bluetooth Network Connection** , and click**Enable** .
@@ -51,6 +56,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae3031fdc047.jpg)
 
  Don’t worry if you don’t see**Bluetooth Network Connection** . You can buy a USB Bluetooth receiver and plug it in any free USB port on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Connect your Bluetooth speaker to your laptop
 
@@ -68,26 +77,25 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
  2) On your computer keyboard, press**the Windows logo key** and type**blue** . On your screen, click**Bluetooth and other devices settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2c70ceeef6.png)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Make sure the switch says**On** (if it says**Off** , click the switch). Click**Add Bluetooth or other device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a09682bc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Select**Bluetooth** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a7f03edd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click the name of your speaker, and then click **Pair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2fe00df014.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The two devices should have connected successfully. You might also need to follow the on-screen instructions to complete the pairing process.
@@ -101,17 +109,11 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
  2) On your computer keyboard, press**the Windows logo key** , type**add** and click**Add a device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2ca246b1f3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  3) Click the name of your speaker and click**Next** .
 
  The two devices should have connected successfully. You might also need to follow the on-screen instructions to complete the pairing process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Bonus tip: Update your Bluetooth driver
 
  In order for your Bluetooth devices to work the way it should, it’s always recommended you**have the latest Bluetooth driver** on your laptop. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -129,9 +131,6 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
@@ -158,8 +157,6 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +164,18 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-free-10-high-quality-passport-photos-available-here/"><u>[Updated] Free 10 High-Quality Passport Photos Available Here</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-drone-cinematography-for-2024/"><u>Best Practices for Drone Cinematography for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essence-of-chuckles-in-single-photos/"><u>In 2024, The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-research-the-chatgpt-approach/"><u>Optimizing Research: The ChatGPT Approach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-academic-integrity-with-4-advanced-ai-detection-software-for-educators-and-managers/"><u>Protecting Academic Integrity with 4 Advanced AI Detection Software for Educators and Managers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-remote-work-interactions-harnessing-the-power-of-chatgpt-for-efficient-virtual-meetings/"><u>Revolutionizing Remote Work Interactions: Harnessing the Power of ChatGPT for Efficient Virtual Meetings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/selecting-an-effective-ai-chatbot-the-7-key-criteria-you-shouldnt-ignore/"><u>Selecting an Effective AI Chatbot: The 7 Key Criteria You Shouldn't Ignore</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-the-starfield-not-starting-issue-on-steam-or-xbox/"><u>Troubleshooting Guide: Solving the 'Starfield Not Starting' Issue on Steam or Xbox</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-performance-of-a-budget-beast-a-comprehensive-review-of-the-tp-link-archer-c80-router/"><u>Unveiling the Performance of a Budget Beast: A Comprehensive Review of the TP-Link Archer C80 Router</u></a></li>
+</ul></div>
 

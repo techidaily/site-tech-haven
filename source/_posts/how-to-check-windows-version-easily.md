@@ -1,7 +1,7 @@
 ---
 title: How to Check Windows Version [Easily]
-date: 2024-08-16T10:10:21.310Z
-updated: 2024-08-17T10:10:21.310Z
+date: 2025-01-13T19:45:42.844Z
+updated: 2025-01-19T17:10:16.614Z
 tags:
   - win11
   - win10
@@ -23,17 +23,11 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 2. [Screenshot your single active window](https://tools.techidaily.com/drivereasy/download/)
 3. [Screenshot any part of your screen](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1: Screenshot your full screen
 
  If you want to screenshot your full screen, the most recommended way is to **press the PrtSc key**  on your keyboard. The PrtSc key allows you to **capture your full screen** on all versions of Windows.  1) Let your Windows display the screen you want to screenshot.  2) On your keyboard (usually on the first right line), press the **PrtSc** key. This key  may show as **Print Screen** , **PrtScn** , **PrtScr**  varying from different keyboards.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap16.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  Tada! Your Windows screen image should now be saved to the clipboard.
 
@@ -41,43 +35,41 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 
  3) Now you can paste the picture on your chat windows or on **Paint** to save it by pressing the **Ctrl** and **V** keys at the same time.  If unluckily, your print screen key stops working, you can troubleshoot it using this easy guide — [Print Screen Not Working](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pro tip
 
  If you’re using Windows 8 or Windows 10, and you want to save your Windows screenshot, you can do that much faster. **Here’s how:**  Let Windows shows the screen you want to save, then on your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee6ae232d5.png) and **PrtSc**  key at the same time. Your Windows screen will then be saved as an image automatically. You can find the image in the Screenshots folder of Pictures: ![](https://images.drivereasy.com/wp-content/uploads/2018/04/folder.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2: Screenshot your single active window
 
  If you just would like to screenshot your current active window instead of a full screen, it’s also easy to do:  Go to any window you want to print, then press **Alt** and **PrtSc**  at the same time on your keyboard. Now you have the screenshot of your active window on your clipboard. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap17.png)  Now you can paste the picture on your chat windows or on Paint to save it by pressing the **Ctrl** and **V** keys at the same time.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 3: Screenshot any part of your screen
 
  If you like to share just a part of your screen, use the built-in Snipping Tool on Windows. Here’s how:  1) Go to the window you want to screenshot. 2) Type **snipping**  in the search box from the Start menu. Then click **Snipping Tool** on the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/snipping-tool.png)  3) You should then see the small Snipping Tool window. Click **N** **ew** . ![](https://images.drivereasy.com/wp-content/uploads/2018/04/New.png)  4) Use the pop-up ![](https://images.drivereasy.com/wp-content/uploads/2018/04/pasted-image-0.png)  to capture any part of your screen you want to share or save.  5) The screen you capture will then show on the Snipping Tool window.  You can directly paste it on your chat windows or save it on Snipping tool via **File > Save as…**
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pro tip
 
  If you’re using Windows 10, there’s a new feature — **Delay**  on Snipping Tool allowing you to go to the screen you want to capture after you click the **N** **ew** icon within the time you set. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Delay.png)  Voila! So easy to screenshot on Windows. Don’t hesitate to post your comment for any question or, if you have any other amazing tip to take a screenshot, time to share with us. Thanks in advance.
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
@@ -87,8 +79,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +86,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-next-gen-gloves-top-picks-to-immerse-in-vr-worlds/"><u>[Updated] 2024 Approved Next-Gen Gloves Top Picks to Immerse in VR Worlds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-your-journey-to-becoming-a-pro-at-gifs/"><u>[Updated] 2024 Approved Your Journey to Becoming a Pro at GIFs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-is-inshot-superior-detailed-app-review-unveiled/"><u>[Updated] Is InShot Superior? Detailed App Review Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/gratuitamente-installare-windows-10-il-programma-di-clonazione-del-computer-piu-efficiente-sul-mercato/"><u>Gratuitamente Installare Windows 10: Il Programma Di Clonazione Del Computer Più Efficiente Sul Mercato</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-identify-the-best-ai-chatbot-service-based-on-key-characteristics/"><u>How to Identify the Best AI Chatbot Service Based on Key Characteristics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p40plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P40+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improve-your-empathy-and-understanding-using-chatgpt-techniques/"><u>Improve Your Empathy and Understanding Using ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-in-google-spreadsheets-and-documents/"><u>Mastering ChatGPT in Google Spreadsheets & Documents</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-openai-under-legal-scrutiny-by-artistic-collective-leaders/"><u>Meta, OpenAI Under Legal Scrutiny by Artistic Collective Leaders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-career-security-is-your-position-safe-from-generative-ai-takeover/"><u>Navigating Career Security: Is Your Position Safe From Generative AI Takeover?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-versions-browsers-vs-plugins-the-best-fit-for-you/"><u>Navigating ChatGPT Versions: Browsers Vs. Plugins – The Best Fit for You?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-perils-of-ai-in-personal-counseling-and-psychological-care/"><u>Navigating the Perils of AI in Personal Counseling and Psychological Care</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/predictive-powers-showdown-chatgpt-against-horoscopic-prognostications/"><u>Predictive Powers Showdown: ChatGPT Against Horoscopic Prognostications</u></a></li>
+<li><a href="https://media-tips.techidaily.com/setting-up-an-icecast-server-on-a-linux-system-a-step-by-step-guide/"><u>Setting Up an Icecast Server on a Linux System: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-cyber-companion-tone-downloads-guide-for-2024/"><u>Ultimate Cyber Companion Tone Downloads Guide for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/us-vs-british-vocabulary-trails/"><u>US vs British Vocabulary Trails</u></a></li>
+</ul></div>
 

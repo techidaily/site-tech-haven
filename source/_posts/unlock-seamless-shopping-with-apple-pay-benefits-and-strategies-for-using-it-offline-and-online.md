@@ -1,7 +1,7 @@
 ---
 title: "Unlock Seamless Shopping with Apple Pay: Benefits & Strategies for Using It Offline and Online"
-date: 2025-01-09T17:43:14.572Z
-updated: 2025-01-13T16:21:27.432Z
+date: 2025-01-13T16:27:24.776Z
+updated: 2025-01-19T17:08:24.399Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay online and in stores
@@ -66,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -86,6 +82,10 @@ Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Hold your iPhone near the payment terminal
 
 Entering your passcode authenticates your payment, so all you need to do next is hold your phone within about an inch of the card reader to process the transaction. 
@@ -101,7 +101,7 @@ Apple
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -115,21 +115,17 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,19 +197,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-identifying-instagrams-newly-disconnected/"><u>[Updated] 2024 Approved Identifying Instagram's Newly Disconnected</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[Updated] 2024 Approved Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-easy-guide-modifying-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>1. Easy Guide: Modifying Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elite-essentials-the-ultimate-collection-of-cardboard-vr-games/"><u>Elite Essentials The Ultimate Collection of Cardboard VR Games</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-quoras-pathway-to-engage-with-botsllms/"><u>Leveraging Quora's Pathway to Engage with Bots/LLMs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-content-size-on-igtv-top-5-expert-tips-to-consider-for-2024/"><u>Navigating Content Size on IGTV Top 5 Expert Tips to Consider for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-digital-dialogue-snapchats-myai-vs-openais-gpt/"><u>The Digital Dialogue: Snapchat's MyAI vs OpenAI's GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risks-of-sharing-sensitive-data-with-chatgpt-why-its-not-safe/"><u>The Risks of Sharing Sensitive Data with ChatGPT: Why It's Not Safe</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-verifiers-guide-ensuring-authenticity-of-wellness-info/"><u>The Verifier's Guide: Ensuring Authenticity of Wellness Info</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tips-for-finding-authentic-chatgpt-alternatives-amongst-fraudulent-offers/"><u>Tips for Finding Authentic ChatGPT Alternatives Amongst Fraudulent Offers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-3-hidden-dangers-understanding-privacy-threats-of-using-chatbots/"><u>Top 3 Hidden Dangers: Understanding Privacy Threats of Using Chatbots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-experience-advanced-strategies-for-board-game-tutoring-and-visual-content-with-chatgpt-bots/"><u>Transform Your Experience: Advanced Strategies for Board Game Tutoring & Visual Content with ChatGPT Bots</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-6-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 6 files after scanning? | Stellar</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-tag-and-showcase-a-podcast-episode/"><u>[New] Tag and Showcase a Podcast Episode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adaptive-language-learning-via-chatgpt-plus-interface/"><u>Adaptive Language Learning via ChatGPT Plus Interface</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-2v-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 2V to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/file-restoration-techniques-for-external-drives-on-windows-11macos-platforms/"><u>File Restoration Techniques for External Drives on Windows 11/macOS Platforms</u></a></li>
+<li><a href="https://win-top.techidaily.com/guia-para-liberar-espacio-borrando-copias-completas-de-respaldo-en-windows-11/"><u>Guía Para Liberar Espacio Borrando Copias Completas De Respaldo en Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/intervention-for-persistent-hp-screen-blinking/"><u>Intervention for Persistent HP Screen Blinking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-chatgpt-a-guide-to-reading-pdfs-easily/"><u>Unlocking the Power of ChatGPT: A Guide to Reading PDFs Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-googles-announcement-the-top-7-new-and-exciting-features-of-bard-revealed-at-io-2023/"><u>Unpacking Google's Announcement: The Top 7 New and Exciting Features of Bard Revealed at I/O 2023</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-features-of-chatgpt-copilot-browser-add-on-how-does-it-function/"><u>Unveiling the Features of ChatGPT Copilot Browser Add-On: How Does It Function?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-programming-partner-prevails-github-copilot-or-chatgpt-analysis/"><u>Which Programming Partner Prevails? GitHub Copilot or ChatGPT Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
 

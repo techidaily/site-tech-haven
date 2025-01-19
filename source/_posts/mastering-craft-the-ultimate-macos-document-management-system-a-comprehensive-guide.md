@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2025-01-08T16:19:35.930Z
-updated: 2025-01-13T17:20:26.105Z
+date: 2025-01-18T19:09:05.439Z
+updated: 2025-01-19T19:48:15.877Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,24 +129,15 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-potential-ae-templates-for-aspiring-artists/"><u>2024 Approved Unleash Potential AE Templates for Aspiring Artists</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/windows-10-shift-plus-delete-excel/"><u>解決方法：在 Windows 10 電腦中使用 Shift + Delete 重新啟用 Excel 桌面上已遭到移除的工作表</u></a></li>
-<li><a href="https://extra-information.techidaily.com/apex-top-8-for-flawless-4k-blu-ray-viewing/"><u>Apex Top 8 for Flawless 4K Blu-Ray Viewing</u></a></li>
-<li><a href="https://discover-help.techidaily.com/erstellen-sie-unter-windows-11-mit-einfachem-schritt-fur-schritt-leitfaden-eine-bootable-usb-laufwerk-aus-einer-iso-datei/"><u>Erstellen Sie Unter Windows 11 Mit Einfachem Schritt-Für-Schritt-Leitfaden Eine Bootable USB-Laufwerk Aus Einer ISO-Datei</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-note-12-proplus-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi Note 12 Pro+ 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-v-purse-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor V Purse? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creativity-top-powerdirector-alternatives-for-android-and-ios/"><u>New 2024 Approved Unleash Your Creativity Top PowerDirector Alternatives for Android and iOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-your-device-why-you-shouldnt-download-google-bard-its-malicious/"><u>Protect Your Device: Why You Shouldn't Download Google Bard (It's Malicious)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reimagining-domestic-functionality-with-chatgpt-innovations/"><u>Reimagining Domestic Functionality with ChatGPT Innovations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-development-with-ai/"><u>Revolutionizing Development with AI</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-portability-with-the-asrock-z790i-lightning-wi-fi-card-an-in-depth-review/"><u>Revolutionizing Portability with the ASRock Z790I Lightning Wi-Fi Card: An In-Depth Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992704367-start-by-incorporating-more-plant-based-meals-into-your-week-and-see-how-you-feel-with-these-changes/"><u>Start by Incorporating More Plant-Based Meals Into Your Week and See How You Feel with These Changes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-6-best-large-language-models/"><u>The 6 Best Large Language Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-fact-files-on-fictional-ai-bots-top-9-reality-checks/"><u>The Fact Files on Fictional AI Bots - Top 9 Reality Checks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-poetry-publishing-writing-books-with-ai-assistance-from-chatgpt/"><u>The Future of Poetry Publishing: Writing Books with AI Assistance From ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-new-phase-of-dall-e-3-advanced-editing-options-a-work-in-progress/"><u>The New Phase of DALL-E 3: Advanced Editing Options - A Work in Progress</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-leading-artificial-intelligence-based-prompt-services/"><u>Top 7 Leading Artificial Intelligence-Based Prompt Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-android-with-bings-ai-capabilities/"><u>Transform Your Android with Bing's AI Capabilities</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-5-best-online-mp3-tag-editor-that-you-cant-miss-for-2024/"><u>Updated 5 Best Online MP3 Tag Editor That You Cant Miss for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>[New] Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleash-your-youtube-potential-with-easy-techniques/"><u>[New] Unleash Your YouTube Potential with Easy Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-key-5-photo-editing-tools-iphone-x78-background-swap/"><u>[Updated] Key 5 Photo Editing Tools IPhone X/7/8 Background Swap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-basics-what-are-chatbot-jailbreaks-and-is-it-wise-to-employ-them/"><u>Beyond the Basics: What Are Chatbot Jailbreaks and Is It Wise to Employ Them?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-top-7-unanswerable-queries-boundaries-of-ai/"><u>ChatGPT's Top 7 Unanswerable Queries: Boundaries of AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-downloading-and-installing-auto-gpt-a-step-by-step-tutorial/"><u>Complete Guide: Downloading & Installing Auto-GPT - A Step-By-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/contrasting-future-and-past-gpt-4-versus-gpt-35/"><u>Contrasting Future & Past: GPT-4 Versus GPT-3.5</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-13-pro-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 13 Pro Max with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-photographers-pathway-transitioning-from-camera-to-computer-screen/"><u>The Photographer's Pathway Transitioning From Camera to Computer Screen</u></a></li>
 </ul></div>
 

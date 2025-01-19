@@ -1,7 +1,7 @@
 ---
 title: Is It Time for You to Grab an Apple Vision Pro on Presale? Five Crucial Questions Answered by Experts at ZDNet
-date: 2025-01-06T16:29:08.283Z
-updated: 2025-01-13T17:01:40.421Z
+date: 2025-01-16T18:28:13.113Z
+updated: 2025-01-19T21:11:32.781Z
 tags:
   - apple
 categories:
@@ -30,12 +30,16 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -51,7 +55,7 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -67,7 +71,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -92,13 +96,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -109,10 +113,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 **Also: [iOS 18 update: Every iPhone model that will support Apple's new AI features (for now)](https://www.zdnet.com/article/ios-18-1-update-every-iphone-model-that-will-support-apples-new-ai-features-for-now/)**
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
 
@@ -168,16 +168,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-comprehensive-screencast-insights-for-creators/"><u>[Updated] Comprehensive Screencast Insights for Creators</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-home-entertainment-elite-3d-blu-ray-gear/"><u>Cutting-Edge Home Entertainment Elite 3D Blu-Ray Gear</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-14-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 14 iCloud Bypass</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hitbox-vs-twitch-which-is-better/"><u>Hitbox Vs Twitch Which Is Better?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-find-x7-ultra-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Find X7 Ultra FRP Bypass</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/rethinking-ai-why-claude-3-surpasses-chatgpt-in-4-ways/"><u>Rethinking AI: Why Claude 3 Surpasses ChatGPT in 4 Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revealing-codegpts-mechanisms-ai-and-its-coding-prowess/"><u>Revealing CodeGPT's Mechanisms: AI and Its Coding Prowess</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-and-utilizing-the-rtx-ai-chatbot-via-nvidia/"><u>Step-by-Step Guide: Activating and Utilizing the RTX AI Chatbot via NVIDIA</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-6-essential-techniques-to-leverage-chatgpt-in-data-analysis/"><u>The 6 Essential Techniques to Leverage ChatGPT in Data Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ai-facilitated-journey-of-my-podcast-creation/"><u>The AI-Facilitated Journey of My Podcast Creation</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-cannot-launch-new-world-due-to-easy-anti-cheat-issues/"><u>Troubleshooting Guide: Resolving 'Cannot Launch New World' Due to Easy Anti-Cheat Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-from-still-to-dynamic-the-xs-action-camera-unboxed/"><u>[New] 2024 Approved From Still to Dynamic The XS Action Camera Unboxed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ideal-editing-tools-best-phones-options-for-gopro-videos/"><u>[New] In 2024, Ideal Editing Tools Best Phones' Options for GoPro Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-implementing-the-virtual-screen-grid-in-google-meet/"><u>[New] In 2024, Implementing the Virtual Screen Grid in Google Meet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-buzz-generating-tie/"><u>[New] Ultimate Buzz-Generating Tie</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-p40-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel P40</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/insightful-analysis-the-dji-inspire-2-story/"><u>Insightful Analysis - The DJI Inspire 2 Story</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-commerce-5-ai-resources-every-savvy-business-owner-should-know/"><u>Navigating the Future of Commerce: 5 AI Resources Every Savvy Business Owner Should Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pace-profiles-analyzing-chatgpt-4-and-its-predecessor-35/"><u>Pace Profiles: Analyzing ChatGPT-4 and Its Predecessor, 3.5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-investments-from-bingchatgpt-crypto-scam-schemes-and-tactics/"><u>Protect Your Investments From BingChatGPT Crypto Scam Schemes & Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-digital-art-with-dall-e-3-eight-expertly-chosen-prompt-ideas/"><u>Revolutionize Your Digital Art with DALL-E 3: Eight Expertly Chosen Prompt Ideas</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-portable-360-degree-camera-theta-sc2/"><u>The Ultimate Portable 360-Degree Camera – Theta SC2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-wireless-charging-devices-comprehensive-review-by-tech-gurus/"><u>Top-Rated Wireless Charging Devices - Comprehensive Review by Tech Gurus</u></a></li>
 </ul></div>
 

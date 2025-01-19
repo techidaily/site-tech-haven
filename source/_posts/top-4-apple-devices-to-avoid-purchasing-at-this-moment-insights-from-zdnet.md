@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2025-01-09T18:04:09.383Z
-updated: 2025-01-13T17:43:11.530Z
+date: 2025-01-16T21:04:10.785Z
+updated: 2025-01-19T20:46:08.504Z
 tags:
   - apple
 categories:
@@ -57,10 +57,14 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Nice' list**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
@@ -72,7 +76,7 @@ Jason Hiner/ZDNET
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
@@ -84,7 +88,7 @@ Kerry Wan/ZDNET
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
@@ -100,10 +104,6 @@ Apple's MacBook Air has an M3 chip -- more oomph to tackle heavier-duty AI tasks
 Along with the updated processor, this MacBook Air can also power two external monitors with the lid closed, making it a great desktop replacement -- just add two screens! 
 
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
 
@@ -150,7 +150,7 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
@@ -214,20 +214,22 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-online-streaming-capture-a-comprehensive-guide-for-2024/"><u>[New] Online Streaming Capture A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-navigate-your-first-successful-windows-11-sound-capture/"><u>[Updated] 2024 Approved Navigate Your First Successful Windows 11 Sound Capture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-personal-drones-that-perfectly-trace-their-owners-path/"><u>[Updated] In 2024, Personal Drones That Perfectly Trace Their Owner's Path</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-new-wave-of-fbx-free-gaming-analysis-tools/"><u>[Updated] The New Wave of FBX-Free Gaming Analysis Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-procedure-of-ending-linkedin-services-and-deletion-process/"><u>2024 Approved Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-my-bot-masterclass-merging-board-games-art-and-innovation/"><u>ChatGPT's My Bot Masterclass: Merging Board Games, Art & Innovation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-my-gpt-bots-guide-conquering-board-games-crafting-images-and-expanding-skills/"><u>ChatGPT's My GPT Bots Guide: Conquering Board Games, Crafting Images, and Expanding Skills</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-right-ai-companion-claude-vs-chatgpt-for-daily-assistance/"><u>Choosing the Right AI Companion: Claude vs ChatGPT for Daily Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-your-sidekick-how-github-copilot-stands-up-to-chatgpt-in-code-development/"><u>Choosing Your Sidekick: How GitHub Copilot Stands Up to ChatGPT in Code Development</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creative-edge-detected-bots-on-equal-footing-prompt/"><u>Creative Edge Detected: Bots on Equal Footing Prompt</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/debunking-ai-dependence-for-financial-data-study/"><u>Debunking AI Dependence for Financial Data Study</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-ai-progress-comparing-and-contrasting-key-features-in-gpt-4-versus-gpt-35/"><u>Decoding AI Progress: Comparing and Contrasting Key Features in GPT-4 versus GPT-3.5</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-canon-inkjet-printer-driver-dr-c225-for-windows-11-10-and-8/"><u>Download Canon Inkjet Printer Driver (DR-C225) for Windows 11, 10 & 8</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-orchestrated-journey-through-youtubes-undisclosed-content/"><u>In 2024, Orchestrated Journey Through YouTube's Undisclosed Content</u></a></li>
-<li><a href="https://win-tips.techidaily.com/simple-steps-for-successfully-uploading-your-entire-itunes-music-catalog-to-icloud-storage/"><u>Simple Steps for Successfully Uploading Your Entire iTunes Music Catalog to iCloud Storage</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-invisible-vids-on-social-reveal-the-top-12-techniques-to-restore-appearance-in-23/"><u>[New] 2024 Approved Invisible Vids on Social? Reveal the Top 12 Techniques to Restore Appearance in '23</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-mystery-of-unlisted-content-on-youtube-explored/"><u>[New] In 2024, The Mystery of Unlisted Content on YouTube Explored</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-art-of-youtube-micro-clips-for-2024/"><u>[Updated] Mastering the Art of YouTube Micro Clips for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-users-guide-for-navigating-durecorder-world/"><u>[Updated] The Ultimate User’s Guide for Navigating DuRecorder World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-core-reasons-chatgpt-is-inadequate-for-professional-writing-roles/"><u>5 Core Reasons ChatGPT Is Inadequate for Professional Writing Roles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-expert-tips-on-composing-effective-prompts-to-maximize-your-chatgpt-experience/"><u>5 Expert Tips on Composing Effective Prompts to Maximize Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-beginners-exploration-into-langchain-and-llm/"><u>A Beginner’s Exploration Into LangChain & LLM</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-depend-on-chatgpt-or-bard-when-seeking-personalized-financial-counsel/"><u>Can You Depend on ChatGPT or Bard When Seeking Personalized Financial Counsel?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cant-access-chatgpt-discover-the-five-checkpoints-for-its-status/"><u>Can't Access ChatGPT? Discover the Five Checkpoints for Its Status</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-student-tool-uncovering-5-effective-ways-to-utilize-it-at-school/"><u>ChatGPT as a Student Tool: Uncovering 5 Effective Ways to Utilize It at School</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-study-tool-for-note-taking-pros/"><u>ChatGPT: The Ultimate Study Tool for Note Taking Pros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/create-meme-with-adobe-for-2024/"><u>Create Meme with Adobe for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-workings-of-predictive-ai-systems/"><u>Deciphering the Workings of Predictive AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-roundup-most-savvy-atandt-offers-for-phones-in-may-2024-insider-info/"><u>Exclusive Roundup: Most Savvy AT&T Offers for Phones in May 2024 | Insider Info</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/top-49-countdown-of-viral-tiktok-musings-for-your-success-for-2024/"><u>Top 49-Countdown of Viral TikTok Musings for Your Success for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-uavs-the-basics-of-drone-operations-for-2024/"><u>Unveiling UAVs The Basics of Drone Operations for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-you-need-to-know-about-the-upcoming-tesla-robotaxi/"><u>What You Need to Know About the Upcoming Tesla Robotaxi</u></a></li>
 </ul></div>
 

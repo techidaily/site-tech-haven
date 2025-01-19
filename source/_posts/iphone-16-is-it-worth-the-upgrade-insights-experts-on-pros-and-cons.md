@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16: Is It Worth the Upgrade? Insights Experts on Pros & Cons"
-date: 2025-01-07T17:28:23.688Z
-updated: 2025-01-13T17:21:27.986Z
+date: 2025-01-12T18:53:13.322Z
+updated: 2025-01-19T17:15:55.215Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
@@ -50,6 +50,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -63,7 +67,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -89,7 +93,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
@@ -107,7 +111,7 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -117,10 +121,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -168,24 +168,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-immerse-yourself-in-a-shared-tiktok-journey/"><u>[New] 2024 Approved Immerse Yourself in a Shared TikTok Journey</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>[New] Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-budget-friendly-tactics-to-increase-your-youtube-video-impact-for-2024/"><u>[Updated] Budget-Friendly Tactics to Increase Your YouTube Video Impact for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fine-tune-focus-effective-minecraft-zooming-strategies-for-2024/"><u>Fine-Tune Focus Effective Minecraft Zooming Strategies for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-drivers-compatible-with-windows-11-a-hassle-free-process/"><u>Get the Latest NVIDIA Drivers Compatible with Windows 11: A Hassle-Free Process</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-do-large-scale-language-models-function-an-overview/"><u>How Do Large-Scale Language Models Function? An Overview</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nubia-z50-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nubia Z50 Ultra Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-utilize-chatgpt-connection-hyperlinks-effectively/"><u>How to Utilize ChatGPT Connection Hyperlinks Effectively</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-y28-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo Y28 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-livestream-grabber-by-fb/"><u>In 2024, LiveStream Grabber by FB</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/insightful-tips-understanding-the-parameters-before-implementing-chatgpt-in-counseling/"><u>Insightful Tips: Understanding the Parameters Before Implementing ChatGPT in Counseling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intelligent-emotional-help-ethical-chatgpt-practices/"><u>Intelligent Emotional Help: Ethical ChatGPT Practices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-secure-to-use-external-chatgpt-addons-and-plugins/"><u>Is It Secure to Use External ChatGPT Addons & Plugins?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/llama-2-bridging-the-gap-between-humans-and-technology/"><u>Llama 2: Bridging the Gap Between Humans and Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-nutrition-craft-your-perfect-meal-plan-with-the-help-of-chatgpt/"><u>Mastering Nutrition: Craft Your Perfect Meal Plan with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maxing-out-chatgpt-how-long-is-too-long-for-character-input/"><u>Maxing Out ChatGPT: How Long Is Too Long for Character Input?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/personalizing-chatgpt-encounters-using-tailored-gpt-mentions-strategies-inside/"><u>Personalizing ChatGPT Encounters Using Tailored GPT Mentions – Strategies Inside</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>[New] Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-novice-to-expert-navigating-windows-11s-movie-maker-easily/"><u>[Updated] In 2024, From Novice to Expert Navigating Windows 11'S Movie Maker Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-window-11s-best-kept-secrets-for-maximum-productivity-for-2024/"><u>[Updated] Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-compact-mp3-skype-archive-on-the-cheap/"><u>2024 Approved Compact MP3 Skype Archive on the Cheap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-llama-3-vs-gpt-4-the-ultimate-comparison-guide/"><u>AI Showdown: Llama 3 vs GPT-4 - The Ultimate Comparison Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721926612675-chatgpt-sign-in-glitches-find-relief-with-these-proven-techniques/"><u>ChatGPT Sign-In Glitches? Find Relief with These Proven Techniques!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/lack-of-nvidia-shield-av1-format-compatibility-solved-effortless-method-inside/"><u>Lack of Nvidia Shield AV1 Format Compatibility Solved – Effortless Method Inside!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722097637022-leap-into-a-new-era-of-web-exploration-bing-on-mobile-platforms/"><u>Leap Into a New Era of Web Exploration: Bing on Mobile Platforms.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/power-up-with-the-ultimate-anker-superspeed-usb-hub-evaluation/"><u>Power Up with the Ultimate Anker SuperSpeed USB Hub Evaluation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-fix-downloading-and-updating-the-elan-smbus-driver-in-windows/"><u>Step-by-Step Fix: Downloading and Updating the ELAN SMBus Driver in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721954243025-unlock-the-power-of-conversation-talk-with-chatgpt-today/"><u>Unlock the Power of Conversation: Talk with ChatGPT Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-creativity-with-ai-generate-images-using-dall-e-3-on-bing-no-cost/"><u>Unlocking Creativity with AI: Generate Images Using DALL-E 3 on Bing - No Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-talk-of-tech-titans-le-chat-vs-gpt-3/"><u>Unraveling the Talk of Tech Titans: Le Chat vs GPT-3</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-save-big-on-final-cut-pro-education-bundle-deals-inside/"><u>Updated 2024 Approved Save Big on Final Cut Pro Education Bundle Deals Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/virtual-reality-of-genuine-ppc-games/"><u>Virtual Reality of Genuine PPC Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-you-need-caution-with-ai-the-6-critical-risks/"><u>Why You Need Caution with AI: The 6 Critical Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722089553304-worth-investing-in-auto-gpt-before-gpt-4-arrives-lets-compare/"><u>Worth Investing in Auto-GPT Before GPT-4 Arrives? Let's Compare</u></a></li>
 </ul></div>
 

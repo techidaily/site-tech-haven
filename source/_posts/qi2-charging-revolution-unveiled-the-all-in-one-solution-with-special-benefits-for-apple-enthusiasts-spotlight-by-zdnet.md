@@ -1,7 +1,7 @@
 ---
 title: "Qi2 Charging Revolution Unveiled: The All-in-One Solution with Special Benefits for Apple Enthusiasts – Spotlight by ZDNET"
-date: 2025-01-08T16:07:36.192Z
-updated: 2025-01-13T16:37:24.573Z
+date: 2025-01-17T17:50:00.071Z
+updated: 2025-01-19T17:54:12.092Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,20 +146,18 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-2023s-best-web-based-recording-tech-handpicked/"><u>[New] 2024 Approved 2023'S Best Web-Based Recording Tech Handpicked</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-pushingpastthestatusquo-post-mycam-cams-for-2024/"><u>[Updated] PushingPastTheStatusQuo Post-MyCam Cams for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>[Updated] Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-to-develop-emotional-intelligence/"><u>How to Use ChatGPT to Develop Emotional Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/impatient-for-chatgpt-as-a-desktop-app-heres-an-exceptional-open-source-solution-to-tide-you-over/"><u>Impatient for ChatGPT as a Desktop App? Here’s an Exceptional Open-Source Solution to Tide You Over!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Phone with Broken Screen</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-insta-story-focus-zooming-in-and-out-techniques/"><u>In 2024, Mastering Insta Story Focus Zooming In & Out Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-ai-strategies-vital-gadgets-for-todays-business-magnates/"><u>Innovative AI Strategies: Vital Gadgets for Today's Business Magnates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-hackers-to-utilize-chatgpt-for-breaching-financial-and-personal-security-systems/"><u>Is It Possible for Hackers to Utilize ChatGPT for Breaching Financial and Personal Security Systems?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-improved-3d-model-creation-and-printing-techniques/"><u>Leveraging ChatGPT for Improved 3D Model Creation and Printing Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mercedes-unveils-new-voice-activated-chatgpt-feature-in-vehicles/"><u>Mercedes Unveils New Voice-Activated ChatGPT Feature in Vehicles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/merging-ai-and-messaging-chatgpt-with-whatsapp-support-guide/"><u>Merging AI and Messaging: ChatGPT with WhatsApp Support Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210540101-9781447488583-practical-mysticism-a-little-book-for-normal-people/"><u>Practical Mysticism - A Little Book for Normal People | Free Book</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/tiktoks-take-jujutsu-kaisen-challenges-and-laughs-for-2024/"><u>TikTok's Take Jujutsu Kaisen Challenges and Laughs for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/unveiling-the-best-budget-friendly-wi-fi-expansion-gadget-tp-link-re200-reviewed/"><u>Unveiling the Best Budget-Friendly Wi-Fi Expansion Gadget - TP-Link RE200 Reviewed!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-logic-pro-xs-audio-magic-tricks-for-seamless-sounds/"><u>[New] 2024 Approved Logic Pro X's Audio Magic Tricks for Seamless Sounds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-social-stream-wars-fb-live-vs-yt-live-and-tweetstreams/"><u>[New] 2024 Approved Social Stream Wars FB LIVE Vs. YT Live & TweetStreams</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unleash-potential-with-optimal-hashtags-for-gaming-vids/"><u>[New] 2024 Approved Unleash Potential with Optimal Hashtags for Gaming Vids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-cost-analysis-maximizing-views-on-youtube/"><u>[New] Cost Analysis Maximizing Views on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-insiders-look-at-youtube-content-regulations/"><u>[Updated] The Insider's Look at YouTube Content Regulations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-unlimited-melodies-where-you-can-enjoy-music-for-free-no-downloads-necessary/"><u>Discover Unlimited Melodies: Where You Can Enjoy Music for Free, No Downloads Necessary!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-galaxy-a05-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Galaxy A05?</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-past-fixed-context-menus-with-these-remedies/"><u>Navigate Past Fixed Context Menus with These Remedies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-bing-understanding-microsofts-implementation-of-ai-capabilities/"><u>The Evolution of Bing: Understanding Microsoft's Implementation of AI Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-web-navigation-ais-role-in-evolving-search-engine-strategies/"><u>The Future of Web Navigation: AI's Role in Evolving Search Engine Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-using-artificial-intelligence-bots-for-creating-genuine-windows-11-product-keys/"><u>The Pitfalls of Using Artificial Intelligence Bots for Creating Genuine Windows 11 Product Keys</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risks-of-using-ai-like-chatgpt-for-personal-medical-advice-insights-and-alternatives/"><u>The Risks of Using AI Like ChatGPT for Personal Medical Advice – Insights and Alternatives</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-to-downloading-and-converting-apks-on-ios-devices/"><u>Ultimate Guide to Downloading and Converting APKs on iOS Devices</u></a></li>
 </ul></div>
 

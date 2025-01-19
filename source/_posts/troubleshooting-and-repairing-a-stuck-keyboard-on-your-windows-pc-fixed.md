@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing a Stuck Keyboard on Your Windows PC [Fixed]
-date: 2024-08-16T10:10:03.980Z
-updated: 2024-08-17T10:10:03.980Z
+date: 2025-01-14T19:49:42.561Z
+updated: 2025-01-19T17:36:41.995Z
 tags:
   - win11
   - win10
@@ -27,8 +27,9 @@ Gmail has become an important part in our daily lives. But you sometimes can’t
 2. [Remember Gmail password automatically](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Remember Gmail password by your browser
 
  Whenever you login your account in your browser, you’ll be prompted if you want to save your password in the browser.
@@ -38,22 +39,25 @@ Gmail has become an important part in our daily lives. But you sometimes can’t
 1) Launch **Chrome** in your device, click the **three dots icon** at the upper right corner, and select **Settings** in the drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03bff522ce.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Scroll down and click **Advanced** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03c1476f5b.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) In the **Passwords and forms** section, click **Manage passwords** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03c278ee6d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Make sure to turn on **Offer to save passwords**  at the top of the page, then you’ll be prompted to save the passwords every time you log in a website with your account and password.
@@ -67,11 +71,12 @@ Gmail has become an important part in our daily lives. But you sometimes can’t
  6) Sign into Gmail with your account and passwords, then Chrome will pop up a dialog at the upper right corner for you to save password. Click **Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd03c7c82588.png)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
  Now you should have your Gmail password remembered. But if you clear your browser cookies, remember not to clear passwords. Once you do, your passwords saved in the browser will also be removed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Remember Gmail password automatically
 
@@ -84,9 +89,6 @@ Gmail has become an important part in our daily lives. But you sometimes can’t
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/)  and install Dashlane on your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66de7ed746.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 2) Run Dashlane in your device.
 
@@ -106,8 +108,6 @@ You can also **sync your passwords and data across all your devices** (this requ
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +115,20 @@ You can also **sync your passwords and data across all your devices** (this requ
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-import-music-to-inshot-app/"><u>[Updated] How to Import Music to Inshot App?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-video-technology-review-2024-edition/"><u>[Updated] Next-Gen Video Technology Review, 2024 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-most-secure-and-stylish-smart-lock-perfect-for-your-iphone-without-sacrificing-aesthetics-zdnet/"><u>Discover The Most Secure & Stylish Smart Lock Perfect for Your iPhone Without Sacrificing Aesthetics | ZDNET</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/efficiently-upgrade-your-intel-3000-drivers-make-win10-shine/"><u>Efficiently Upgrade Your Intel 3000 Drivers, Make Win10 Shine!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-unveiled-enhancing-customer-experiences/"><u>In 2024, Unboxing Unveiled Enhancing Customer Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/interactive-playscapes-and-the-rise-of-ai-generated-games/"><u>Interactive Playscapes and the Rise of AI-Generated Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-intelligence-for-a-dream-job-breakthrough/"><u>Leveraging ChatGPT's Intelligence for a Dream Job Breakthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mac-identification-on-windows-11-platform/"><u>Mastering MAC Identification on Windows 11 Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-sound-creation-utilizing-chatgpt-within-your-digital-audio-workstation/"><u>Mastering Sound Creation: Utilizing ChatGPT Within Your Digital Audio Workstation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-visibility-tips-for-linking-and-sharing-chatbot-talks/"><u>Maximizing Visibility: Tips for Linking and Sharing Chatbot Talks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/my-ai-assisted-adventure-in-podcast-scripting/"><u>My AI-Assisted Adventure in Podcast Scripting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-vlcs-features-for-mp4-and-diverse-format-changes-for-2024/"><u>Navigating VLC's Features for MP4 & Diverse Format Changes for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-of-employment-gpts-replacement-potential/"><u>New Era of Employment: GPT's Replacement Potential?</u></a></li>
+</ul></div>
 

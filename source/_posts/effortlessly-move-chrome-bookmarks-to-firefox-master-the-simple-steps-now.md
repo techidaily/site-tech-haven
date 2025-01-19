@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Move Chrome Bookmarks to Firefox – Master the Simple Steps Now!
-date: 2024-08-16T10:10:14.763Z
-updated: 2024-08-17T10:10:14.763Z
+date: 2025-01-15T18:40:12.664Z
+updated: 2025-01-19T19:00:51.430Z
 tags:
   - win11
   - win10
@@ -29,34 +29,22 @@ If you’re looking to **import Chrome bookmarks to Firefox** , you’ve definit
 2) In the top right corner, click**the three-vertical-dot icon** , then click**Bookmarks** \>**Bookmark manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf2aeaf55c.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **three-dot** icon.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-34.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  4) Click **Export bookmarks** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf3b85340d.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  5) A windows will pop right open. Save it to a location of your choosing, name the file of the bookmarks and make sure it’s saved as a **Firefox HTML Document** . Then click **Save** .  
 
 ![This image has an empty alt attribute; its file name is image-33.png](https://images.drivereasy.com/wp-content/uploads/2019/02/image-33.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -65,24 +53,26 @@ No advertising on the website.
 1. Open Firefox.
 2. Click the**Library** icon and click**Bookmarks** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfc8da5140.png)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Show All Bookmarks** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfcee78e14.png)
 4. Click**Import and Backup** \>**Import Bookmarks from HTML** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbfda429a3d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Locate and open the HTML file you’ve saved earlier and you’ll be good to go!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tips: Update your drivers with Driver Easy
 
@@ -93,6 +83,10 @@ No advertising on the website.
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with[**Driver Easy Pro**](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-226.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -107,8 +101,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +108,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/epeat-revelry-twice-the-joy-with-televised-video-repetition-for-2024/"><u>[New] Repeat Revelry Twice the Joy with Televised Video Repetition for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-androids-path-to-virtual-reality-tips-and-tricks/"><u>[Updated] Android's Path to Virtual Reality Tips and Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-social-synergy-connecting-the-two-giants/"><u>[Updated] In 2024, Social Synergy Connecting the Two Giants</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-your-live-broadcasts-with-obs-and-zoom/"><u>[Updated] Optimizing Your Live Broadcasts with OBS & Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-ultrabook-revolution-enhanced-performance-with-amd-ryzen-ai-300-and-lightning-fast-thunderbolt-technology/"><u>HP UltraBook Revolution: Enhanced Performance with AMD Ryzen AI 300 and Lightning-Fast Thunderbolt Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/subscribersilence-yearning-for-chatgpt-reopening/"><u>SubscriberSilence: Yearning for ChatGPT Reopening</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-business-mastering-these-5-key-ai-technologies/"><u>The Future of Business: Mastering These 5 Key AI Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-depth-of-snapchats-myai-learn-about-its-six-unexpected-utilities-beyond-cool-tech/"><u>The Hidden Depth of Snapchat's MyAI - Learn About Its Six Unexpected Utilities Beyond Cool Tech!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-simplifying-web-design-for-developers/"><u>The Role of ChatGPT in Simplifying Web Design for Developers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-list-best-tvs-for-ps5xbox-series-x-games-for-2024/"><u>The Ultimate List Best TVs for PS5/Xbox Series X Games for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-can-chatgpt-outperform-google-translate-in-high-quality-linguistic-conversions/"><u>The Ultimate Showdown: Can ChatGPT Outperform Google Translate in High-Quality Linguistic Conversions?</u></a></li>
+</ul></div>
 

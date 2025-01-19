@@ -1,7 +1,7 @@
 ---
 title: High Memory Usage on Windows 11 [Solved]
-date: 2024-08-16T10:10:19.090Z
-updated: 2024-08-17T10:10:19.090Z
+date: 2025-01-17T20:10:55.943Z
+updated: 2025-01-19T17:56:16.482Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 
  Your Windows 10 PC suddenly shows your entire display**in black & white** ? Don’t worry! You’re not the only one to experience this issue. Recently, many Windows 10 users have reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fixes to try**
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Turn off color filters in Windows Settings
 
  If your screen suddenly turns black and white when you’re using your Windows 10 PC, especially when you’re copying files using the shortcut key **Ctrl** +**C** , you may accidentally trigger the**color filters** feature by pressing its shortcut key (**The Windows logo key** +**Ctrl** +**C** ). Follow the instructions below to turn off color filters:
@@ -39,20 +44,15 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 
 1. On your keyboard, press**the Windows logo key** and type**color filter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap335.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 2. In the pop-up window,**turn off** the toggle under**Use color filters** . Then**uncheck** the box next to**Allow the shortcut key to toggle filter on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap336.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your display on your Windows 10 PC should be back to normal after you turn off the color filters feature.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus tip: Update your graphics driver
 
  If turning off color filters doesn’t resolve this issue. Don’t worry! You may also run into this issue if there is something wrong with your graphics driver. Try updating your graphics driver to see if you can resolve this issue. By updating your graphics driver, you can also avoid many unexpected display issues and boost your game performance!
@@ -68,14 +68,16 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap182.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Update**  next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap183.png)
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap183.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -92,8 +94,6 @@ There are two ways to update your graphics driver: **manually**  and **automatic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +101,26 @@ There are two ways to update your graphics driver: **manually**  and **automatic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-accumulating-prime-visuals-for-content-creation/"><u>[Updated] 2024 Approved Accumulating Prime Visuals for Content Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-export-ppt-as-animated-film/"><u>[Updated] 2024 Approved Export PPT as Animated Film</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-olympic-snowboard-x-sprint-highlights-22/"><u>[Updated] Olympic Snowboard X Sprint Highlights '22</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-sharpen-your-zoom-skills-with-background-blur-expertise-for-2024/"><u>[Updated] Sharpen Your Zoom Skills with Background Blur Expertise for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/advanced-guide-to-implementing-metaai-tools-on-your-instagram-account/"><u>Advanced Guide to Implementing MetaAI Tools on Your Instagram Account</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-projects-with-chatgpt-tips-for-better-content/"><u>Enhance Your Projects with ChatGPT - Tips for Better Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-ai-mastery-googles-palm-2-and-bard-collaboration/"><u>Enhancing AI Mastery: Google's PaLM 2 & Bard Collaboration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-analytical-prowess-in-excel-through-chatgpt-integration/"><u>Enhancing Analytical Prowess in Excel Through ChatGPT Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-onlyoffice-with-chatgpt-for-seamless-collaboration/"><u>Enhancing ONLYOFFICE with ChatGPT for Seamless Collaboration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-health-management-through-ai-the-top-seven-justifications-for-using-chatgpt-as-your-advisor/"><u>Enhancing Your Health Management Through AI: The Top Seven Justifications for Using ChatGPT as Your Advisor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-bypassing-the-6-biggest-chatgpt-prompt-blunders/"><u>Essential Tips: Bypassing the 6 Biggest ChatGPT Prompt Blunders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-seamless-search-mastery-with-perplexai-the-elite-guide-to-ai-google-tools-youre-missing-out-on/"><u>Experience Seamless Search Mastery with Perplex^AI - The Elite Guide to AI Google Tools You're Missing Out On</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-project-gemini-by-google-the-next-leap-in-ai-development/"><u>Exploring Project Gemini by Google - The Next Leap in AI Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-steps-in-the-field-of-prompt-creation/"><u>First Steps in the Field of Prompt Creation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-tecno-spark-20-proplus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Tecno Spark 20 Pro+? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-10-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 10 5G Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/unveiling-the-impact-why-a-million-token-framework-in-gemini-15-transforms-nlp-models/"><u>Unveiling the Impact: Why a Million-Token Framework in Gemini 1.5 Transforms NLP Models</u></a></li>
+</ul></div>
 

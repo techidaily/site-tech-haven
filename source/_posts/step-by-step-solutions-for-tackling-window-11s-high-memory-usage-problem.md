@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Tackling Window 11’S High Memory Usage Problem
-date: 2024-08-16T10:11:27.251Z
-updated: 2024-08-17T10:11:27.251Z
+date: 2025-01-12T17:09:36.234Z
+updated: 2025-01-19T16:39:26.911Z
 tags:
   - win11
   - win10
@@ -17,15 +17,16 @@ thumbnail: https://thmb.techidaily.com/f686a643a5c8caf6204a0d7d1f9323ac2adea370f
 
 If you’re looking to**update DirectX** on your Windows 11 or 10 computer, you’ve come to the right place. Read on and check it out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update DirectX in Windows 10 or 11
 
  If you don’t know the current version of DirectX on your computer, please start with[**Step 1: check your version of DirectX**](https://tools.techidaily.com/drivereasy/download/) .
 
  If you already know that the version of DirectX isn’t the latest (which is DirectX 12 at the moment), please start with[**Step 2: Update DirectX**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 1: Check your version of DirectX
 
  If you’re not sure what version of DirectX your computer is running, you can check it before updating it.
@@ -34,14 +35,13 @@ Here’s how to check your DirectX version:
 
 1. On your keyboard, press**the**   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  , then copy & paste **dxdiag** into the box and click**dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Check out your **DirectX version** in the first page of the report.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
 
 ---
 
@@ -51,46 +51,44 @@ Here’s how to check your DirectX version:
 
  Since there is no stand-alone package of DirectX available in Windows 10, you can only update DirectX via Windows Update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. On your keyboard, press**the**   **Windows logo key**  and type**check** . Then click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus tip: Update your device drivers to improve your gaming experience
 
  If you want to ensure the stability of your computer and have more immersive gaming experience, it’s important to keep your drivers up-to-date. There are two ways you can update your device drivers: manually or automatically. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -124,8 +122,6 @@ Here’s how to check your DirectX version:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +129,26 @@ Here’s how to check your DirectX version:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-incredible-method-unlock-mac-using-apple-watch/"><u>[New] Incredible Method Unlock Mac Using Apple Watch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pixelated-personae-effective-face-covering-tactics/"><u>[New] Pixelated Personae Effective Face Covering Tactics</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-resolving-net-framework-40-error-code-0x800c0006-on-windows/"><u>1. Resolving .NET Framework 4.0 Error Code 0X800C0006 on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-vivid-skies-highlighted-hdr-web-platforms/"><u>2024 Approved Explore Vivid Skies Highlighted HDR Web Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-retain-your-interactions-with-chatgpt-when-savings-fail/"><u>How to Retain Your Interactions with ChatGPT When Savings Fail</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-k70e-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi K70E Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-serene-visual-narratives-for-bedtime/"><u>In 2024, Serene Visual Narratives for Bedtime</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-science-of-visual-appeal-crafting-stunning-youtube-shorts-templates/"><u>In 2024, The Science of Visual Appeal Crafting Stunning YouTube Shorts Templates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-the-features-and-performance-of-claude-pro-versus-chatgpt-plus/"><u>In-Depth Analysis: The Features and Performance of Claude Pro versus ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/instant-ai-action-agentgpt-in-your-browser/"><u>Instant AI Action: AgentGPT in Your Browser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-politeness-essential-to-ai-conversations-gpt-alexa-siri/"><u>Is Politeness Essential to AI Conversations? (GPT, Alexa, Siri)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-interaction-with-these-top-5-tools/"><u>Mastering AI Interaction with These Top 5 Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-langchain-llm-a-comprehensive-guide-for-newcomers/"><u>Mastering LangChain LLM: A Comprehensive Guide for Newcomers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-mixology-how-skilled-is-chatgpt-in-crafting-the-perfect-cocktail/"><u>Mastering Mixology: How Skilled Is ChatGPT in Crafting the Perfect Cocktail?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-scriptwriting-for-youtube-videos-using-chatgpt-tips-and-tricks/"><u>Mastering Scriptwriting for YouTube Videos Using ChatGPT Tips and Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-bids-farewell-to-sam-altman-whats-next-for-the-acclaimed-chatgpt/"><u>OpenAI Bids Farewell to Sam Altman; What's Next for the Acclaimed ChatGPT?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-secret-life-of-a-designer-canvas-hidden-edits-for-2024/"><u>The Secret Life of a Designer Canva's Hidden Edits for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-storytelling-in-business-marketing/"><u>Visual Storytelling in Business Marketing</u></a></li>
+</ul></div>
 

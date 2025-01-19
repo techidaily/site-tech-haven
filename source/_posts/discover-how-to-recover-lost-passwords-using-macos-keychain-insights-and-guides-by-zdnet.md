@@ -1,7 +1,7 @@
 ---
 title: Discover How to Recover Lost Passwords Using macOS Keychain | Insights & Guides by ZDNET
-date: 2025-01-07T16:14:31.614Z
-updated: 2025-01-13T17:44:38.516Z
+date: 2025-01-12T19:30:05.898Z
+updated: 2025-01-19T16:32:29.494Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -38,10 +38,6 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 
 With that said, let's get to work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Opening the Keychain Access tool
 
 To open the Keychain Access tool, click on the Launchpad located in the Dock. From there, type keychain and then click on the icon for Keychain Access. In the resulting window, click on the Passwords tab to reveal every entry (**Figure 1**) that's been saved to macOS.
@@ -51,6 +47,10 @@ To open the Keychain Access tool, click on the Launchpad located in the Dock. Fr
 The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
 
@@ -67,7 +67,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,16 +113,22 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-wild-ride-the-hottest-tweets-unveiled/"><u>[Updated] 2024 Approved Twitter's Wild Ride The Hottest Tweets Unveiled</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-se-2022-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone SE (2022) Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fix-game-lag-issues-on-your-computer/"><u>FIX Game Lag Issues on Your Computer</u></a></li>
-<li><a href="https://article-tips.techidaily.com/focus-frameworks-key-tools-to-brighten-videos/"><u>Focus Frameworks Key Tools to Brighten Videos</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a05s-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A05s Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/scam-chatgpt-add-on-risks-compromising-your-facebook-login-credentials/"><u>Scam ChatGPT Add-On Risks Compromising Your Facebook Login Credentials</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/share-your-thoughts-essential-extensions-for-exporting-and-sharing-chatgpt-interactions/"><u>Share Your Thoughts: Essential Extensions for Exporting & Sharing ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/snapchat-vs-skype-decoding-the-language-of-ai/"><u>Snapchat vs Skype: Decoding the Language of AI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-the-frustrating-black-screen-error-on-persona-5-strikers/"><u>Solved! How to Fix the Frustrating Black Screen Error on Persona 5 Strikers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-leveraging-gpt-3-within-the-openai-sandbox/"><u>Step-by-Step Tutorial on Leveraging GPT-3 Within the OpenAI Sandbox</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-review-of-the-10-leading-p2p-torrent-software-for-your-pc/"><u>Ultimate Review of the 10 Leading P2P Torrent Software for Your PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uide-to-equipment-selection-for-youtube-creators-for-2024/"><u>[New] Guide to Equipment Selection for YouTube Creators for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-harmony-in-sounds-legally-downloaded-meditation-chants-and-more/"><u>[New] Harmony in Sounds Legally Downloaded Meditation Chants & More</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-dynamic-decibels-the-best-background-sounds-for-yt-shorts/"><u>[Updated] Dynamic Decibels The Best Background Sounds for YT Shorts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-essential-iphone-hdr-photography-skills/"><u>[Updated] In 2024, The Essential iPhone HDR Photography Skills</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-detailed-walkthrough-to-address-ftd2xxdll-errors-effectively/"><u>A Detailed Walkthrough to Address ftd2xx.dll Errors Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mitigating-risks-gpt-modifications-and-your-data/"><u>Mitigating Risks: GPT Modifications & Your Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-cyber-dangers-exploring-six-key-security-concerns-with-chatgpt/"><u>Navigating Cyber Dangers: Exploring Six Key Security Concerns with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-digital-shift-in-cbt-practices-with-chatgpt/"><u>Navigating the Digital Shift in CBT Practices with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-privacy-understanding-how-neural-network-inversion-can-expose-chatbot-secrets/"><u>Protecting Privacy: Understanding How Neural Network Inversion Can Expose Chatbot Secrets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-your-creativity-workflow-with-mind-maps-and-conversational-ai-platforms/"><u>Revolutionizing Your Creativity Workflow with Mind Maps & Conversational AI Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/say-no-to-data-collection-how-to-disengage-from-chatgpt/"><u>Say No to Data Collection – How to Disengage From ChatGPT</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-downloading-ultra-hd-360-videos-from-youtube-on-macos-and-windows-pcs/"><u>Step-by-Step Guide: Downloading Ultra HD 360° Videos From YouTube on macOS & Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-local-setup-of-llama-2-on-your-machine/"><u>Step-by-Step Guide: Local Setup of LLAMA 2 on Your Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-resolving-chatgpt-at-maximum-use-message-on-pcs/"><u>Step-by-Step Guide: Resolving ChatGPT at Maximum Use Message on PCs</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-magic-v2-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor Magic V2 without backup.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-music-movement-application-on-apple-devices-ideal-for-iphone-ipad-and-ipod-users/"><u>Ultimate Music Movement Application on Apple Devices: Ideal for iPhone, iPad & iPod Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/video-amounts-stored-64-vs-128gb-comparison-for-2024/"><u>Video Amounts Stored 64 vs 128GB Comparison for 2024</u></a></li>
 </ul></div>
 

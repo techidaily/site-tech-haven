@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2025-01-10T17:43:39.164Z
-updated: 2025-01-13T17:31:21.494Z
+date: 2025-01-13T20:30:50.860Z
+updated: 2025-01-19T17:31:05.041Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
 
@@ -56,10 +60,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -79,6 +79,10 @@ Personally, the iPhone 3G was my first iPhone (there was no iPhone 2 or 3). I bo
 Over in the Android world, its first phone was the HTC Dream, also marketed as the [T-Mobile G1](https://www.cnet.com/reviews/t-mobile-g1-review/). It was released in October 2008 and was noteworthy for its slide-out display that opened to show a BlackBerry-style keyboard. This device came with a rear-facing 3.15MP camera.
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
 
@@ -101,7 +105,7 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -115,7 +119,7 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
@@ -134,10 +138,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -151,10 +151,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -175,6 +171,10 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -254,20 +254,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/1716069748962-new-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10-for-2024/"><u>[New] Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10). For 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-film-frenzy-top-picks-of-free-and-paid-movies-on-iphones-for-2024/"><u>[Updated] Film Frenzy Top Picks of Free & Paid Movies on iPhones for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-tips-for-organizing-your-youtube-clip-structure/"><u>2024 Approved Advanced Tips for Organizing Your YouTube Clip Structure</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-enhancing-video-experience-on-youtube-with-slower-playback-48-chars/"><u>2024 Approved Enhancing Video Experience on YouTube with Slower Playback (48 Chars)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-apples-latest-ai-revelations-unveiled-during-the-2024-worldwide-developers-conference/"><u>Decoding Apple's Latest AI Revelations Unveiled During the 2024 Worldwide Developers Conference</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-transformers-in-nlp-bert-and-gpt-examined/"><u>Demystifying Transformers in NLP: BERT & GPT Examined</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-prevent-openai-web-scrapers-from-accessing-your-site/"><u>Effective Strategies to Prevent OpenAI Web-Scrapers From Accessing Your Site</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-youtube-script-writing-mastery-leveraging-ai-innovation-with-chatgpt/"><u>Effective YouTube Script Writing Mastery: Leveraging AI Innovation with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-home-cooking-7-ai-inspired-ideas-from-gpt/"><u>Elevate Your Home Cooking: 7 AI-Inspired Ideas From GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-privacy-game-connect-through-duckduckgos-cutting-edge-ai-chat-offerings/"><u>Elevate Your Privacy Game – Connect Through DuckDuckGo’s Cutting-Edge AI Chat Offerings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essays-in-the-digital-age-is-ai-overruling-student-effort/"><u>Essays in the Digital Age: Is AI Overruling Student Effort?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-brief-video-joust-the-showdown-between-youtubes-shorts-and-tiktoks-flavor/"><u>In 2024, Brief Video Joust The Showdown Between YouTubes Shorts and TikTok's Flavor</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-method-for-integrating-gopro-footage-into-360-degree-films/"><u>In 2024, Optimal Method for Integrating GoPro Footage Into 360-Degree Films</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/scott-opitz-appointed-as-abbyys-new-chief-technology-and-product-officer/"><u>Scott Opitz Appointed as ABBYY's New Chief Technology & Product Officer</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-is-vn-video-editor-apk-worth-your-time-a-detailed-review-for-2024/"><u>Updated Is VN Video Editor APK Worth Your Time? A Detailed Review for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-secrets-of-turning-online-videos-into-desktop-music-files/"><u>[New] Unlocking the Secrets of Turning Online Videos Into Desktop Music Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compress-to-caption-zip-to-srt-for-video-editors/"><u>2024 Approved Compress to Caption ZIP-to-SRT for Video Editors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-revenue-with-youtube-short-videos-a-complete-plan-for-2024/"><u>Boosting Revenue with YouTube Short Videos – A Complete Plan for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-getting-into-system-settings/"><u>Essential Steps: Getting Into System Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-scansnap-s1300i-up-to-date-quick-driver-downloads-available-here/"><u>Get Your ScanSnap S1300i Up to Date - Quick Driver Downloads Available Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-securing-expert-assistance-for-your-iphone-through-the-apple-support-application/"><u>Guide: Securing Expert Assistance for Your iPhone Through the Apple Support Application</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-enjoy-dvd-films-on-your-nintendo-wii-with-a-simple-wii-can-play-disc/"><u>How to Enjoy DVD Films on Your Nintendo Wii with a Simple 'Wii Can Play' Disc</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-productivity-at-home-discover-6-creative-ways-to-utilize-chatgpt/"><u>Revolutionize Productivity at Home: Discover 6 Creative Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secrets-unveiled-deleting-every-bit-of-your-history-with-chatgpt/"><u>Secrets Unveiled: Deleting Every Bit of Your History with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplify-document-drafting-with-chatgpt-integration-into-ms-word-top-tips-and-tricks/"><u>Simplify Document Drafting with ChatGPT Integration Into MS Word - Top Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ai-illusion-unveiled-nine-major-issues-with-gpt/"><u>The AI Illusion Unveiled: Nine Major Issues with GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Connectivity Issues: A Guide to Reviving Your Logitech K780 Keyboard"
-date: 2024-08-16T10:12:44.786Z
-updated: 2024-08-17T10:12:44.786Z
+date: 2025-01-13T19:42:05.945Z
+updated: 2025-01-19T18:01:52.008Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Your NVIDIA Control Panel seems different from others you see from the internet�
 1. [Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Disable the onboard graphics card in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 3. [Restart the NVIDIA Control Panel Process](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your graphics card driver
 
@@ -54,43 +58,41 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/g1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/g3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Disable the onboard graphics card in Device Manager
 
  You can change your default graphics driver to the NVIDIA graphics card all the time. This can resolve the problem but may lower your battery life for consuming more power.
 
 1. Run the NVIDIA Control Panel.
 2. Choose the**High-performance NVIDIA processor** in the drop-down menu and then click**Apply** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/n1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Press the**Windows logo key + R** to open the Run box.
 4. Type “devmgmt.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Open the Display adapters and right-click on your integrated graphics card.
-6. Click**Disable device** and then click**Yes** in the pop-up window.![](https://images.drivereasy.com/wp-content/uploads/2019/07/n2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click**Disable device** and then click**Yes** in the pop-up window.![](https://images.drivereasy.com/wp-content/uploads/2019/07/n2.jpg)
 7. Reboot your computer and check whether it solves your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Restart the NVIDIA Control Panel Process
 
 1. Press the**Ctrl + Shift + Esc** key together to open the Task Manager.
 2. In the Processes tab, right-click on the NVIDIA Control Panel and choose**End task** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/n4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Restart the NVIDIA Control Panel and check whether it has other settings or not.
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -103,8 +105,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-photographers-choice-compile-of-essential-apps/"><u>[New] In 2024, Photographers' Choice Compile of Essential Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tailored-thumbnails-aspect-ratios-for-maximum-clicks/"><u>[New] In 2024, Tailored Thumbnails Aspect Ratios for Maximum Clicks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-deciphering-social-media-copyright-laws-including-fb-for-2024/"><u>[Updated] Deciphering Social Media Copyright Laws, Including FB for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-auto-gpt-hold-its-own-without-accessing-gpt-4/"><u>Can Auto-GPT Hold Its Own Without Accessing GPT-4?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-the-safety-of-third-party-chatgpt-add-ons/"><u>Can You Trust the Safety of Third-Party ChatGPT Add-Ons?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-faceoff-which-reigns-supreme-perplexity-or-chatgpt-plus/"><u>Chatbot Faceoff: Which Reigns Supreme, Perplexity or ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-your-partner-in-excel-data-management/"><u>ChatGPT: Your Partner in Excel Data Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-influence-are-we-witnessing-the-end-of-conventional-academic-papers/"><u>ChatGPT's Influence: Are We Witnessing the End of Conventional Academic Papers?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-text-editing/"><u>ChatGPT's Role in Text Editing?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-groups-revolutionizing-virtual-reality/"><u>Elite Groups Revolutionizing Virtual Reality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-budget-cameras-with-bold-action-features-and-quality/"><u>In 2024, Budget Cameras with Bold Action Features and Quality</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-dangerous-depths-top-10-roguelite-showdowns/"><u>In 2024, Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-poweradd-pilot-pro2-a-reliable-charger-for-laptops-and-more/"><u>Unveiling the Potential of POWERADD Pilot Pro2: A Reliable Charger for Laptops and More</u></a></li>
+</ul></div>
 

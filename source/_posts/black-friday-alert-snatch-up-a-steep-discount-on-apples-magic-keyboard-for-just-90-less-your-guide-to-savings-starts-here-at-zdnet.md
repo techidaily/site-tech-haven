@@ -1,7 +1,7 @@
 ---
 title: Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.
-date: 2025-01-12T17:51:33.837Z
-updated: 2025-01-13T17:08:30.416Z
+date: 2025-01-13T18:57:26.660Z
+updated: 2025-01-19T20:22:29.910Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ And while spending $100 on a four-pack doesn't seem that bad after living throug
 Since AirTags are powered by a CR2032 coin cell battery, you can [replace the battery](https://www.zdnet.com/article/how-to-change-the-battery-in-your-apple-airtag/) whenever it dies, preventing you from buying a new one each time. Remember, since AirTags are thin pocket-sized devices, you can use them for just about anything and repurpose them as often as you'd like. From helping you find a parking spot to tracking your child's favorite toy, there are endless possibilities with your AirTags -- you just have to get [creative](https://www.zdnet.com/article/seven-ways-apple-airtags-can-help-you-beyond-tracking-keys/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,24 +77,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-channel-expansion-via-youtube-outros-maximizing-visibility/"><u>[New] In 2024, Channel Expansion via YouTube Outros Maximizing Visibility</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-ez-grabber/"><u>[Updated] In 2024, Unlocking the Potential of EZ Grabber</u></a></li>
-<li><a href="https://facebook.techidaily.com/bringing-the-court-home-facebook-and-twitters-game-plan/"><u>Bringing the Court Home: Facebook & Twitter's Game Plan</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-k70-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi K70 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>In 2024, Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Camon 30 Pro 5G Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meta-quest-3-outpaces-apple-vision-pro-with-advanced-ai-capabilities-activate-now/"><u>Meta Quest 3 Outpaces Apple Vision Pro with Advanced AI Capabilities - Activate Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-office-matts-for-health-and-productivity-gains/"><u>Optimal Office Matts for Health and Productivity Gains</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/real-time-streaming-with-manycam-professional-virtual-webcam-solutions/"><u>Real-Time Streaming with ManyCam: Professional Virtual Webcam Solutions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/shaping-new-normals-innovative-brands-and-youtube-partnerships/"><u>Shaping New Normals Innovative Brands and YouTube Partnerships</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-eu-blueprint-on-ai-insights-into-chatgpt-evolution/"><u>The EU Blueprint on AI: Insights Into ChatGPT Evolution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-implications-of-chatgpts-current-data-accessibility-on-society/"><u>The Implications of ChatGPT's Current Data Accessibility on Society</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-rise-of-gptbot-and-its-impact-on-online-site-visibility/"><u>The Rise of GPTBot & Its Impact on Online Site Visibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-advanced-llms-an-in-depth-review/"><u>Top 6 Advanced LLMs: An In-Depth Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-gpt-powered-tools-you-should-skip-avoiding-unworthy-investments/"><u>Top 6 GPT-Powered Tools You Should Skip: Avoiding Unworthy Investments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-industries-through-chatgpt-and-whisper-apis/"><u>Transforming Industries Through ChatGPT and Whisper APIs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/translation-showdown-chatgpt-vs-google-translate-who-reigns-supreme/"><u>Translation Showdown: ChatGPT Vs. Google Translate - Who Reigns Supreme?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/truth-or-fiction-top-free-ppc-games-reviewed/"><u>Truth or Fiction? Top Free PPC Games Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-types-public-private-and-personal-the-key-distinctions/"><u>Understanding AI Types: Public, Private & Personal - The Key Distinctions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comparative-analysis-of-screen-capture-software-obs-and-fraps/"><u>[New] Comparative Analysis of Screen Capture Software OBS and Fraps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-snapchats-filter-frenzy-a-comprehensive-handbook/"><u>[New] Mastering Snapchat's Filter Frenzy A Comprehensive Handbook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-exploring-samsungs-ue590-4k-gamer-monitor/"><u>[Updated] In 2024, Exploring Samsung's UE590 4K Gamer Monitor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nighttime-novelties-with-vocalists-recommended-guide/"><u>[Updated] Nighttime Novelties with Vocalists Recommended Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722137627863-50-ransomware-fix-with-smartphone-hacks-plus-how-chatgpt-is-shaping-our-podcast-conversations-today/"><u>$50 Ransomware Fix with Smartphone Hacks - Plus, How ChatGPT Is Shaping Our Podcast Conversations Today</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023-tech-scoop-efficiently-tracking-down-fb-vids/"><u>2023 Tech Scoop Efficiently Tracking Down FB Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-connecting-worlds-mastering-video-chats-on-xbox-one-with-zoom/"><u>In 2024, Connecting Worlds Mastering Video Chats on Xbox One with Zoom</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-dispel-image-fuzziness-the-best-10-web-editing-software-reviewed/"><u>In 2024, Dispel Image Fuzziness The Best 10 Web Editing Software Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-mastering-the-multitasking-with-splitting-your-screen-on-windows-10/"><u>Step-by-Step Guide: Mastering the Multitasking with Splitting Your Screen on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-chatbots-exploring-their-popularity-in-modern-tech/"><u>Understanding AI Chatbots: Exploring Their Popularity in Modern Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-a-guide-to-what-chatgpt-jailbreaking-involves/"><u>Unlocking Potential: A Guide to What ChatGPT Jailbreaking Involves</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-capabilities-of-claude-3-a-comprehensive-guide/"><u>Unveiling the Capabilities of Claude 3: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-framework-four-government-techniques-for-ai-tool-regulation/"><u>Unveiling the Framework: Four Government Techniques for AI Tool Regulation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-avoid-simplified-text-interpretations-by-algorithms/"><u>Why Avoid Simplified Text Interpretations by Algorithms?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722166933106-zero-cost-local-chatbot-ai-mastering-gpt-4-all-version-installation-on-windows/"><u>Zero-Cost, Local Chatbot AI: Mastering GPT-4 All Version Installation on Windows</u></a></li>
 </ul></div>
 

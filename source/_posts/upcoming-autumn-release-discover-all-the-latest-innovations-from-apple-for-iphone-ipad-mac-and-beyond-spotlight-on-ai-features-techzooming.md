@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming"
-date: 2025-01-09T17:51:53.004Z
-updated: 2025-01-13T18:16:38.787Z
+date: 2025-01-12T19:01:54.485Z
+updated: 2025-01-19T19:19:10.751Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -68,10 +72,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -91,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,20 +210,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-creative-reactors-the-10-premier-video-responses/"><u>[New] 2024 Approved Creative Reactors The 10 Premier Video Responses</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-fostering-followers-with-flashy-instagram-puzzles-that-stand-out/"><u>[New] In 2024, Fostering Followers with Flashy Instagram Puzzles that Stand Out</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-superior-skills-for-video-preservation-devices/"><u>[Updated] In 2024, Superior Skills for Video Preservation Devices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads-for-2024/"><u>[Updated] Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-thumbnail-design-choosing-best-fonts/"><u>[Updated] The Art of Thumbnail Design Choosing Best Fonts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-motorola-edge-2023-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Edge 2023 Through Google Earth?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/improve-your-ai-interactions-the-ultimate-list-of-chatgpt-enhancements-available-today/"><u>Improve Your AI Interactions: The Ultimate List of ChatGPT Enhancements Available Today</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-asus-rog-phone-7-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Asus ROG Phone 7 Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots/"><u>In 2024, Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-possible-to-manage-a-smart-home-using-chatgpt/"><u>Is It Possible To Manage A Smart Home Using ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-ai-assistance-the-ultimate-guide-to-using-chatgpt-within-your-vs-code-setup/"><u>Leveraging AI Assistance: The Ultimate Guide to Using ChatGPT Within Your VS Code Setup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-brainstorms-mindmaps-and-gpt-3-collaboration/"><u>Mastering Brainstorms: Mindmaps & GPT-3 Collaboration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/meta-and-openai-under-fire-artist-suits-on-free-expression/"><u>Meta and OpenAI Under Fire: Artist Suits on Free Expression</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/microsoft-integrates-artificial-intelligence-with-bing-anticipated-benefits-unveiled/"><u>Microsoft Integrates Artificial Intelligence with Bing: Anticipated Benefits Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-realme-11x-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Realme 11X 5G has been deleted</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-creativity-pro-guide-for-youtube-studio-editing/"><u>[New] 2024 Approved Unleash Creativity Pro Guide for YouTube Studio Editing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-ideas-for-snapad-success-in-business/"><u>[Updated] 2024 Approved Innovative Ideas for SnapAd Success in Business</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-ai-6-tips-to-use-chatgpt-for-video-game-plot-creation/"><u>Harness the Power of AI: 6 Tips to Use ChatGPT for Video Game Plot Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hear-the-future-of-interaction-openai-instills-voice-functionality-into-chatgpt/"><u>Hear the Future of Interaction: OpenAI Instills Voice Functionality Into ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-natural-language-processing-differ-from-machine-learning-techniques/"><u>How Does Natural Language Processing Differ From Machine Learning Techniques?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-efficient-is-chatgpt-in-serving-as-a-proofreading-companeback/"><u>How Efficient Is ChatGPT in Serving as a Proofreading Companeback?</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-drivers-responsible-for-computer-hardware-issues-expert-tips-from-yl-computings-technical-blog/"><u>Identifying Drivers Responsible for Computer Hardware Issues: Expert Tips From YL Computing's Technical Blog</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmony-creations-synopsis-studio-25-examination-2-habits/"><u>In 2024, Harmony Creations Synopsis Studio 25 Examination, 2 Habits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-the-art-of-choosing-a-comprehensive-roundup-of-superior-17-inch-laptops-for-2e24/"><u>Master the Art of Choosing: A Comprehensive Roundup of Superior 17-Inch Laptops for 2E24</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-rated-free-dvd-converter-tools-for-windows-11-in-202n-get-your-no-cost-full-version-downloads-now/"><u>Top-Rated Free DVD Converter Tools for Windows 11 in 202N: Get Your No-Cost, Full Version Downloads Now!</u></a></li>
 </ul></div>
 
