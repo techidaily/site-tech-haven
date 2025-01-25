@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2025-01-12T18:44:56.877Z
-updated: 2025-01-19T20:16:37.584Z
+date: 2025-01-20T17:59:02.470Z
+updated: 2025-01-25T16:45:46.018Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -59,10 +59,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -79,6 +75,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -90,10 +90,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -120,7 +116,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -136,7 +132,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -154,6 +150,10 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -210,18 +210,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-optimized-visual-quality-black-bar-and-box-frame-for-social-media-posts/"><u>[Updated] 2024 Approved Optimized Visual Quality Black Bar & Box Frame for Social Media Posts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transitioning-shadows-a-minute-later/"><u>[Updated] 2024 Approved Transitioning Shadows A Minute Later</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-pc-video-life-with-windows-immersive-hdr-techniques/"><u>Enhance PC Video Life with Windows' Immersive HDR Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-choose-the-right-projector-for-your-needs-tips-and-insights/"><u>How to Choose the Right Projector for Your Needs: Tips & Insights</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-huawei-p60-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/scrutinizing-boses-audio-durability-for-solid-performance/"><u>Scrutinizing Bose's Audio Durability for Solid Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/skip-googles-cleverly-coded-malwarebard-app/"><u>Skip Google’s Cleverly Coded Malware—Bard App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-credibility-of-chatgpt-in-delivering-health-related-information/"><u>The Credibility of ChatGPT in Delivering Health-Related Information</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-flaws-of-using-ai-technology-for-content-originality-verification/"><u>The Flaws of Using AI Technology for Content Originality Verification</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-job-hunting-how-chatgpt-enhances-job-application-strategies/"><u>The Future of Job Hunting: How ChatGPT Enhances Job Application Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-web-search-with-microsofts-latest-ai-enhancements-to-bing/"><u>The Future of Web Search with Microsoft's Latest AI Enhancements to Bing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-listeners-of-cyberspace-examining-the-authenticity-of-online-interactions-and-unraveling-dead-internet-secrets/"><u>The Hidden Listeners of Cyberspace: Examining the Authenticity of Online Interactions and Unraveling Dead Internet Secrets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps-for-2024/"><u>Top 8 Mobile Mosaics Best Blend of Affordable and Premium Android Videomosaic Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-platform-prowess-at-play-twitch-vs-youtube-clash-for-2024/"><u>[New] Platform Prowess at Play Twitch vs YouTube Clash for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-updated-windows-11-interface/"><u>2024 Approved Exploring the Updated Windows 11 Interface</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/break-writing-barriers-with-our-5-innovative-text-generators/"><u>Break Writing Barriers with Our 5 Innovative Text Generators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-libre-de-fichier-flac-vers-m4a-sur-internet-movavi/"><u>Conversion Libre De Fichier FLAC Vers M4A Sur Internet - Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/groundbreaking-release-stellar-unveils-the-original-global-photo-restoration-and-enhancement-solution/"><u>Groundbreaking Release: Stellar Unveils the Original Global Photo Restoration and Enhancement Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-an-ai-black-box-operate-unveiling-the-mystery-of-intelligent-systems/"><u>How Does an AI Black Box Operate? Unveiling the Mystery of Intelligent Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-enhancing-video-call-quality-with-zoom-in-teams/"><u>In 2024, Enhancing Video Call Quality with ZOOM in Teams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-shopping-experience-with-apple-pay-essential-tips-for-in-store-and-ecommerce-transactions-according-to-zdnet/"><u>Revolutionize Your Shopping Experience with Apple Pay: Essential Tips for In-Store and eCommerce Transactions, According to ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-the-mingwm10dll-file-is-absent-issue/"><u>Solutions for Resolving the 'Mingwm10.dll File Is Absent' Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-office-tasks-with-chatgpt-a-guide-to-3-powerful-excel-techniques/"><u>Streamlining Office Tasks with ChatGPT: A Guide to 3 Powerful Excel Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-dangers-of-fraudgpt-a-comprehensive-guide-for-self-protection/"><u>The Hidden Dangers of FraudGPT - A Comprehensive Guide for Self-Protection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-length-restrictions-of-ai-outputs/"><u>Understanding the Length Restrictions of AI Outputs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-creative-writing-potential-through-advanced-ai-tools-by-hix-and-gpt-4/"><u>Unleash Creative Writing Potential Through Advanced AI Tools by HIX & GPT-4</u></a></li>
 </ul></div>
 

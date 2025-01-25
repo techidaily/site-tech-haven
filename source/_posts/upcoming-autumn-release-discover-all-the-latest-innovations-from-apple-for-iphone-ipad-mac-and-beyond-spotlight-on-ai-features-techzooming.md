@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming"
-date: 2025-01-12T19:01:54.485Z
-updated: 2025-01-19T19:19:10.751Z
+date: 2025-01-18T16:28:27.557Z
+updated: 2025-01-25T17:22:19.158Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -72,6 +68,10 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -91,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -121,10 +121,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -138,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -157,6 +153,10 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,15 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-creativity-pro-guide-for-youtube-studio-editing/"><u>[New] 2024 Approved Unleash Creativity Pro Guide for YouTube Studio Editing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-ideas-for-snapad-success-in-business/"><u>[Updated] 2024 Approved Innovative Ideas for SnapAd Success in Business</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-ai-6-tips-to-use-chatgpt-for-video-game-plot-creation/"><u>Harness the Power of AI: 6 Tips to Use ChatGPT for Video Game Plot Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hear-the-future-of-interaction-openai-instills-voice-functionality-into-chatgpt/"><u>Hear the Future of Interaction: OpenAI Instills Voice Functionality Into ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-natural-language-processing-differ-from-machine-learning-techniques/"><u>How Does Natural Language Processing Differ From Machine Learning Techniques?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-efficient-is-chatgpt-in-serving-as-a-proofreading-companeback/"><u>How Efficient Is ChatGPT in Serving as a Proofreading Companeback?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-drivers-responsible-for-computer-hardware-issues-expert-tips-from-yl-computings-technical-blog/"><u>Identifying Drivers Responsible for Computer Hardware Issues: Expert Tips From YL Computing's Technical Blog</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harmony-creations-synopsis-studio-25-examination-2-habits/"><u>In 2024, Harmony Creations Synopsis Studio 25 Examination, 2 Habits</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/master-the-art-of-choosing-a-comprehensive-roundup-of-superior-17-inch-laptops-for-2e24/"><u>Master the Art of Choosing: A Comprehensive Roundup of Superior 17-Inch Laptops for 2E24</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/top-rated-free-dvd-converter-tools-for-windows-11-in-202n-get-your-no-cost-full-version-downloads-now/"><u>Top-Rated Free DVD Converter Tools for Windows 11 in 202N: Get Your No-Cost, Full Version Downloads Now!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-step-by-step-approach-to-mastering-the-art-of-morphvox-sound-alteration/"><u>[New] 2024 Approved Step-by-Step Approach to Mastering the Art of MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-depth-insights-into-camstudio-recording/"><u>[Updated] 2024 Approved In-Depth Insights Into CamStudio Recording</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-vanishing-on-tiktok-heres-how-to-comeback-for-2024/"><u>[Updated] Vanishing on TikTok? Here’s How to Comeback for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-unintended-exposures-with-chatgpts-adaptive-gpt-systems-tips-for-better-protection/"><u>Avoiding Unintended Exposures with ChatGPT's Adaptive GPT Systems: Tips for Better Protection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-screen-the-dead-internet-theory-revealed-for-online-communication-insights/"><u>Behind the Screen: The Dead Internet Theory Revealed for Online Communication Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-machines-pass-the-turing-test-exploring-possibilities-and-challenges/"><u>Can Machines Pass the Turing Test? Exploring Possibilities and Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-xbox-to-laptop-a-guide-to-effective-gaming-display-setup/"><u>Connect Xbox to Laptop: A Guide to Effective Gaming Display Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-and-tricks-resolving-issues-with-netflix-on-your-roku-entertainment-system/"><u>Easy Tips & Tricks: Resolving Issues With Netflix On Your Roku Entertainment System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-dangers-of-seeking-medical-insights-from-chatgpt/"><u>Evaluating the Dangers of Seeking Medical Insights From ChatGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-history-of-aols-aim-the-iconic-instant-messaging-service/"><u>Exploring the History of AOL's AIM: The Iconic Instant Messaging Service</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722954033058-get-your-steelseries-driver-update-now-for-optimized-windows-11-performance/"><u>Get Your SteelSeries Driver Update Now for Optimized Windows 11 Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gptbot-overview-and-the-rationale-for-its-restriction-on-websites/"><u>GPTBot Overview & The Rationale for Its Restriction on Websites</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-to-verifying-the-installed-powershell-version-in-windows-10-environments/"><u>Guide to Verifying the Installed PowerShell Version in Windows 10 Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/live-streaming-nfl-matches-a-comprehensive-guide-zdnet-tech/"><u>Live Streaming NFL Matches: A Comprehensive Guide | ZDNet Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-balancing-human-creativity-and-ai-assistance-in-writing/"><u>The Art of Balancing Human Creativity and AI Assistance in Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-collection-of-7-key-online-utilities-to-refine-your-prompt-construction-techniques/"><u>The Ultimate Collection of 7 Key Online Utilities to Refine Your Prompt Construction Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-distinctions-between-gpt-and-bert-in-natural-language-processing/"><u>Unraveling the Distinctions Between GPT and BERT in Natural Language Processing</u></a></li>
 </ul></div>
 

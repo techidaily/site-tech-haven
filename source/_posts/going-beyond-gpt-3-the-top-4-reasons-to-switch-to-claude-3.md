@@ -1,7 +1,7 @@
 ---
 title: Going Beyond GPT-3 - The Top 4 Reasons to Switch to Claude 3
-date: 2024-08-09T20:34:39.153Z
-updated: 2024-08-10T20:34:39.153Z
+date: 2025-01-19T17:31:35.925Z
+updated: 2025-01-25T16:39:36.706Z
 tags:
   - chatgpt
   - open-ai
@@ -20,17 +20,9 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
  There's hope in a few common tasks for those worried that AI may be coming for their job. Gaining extra competence in Excel’s VBA and the wide world of automated analysis tools can give you a leg up in the job market.
@@ -47,15 +39,13 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
 
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to[visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Customizable Report Creation in Excel
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
 
@@ -70,15 +60,16 @@ thumbnail: https://thmb.techidaily.com/80eceb8d178e7070d961e9242a3b69515c63dafd8
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Easy-to-Use Forms in Excel
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
 
@@ -89,8 +80,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
  Excel has many tasks that are still beyond the range of ChatGPT and its cohort of machine learning-driven knockoffs. With new advancements increasing at an alarming rate, it’s all too easy to worry that automation may be aiming for your job next.
@@ -99,14 +91,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Learning how to create customizable reports and forms that enable data entry in Excel can help preserve your job. For those concerned that their position may be facing automation, there are still plenty of Excel skills out of AI’s range of ability for the foreseeable future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +104,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-debugging-techniques-identifying-and-resolving-common-javascript-errors-for-2024/"><u>[Updated] Debugging Techniques Identifying and Resolving Common JavaScript Errors for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-voice-capture-on-mac-compiling-the-best-5-apps-for-2024/"><u>[Updated] Professional Voice Capture on Mac Compiling The Best 5 Apps for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-buyers-checklist-essential-aspects-of-choosing-the-ideal-gaming-device/"><u>A Buyer's Checklist: Essential Aspects of Choosing the Ideal Gaming Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-new-era-of-business-with-vr-integration/"><u>A New Era of Business with VR Integration</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ver-your-top-10-choice-of-editors-for-youtube-short-videos/"><u>Discover Your Top 10 Choice of Editors for YouTube Short Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-feature-alert-airpods-pros-upcoming-hearing-aid-compatibility-with-ios-15-and-beyond-revolutionizing-accessibility-without-hardware-changes/"><u>New Feature Alert: AirPods Pro's Upcoming Hearing Aid Compatibility with iOS 15 and Beyond, Revolutionizing Accessibility Without Hardware Changes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/rapid-retrieval-for-missed-snaps-for-2024/"><u>Rapid Retrieval for Missed Snaps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-connectivity-issues-get-your-logitech-g923-back-online/"><u>Solving Connectivity Issues: Get Your Logitech G923 Back Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-turning-off-microsoft-defender-antivirus-on-demand/"><u>Step-by-Step Guide: Turning Off Microsoft Defender Antivirus on Demand</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-to-enable-and-use-microsofts-on-screen-keyboard-in-various-windows-versions/"><u>Step-by-Step Tutorial to Enable and Use Microsoft's On-Screen Keyboard in Various Windows Versions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-bypassing-driver-signature-checks-on-windows-11/"><u>Step-by-Step Tutorial: Bypassing Driver Signature Checks on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stop-windows-update-installing-drivers-in-windows-10-solved/"><u>Stop Windows Update Installing Drivers in Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-fix-an-expanded-pagefilesys-file-size-problem/"><u>Strategies to Fix an Expanded Pagefile.sys File Size Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlined-approach-activate-advanced-startup-functions-on-your-windows-11-pc-with-minimal-hassle/"><u>Streamlined Approach: Activate Advanced Startup Functions on Your Windows 11 PC with Minimal Hassle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artisans-path-empowering-writers-with-chatgpt/"><u>The Artisan’s Path: Empowering Writers with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-us-vpns-with-free-trials-safeguard-your-privacy-and-access-anywhere/"><u>Top Rated US VPNs with Free Trials: Safeguard Your Privacy and Access Anywhere</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-work-smarter-not-harder-top-adobe-premiere-shortcuts-and-tricks/"><u>Updated In 2024, Work Smarter, Not Harder Top Adobe Premiere Shortcuts and Tricks</u></a></li>
+</ul></div>
 

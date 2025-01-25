@@ -1,7 +1,7 @@
 ---
 title: "Essential Improvements for Android: Steps Toward Surpassing Apple's iPhone | TechInsight"
-date: 2025-01-14T20:40:52.595Z
-updated: 2025-01-19T20:07:06.145Z
+date: 2025-01-22T18:31:53.160Z
+updated: 2025-01-25T18:14:35.616Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 
 ## What Apple Intelligence will bring to the company's operating system platforms
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AI on the device and in the cloud
 
 Apple Intelligence brings powerful generative models to iPhone, iPad, and [Mac](https://www.zdnet.com/article/best-mac/). On-device capabilities require an A17 Pro chip, limiting them to [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-plus-review/) and Pro Max users for enhanced security and privacy. Similarly, only iPads with M-series chips (like the latest iPad Air and iPad Pro) and Macs running Apple Silicon will be compatible. Many users with older devices or non-Pro models will miss these advanced features.
@@ -57,7 +53,7 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -69,7 +65,7 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -80,6 +76,10 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI image generation and Genmoji
 
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
@@ -87,7 +87,7 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -105,7 +105,7 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
@@ -180,21 +180,20 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-best-4k-laptops-for-ultimate-gaming/"><u>[New] Best 4K Laptops for Ultimate Gaming</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-discover-top-10-flv-to-youtube-conversion-tools-for-2024/"><u>[New] Discover Top 10 Flv-to-YouTube Conversion Tools for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/re-chill-vibes-top-winter-bg-ideas-for-yt/"><u>Capture Chill Vibes Top Winter Bg Ideas for YT</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/chronology-of-events-resulting-in-the-birth-of-the-republic-of-china-an-analysis-from-yl-innovations/"><u>Chronology of Events Resulting in the Birth of the Republic of China: An Analysis From YL Innovations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-oppo-reno-11-pro-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/historic-footprints-in-tech-rediscovering-7-old-world-windows-aspects/"><u>Historic Footprints in Tech: Rediscovering 7 Old-World Windows Aspects</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-motorola-edge-40-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Motorola Edge 40 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-itel-a60-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Itel A60 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-into-ais-future-with-gpt-4-nevertheless-platinum-still-rewards-users-with-6-significant-advantages/"><u>Step Into AI's Future with GPT-4! Nevertheless, Platinum Still Rewards Users With 6 Significant Advantages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ai-tussle-continues-decide-between-snapchats-myai-and-gpt/"><u>The AI Tussle Continues: Decide Between Snapchat's MyAI & GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-artificer-evaluation-top-5-successors-to-the-classic-turing-test/"><u>The Future of Artificer Evaluation - Top 5 Successors to the Classic Turing Test</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-workforce-revolution-how-generative-ai-shapes-job-opportunnities-7-key-points/"><u>The Future Workforce Revolution: How Generative AI Shapes Job Opportunnities (7 Key Points)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pathway-to-pristine-chatgpt-conversations/"><u>The Pathway to Pristine ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-methods-for-enabling-chatgpt-to-interpret-pdf-documents/"><u>Top 4 Methods for Enabling ChatGPT to Interpret PDF Documents</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-scholarly-pursuits-with-cutting-edge-ai-toolkits-top-five-ways/"><u>Transforming Scholarly Pursuits with Cutting-Edge AI Toolkits: Top Five Ways</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-game-ahead-with-funimates-easy-apk-instructions/"><u>[New] 2024 Approved Game Ahead with Funimate's Easy APK Instructions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gently-introducing-scene/"><u>[New] Gently Introducing Scene</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-learn-the-easy-ways-to-turn-your-watching-experience-on-youtube-into-a-screencast-without-money/"><u>[New] Learn the Easy Ways to Turn Your Watching Experience on YouTube Into a Screencast Without Money</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adobes-path-to-perspective-creating-life-like-text/"><u>Adobe's Path to Perspective Creating Life-Like Text</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-an-ultimate-guide-to-the-best-llms/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: An Ultimate Guide to the Best LLMs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-ai-prompt-design-courses-ranked-1-5/"><u>Best AI Prompt Design Courses: Ranked #1-#5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-through-the-hype-unraveling-9-widespread-misunderstandings-about-ai-chatbots/"><u>Cutting Through the Hype: Unraveling 9 Widespread Misunderstandings About AI Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-fixes-for-gpts-six-most-prevalent-errors/"><u>Essential Fixes for GPT's Six Most Prevalent Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-a-malfunctioning-computer-using-chatgpt-a-step-by-step-guide/"><u>Fixing a Malfunctioning Computer Using ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-11-audio-back-solving-speaker-issues-easily/"><u>How To Get Your Windows 11 Audio Back: Solving Speaker Issues Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-your-3d-printing-projects-with-chatgpt-a-comprehensive-guide/"><u>Maximizing Your 3D Printing Projects with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/retrieve-forgotten-passwords-from-your-mac-with-simple-tricks/"><u>Retrieve Forgotten Passwords From Your Mac with Simple Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/scrutinizing-djis-phantom-3-for-enthusiast-use/"><u>Scrutinizing DJI's Phantom 3 for Enthusiast Use</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-updating-your-windows-with-atheros-drivers/"><u>Step-by-Step Guide to Updating Your Windows with Atheros Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-intersection-of-ai-and-smart-homes-chatgpts-impact/"><u>The Intersection of AI & Smart Homes: ChatGPT's Impact</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Choosing an iPhone eCase for Your Latest Model - Uncover Why You Need One Now! | ZDNET
-date: 2025-01-18T19:10:49.933Z
-updated: 2025-01-19T18:50:06.261Z
+date: 2025-01-23T19:26:02.151Z
+updated: 2025-01-25T16:31:29.463Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Airplane Mode
@@ -94,12 +94,16 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Planes, trains, automobiles - and boats
 
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Airplanes
@@ -112,10 +116,6 @@ You'll need to account for where the battery goes, where your [travel case](http
 
 That said, as long as you have enough battery power (or [spare batteries](https://www.apple.com/shop/product/MW283LL/A/apple-vision-pro-battery)), your experience on a plane should be fairly straightforward as this was a use case Apple clearly designed for. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Trains
 
 ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/) by train in the Seattle area. He, too, found the cramped quarters a bit of a challenge, because moving your arms is a bit tough when there's a good chance you'll whack the person sitting in the seat next to you. 
@@ -125,7 +125,7 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Automobiles
@@ -137,10 +137,6 @@ Highway travel, particularly on long stretches of the national highway system in
 **Also: [Connected cars, powered by AI, will make up 95% of all vehicles on the road by 2030](https://www.zdnet.com/article/connected-cars-powered-by-ai-will-make-up-95-of-all-vehicles-on-the-road-by-2030/)**
 
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Shipboard travel
 
@@ -155,6 +151,10 @@ I've been on ships in rough seas, and here's the thing: You don't want to be wat
 I've also lived through devastating earthquakes. The [Loma Prieta earthquake](https://en.wikipedia.org/wiki/1989%5FLoma%5FPrieta%5Fearthquake) had a magnitude of 6.9, lasted approximately 15 seconds, and destroyed much of the San Francisco area. Sailing on rough seas is like being in a quake as large or larger than the Loma Prieta quake, but doing it for three, six, 12, or even 24 _hours_. 
 
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Situational awareness
 
@@ -211,24 +211,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-best-10-virtual-reality-headgear-for-smartphones-for-2024/"><u>[New] Best 10 Virtual Reality Headgear for Smartphones for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capturing-attention-a-guide-to-captivate-videos/"><u>[Updated] 2024 Approved Capturing Attention A Guide to Captivate Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unmatched-no-fee-mobile-and-web-picture-enhancement/"><u>[Updated] In 2024, Unmatched No-Fee Mobile & Web Picture Enhancement</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/androidyoutube/"><u>「カスタム着信音づくり：AndroidでYoutube曲を使った手入力プロセス」</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-expert-techniques-for-crafting-high-end-gopro-vlogs/"><u>2024 Approved Expert Techniques for Crafting High-End GoPro Vlogs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/has-chatgpt-simplified-or-compromised-academic-writings/"><u>Has ChatGPT Simplified or Compromised Academic Writings?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-empowers-you-to-pen-down-beautiful-poetry-tips-and-tricks/"><u>How ChatGPT Empowers You to Pen Down Beautiful Poetry: Tips & Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-shapley-explanation-work-insights-into-openais-shape-technology/"><u>How Does Shapley Explanation Work? Insights Into OpenAI's SHAPE Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-learning-chatgpt-can-transform-your-career-a-six-point-guide/"><u>How Learning ChatGPT Can Transform Your Career: A Six-Point Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-the-introduction-of-chatgpt-and-whisper-api-endpoints-impacts-your-business-strategy/"><u>How the Introduction of ChatGPT and Whisper API Endpoints Impacts Your Business Strategy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-access-and-utilize-the-smart-search-engine-bing/"><u>How to Access and Utilize the Smart Search Engine - Bing</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/immersive-tabletop-journeys-gpt-insights-to-elevate-your-rpgs/"><u>Immersive Tabletop Journeys: GPT Insights to Elevate Your RPGs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 13 Pro</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-xs-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone XS Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-extensions-for-exporting-and-sharing-conversations-from-chatgpt/"><u>Innovative Extensions for Exporting & Sharing Conversations From ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intelligent-engagement-siri-and-chatgpt-for-apple-users/"><u>Intelligent Engagement: Siri & ChatGPT for Apple Users</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-m6-pro-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco M6 Pro 5GFRP Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-overcoming-the-entry-not-located-challenge-in-windows/"><u>Mastering Fixes: Overcoming the Entry Not Located Challenge in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-package-accessories-to-boost-your-yi-4k/"><u>[New] The Ultimate Package Accessories to Boost Your YI 4K</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-tiktok-mastery-the-art-of-editing-your-number/"><u>[New] TikTok Mastery The Art of Editing Your Number</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-breaking-news-working-obs-cam/"><u>[Updated] 2024 Approved Breaking News Working OBS Cam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-t-mobile-kiddo-watch-only-12-per-month/"><u>Affordable T-Mobile Kiddo Watch: Only $12 Per Month</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-between-ios-and-android-a-mac-and-mobile-guide/"><u>Bridging the Gap Between iOS and Android - A Mac & Mobile Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversione-gratuita-di-mp3-ad-aac-online-utilizzando-movavi-un-guida-completa/"><u>Conversione Gratuita Di MP3 Ad AAC Online Utilizzando Movavi: Un Guida Completa</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-taskbar-space-on-windows-11-os/"><u>Customizing Taskbar Space on Windows 11 OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevated-experience-with-the-new-samsung-galaxy-z-flip-a-comprehensive-review-compared-to-its-predecessor/"><u>Elevated Experience with the New Samsung Galaxy Z Flip - A Comprehensive Review Compared to Its Predecessor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptdialoguehalted-seeking-reopen-date/"><u>GPTDialogueHalted: Seeking Reopen Date</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-draining-moisture-from-your-iphones-audio-ports/"><u>Guide to Draining Moisture From Your iPhone's Audio Ports</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-moto-g34-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Moto G34 5G Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-milestones-achieve-more-with-vr/"><u>Multilingual Milestones: Achieve More with VR</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/section-4c-qanda-on-molecular-mechanisms-of-cell-death/"><u>Section 4C: Q&A on Molecular Mechanisms of Cell Death</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/still-going-strong-top-android-automation-software-used-for-10-years/"><u>Still Going Strong: Top Android Automation Software Used for 10 Years</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-36-unbeatable-prime-day-discounts-on-apples-exclusive-offers-you-cant-miss/"><u>Top 36 Unbeatable Prime Day Discounts on Apples - Exclusive Offers You Can't Miss!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-what-to-do-when-googles-pixel-watch-3-screen-is-damaged/"><u>Troubleshooting Tips: What To Do When Google's Pixel Watch 3 Screen Is Damaged</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-network-speed-limitations-on-phones-solutions-for-better-connectivity/"><u>Understanding Network Speed Limitations on Phones - Solutions for Better Connectivity</u></a></li>
 </ul></div>
 

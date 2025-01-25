@@ -1,7 +1,7 @@
 ---
 title: How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis by ZDNet
-date: 2025-01-18T16:12:49.002Z
-updated: 2025-01-19T20:12:08.397Z
+date: 2025-01-18T16:05:36.363Z
+updated: 2025-01-25T18:42:04.933Z
 tags:
   - apple
 categories:
@@ -38,7 +38,7 @@ Internally, the new iPad Pro features Apple's most powerful Silicon yet, the M4,
 Right now, Amazon has both the [11- and 13-inch options on sale for $928 and $1,198](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1), respectively. Again, you'll only be saving between $80 to $100, but the discount can be offloaded towards [additional accessories](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dipad%2Bpro%2B2024%2Baccessories%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,22 +85,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-become-a-streaming-guru-utilizing-zooms-features-for-effective-youtube-broadcasts/"><u>[New] Become a Streaming Guru Utilizing Zoom's Features for Effective YouTube Broadcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-retro-to-future-radeon-rebooted/"><u>[New] Retro to Future Radeon Rebooted</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instagram-music-lawfare-summary/"><u>2024 Approved Instagram Music Lawfare Summary</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/capture-everything-with-the-lumix-fz80/"><u>Capture Everything with the Lumix FZ80</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-for-repairing-5-persistent-iphone-errors-through-the-advanced-use-of-dfu-mode/"><u>Expert Tips for Repairing 5 Persistent iPhone Errors Through the Advanced Use of DFU Mode</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-your-options-with-a-focus-on-local-llm-benefits-and-challenges/"><u>Exploring Your Options with a Focus on Local LLM Benefits & Challenges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/first-contact-with-langchain-llm-an-introductory-roadmap-for-starters/"><u>First Contact with LangChain LLM: An Introductory Roadmap for Starters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/future-of-chatgpt-addons-top-features-and-updates-on-the-horizon/"><u>Future of ChatGPT Addons: Top Features and Updates on the Horizon</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-bard-or-microsofts-bing-chat-who-takes-the-crown-in-ai-dialogue/"><u>Google Bard or Microsoft's Bing Chat? Who Takes the Crown in AI Dialogue?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-io-2023-showcases-bard-ais-new-edge-check-out-these-top-7-features/"><u>Google I/O 2023 Showcases Bard AI's New Edge - Check Out These Top 7 Features!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-4-at-your-fingertips-but-plus-continues-to-offer-unmatched-services/"><u>GPT-4 at Your Fingertips; But Plus Continues To Offer Unmatched Services.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/groundbreaking-release-openais-newest-creation-the-transformative-gpt-narrator/"><u>Groundbreaking Release: OpenAI's Newest Creation, The Transformative GPT-Narrator</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-learning-chatgpt-can-boost-your-professional-skills-a-guide-for-job-hunters/"><u>How Learning ChatGPT Can Boost Your Professional Skills: A Guide for Job Hunters</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-realme-11-proplus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme 11 Pro+ Without Password | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-13t-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi 13T Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-back-4-blood-stops-crashing-on-your-computer/"><u>No More Interruptions: Back 4 Blood Stops Crashing on Your Computer!</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-setup-initiate-ms-paint-in-windows-11/"><u>Quick Setup: Initiate MS Paint in Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-do-siri-voice-on-tiktok/"><u>[New] 2024 Approved How to Do Siri Voice on TikTok?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-artisans-approach-to-profiling-brilliance-for-2024/"><u>[New] The Artisan's Approach to Profiling Brilliance for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-optimize-video-views-with-these-top-5-link-shrinkers-for-2024/"><u>[Updated] Optimize Video Views with These Top 5 Link Shrinkers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-7-exceptional-alternatives-to-chatgpt-enhance-your-mobile-experience/"><u>Discover 7 Exceptional Alternatives to ChatGPT: Enhance Your Mobile Experience!</u></a></li>
+<li><a href="https://win11.techidaily.com/fasten-your-computers-ready-starts-with-3-tricks-for-win11/"><u>Fasten Your Computer's Ready Starts with 3 Tricks for Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-claude-3-insightful-uses-for-cutting-edge-ai/"><u>Mastering Claude 3: Insightful Uses for Cutting-Edge AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-start-of-a-prompt-engineering-career-expert-recommendations-and-guidelines/"><u>Navigating the Start of a Prompt Engineering Career: Expert Recommendations and Guidelines</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pioneering-photography-examination-with-counterparts/"><u>Pioneering Photography Examination with Counterparts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/sierras-best-curated-list-of-exceptional-mac-video-tools-for-2024/"><u>Sierra's Best Curated List of Exceptional Mac Video Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/six-keys-to-outclassing-text-generating-machines/"><u>Six Keys to Outclassing Text-Generating Machines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-ai-prompts-makers-for-diverse-ai-platforms/"><u>Top 5 AI Prompts Makers for Diverse AI Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-xbox-experience-better-blue-ray/"><u>Transform Your XBox Experience - Better Blue-Ray</u></a></li>
 </ul></div>
 

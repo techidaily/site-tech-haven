@@ -1,7 +1,7 @@
 ---
 title: "Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights"
-date: 2025-01-12T17:41:20.506Z
-updated: 2025-01-19T20:39:00.747Z
+date: 2025-01-22T18:42:19.649Z
+updated: 2025-01-25T17:44:26.427Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -83,16 +83,12 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
 
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -115,7 +111,7 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Camera upgrades
@@ -136,6 +132,10 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -147,7 +147,7 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -186,24 +186,19 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transform-your-reels-6-advanced-applications-for-instagram/"><u>[Updated] In 2024, Transform Your Reels 6 Advanced Applications for Instagram</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-guide-to-crafting-impressive-timelapse-films-on-ipad-for-2024/"><u>[Updated] The Complete Guide to Crafting Impressive Timelapse Films on iPad for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-unboxing-gurus-toolkit-amplifying-video-likes-on-tiktok/"><u>2024 Approved The Unboxing Guru's Toolkit Amplifying Video Likes on TikTok</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-c12-plus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia C12 Plus to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/conversational-cognition-comparison-analyzing-gpt-vs-bingbots-capabilities/"><u>Conversational Cognition Comparison: Analyzing GPT Vs. BingBot's Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/craft-beyond-code-6-paths-to-surpassing-machine-composition/"><u>Craft Beyond Code: 6 Paths to Surpassing Machine Composition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deconstructing-the-free-to-use-narrative-surrounding-the-internet-as-an-educational-resource-platform/"><u>Deconstructing the 'Free-to-Use' Narrative Surrounding the Internet as an Educational Resource Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-advantages-make-the-smart-move-with-chatgpt-plus/"><u>Discover the Ultimate Advantages - Make the Smart Move with ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empowering-education-discover-5-benefits-of-leveraging-chatgpt-as-a-student/"><u>Empowering Education: Discover 5 Benefits of Leveraging ChatGPT as a Student</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-excel-visualizations-adding-personalized-data-labels-easily/"><u>Enhance Your Excel Visualizations: Adding Personalized Data Labels Easily!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-technologies-every-entrepreneur-must-explore/"><u>Essential AI Technologies Every Entrepreneur Must Explore</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-advice-detecting-and-dealing-with-chatgpt-fraudulent-websites/"><u>Expert Advice: Detecting and Dealing with ChatGPT Fraudulent Websites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-features-of-chatgpt-copilot-an-in-depth-guide/"><u>Exploring the Features of ChatGPT Copilot: An In-Depth Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-asus-rog-phone-7-ultimate-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Asus ROG Phone 7 Ultimate Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insta-vibes-music-trends-unveiled/"><u>In 2024, Insta Vibes Music Trends Unveiled</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-iphone-photography-top-app-picks-x-7/"><u>In 2024, Prime iPhone Photography Top App Picks (X, 7)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-approaches-to-cbt-with-conversational-ai-leveraging-chatgpt-for-treatment/"><u>Innovative Approaches to CBT with Conversational AI: Leveraging ChatGPT for Treatment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inside-windows-10-a-snapshot-of-its-transformation/"><u>Inside Windows 10 A Snapshot of Its Transformation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-cpu-cooler-from-noctua-the-nh-l12sx77-delivers-superior-clearance-for-sff-ram-and-efficient-vrm-cooling/"><u>Revolutionary CPU Cooler From Noctua - The NH-L12Sx77 Delivers Superior Clearance for SFF Ram & Efficient VRM Cooling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-directory-free-visual-content-oasis-online/"><u>[Updated] Exclusive Directory Free Visual Content Oasis Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-high-quality-freely-accessible-music-websites-listed-here-for-2024/"><u>[Updated] High-Quality, Freely Accessible Music Websites Listed Here for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-the-balance-visuals-and-sound-in-media-creation/"><u>[Updated] In 2024, Mastering the Balance Visuals and Sound in Media Creation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-financial-race-between-dailymovement-and-youtube-channels-for-2024/"><u>[Updated] The Financial Race Between DailyMovement and YouTube Channels for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claude-3-simplified-uses-and-functionality/"><u>Claude 3 Simplified: Uses & Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-on-device-artificial-intelligence-understanding-its-functionality/"><u>Exploring the World of On-Device Artificial Intelligence: Understanding Its Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/framework-of-flawed-intelligence-policy/"><u>Framework of Flawed Intelligence: Policy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-troubleshooting-and-fixing-the-issue-of-unable-to-load-mov-movies-in-premiere-proelemental-standard/"><u>Guide: Troubleshooting & Fixing the Issue of Unable to Load MOV Movies in Premiere Pro/Elemental Standard</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-11-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 11 Without Previous Owner?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-poetry-writing-with-chatgpts-ai-assistance/"><u>Mastering the Art of Poetry: Writing with ChatGPT's AI Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-phase-in-machine-learning-the-advent-of-gpt-5/"><u>Next Phase in Machine Learning: The Advent of GPT-5?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-yourself-deceptive-chrome-extensions-posing-as-chatgpt-threaten-facebook-security/"><u>Protect Yourself: Deceptive Chrome Extensions Posing as ChatGPT Threaten Facebook Security</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-immersive-sound-experiences-an-introduction-to-dts-virtualx-technology/"><u>Unlocking Immersive Sound Experiences: An Introduction to DTS Virtual:X Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vlc-and-mx-showdown-for-media-loading/"><u>VLC and MX Showdown for Media Loading</u></a></li>
 </ul></div>
 

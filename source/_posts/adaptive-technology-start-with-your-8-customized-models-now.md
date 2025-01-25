@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Technology: Start with Your 8 Customized Models Now"
-date: 2024-08-09T20:27:06.924Z
-updated: 2024-08-10T20:27:06.924Z
+date: 2025-01-18T19:05:40.609Z
+updated: 2025-01-25T18:05:06.592Z
 tags:
   - chatgpt
   - open-ai
@@ -24,18 +24,20 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
 
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -46,9 +48,9 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -58,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -71,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -87,8 +91,6 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +98,26 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-premier-selection-10-premium-image-replace-kits/"><u>[Updated] 2024 Approved Premier Selection 10 Premium Image Replace Kits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-convert-textbooks-into-searchable-pdfs-easily-with-vitalsource/"><u>1. Convert Textbooks Into Searchable PDFs Easily with Vitalsource</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-seamless-integration-of-custom-backgrounds-on-microsoft-teams-calls/"><u>2024 Approved Seamless Integration of Custom Backgrounds on Microsoft Teams Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-obtaining-visual-assets-for-2024/"><u>Comprehensive Guide to Obtaining Visual Assets for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solution-for-correcting-msvcr100dll-not-found-issues/"><u>Comprehensive Solution for Correcting 'MSVCR100.DLL Not Found' Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-scheduling-podcast-drops-with-peak-engagement-times/"><u>In 2024, Scheduling Podcast Drops with Peak Engagement Times</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-moto-g13-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Moto G13 Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-start-guide-top-methods-for-seamless-microphone-performance-checks/"><u>Quick-Start Guide: Top Methods for Seamless Microphone Performance Checks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reliable-guide-successfully-transforming-your-kindle-books-into-epub-format-proven-methods-of-2024/"><u>Reliable Guide: Successfully Transforming Your Kindle Books Into ePub Format - Proven Methods of 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-to-overcoming-error-0xe80n000a-using-five-proven-techniques/"><u>Step-by-Step Guide to Overcoming Error 0xE80n000A Using Five Proven Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transferring-your-kindle-ebooks-to-an-ipad/"><u>Step-by-Step Guide: Transferring Your Kindle eBooks to an iPad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-activating-google-play-services-on-2019-kindle-fire-devices/"><u>Step-by-Step Tutorial for Activating Google Play Services on 2019 Kindle Fire Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steps-to-change-ebooks-in-audible-aa-format-into-a-playable-mp3-version/"><u>Steps to Change Ebooks in Audible .aa Format Into a Playable MP3 Version</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-for-distributing-digital-reads-from-kindle-tips-for-gifting-stories-to-kin-and-companions/"><u>Strategies for Distributing Digital Reads From Kindle: Tips for Gifting Stories to Kin and Companions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-definitive-guide-effortless-drm-free-audio-downloads/"><u>The Definitive Guide: Effortless DRM-Free Audio Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-optimal-ebook-management-software-solutions/"><u>Top 5 Optimal Ebook Management Software Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncover-hidden-secrets-essential-amazon-kindle-paperwhite-shortcuts-and-guides/"><u>Uncover Hidden Secrets: Essential Amazon Kindle Paperwhite Shortcuts & Guides</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/verborgen-oder-verschollen-methoden-zur-wiederauffindung-und-wiederherstellung-von-onedrive-dateien/"><u>Verborgen Oder Verschollen? Methoden Zur Wiederauffindung Und Wiederherstellung Von OneDrive-Dateien</u></a></li>
+<li><a href="https://win-guides.techidaily.com/viral-growth-tactics-for-new-businesses-unveiling-startup-techniques-and-drive-using-massmail-software/"><u>Viral Growth Tactics for New Businesses: Unveiling StartUp Techniques and Drive Using MassMail Software</u></a></li>
+</ul></div>
 

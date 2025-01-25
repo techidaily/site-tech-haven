@@ -1,7 +1,7 @@
 ---
 title: AI Agent Implementation Through Browser with AgentGPT Tutorials
-date: 2024-08-09T20:27:15.627Z
-updated: 2024-08-10T20:27:15.627Z
+date: 2025-01-21T16:41:57.758Z
+updated: 2025-01-25T16:59:20.166Z
 tags:
   - chatgpt
   - open-ai
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
  If you are a privacy-conscious Linux user looking for a little convenience, it's now possible to use ChatGPT from a native desktop app, with no account required. The app's name is Bavarder.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
  Okay, let's back up. Maybe you aren't yet familiar with ChatGPT. It's a chatbot that you can communicate with by typing into a window in your web browser. You can raise questions or make requests, such as[ask ChatGPT what to watch next on Netflix](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) or[have the chatbot help you with your job search](https://www.makeuseof.com/practical-ways-to-use-chatgpt-job-search/) .
@@ -31,13 +32,11 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
  ChatGPT's intelligence comes from the large language model that it learns from. ChatGPT was originally based on OpenAI's GPT 3.5 model, though this is no longer the newest version. GPT stands for "generative pre-trained transformer" and refers to this particular type of large language model.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Bavarder?
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
 
  Bavarder is an app that enables you to "chit-chat" with artificial intelligence. Bavarder is built specifically for GNOME,[the most widely-used interface on Linux PCs](https://www.makeuseof.com/ways-gnome-is-best-linux-desktop/) . But Bavarder works on other desktop environments as well.
@@ -49,13 +48,18 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
  Some of the providers utilize the same learning models as ChatGPT, but that doesn't mean you can expect them to generate the same results as ChatGPT would. But to the average person, BAI Chat probably comes off as close enough to the same thing.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Download Bavarder
 
  Bavarder is available in[a universal package format known as flatpak](https://www.makeuseof.com/flatpak-for-beginners/) that works across most versions of Linux. You can download Bavarder from Flathub.
 
 **Download:** [Bavarder](http://flathub.org/apps/io.github.Bavarder.Bavarder)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Bavarder on Linux
 
@@ -65,42 +69,27 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  You may need to configure sources to change the type or quality of the response. You can do this by clicking on the hamburger menu and selecting**Preferences** . To change the provider currently in use, select**Providers** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Selecting a provider in the Bavarder Linux chatbot app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bavarder-linux-chatbot-providers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The app may seem to load for quite a while before providing a response. If you were to use BAI chat via[chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
 
  Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Use Bavarder on Linux?
 
  There are ethical questions to wrestle with when using ChatGPT and similar chatbots. Do you trust one company collecting that much information? Are you concerned about putting people out of jobs? Do you think people should think creatively for themselves instead of outsourcing that task to machines?
 
  If you land on the side of trusting this kind of software, then Bavarder is one of the easiest and quickest ways to make use of it. Though if you are more of a command-line person, there is a way to use ChatGPT from a terminal as well.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +98,26 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-easy-steps-alter-clownespeak-through-windows-interface-for-2024/"><u>[New] Easy Steps Alter Clown'espeak Through Windows Interface for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-echo-into-words-best-transcription-software-for-no-internet/"><u>2024 Approved Echo Into Words Best Transcription Software for No Internet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-on-the-top-language-model-bard-chatgpt-or-offline-alpaca-a-comprehensive-comparison/"><u>Deciding on the Top Language Model: Bard, ChatGPT or Offline Alpaca - A Comprehensive Comparison</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deep-learning-dos-and-donts-your-mistake-map/"><u>Deep Learning Do's and Don'ts: Your Mistake Map</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diversify-income-through-side-projects-like-chatgpt-and-master-pc-assembly-techniques/"><u>Diversify Income Through Side Projects Like ChatGPT, and Master PC Assembly Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-accessing-your-local-librarys-digital-collection-on-kindle-fire/"><u>Easy Guide: Accessing Your Local Library's Digital Collection on Kindle Fire</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpts-economic-impact-on-8-business-models/"><u>Evaluating ChatGPT's Economic Impact on 8 Business Models</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-redmi-note-12r-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Redmi Note 12R Through Google Earth?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-most-attractive-ringtones-for-your-phone/"><u>In 2024, Most Attractive Ringtones for Your Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-k70e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi K70E? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-s24-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy S24 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-video-url-minification-the-best-tools-for-youtubers-convenience/"><u>In 2024, Video URL Minification The Best Tools for Youtubers' Convenience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/performance-redefined-a-comprehensive-review-of-the-202e-apple-macbook-pro-with-m1-processor/"><u>Performance Redefined: A Comprehensive Review of the 202E Apple MacBook Pro with M1 Processor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/remove-drm-free-guide-on-converting-protected-e-books-to-drm-free-format/"><u>Remove DRM: Free Guide on Converting Protected E-Books to DRM-Free Format</u></a></li>
+<li><a href="https://win11.techidaily.com/resizing-images-made-easy-for-windows-11-users-uncover-the-top-6-methods/"><u>Resizing Images Made Easy for Windows 11 Users – Uncover the Top 6 Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tackling-the-chatgpt-bodystream-error-swiftly-discover-7-fixes-that-work/"><u>Tackling the ChatGPT BodyStream Error Swiftly: Discover 7 Fixes That Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-basics-of-chatgpt-and-how-to-utilize-generative-ai-effectively/"><u>The Basics of ChatGPT and How to Utilize Generative AI Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-hot-corners-in-macos-a-complete-guide-tech-tips-today/"><u>Unlock the Power of Hot Corners in macOS: A Complete Guide | Tech Tips Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/wise-crypto-dialogues-for-gpt-enthusiasts/"><u>Wise Crypto Dialogues for GPT Enthusiasts</u></a></li>
+</ul></div>
 

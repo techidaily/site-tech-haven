@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly | ZDNET"
-date: 2025-01-17T17:37:07.903Z
-updated: 2025-01-19T17:18:29.908Z
+date: 2025-01-18T19:08:30.826Z
+updated: 2025-01-25T16:38:34.418Z
 tags:
   - apple
 categories:
@@ -42,6 +42,10 @@ Serious athletes will likely be drawn to these features since this is the first 
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Better support for pregnancy
 
 WatchOS 11 will help those who are pregnant log their physical and mental health during their pregnancy, as well as display their gestational age and log any symptoms they frequently feel. Your watch will also advise you to review features like high heart rate notifications since, when pregnant, your heart rate tends to increase.
@@ -63,7 +67,7 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -81,22 +85,22 @@ Double tap gesture on Apple Watch Series 9.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Tap to Cash for quick payments
 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
@@ -106,16 +110,12 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
@@ -152,22 +152,24 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-device-companion-for-metaventureers/"><u>[New] The Ultimate Device Companion for Metaventureers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-backgrounds-teammeeting-blurring-guide/"><u>[Updated] Mastering Video Backgrounds TeamMeeting Blurring Guide</u></a></li>
-<li><a href="https://solve-info.techidaily.com/expert-advice-on-debugging-and-repairing-ram-write-failures-a-comprehensive-guide-with-13-methods/"><u>Expert Advice on Debugging and Repairing RAM Write Failures - A Comprehensive Guide with 13 Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-use-the-instagram-question-sticker/"><u>How to Use the Instagram Question Sticker?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/language-logic-loops-le-chat-ai-meets-chatgpt/"><u>Language Logic Loops: Le Chat AI Meets ChatGPT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-samurai-in-yakuza-like-a-dragon-now-flourishing-on-steam/"><u>Master the Art of Samurai in 'Yakuza: Like a Dragon' - Now Flourishing on Steam</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-tabletop-fantasy-infusing-dandd-with-artificial-intelligence/"><u>Mastering Tabletop Fantasy: Infusing D&D with Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-not-misusing-chatgpt-in-your-studies/"><u>Mastering the Art of Not Misusing ChatGPT in Your Studies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-of-steams-vr-gadget-error-message-code-308-tutorial/"><u>Mastering the Fix of Steam's VR Gadget Error Message - Code 308 Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/meta-and-openai-artists-group-takes-stand-for-creative-rights/"><u>Meta & OpenAI: Artists' Group Takes Stand for Creative Rights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-dismisses-sam-altman-from-leadership-implications-for-the-future-of-chatgpt/"><u>OpenAI Dismisses Sam Altman From Leadership: Implications for the Future of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-transitions-gpts-horizon-altered/"><u>OpenAI Transitions, GPT's Horizon Altered</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-to-finding-and-downloading-lenovo-x220-drivers/"><u>Quick Guide to Finding and Downloading Lenovo X220 Drivers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolution-in-rendering-the-convergence-of-blizzard-microsoft-and-deep-learning-podcast-discussion/"><u>Revolution in Rendering: The Convergence of Blizzard, Microsoft & Deep Learning [Podcast Discussion]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/should-freelancers-use-bing-chat-or-chatgpt-8-factors-to-consider/"><u>Should Freelancers Use Bing Chat or ChatGPT? 8 Factors to Consider</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-package-unregistered-photo-problems-in-windows-os/"><u>Solving 'Package Unregistered' Photo Problems in Windows OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/start-a-conversation-learn-how-to-use-chatgpt-for-instant-communication/"><u>Start a Conversation: Learn How To Use ChatGPT for Instant Communication</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nhancing-viewership-maintaining-youtubes-creative-commons-for-2024/"><u>[New] Enhancing Viewership Maintaining YouTube's Creative Commons for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unveiling-the-secrets-to-filmoras-fcc-status/"><u>[New] In 2024, Unveiling the Secrets to Filmora’s FCC Status</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-capturing-life-from-above-yuneec-breeze-experience-for-2024/"><u>[Updated] Capturing Life From Above Yuneec Breeze Experience for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-dissecting-vsdcs-capabilities-in-screen-recording-vs-alternatives-for-2024/"><u>[Updated] Dissecting VSDC's Capabilities in Screen Recording vs Alternatives for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategizing-effective-movie-sneak-peeks/"><u>2024 Approved Strategizing Effective Movie Sneak Peeks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-therapeutic-tool-enhancing-cognitive-behavioral-techniques/"><u>ChatGPT as a Therapeutic Tool: Enhancing Cognitive-Behavioral Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-overview-harnessing-power-of-openais-api/"><u>Comprehensive Overview: Harnessing Power of OpenAI's API</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolution-of-conversational-agents-the-roadmap-for-advanced-generative-ai-beyond-chatgpt/"><u>Evolution of Conversational Agents: The Roadmap for Advanced Generative AI Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-depths-of-custom-features-in-gpt-3-conversations/"><u>Exploring the Depths of Custom Features in GPT-3 Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-truthgpts-unveiling-law-enforcement-action-against-mullvad-vpn-leading-free-pc-games-and-mechanical-keyboards-decoded/"><u>Exploring TruthGPT's Unveiling, Law Enforcement Action Against Mullvad VPN, Leading Free PC Games & Mechanical Keyboards Decoded</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-correcting-realtek-alc887-hd-audio-issues-in-windows-operating-system/"><u>Guide to Correcting Realtek ALC887 HD Audio Issues in Windows Operating System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-razr-40-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola Razr 40?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insight-into-ais-linguistic-giants-understanding-the-unique-characteristics-of-gpt-vs-bert/"><u>Insight Into AI's Linguistic Giants: Understanding The Unique Characteristics of GPT Vs. BERT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-power-of-gpt-4-your-complete-guide-to-embracing-microsofts-latest-innovation-in-ai/"><u>Mastering the Power of GPT-4: Your Complete Guide to Embracing Microsoft's Latest Innovation in AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reimagining-do-it-yourself-with-upcoming-ai/"><u>Reimagining Do-It-Yourself with Upcoming AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synthesizing-the-future-using-chatgpt-in-digital-music-production/"><u>Synthesizing the Future: Using ChatGPT in Digital Music Production</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/k-your-potential-mastering-the-art-of-youtube-edits/"><u>Unlock Your Potential Mastering the Art of YouTube Edits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/bes-secrets-integrating-text-overlays-in-your-clips/"><u>YouTube's Secrets Integrating Text Overlays in Your Clips</u></a></li>
 </ul></div>
 

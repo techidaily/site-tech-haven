@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your HR Workflow with These 5 ChatGPT Techniques
-date: 2024-08-09T20:27:44.443Z
-updated: 2024-08-10T20:27:44.443Z
+date: 2025-01-22T16:34:46.522Z
+updated: 2025-01-25T18:57:02.557Z
 tags:
   - chatgpt
   - open-ai
@@ -20,24 +20,27 @@ thumbnail: https://thmb.techidaily.com/d67db43bd99257f0af99e68e427f312b6fcddd2d0
  You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
 
  To access ChatGPT's voice input feature on your phone, you'll need to download and install the official ChatGPT app for mobile devices. Once you sign in with your OpenAI account, you're all set to take advantage of the Whisper feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
@@ -59,37 +62,33 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Talk to ChatGPT and Save Time
 
  By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,4 +97,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-expanding-your-audience-syncing-igtv-and-facebook/"><u>[New] In 2024, Expanding Your Audience Syncing IGTV & Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>[Updated] In 2024, Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-ipad-air-analysis-why-apples-new-m2-chip-elevates-it-as-the-top-choice-for-consumers-insights-from-zdnet/"><u>Best IPad Air Analysis: Why Apple's New M2 Chip Elevates It as the Top Choice for Consumers - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bypassing-account-requirements-discover-5-ways-to-benefit-from-chatgpt-without-openai-signup/"><u>Bypassing Account Requirements: Discover 5 Ways to Benefit From ChatGPT Without OpenAI Signup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-installation-of-auto-gpt-for-ubuntu-users-a-complete-tutorial/"><u>Easy Installation of Auto-GPT for Ubuntu Users - A Complete Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-skills-a-guide-to-virtual-cocktail-creation/"><u>Exploring ChatGPT's Skills: A Guide to Virtual Cocktail Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-claude-2-a-comprehensive-guide-on-its-capabilities/"><u>Exploring Claude 2: A Comprehensive Guide on Its Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-truthgpts-launch-inside-a-police-search-at-mullvad-vpn-and-top-free-gaming-on-pc-with-mechanical-keyboard-insights/"><u>Exploring TruthGPT's Launch: Inside a Police Search at Mullvad VPN & Top FREE Gaming on PC with Mechanical Keyboard Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-your-forza-horizon-npc-game-from-crashing/"><u>How to Stop Your Forza Horizon N_pc Game From Crashing!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-forefront-ai-a-superior-choice-to-chatgpt-for-intelligent-interaction/"><u>Is Forefront AI a Superior Choice to ChatGPT for Intelligent Interaction?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-get-creative-with-these-10-free-green-screen-apps-for-android-and-ios/"><u>New 2024 Approved Get Creative with These 10 Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-vn-video-editor-app-review-pros-and-cons/"><u>New In 2024, VN Video Editor App Review Pros and Cons</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tiny-tech-with-titanic-features-exploring-every-aspect-of-the-iphone-12-mini-review/"><u>Tiny Tech with Titanic Features: Exploring Every Aspect of the iPhone 12 Mini Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-gptjailbreaking-failures-7-insights/"><u>Unraveling GPTJailbreaking Failures: 7 Insights</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-vn-video-editor-for-pc-a-brief-review/"><u>Updated VN Video Editor For PC - A Brief Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-ai-transfer-learning-and-how-does-it-work/"><u>What Is AI Transfer Learning and How Does It Work?</u></a></li>
+</ul></div>
 

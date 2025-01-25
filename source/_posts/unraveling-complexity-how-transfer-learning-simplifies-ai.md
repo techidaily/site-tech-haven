@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Complexity: How Transfer Learning Simplifies AI"
-date: 2024-08-09T20:38:47.803Z
-updated: 2024-08-10T20:38:47.803Z
+date: 2025-01-22T16:37:52.501Z
+updated: 2025-01-25T18:42:39.199Z
 tags:
   - chatgpt
   - open-ai
@@ -24,18 +24,20 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
 
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -46,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -57,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -70,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -86,8 +91,6 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +98,26 @@ thumbnail: https://thmb.techidaily.com/f37e982ae8f03f96b288d30672862c7b113ea2583
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-overcome-oversaturated-tiktok-drafters-through-savvy-edits/"><u>[New] 2024 Approved Overcome Oversaturated TikTok Drafters Through Savvy Edits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-delving-deeper-into-vlc-players-unseen-functions/"><u>[New] Delving Deeper Into VLC Player's Unseen Functions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-efficient-gaming-footage-with-camcapture/"><u>[New] In 2024, Efficient Gaming Footage with CamCapture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-revised-take-on-s3700-sony-bdp-review/"><u>[New] Revised Take on S3700 Sony BDP Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flash-fiction-directorial-map/"><u>2024 Approved Flash Fiction Directorial Map</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-vs-authors-6-tactics-for-human-centric-composition/"><u>AI Vs. Authors: 6 Tactics for Human-Centric Composition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-powered-stress-solutions-via-chatgpt/"><u>AI-Powered Stress Solutions via ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-credibility-of-ai-conversations-with-chatgpt/"><u>Assessing the Credibility of AI Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/basic-gpt-vs-advanced-web-integrated-gpt-options/"><u>Basic GPT Vs. Advanced Web-Integrated GPT Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-these-9-counterfeit-chatgpt-tools-that-may-endanger-your-information-security/"><u>Beware of These 9 Counterfeit ChatGPT Tools That May Endanger Your Information Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-advance-explored-in-metasig-space/"><u>ChatGPT Advance Explored in Metasig Space</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-hype-vs-reality-top-5-misconceptions-about-replacing-human-writers/"><u>ChatGPT Hype vs Reality: Top 5 Misconceptions About Replacing Human Writers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-in-action-discover-7-innovative-ways-its-transforming-industries/"><u>ChatGPT in Action: Discover 7 Innovative Ways It's Transforming Industries</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-apples-ai-reveal-at-worldwide-developers-conference-wwdc-24/"><u>Comprehensive Guide to Apple's AI Reveal at Worldwide Developers Conference (WWDC) 24</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/helldivers-2-pc-malfunctioning-here-are-reliable-solutions/"><u>Helldivers 2 PC Malfunctioning? Here Are Reliable Solutions!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-lenovo-thinkphone-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Lenovo ThinkPhone Phone Screen?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-full-rotation-shoots-9-must-follow-rules-for-2024/"><u>Mastering Full-Rotation Shoots 9 Must-Follow Rules for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stream-problems-solved-in-windows-10-update/"><u>Stream Problems Solved in Windows 10 Update</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-instagram-way-of-showcasing-youtube-videos-for-2024/"><u>The Instagram Way of Showcasing YouTube Videos for 2024</u></a></li>
+</ul></div>
 

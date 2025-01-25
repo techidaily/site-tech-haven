@@ -1,7 +1,7 @@
 ---
 title: Ace Your Wellness Goals with These 8 Revolutionary ChatGPT Extensions
-date: 2024-08-09T20:26:42.461Z
-updated: 2024-08-10T20:26:42.461Z
+date: 2025-01-23T17:39:52.275Z
+updated: 2025-01-25T17:04:23.412Z
 tags:
   - chatgpt
   - open-ai
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
 ## Master the Art of Hiding Your ChatConversations with GPT: No Deletions Involved
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
@@ -31,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  Some of your conversations with ChatGPT may be more private than others. Fortunately, OpenAI makes it easy to archive your chats and hide conversations from plain sight. Whether you use ChatGPT on the web or your smartphone, it's simple to hide those AI chats.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Hide ChatGPT Chats on the Web
 
  ChatGPT has an archiving feature that lets you remove any chat from the sidebar with just a couple of clicks. You can use it to hide chat sessions from the main screen once you load up ChatGPT on the web. Follow the instructions below:
@@ -39,23 +40,18 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 2. Select the chat you want to hide from the sidebar and click the**ellipsis (...)** button next to it.
 3. Now, choose**Archive chat** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
 
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
@@ -76,25 +72,24 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 3. Long-press on the chat you want to hide and choose**Archive** from the context menu.
 4. When prompted to confirm, tap**Archive** again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to View Your Hidden Chats in the ChatGPT App
 
  Like the web version of ChatGPT, you need to head to ChatGPT's settings menu to access your archived chats. Here's what you need to do:
@@ -110,6 +105,10 @@ Close
 
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  As you can see, archiving your conversations is much more convenient than[deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) if all you want to do is quickly hide specific chats.
@@ -118,14 +117,11 @@ Close
 
  While archiving is a great way to organize your secret conversations with ChatGPT, it's not a perfect solution like[using ChatGPT Folders to sort all your chats](https://www.makeuseof.com/how-to-use-chatgpt-folders-to-manage-chatgpt-conversations/) . It'd be nice if OpenAI let users lock archived chats behind a password for extra protection in a future update.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +130,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-outsmarting-tiktoks-unseen-ban-a-recovery-plan/"><u>[New] Outsmarting TikTok's Unseen Ban A Recovery Plan</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-boosting-remote-meeting-effectiveness-through-optimized-zoom-recordings/"><u>[Updated] In 2024, Boosting Remote Meeting Effectiveness Through Optimized Zoom Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-analysis-for-youtube-promotion/"><u>Budget Analysis for YouTube Promotion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claudes-edge-detailing-why-it-outperforms-gpt-with-4-essentials/"><u>Claude's Edge Detailing: Why It Outperforms GPT with 4 Essentials</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-the-chase-strategies-top-20-youtube-tips-for-growth-for-2024/"><u>Cut-to-the-Chase Strategies Top 20 YouTube Tips for Growth for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-prime-chatgpt-dialogue-initiators-on-github/"><u>Discover the Ultimate List of Prime ChatGPT Dialogue Initiators on GitHub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-concept-to-reality-how-chatgpt-is-revolutionizing-various-fields-in-7-striking-ways/"><u>From Concept to Reality: How ChatGPT Is Revolutionizing Various Fields in 7 Striking Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gif-to-tiff-konvertierung-online-kostenlos-movavi/"><u>GIF-to-TIFF Konvertierung Online Kostenlos - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/has-ai-revolutionized-how-students-write-essays-with-tools-like-chatgpt/"><u>Has AI Revolutionized How Students Write Essays with Tools Like ChatGPT?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-80-pro-straight-screen-edition-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor 80 Pro Straight Screen Edition Face Lock?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-bot-comparison-standardized-creative-challenge/"><u>Innovative Bot Comparison: Standardized Creative Challenge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-assistants-meet-timekeeping-6-reasons-chatgpt-will-change-the-way-you-use-your-smartwatch/"><u>Intelligent Assistants Meet Timekeeping: 6 Reasons ChatGPT Will Change the Way You Use Your Smartwatch</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/iphone-night-photography-step-by-step/"><u>IPhone Night Photography Step by Step</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-prompt-engineering-legitimate-employment-uncovering-nine-important-factors/"><u>Is Prompt Engineering Legitimate Employment? Uncovering Nine Important Factors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-mundane-hr-tasks-via-ai-guidance/"><u>Optimizing Mundane HR Tasks via AI Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-eightfold-path-to-enhanced-content-with-artificial-intelligence-chatbots/"><u>The Eightfold Path to Enhanced Content with Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transformar-video-h2-65hevc-en-h2-64-gratis-y-sin-comprometer-la-calidad/"><u>Transformar Vídeo H.2 65/HEVC en H.2 64 Gratis Y Sin Comprometer La Calidad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
+</ul></div>
 

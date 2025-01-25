@@ -1,7 +1,7 @@
 ---
 title: "Snag the Latest Gadgets: Expert Tips on Securing Your iPhone 15 & Apple Watch Series 9 Ultra - Save Big with Our Preorder Guide | ZDNet"
-date: 2025-01-10T17:41:51.964Z
-updated: 2025-01-13T16:35:14.956Z
+date: 2025-01-24T16:43:57.540Z
+updated: 2025-01-25T17:44:50.252Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's where you can preorder the latest Apple products, as well as where to fin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 15 and iPhone 15 Plus
@@ -45,7 +45,7 @@ Apple's entry-level iPhone models received new upgrades like a Dynamic Island di
 [PREORDER NOW Apple Store The iPhone 15 and iPhone 15 Plus are available for preorder now, starting at $799 and $899, respectively. On the Apple Store, you can also get up to $800 off on a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 and iPhone 15 Plus starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-128gb-blue-verizon%2F6418073.p%3FskuId%3D6418073&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW AT&T At AT&T, both new and existing customers can get the new iPhone 15 through the carrier, as long as they have an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 15 Pro and iPhone 15 Pro Max
@@ -59,7 +59,7 @@ Meanwhile, Apple's more premium iPhone models have a new Titanium design that's 
 [PREORDER NOW Apple Store The iPhone 15 Pro and iPhone 15 Pro Max are available to preorder on Friday, September 15, starting at $999 and $1,199, respectively. On the Apple Store, you can also get up to $1,000 off on a new iPhone 15 Pro or iPhone 15 Pro Max when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 Pro and iPhone 15 Pro Max starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-pro-max-256gb-black-titanium-at-t%2F6525421.p%3FskuId%3D6525421&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW T-Mobile New and existing T-Mobile customers can get the iPhone 15 Pro for free (via 24 monthly bill credits when you trade in an eligible device on a Go5G Plus or Go5G Next plan). View at T-mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Ft-mobile.com)[PREORDER NOW AT&T New and existing customers at AT&T can get the iPhone 15 Pro for $1,000 off when they bring in an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch Series 9
@@ -72,6 +72,10 @@ The new [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-
 
 [PREORDER NOW Apple Store The Apple Watch Series 9 is available to preorder now and will be available officially on Friday, September 22\. Pricing starts at $399. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Series 9 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-pink-aluminum-case-with-light-pink-sport-band-s-m-pink%2F6340289.p%3FskuId%3D6340289&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Series 9 for less than $6 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smart-watches/apple-watch-series-9-announcement/)[PREORDER NOW AT&T AT&T is offering a sort of "Buy one, get one free" deal for all Apple Watches. When you buy an Apple Watch Series 9, you can get the second one for $300 off. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/wearables/browse/apple/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Watch Ultra 2
 
 Jason Hiner/ZDNET
@@ -83,14 +87,10 @@ Apple announced the [Apple Watch Ultra](https://www.zdnet.com/article/apple-watc
 [PREORDER NOW Apple Store The Apple Watch Ultra 2 is available to preorder now, and will be officially available on Friday, September 22\. It starts at $799. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Ultra 2 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-m-l-titanium%2F6560077.p%3FskuId%3D6560077&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Ultra 2 for $14 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.tkqlhce.com/click-9041660-15498661-1682437093000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PREORDER NOW
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AT&T
 
@@ -138,18 +138,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-zooming-elevate-your-tiktok-videos/"><u>2024 Approved The Art of Zooming Elevate Your TikTok Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-compelling-iphone-shadow-images-for-2024/"><u>Crafting Compelling iPhone Shadow Images for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-halo-infinite-performance-solve-freezing-glitches-on-windows-with-7-proven-tweaks-and-adjustments/"><u>Mastering Halo Infinite Performance: Solve Freezing Glitches on Windows with 7 Proven Tweaks and Adjustments</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-tecno-pova-6-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Tecno Pova 6 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-13-pro-max-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 13 Pro Max Prevention & Solution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sleuthing-scams-real-vs-phony-gpts/"><u>Sleuthing Scams: Real vs Phony GPTs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-easy-window-battery-driver-updates-for-better-performance/"><u>Step-by-Step Tutorial on Easy Window Battery Driver Updates for Better Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-is-here-discover-8-benefits-of-integrating-ai-into-education/"><u>The Future Is Here: Discover 8 Benefits of Integrating AI Into Education</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-browsing-unveiling-the-influence-of-ai-in-search-engine-optimization/"><u>The Future of Browsing: Unveiling the Influence of AI in Search Engine Optimization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-insight-on-gptbot-and-its-prohibition-by-online-sites/"><u>The Insight on GPTBot and Its Prohibition by Online Sites</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-choosing-your-ai-gemini-advanced-versus-chatgpt-plus/"><u>The Ultimate Guide to Choosing Your AI: Gemini Advanced Versus ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-identifying-9-notorious-impostor-chatgpt-malware-apps-at-risk-of-stealing-your-data/"><u>The Ultimate Guide: Identifying 9 Notorious Impostor ChatGPT Malware Apps at Risk of Stealing Your Data</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-9-complimentary-christmas-films-on-youtube-for-2024/"><u>Top 9 Complimentary Christmas Films on YouTube for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-art-of-virality-on-tiktok-techniques-for-more-interactions/"><u>[Updated] 2024 Approved The Art of Virality on TikTok Techniques for More Interactions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/adventurers-zenith-a-celebration-of-the-best-games-ever-made-for-2024/"><u>Adventurers' Zenith A Celebration of the Best Games Ever Made for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparison-chart-gpt-4-and-gpt-35-divergences/"><u>Comparison Chart: GPT-4 & GPT-3.5 Divergences</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/covertly-engage-with-fb-live-feeds-for-2024/"><u>Covertly Engage with FB Live Feeds for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-social-skills-by-leveraging-chatgpt-for-emotional-growth/"><u>Enhance Your Social Skills by Leveraging ChatGPT for Emotional Growth</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-asus-motherboards-onboard-audio-driver-complimentary/"><u>Get Your Asus Motherboard's Onboard Audio Driver Complimentary!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-ai-to-foster-your-personal-health-journey/"><u>Harnessing AI to Foster Your Personal Health Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/idea-illustration-advanced-note-taking-with-obsidian/"><u>Idea Illustration: Advanced Note-Taking with Obsidian</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-gpt-a-new-frontier-for-cyberattacks-on-banks-and-pcs/"><u>Is GPT a New Frontier for Cyberattacks on Banks & PCs?</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-5-ideal-mobile-plans-for-seniors-in-2n34/"><u>Top 5 Ideal Mobile Plans for Seniors in 2N34</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-college-laptop-alternatives-beyond-apple-and-lenovo-now-at-a-shockingly-affordable-price-exclusive-review/"><u>Top-Performing College Laptop Alternatives Beyond Apple and Lenovo, Now at a Shockingly Affordable Price - Exclusive Review</u></a></li>
 </ul></div>
 

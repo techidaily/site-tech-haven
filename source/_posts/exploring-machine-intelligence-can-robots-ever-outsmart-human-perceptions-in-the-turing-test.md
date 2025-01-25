@@ -1,7 +1,7 @@
 ---
 title: "Exploring Machine Intelligence: Can Robots Ever Outsmart Human Perceptions in the Turing Test?"
-date: 2024-08-09T20:36:32.091Z
-updated: 2024-08-10T20:36:32.091Z
+date: 2025-01-22T16:48:01.585Z
+updated: 2025-01-25T16:06:53.795Z
 tags:
   - chatgpt
   - open-ai
@@ -20,18 +20,20 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
 
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -42,9 +44,9 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -54,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -67,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -77,14 +81,11 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,4 +94,22 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-professional-tips-for-perfecting-your-srt-files-for-2024/"><u>[New] Professional Tips for Perfecting Your SRT Files for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-silent-symphony-softening-computer-sounds-system-wide/"><u>[New] Silent Symphony Softening Computer Sounds System-Wide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-groundbreayer-vr-gloves-reviewed/"><u>[Updated] Ultimate List Groundbreayer VR Gloves Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-down-browser-issues-eliminate-video-blackouts-in-facebook-chats/"><u>2024 Approved Breaking Down Browser Issues Eliminate Video Blackouts in Facebook Chats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/9-ways-to-facebook-video-black-screen-issues-on-chromesafarifir-for-2024/"><u>9 Ways to Facebook Video Black Screen Issues on Chrome/Safari/Fir for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-academic-achievement-how-students-can-benefit-from-chatgpt-5-key-methods/"><u>Boost Academic Achievement: How Students Can Benefit From ChatGPT (5 Key Methods)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-insights-elevating-soundscapes-in-daws/"><u>ChatGPT Insights: Elevating Soundscapes in DAWs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-claude-2-its-role-and-capabilities/"><u>Dissecting Claude 2: Its Role & Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-for-embarking-on-a-career-in-prompt-design/"><u>Essential Tips for Embarking on a Career in Prompt Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-openais-gpt-nation-gratis-with-these-five-strategies/"><u>Explore OpenAI's GPT-Nation Gratis with These Five Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-unique-characteristics-of-public-private-and-personal-ai-systems/"><u>Exploring the Unique Characteristics of Public, Private & Personal AI Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-audio-experience-expert-tips-for-repairing-a-corroded-mic/"><u>Revive Your Audio Experience: Expert Tips for Repairing a Corroded Mic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-video-content-to-youtubes-niche-needs-for-2024/"><u>Tailoring Video Content to Youtube's Niche Needs for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-11-easy-to-use-kids-videography-gear-for-splashy-scenes/"><u>Top 11 Easy-to-Use Kids' Videography Gear For Splashy Scenes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
+</ul></div>
 

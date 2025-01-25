@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2025-01-12T19:04:05.317Z
-updated: 2025-01-19T19:30:22.545Z
+date: 2025-01-22T18:44:08.593Z
+updated: 2025-01-25T17:54:12.010Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you've ever wondered how we evaluate the [latest smartphones](https://www.zdn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test phones in 2024
 
 Kerry Wan/ZDNET
@@ -43,7 +39,7 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What makes a phone ZDNET recommended?
@@ -51,6 +47,10 @@ While ZDNET primarily covers smartphone releases in the US market, we also evalu
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
 
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design and ergonomics
 
@@ -61,10 +61,6 @@ How a phone looks and feels can greatly influence the overall experience. There'
 But also, how does the phone feel when it's tucked in your tight jeans or lightweight shorts? When testing and recommending phones, we consider design and ergonomics heavily, understanding that not everyone wants the biggest and most premium-feeling option out there. For example, a device with a plastic casing will serve you better than an all-glass build if you're a construction worker or someone who's often outdoors.
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance
 
@@ -77,7 +73,7 @@ Performance testing also includes putting phones through varying levels of graph
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Cameras
@@ -90,6 +86,10 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery life and charging
 
 Kerry Wan/ZDNET
@@ -99,7 +99,7 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Special features
@@ -148,22 +148,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-precision-in-capturing-an-expert-obs-skype-guide-for-2024/"><u>[New] Precision in Capturing An Expert OBS Skype Guide for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-simplifying-windows-11-sound-logging-for-2024/"><u>[New] Simplifying Windows 11 Sound Logging for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-symphonic-selection-ideal-websites-for-ringtones-for-2024/"><u>[New] Symphonic Selection Ideal Websites for Ringtones for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-mastering-windows-movie-maker-in-w11-for-beginners/"><u>2024 Approved Guide to Mastering Windows Movie Maker in W11 for Beginners</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-tier-camera-setups-reviewed-for-new-windows-11-users/"><u>2024 Approved Top-Tier Camera Setups Reviewed for New Windows 11 Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-your-logitech-brio-webcam-driver-for-windows-7-8-or-10-free-download-guide/"><u>How to Update Your Logitech Brio Webcam Driver for Windows 7, 8 or 10 - Free Download Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/professional-laravel-framework-integration-with-vue-material-ui-for-dashboards-and-apis-mastering-full-stack-projects-guided-by-creative-tim/"><u>Professional Laravel Framework Integration with Vue Material UI for Dashboards & APIs: Mastering Full Stack Projects Guided by Creative Tim</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-unveiled-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants Unveiled: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-rise-of-intelligent-entertainment-through-ai-innovation/"><u>The Rise of Intelligent Entertainment Through AI Innovation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-triad-of-ai-usage-public-private-and-intimate-realms/"><u>The Triad of AI Usage: Public, Private, and Intimate Realms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-poco-x6-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Poco X6 Pro to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-creative-prompts-for-generating-images-with-dall-e-3/"><u>Top 8 Creative Prompts for Generating Images with DALL-E 3</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-the-web-landscape-the-impact-of-artificial-intelligence-on-website-navigation/"><u>Transforming the Web Landscape: The Impact of Artificial Intelligence on Website Navigation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ubuntu-and-chatgpt-how-to-start-conversations-via-terminal-using-shellgpt/"><u>Ubuntu and ChatGPT: How to Start Conversations via Terminal Using ShellGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-6-advanced-language-model-add-ons-to-transform-your-visual-studio-workflow/"><u>Unveiling 6 Advanced Language Model Add-Ons to Transform Your Visual Studio Workflow</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-7-superior-options-to-replace-chatgpt-app-in-your-smartphone-experience/"><u>Unveiling 7 Superior Options to Replace ChatGPT App in Your Smartphone Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-hidden-realms-of-cyberspace-understanding-the-dead-internet-concept/"><u>Unveiling the Hidden Realms of Cyberspace: Understanding the 'Dead Internet' Concept</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-android-techniques-old-to-new-video-format/"><u>[Updated] 2024 Approved Android Techniques Old to New Video Format</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/activate-or-deactivate-secure-user-authentication-on-your-windows-10-system/"><u>Activate or Deactivate Secure User Authentication on Your Windows 10 System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/amplify-video-aesthetics-filters-for-every-screen-for-2024/"><u>Amplify Video Aesthetics Filters for Every Screen for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-command-line-efficiency-with-these-powerful-linux-utilities/"><u>Boost Your Command-Line Efficiency with These Powerful Linux Utilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-upcoming-smartphones-a-glimpse-at-the-latest-offers-from-google-and-samsung-this-week/"><u>Exploring Upcoming Smartphones: A Glimpse at the Latest Offers From Google and Samsung This Week</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-and-resolve-d3dx9n41dll-errors-on-your-computer/"><u>How to Recover and Resolve 'd3dx9_n41.dll' Errors on Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-e13-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Moto E13 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-lava-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Lava? Try These Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-acers-initial-lineup-of-laptops-powered-by-intels-cutting-edge-meteor-lake-processors/"><u>Introducing Acer's Initial Lineup of Laptops Powered by Intel's Cutting-Edge Meteor Lake Processors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsoft-announces-revolutionary-ai-driven-search-upgrade-pc-user-recall/"><u>Microsoft Announces Revolutionary AI-Driven Search Upgrade: PC User Recall</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-digital-dead-ends-how-to-solve-a-404-page-miss/"><u>Navigating Through Digital Dead Ends: How to Solve a 404 Page Miss</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/no-internet-connection-despite-wi-fi-signal-top-10-solutions-for-windows-11-users/"><u>No Internet Connection Despite Wi-Fi Signal: Top 10 Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revitalize-your-pc-with-these-simple-steps-for-a-comprehensive-hardware-and-software-reboot-in-windows-10/"><u>Revitalize Your PC with These Simple Steps for a Comprehensive Hardware and Software Reboot in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-implementing-child-safety-features-on-windows-11/"><u>Step-by-Step Tutorial: Implementing Child Safety Features on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/synchronizing-success-brand-partnerships-on-youtube-channel/"><u>Synchronizing Success Brand Partnerships on YouTube Channel</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-v27-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo V27 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-and-correcting-javascript-issues-in-your-discord-bot-code/"><u>Troubleshooting and Correcting JavaScript Issues in Your Discord Bot Code</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A2 | Dr.fone</u></a></li>
 </ul></div>
 

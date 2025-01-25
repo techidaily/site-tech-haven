@@ -1,7 +1,7 @@
 ---
 title: "Challenging Tech Giant Apple: How My iPhone Refresh Experience Unfolded with Insights"
-date: 2025-01-18T18:55:09.052Z
-updated: 2025-01-19T17:24:46.205Z
+date: 2025-01-22T17:33:25.057Z
+updated: 2025-01-25T17:15:26.588Z
 tags:
   - apple
 categories:
@@ -26,9 +26,17 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -46,10 +54,6 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -66,10 +70,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -77,7 +77,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -96,6 +96,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -104,10 +108,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,24 +154,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-two-fold-approach-to-capturing-google-hangoutsmeet/"><u>[New] 2024 Approved The Two-Fold Approach to Capturing Google Hangouts/Meet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-delving-into-the-drawbacks-of-vr-experiences-for-2024/"><u>[New] Delving Into the Drawbacks of VR Experiences for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-exploring-advanced-screen-recording-software/"><u>[New] Exploring Advanced Screen Recording Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-the-art-of-monitoring-loved-comments-on-youtube/"><u>[New] In 2024, Mastering the Art of Monitoring Loved Comments on YouTube</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-find-and-open-command-prompt-for-all-windows-os-users/"><u>How to Easily Find and Open Command Prompt for All Windows OS Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-c110-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on C110</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-10-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark 10 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-the-hidden-process-of-downloading-fb-content/"><u>In 2024, Unveiling the Hidden Process of Downloading Fb Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iron-man-iii-showdown-who-reigns-supreme-against-the-man-of-steel/"><u>Iron Man III Showdown: Who Reigns Supreme Against The Man Of Steel?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-these-9-deceptive-chatgpt-clone-virus-and-malware-apps-endangering-your-data-security/"><u>Protect Yourself From These 9 Deceptive ChatGPT Clone Virus and Malware Apps Endangering Your Data Security</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pushing-language-frontiers-exploring-gpt-and-bert-variances/"><u>Pushing Language Frontiers: Exploring GPT & BERT Variances</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/readying-for-revolutionary-tools-in-diy-crafts/"><u>Readying for Revolutionary Tools in DIY Crafts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-web-experience-with-proton-vpn-extension/"><u>Securing Web Experience with Proton VPN Extension</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/smart-resume-writing-leverage-ai-inspire-employers/"><u>Smart Résumé Writing: Leverage AI, Inspire Employers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-learning-and-creativity-a-comprehensive-guide-to-leveraging-chatgpts-my-gpt-bots-for-game-strategy-and-artistic-output/"><u>Transform Learning & Creativity: A Comprehensive Guide to Leveraging ChatGPT's My GPT Bots for Game Strategy and Artistic Output</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-list-6-must-have-intelligent-conversational-tools-for-vs-code-users/"><u>Ultimate List: 6 Must-Have Intelligent Conversational Tools for VS Code Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-illusions-detecting-false-outputs/"><u>Understanding Artificial Intelligence Illusions: Detecting False Outputs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-fraudgpt-the-risks-and-prevention-strategies/"><u>Understanding FraudGPT: The Risks and Prevention Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-strategies-for-eye-popping-fb-ad-videos/"><u>[New] 2024 Approved Strategies for Eye-Popping FB Ad Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/8-compelling-reasons-for-a-free-vs-paid-linkedin-comparison/"><u>8 Compelling Reasons for a Free Vs. Paid LinkedIn Comparison</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/alle-gmail-e-mails-sichern-top-2-wege-while-also-optimizing-for-seo-through-relevant-keywords-and-phrases-such-as-methods-securing-your-gmail-emails-compreh49/"><u>Alle Gmail E-Mails Sichern (Top 2 Wege) While Also Optimizing for SEO Through Relevant Keywords and Phrases Such as Methods, Securing Your Gmail Emails, Comprehensive Guide, and Ultimate Strategy.</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728488773975-aomei/"><u>AOMEI バックアップサービスに最適なパートナーシップ提案 - 豊富な専門知識と技術力で共に成長</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-insight-into-chatgpt-and-its-multifaceted-uses-with-advanced-generative-ai-techniques/"><u>Comprehensive Insight Into ChatGPT and Its Multifaceted Uses with Advanced Generative AI Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-googles-artificer-agents-inside-the-work-of-project-gemini/"><u>Exploring Google's Artificer Agents: Inside the Work of Project Gemini</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nokia-xr21-lock-screen-password-by-drfone-android/"><u>How to Reset your Nokia XR21 Lock Screen Password</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-ai-to-excel-in-languages-how-can-chatgpt-plus-facilitate-your-progress/"><u>Leverage AI to Excel in Languages: How Can ChatGPT Plus Facilitate Your Progress?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-chatgpt-to-enhance-your-linkedin-profile-for-job-success-essential-techniques-you-need-to-know/"><u>Leverage ChatGPT to Enhance Your LinkedIn Profile for Job Success: Essential Techniques You Need to Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-building-and-maintaining-daily-mindfulness-practices/"><u>Leveraging ChatGPT for Building and Maintaining Daily Mindfulness Practices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimal-pick-the-top-ten-phone-and-pc-video-calls-for-2024/"><u>Optimal Pick The Top Ten Phone & PC Video Calls for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proposing-six-economical-substitutes-for-openais-sora/"><u>Proposing Six Economical Substitutes for OpenAI's Sora</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-clear-choice-for-cost-free-screen-capture-technology/"><u>The Clear Choice for Cost-Free Screen Capture Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-13t-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi 13T</u></a></li>
 </ul></div>
 

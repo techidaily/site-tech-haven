@@ -1,7 +1,7 @@
 ---
 title: Why Choose Microsoft Copilot? 4 Compelling Reasons Against ChatGPT
-date: 2024-08-09T20:36:07.415Z
-updated: 2024-08-10T20:36:07.415Z
+date: 2025-01-23T17:02:05.295Z
+updated: 2025-01-25T18:47:35.830Z
 tags:
   - chatgpt
   - open-ai
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 * [Larger Context Window](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#larger-context-window)
 * [More Messages Per Hour](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#more-messages-per-hour)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Claude excels at creative writing, producing engaging and natural-sounding content with less clichés.
@@ -34,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1 Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use[AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/) , cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest[Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , outperforms ChatGPT in a wide range of creative writing tasks.
@@ -47,20 +45,28 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
  Putting our theory to the test, it was just as predicted. ChatGPT (GPT-3.5 and GPT-4) used cliché intros in five out of five trials. Here are the first three samples:
 
 1. Sample 1  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
@@ -73,15 +79,16 @@ Here's ChatGPT's take:
 
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2 Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
@@ -98,9 +105,6 @@ And here's Claude's take:
 
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 More Messages Per Hour
 
  Rate limits can be a pain. You're in the middle of an interesting prompting session, you get an alert that you've reached your limit and have to wait (sometimes hours!) to get a reset. It's a huge joy killer and can set your work back hours. However, this happens both on ChatGPT and Claude, so it's an even ground on that point.
@@ -115,14 +119,11 @@ And here's Claude's take:
 
  While early adopters may have a sentimental attachment to ChatGPT, it's becoming increasingly clear that Claude is a force to be reckoned with. As the AI landscape continues to evolve, it will be fascinating to see how these titans of conversational AI push each other to new heights, ultimately benefiting users with ever-improving and more capable chatbots. The future of AI-powered interactions has never been more exciting.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +132,21 @@ And here's Claude's take:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid-for-2024/"><u>[New] How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android] for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-transform-your-snapshots-into-shares-heres-how/"><u>[New] Transform Your Snapshots Into Shares – Here's How</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speedy-audio-on-phone-ultimate-list-of-tools/"><u>[Updated] Speedy Audio on Phone Ultimate List of Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-zoom-edge-advantage-essential-insights-for-format-alteration/"><u>[Updated] Zoom Edge Advantage Essential Insights for Format Alteration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-on-device-artificial-intelligence-mechanisms-and-functionality/"><u>Exploring the World of On-Device Artificial Intelligence: Mechanisms & Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/i-gave-the-same-creative-prompt-to-3-different-chatbots-which-one-did-it-best/"><u>I Gave the Same Creative Prompt to 3 Different Chatbots: Which One Did It Best?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-action-camera-faceoff-gopro-hero-vs-sony-dslr-for-adventure-seekers/"><u>In 2024, Action Camera Faceoff GoPro Hero Vs. Sony DSLR for Adventure Seekers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-instagrams-podcast-post-and-story-distribution/"><u>In 2024, Mastering Instagram's Podcast Post & Story Distribution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-persuasion-writing-compelling-proposals-with-chatgpt/"><u>Mastering the Art of Persuasion: Writing Compelling Proposals with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securely-transporting-your-chatgpt-interactions/"><u>Securely Transporting Your ChatGPT Interactions</u></a></li>
+<li><a href="https://games-able.techidaily.com/spine-support-ergonomic-gaming-chair-hacks/"><u>Spine Support: Ergonomic Gaming Chair Hacks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/supplementing-income-with-ai-assistant-jobs-and-home-built-pc-tips-for-enthusiasts/"><u>Supplementing Income with AI Assistant Jobs & Home-Built PC Tips for Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-of-prompts-overcoming-tech-disruptions-with-chatgpt/"><u>Ultimate List of Prompts: Overcoming Tech Disruptions with ChatGPT</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-chromebook-video-editing-setup-windows-mac-and-more/"><u>Updated The Ultimate Chromebook Video Editing Setup Windows, Mac, and More</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet"
-date: 2025-01-12T17:09:39.573Z
-updated: 2025-01-19T17:14:08.603Z
+date: 2025-01-24T16:04:14.102Z
+updated: 2025-01-25T18:18:15.503Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,21 +146,19 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigating-zoom-to-elevate-your-facebook-lives/"><u>[New] Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-top-10-innovative-tweets-de-followers-and-cleanup-apps-for-2024/"><u>[New] Top 10 Innovative Tweets De-Followers & Cleanup Apps for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-your-content-instagram-reel-best-practices/"><u>[Updated] Perfect Your Content Instagram Reel Best Practices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-13-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 13 Pro Max Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-behind-the-scenes-of-making-memes-funny/"><u>In 2024, Behind-the-Scenes of Making Memes Funny</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-xs-max-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone XS Max in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/redefining-scholarship-with-ai-are-we-witnessing-the-end-of-traditional-student-essays-thanks-to-chatgpt/"><u>Redefining Scholarship with AI: Are We Witnessing the End of Traditional Student Essays Thanks to ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/registering-for-chatgpts-latest-add-on-options-a-step-by-step-guide/"><u>Registering for ChatGPT's Latest Add-On Options - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/resolving-chatgpt-full-capacity-error-in-windows-os/"><u>Resolving ChatGPT Full Capacity Error in Windows OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/restoring-lost-talks-with-chatgpt/"><u>Restoring Lost Talks with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sarah-silverman-joins-legal-battle-againnst-ai-leaders-openai-and-meta-faces-lawsuit/"><u>Sarah Silverman Joins Legal Battle Againnst AI Leaders - OpenAI & Meta Faces Lawsuit</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-standard-file-eraser-the-ultimate-choice-for-regular-cleanup-on-your-mac-device/"><u>Stellar Standard File Eraser: The Ultimate Choice for Regular Cleanup on Your Mac Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailored-export-solutions-the-top-tools-for-ai-conversation-histories/"><u>Tailored Export Solutions – The Top Tools for AI Conversation Histories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-how-to-leverage-green-skills-for-sustainable-employment-on-linkedin-insights-by-zdnet/"><u>The 'Great Reshuffle': How to Leverage Green Skills for Sustainable Employment on LinkedIn | Insights by ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-of-vector-databases-in-optimizing-ai-data-management-and-analysis/"><u>The Role of Vector Databases in Optimizing AI Data Management and Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovate-your-live-broadcast-on-mac-with-1-5-software/"><u>[Updated] Innovate Your Live Broadcast on Mac with #1-5 Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/craft-your-tale-9-aids-from-chatgpt-for-novelists/"><u>Craft Your Tale: 9 Aids From ChatGPT for Novelists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-interactive-communication-shape-chatgpts-learning-process/"><u>Does Interactive Communication Shape ChatGPT's Learning Process?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-artificial-imagination-pros-and-cons-of-using-chatgpt-for-writing/"><u>Exploring Artificial Imagination - Pros and Cons of Using ChatGPT for Writing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ators-designing-online-marvel-experiences/"><u>Innovators Designing Online Marvel Experiences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-lenovo-ideapad-100-drivers-made-easy-your-ultimate-guide-for-windows-10/"><u>Installing Lenovo IdeaPad 100 Drivers Made Easy – Your Ultimate Guide for Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/logic-pros-way-to-softly-diminish-loud-passages/"><u>Logic Pro's Way to Softly Diminish Loud Passages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-daily-tasks-with-gpt-3-guidance/"><u>Optimizing Daily Tasks with GPT-3 Guidance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oming-obstacles-with-youtube-short-strategies/"><u>Overcoming Obstacles with YouTube Short Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-problems-when-uploading-instagram-stories-fails-to-work-properly/"><u>Overcoming Problems When Uploading Instagram Stories Fails to Work Properly</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-infinix-hot-40i-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Infinix Hot 40i on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-polyglot-journey-using-chatgpt-plus-techniques/"><u>Revolutionize Your Polyglot Journey Using ChatGPT Plus Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/soundless-battles-restore-audio-glory-in-world-of-warcraft-asap/"><u>Soundless Battles? Restore Audio Glory in World of Warcraft ASAP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-elon-musks-new-innovation-introducing-grok-ai-features-and-pricing/"><u>Understanding Elon Musk's New Innovation: Introducing Grok AI – Features & Pricing</u></a></li>
 </ul></div>
 

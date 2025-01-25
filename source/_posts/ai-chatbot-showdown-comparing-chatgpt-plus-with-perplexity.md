@@ -1,7 +1,7 @@
 ---
 title: "AI Chatbot Showdown: Comparing ChatGPT Plus with Perplexity"
-date: 2024-08-09T20:26:57.293Z
-updated: 2024-08-10T20:26:57.293Z
+date: 2025-01-22T18:10:24.767Z
+updated: 2025-01-25T16:58:43.054Z
 tags:
   - chatgpt
   - open-ai
@@ -19,23 +19,8 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
  ChatGPT has excellent conversational skills and its versatility makes it a superb tool for various activities. It turns out that being a cooking assistant is one of them. From recommending and creating healthy meal plans to coming up with specific menus for special occasions, there are a lot of ways you can use ChatGPT's help while in the kitchen.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 1\. Recipe Suggestions
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![  ChatGPT Italian Recipe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/.jpg)
 
  You don't have to rely on last night's leftovers or takeout for your daily meals. If you're having trouble deciding what to prepare for dinner, ChatGPT can give you a variety of suggestions for easy everyday recipes.
@@ -44,11 +29,12 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
  What's better is that you can also ask the chatbot for alternative dishes that are easier to make if you don't have all the ingredients on hand.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Learn New Cooking Techniques
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Learn new cooking techniques with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/learn-new-cooking-techniques-with-chatgpt.jpg)
 
  Even your favorite dishes can get a bit boring if you cook them the same way every time. You can use ChatGPT to come up with new cooking, baking, and grilling techniques to change up your dishes sporadically. For example, you can ask for different ways to grill meat or ways to season a salmon for maximum flavor.
@@ -57,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
  The chatbot can also recommend[the best meal prep sites](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , cookbooks, or cooking classes focusing on the techniques you want to learn.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 3\. Make Healthy Meal Plans
 
 ![ChatGPT meal plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-meal-plan.jpg)
@@ -68,14 +51,8 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
  For your fitness goals, ChatGPT can assist you in creating a meal plan that supports your objectives. You can ask for meal recommendations that are rich in protein, carbohydrates, and healthy fats. ChatGPT can also guide you on how to develop healthy eating habits if you have an eating disorder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Create a Shopping List
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Create shopping list with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-shopping-list-with-chatgpt.jpg)
 
  If you struggle with remembering all the ingredients needed for a recipe, ChatGPT can help you create a detailed shopping list.[You can then use Instacart for same-day grocery shopping](https://www.makeuseof.com/sir-how-is-instacart-for-same-day-grocery-shopping/) , or any other grocery delivery services available in your area.
@@ -84,9 +61,17 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
  Even if you opt for writing the items down on a pad, the AI-powered chatbot can still make writing a shopping list much easier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Find New Flavor Combinations
 
 ![New flavor combo ideas by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-flavor-combo-ideas-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finding new flavor combinations is arguably the most difficult process involved with cooking. Even if a certain combination is good, you won't really know if it works for you or not. ChatGPT can make this process a bit easier.
 
@@ -104,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 ![Special Occasian Recipe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/special-ocassian-recipe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Creating menus for planning an intimate dinner party, a festive gathering, or a celebratory event is not easy. You have to consider what type of food the people will like and how much time you have to prepare the dishes. While you're on your own with the cooking process, ChatGPT can help you with the menu.
 
  So, if you're planning your kid's birthday party, you can ask ChatGPT to create a menu that includes fun and kid-friendly dishes. You can also specify dietary restrictions and allergies so that the food is safe and enjoyable for everyone.
@@ -111,22 +100,20 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
  If you don't feel like cooking, you could just ask ChatGPT for the best restaurants or catering services to order from for the gathering.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Level Up Your Cooking Skills With ChatGPT
 
  ChatGPT's versatility proves that it's much more than an AI text generator. It's an intelligent assistant that can help with research, coding, and even cooking. OpenAI continues to improve the chatbot by adding new features and regularly updating the interface. A year or two ago, using AI in the kitchen would have been a foreign concept, yet here we are.
 
  However, there's a lot more to cooking than recipes and meal plans. You'll have to spend a considerable amount in the kitchen if you want to cook healthy and delicious meals. Plus, more advanced techniques, such as sous vide, will require a lot of patience and the right accessories.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +122,26 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/bypassing-the-ban-discover-why-chatgpt-is-off-limits-and-how-to-resume-use/"><u>Bypassing the Ban: Discover Why ChatGPT Is Off-Limits & How to Resume Use</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/decoding-crypto-economics-insights-into-the-realms-preciousness-by-yl-software-solutions/"><u>Decoding Crypto Economics: Insights Into the Realm's Preciousness by YL Software Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-modern-ai-security-why-current-strategies-make-chatgpt-jailbreaking-impossible/"><u>Demystifying Modern AI Security: Why Current Strategies Make ChatGPT Jailbreaking Impossible</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-a-smooth-experience-with-spellbreak-on-windows/"><u>Essential Fixes for a Smooth Experience with Spellbreak on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explosive-popularity-unveiling-5-powerful-motivators-for-chatgpt/"><u>Explosive Popularity: Unveiling 5 Powerful Motivators for ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-error-xc0f1103f-on-geforce-nowwindows-11-duo/"><u>Fixing Error Xc0f1103f on GeForce Now/Windows 11 Duo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-compelling-book-trail-creations/"><u>In 2024, Compelling Book Trail Creations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-superior-mac-capture-apps-different-than-bandicam/"><u>In 2024, Superior Mac Capture Apps, Different Than Bandicam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-social-impact-leveraging-chatgpt-to-craft-perfect-posts/"><u>Maximize Your Social Impact: Leveraging ChatGPT to Craft Perfect Posts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-learn-the-step-by-step-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Learn the Step-by-Step Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-writing-ai-solutions-to-streamline-processes/"><u>Revolutionizing Writing: AI Solutions to Streamline Processes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sharing-your-adventures-a-how-to-for-taking-and-uploading-nintendo-switch-screen-clips/"><u>Sharing Your Adventures: A How-To for Taking & Uploading Nintendo Switch Screen Clips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailor-your-own-ai-explore-chatgpts-new-feature-enabling-fully-customizable-gpt-creations/"><u>Tailor Your Own AI: Explore ChatGPT's New Feature Enabling Fully Customizable GPT Creations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-amplifying-audience-engagement-on-igtv-for-2024/"><u>The Art of Amplifying Audience Engagement on IGTV for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-creative-potential-with-4-cutting-edge-ai-story-engineers/"><u>Unleash Your Creative Potential with 4 Cutting-Edge AI Story Engineers</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/vss-backup-spiegato-passaggi-chiave-per-creare-un-backup-affidabile-nel-tempo/"><u>VSS Backup Spiegato: Passaggi Chiave per Creare Un Backup Affidabile Nel Tempo</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-9-free-full-length-christmas-movies-on-youtube/"><u>Watch 9 Free Full Length Christmas Movies On Youtube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-choose-claude-discovering-an-advanced-ai-that-transforms-business-operations/"><u>Why Choose Claude? Discovering an Advanced AI that Transforms Business Operations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-resist-the-lure-avoiding-ai-generated-windows-keys/"><u>Why Resist the Lure: Avoiding AI Generated Windows Keys</u></a></li>
+</ul></div>
 

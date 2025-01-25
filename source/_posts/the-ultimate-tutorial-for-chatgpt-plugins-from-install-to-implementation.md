@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial for ChatGPT Plugins: From Install to Implementation"
-date: 2024-08-09T20:38:41.211Z
-updated: 2024-08-10T20:38:41.211Z
+date: 2025-01-21T19:09:52.096Z
+updated: 2025-01-25T16:35:38.880Z
 tags:
   - chatgpt
   - open-ai
@@ -28,14 +28,16 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
  ChatGPT's intelligence comes from the large language model that it learns from. ChatGPT was originally based on OpenAI's GPT 3.5 model, though this is no longer the newest version. GPT stands for "generative pre-trained transformer" and refers to this particular type of large language model.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Bavarder?
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bavarder is an app that enables you to "chit-chat" with artificial intelligence. Bavarder is built specifically for GNOME,[the most widely-used interface on Linux PCs](https://www.makeuseof.com/ways-gnome-is-best-linux-desktop/) . But Bavarder works on other desktop environments as well.
 
@@ -46,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
  Some of the providers utilize the same learning models as ChatGPT, but that doesn't mean you can expect them to generate the same results as ChatGPT would. But to the average person, BAI Chat probably comes off as close enough to the same thing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Download Bavarder
 
  Bavarder is available in[a universal package format known as flatpak](https://www.makeuseof.com/flatpak-for-beginners/) that works across most versions of Linux. You can download Bavarder from Flathub.
@@ -55,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 **Download:** [Bavarder](http://flathub.org/apps/io.github.Bavarder.Bavarder)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Bavarder on Linux
 
  Like many GNOME apps, there isn't much to see when you first open Bavarder. There is an input field labeled "Message" at the top and a second input field labeled "Response" at the bottom. You ask your question or give your command in the top field and Bavarder will give you the output in the bottom.
@@ -65,33 +69,27 @@ thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5
 
  You may need to configure sources to change the type or quality of the response. You can do this by clicking on the hamburger menu and selecting**Preferences** . To change the provider currently in use, select**Providers** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![Selecting a provider in the Bavarder Linux chatbot app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bavarder-linux-chatbot-providers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The app may seem to load for quite a while before providing a response. If you were to use BAI chat via[chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
 
  Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Should You Use Bavarder on Linux?
 
  There are ethical questions to wrestle with when using ChatGPT and similar chatbots. Do you trust one company collecting that much information? Are you concerned about putting people out of jobs? Do you think people should think creatively for themselves instead of outsourcing that task to machines?
 
  If you land on the side of trusting this kind of software, then Bavarder is one of the easiest and quickest ways to make use of it. Though if you are more of a command-line person, there is a way to use ChatGPT from a terminal as well.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +98,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-before-you-fly-drone-purchase-tips-and-considerations/"><u>[Updated] Before You Fly Drone Purchase Tips and Considerations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-framemaster-top-screen-recorder-reviews-of-the-year-for-2024/"><u>[Updated] FrameMaster Top Screen Recorder Reviews of the Year for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-free-tools-to-save-big-screen-fb-video/"><u>[Updated] In 2024, Free Tools to Save Big Screen FB Video</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-next-gen-gaming-escapades-top-5-psvr-titles-for-the-future/"><u>2024 Approved Next-Gen Gaming Escapades Top 5 PSVR Titles for the Future</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/behind-the-colorscape-a-look-at-hps-z32-x/"><u>Behind the Colorscape A Look at HP’s Z32 X</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-online-convertitore-da-dts-a-wav-con-movavi-trasforma-i-tuoi-file-audio-senza-costi-extra/"><u>Gratis Online Convertitore: Da DTS a WAV Con Movavi - Trasforma I Tuoi File Audio Senza Costi Extra</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-12plus-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme 12+ 5G Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-t2-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo T2 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-for-finding-genuine-chatgpt-utilities-within-the-iphones-marketplace/"><u>Tips for Finding Genuine ChatGPT Utilities Within the iPhone's Marketplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-ai-driven-creative-hubs/"><u>Top 7 AI-Driven Creative Hubs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-7-solutions-to-accelerate-your-sluggish-iphone-performance/"><u>Top 7 Solutions to Accelerate Your Sluggish iPhone Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-health-regimen-using-top-ranked-chatgpt-apps-and-extensions/"><u>Transform Your Health Regimen Using Top-Ranked ChatGPT Apps & Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-access-the-ultimate-guide-to-using-quora-as-a-gateway-to-ai-chatbots-and-large-language-models/"><u>Unlocking Access: The Ultimate Guide to Using Quora as a Gateway to AI Chatbots & Large Language Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-new-productivity-levels-the-synergy-between-onlyoffice-docspace-and-chatgpt/"><u>Unlocking New Productivity Levels: The Synergy Between ONLYOFFICE DocSpace and ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unreliable-flaws-in-zerogpt-and-similar-tech-detectors/"><u>Unreliable: Flaws in ZeroGPT & Similar Tech Detectors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-claude-2-how-it-works-and-its-versatility/"><u>Unveiling Claude 2: How It Works and Its Versatility</u></a></li>
+</ul></div>
 

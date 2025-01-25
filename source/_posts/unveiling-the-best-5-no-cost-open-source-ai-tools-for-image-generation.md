@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Best 5 No-Cost, Open-Source AI Tools for Image Generation
-date: 2024-08-09T20:38:12.461Z
-updated: 2024-08-10T20:38:12.461Z
+date: 2025-01-22T19:08:16.947Z
+updated: 2025-01-25T16:57:16.179Z
 tags:
   - chatgpt
   - open-ai
@@ -23,18 +23,24 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Dark Theme
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Integration With Google Products and Third-Party Plugins
 
  This is one of the most significant Bard AI announcements since the chatbot itself was announced. Let's face it; Bard AI isn't as good as its competitors. We did a bit of a[ChatGPT vs. Bing AI vs. Bard AI test](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , and Bard didn't impress. There are a lot of shortfalls we could talk about, but that's a discussion for another day. The good news, however, is that a bulk of those shortfalls could be fixed by opening up Bard to third-party services and other Google products.
@@ -51,12 +57,17 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Image Generation With Adobe Firefly
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
@@ -66,18 +77,12 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 
 ## 6\. Tools for Exporting Generated Content
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
@@ -86,24 +91,17 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Google's AI Endgame Is Gemini
 
  Bard AI currently runs on PaLM 2 (the latest iteration of its PaLM large language model) and relies on different Google products and services to offer most of the features announced at Google I/O 2023\. Meanwhile, Sundar Pichai, the CEO of Google, briefly discussed Gemini—a new large language model currently being developed from the ground up to power future iterations of Bard AI.
 
  According to Sundar Pichai, Gemini will be a multi-modal LLM, which means it will likely replace Google's use of third-party services like Adobe Firefly or its products like Google Lens within the Bard AI ecosystem. Information about Gemini is still limited, but Google is investing in building a completely different LLM for Bard AI, and it will be worth paying attention to. It's game on for generative AI.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +110,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-effective-team-videos-boosting-channelnode-growth-rate/"><u>[New] In 2024, Effective Team Videos Boosting Channelnode Growth Rate</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-six-straightforward-mojang-homes-for-creative-builders/"><u>[New] In 2024, Six Straightforward Mojang Homes for Creative Builders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inshot-vs-other-editors-a-comprehensive-analysis/"><u>[New] InShot vs Other Editors A Comprehensive Analysis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-a-comprehensive-guide-to-building-facebook-slideshow-mastery/"><u>2024 Approved A Comprehensive Guide to Building Facebook Slideshow Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-to-minimize-artificial-intelligence-misinterpretations/"><u>6 Effective Strategies to Minimize Artificial Intelligence Misinterpretations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advance-your-cyber-defense-knowledge-with-these-7-upcoming-trends-and-forecasts/"><u>Advance Your Cyber Defense Knowledge with These 7 Upcoming Trends and Forecasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advancing-artificial-intelligence-discover-the-7-features-making-bard-powered-by-googles-palm-2-more-innovative/"><u>Advancing Artificial Intelligence: Discover the 7 Features Making Bard Powered by Google's PaLM 2 More Innovative</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-love-the-modern-hackers-playbook/"><u>Artificial Love: The Modern Hacker's Playbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721869684834-chatgpt-conversation-storage-learn-how-to-stop-it-now/"><u>ChatGPT Conversation Storage? Learn How to Stop It Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722112995396-discover-the-deceptive-chrome-add-on-that-hijacks-your-facebook-credentials/"><u>Discover the Deceptive Chrome Add-On That Hijacks Your Facebook Credentials</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2022-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2022) iOS? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-melodies-legal-downloadable-links/"><u>In 2024, Gaming Melodies Legal, Downloadable Links</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722132478699-is-your-data-safe-with-chatgpt-understanding-privacy-concerns/"><u>Is Your Data Safe with ChatGPT – Understanding Privacy Concerns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-your-next-build-with-confidence-using-tips-from-toms-hardware-experts/"><u>Navigate Your Next Build with Confidence Using Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-drone-cinematography-team-the-best-10/"><u>Ultimate Drone Cinematography Team The Best 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks
-date: 2025-01-15T16:58:53.442Z
-updated: 2025-01-19T17:29:01.755Z
+date: 2025-01-19T16:41:06.965Z
+updated: 2025-01-25T18:29:29.206Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -38,7 +38,7 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -51,18 +51,18 @@ By default, the following file types offer Quick Actions from within the Finder 
 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Quick Actions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -92,7 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -145,18 +145,18 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>[New] Fantasy Realms Awaits Ultimate List of No-Cost RPGs for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-innovative-responses-the-ultimate-guide-to-youtube-reacts/"><u>[Updated] Innovative Responses The Ultimate Guide to YouTube Reacts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-time-trackers-in-action-using-obs-for-timed-events/"><u>2024 Approved Time Trackers in Action Using OBS for Timed Events</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-edge-40-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Edge 40 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-dynamic-range-the-essential-guide-to-modern-camera-tech/"><u>In 2024, High Dynamic Range The Essential Guide to Modern Camera Tech</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-conversation-with-chatgpt-safe-from-eavesdroppers/"><u>Is Your Conversation with ChatGPT Safe From Eavesdroppers?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/language-mastery-accelerated-by-chatgpt-plus-strategies-and-tips/"><u>Language Mastery Accelerated by ChatGPT Plus: Strategies and Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/masterful-techniques-7-proven-ai-tools/"><u>Masterful Techniques: 7 Proven AI Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-on-linux-a-simple-installation-process-using-the-bavarder-solution/"><u>Mastering ChatGPT on Linux: A Simple Installation Process Using the Bavarder Solution</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/save-my-page-moments-for-2024/"><u>Save My Page Moments for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/stereo-mix-malfunction-heres-the-ultimate-guide-to-repairing-two-channel-audio-outputs/"><u>Stereo Mix Malfunction? Here's the Ultimate Guide to Repairing Two-Channel Audio Outputs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-launching-a-video-channel-dedicated-to-new-and-used-product-reviews/"><u>[New] In 2024, Launching a Video Channel Dedicated to New and Used Product Reviews</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-streamline-your-view-adding-captions-on-windows-media-player/"><u>[New] In 2024, Streamline Your View Adding Captions on Windows Media Player</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-15-innovative-cost-free-photo-manipulation-software/"><u>2024 Approved 15 Innovative, Cost-Free Photo Manipulation Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tomorrows-examination-innovative-approaches/"><u>2024 Approved Tomorrow’s Examination Innovative Approaches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-binary-boundaries-exploring-hidden-online-communicators/"><u>Beyond Binary Boundaries: Exploring Hidden Online Communicators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-studies-with-chatgpt-a-guide-to-efficient-research-and-essay-development/"><u>Boost Your Studies with ChatGPT: A Guide to Efficient Research & Essay Development</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plus-vs-free-gpt-n4-discovering-6-essential-reasons-to-stay-loyal/"><u>ChatGPT Plus vs Free GPT-N4 - Discovering 6 Essential Reasons to Stay Loyal</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-artificial-intelligence-prompts-try-these-top-5-online-classes/"><u>Mastering Artificial Intelligence Prompts? Try These Top 5 Online Classes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/orchestrating-ai-harmony-with-human-intentions/"><u>Orchestrating AI: Harmony with Human Intentions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/safe-and-no-cost-online-cinema-hubs-a-list-of-the-top-17-choices-for-movie-lovers/"><u>Safe & No-Cost Online Cinema Hubs: A List of the Top 17 Choices for Movie Lovers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-ultimate-list-of-open-source-ai-image-generation-software/"><u>Unveiling the Ultimate List of Open-Source AI Image Generation Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-canon-video-editing-handbook-software-tips-and-trends/"><u>Updated The Ultimate Canon Video Editing Handbook Software, Tips, and Trends</u></a></li>
 </ul></div>
 

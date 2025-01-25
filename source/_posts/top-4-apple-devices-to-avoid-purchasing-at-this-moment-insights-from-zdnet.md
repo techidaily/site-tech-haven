@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2025-01-16T21:04:10.785Z
-updated: 2025-01-19T20:46:08.504Z
+date: 2025-01-21T18:22:19.714Z
+updated: 2025-01-25T16:56:48.603Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -58,14 +62,10 @@ Don't buy these devices:
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **The 'Nice' list**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -74,10 +74,6 @@ iPhone 16
 Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
 
@@ -88,7 +84,7 @@ Kerry Wan/ZDNET
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
@@ -104,6 +100,10 @@ Apple's MacBook Air has an M3 chip -- more oomph to tackle heavier-duty AI tasks
 Along with the updated processor, this MacBook Air can also power two external monitors with the lid closed, making it a great desktop replacement -- just add two screens! 
 
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
 
@@ -134,6 +134,10 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -148,10 +152,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -214,22 +214,18 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-invisible-vids-on-social-reveal-the-top-12-techniques-to-restore-appearance-in-23/"><u>[New] 2024 Approved Invisible Vids on Social? Reveal the Top 12 Techniques to Restore Appearance in '23</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-mystery-of-unlisted-content-on-youtube-explored/"><u>[New] In 2024, The Mystery of Unlisted Content on YouTube Explored</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-the-art-of-youtube-micro-clips-for-2024/"><u>[Updated] Mastering the Art of YouTube Micro Clips for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-users-guide-for-navigating-durecorder-world/"><u>[Updated] The Ultimate User’s Guide for Navigating DuRecorder World</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-core-reasons-chatgpt-is-inadequate-for-professional-writing-roles/"><u>5 Core Reasons ChatGPT Is Inadequate for Professional Writing Roles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-expert-tips-on-composing-effective-prompts-to-maximize-your-chatgpt-experience/"><u>5 Expert Tips on Composing Effective Prompts to Maximize Your ChatGPT Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-beginners-exploration-into-langchain-and-llm/"><u>A Beginner’s Exploration Into LangChain & LLM</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-depend-on-chatgpt-or-bard-when-seeking-personalized-financial-counsel/"><u>Can You Depend on ChatGPT or Bard When Seeking Personalized Financial Counsel?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cant-access-chatgpt-discover-the-five-checkpoints-for-its-status/"><u>Can't Access ChatGPT? Discover the Five Checkpoints for Its Status</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-student-tool-uncovering-5-effective-ways-to-utilize-it-at-school/"><u>ChatGPT as a Student Tool: Uncovering 5 Effective Ways to Utilize It at School</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-study-tool-for-note-taking-pros/"><u>ChatGPT: The Ultimate Study Tool for Note Taking Pros</u></a></li>
-<li><a href="https://extra-information.techidaily.com/create-meme-with-adobe-for-2024/"><u>Create Meme with Adobe for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-workings-of-predictive-ai-systems/"><u>Deciphering the Workings of Predictive AI Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-roundup-most-savvy-atandt-offers-for-phones-in-may-2024-insider-info/"><u>Exclusive Roundup: Most Savvy AT&T Offers for Phones in May 2024 | Insider Info</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/top-49-countdown-of-viral-tiktok-musings-for-your-success-for-2024/"><u>Top 49-Countdown of Viral TikTok Musings for Your Success for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-uavs-the-basics-of-drone-operations-for-2024/"><u>Unveiling UAVs The Basics of Drone Operations for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-you-need-to-know-about-the-upcoming-tesla-robotaxi/"><u>What You Need to Know About the Upcoming Tesla Robotaxi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-creators-lab-building-an-unstoppable-channel/"><u>[New] 2024 Approved The Creator's Lab Building an Unstoppable Channel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-flip-your-video-collection-in-a-flash-for-2024/"><u>[New] How to Flip Your Video Collection in a Flash for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-probing-the-potential-of-samsungs-photo-editor/"><u>[Updated] Probing the Potential of Samsung's Photo Editor</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-essential-fixes-for-disconnected-fb-live-feeds/"><u>2024 Approved Essential Fixes for Disconnected FB Live Feeds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-consistent-mindfulness-practices-with-chatgpt-a-step-by-step-guide/"><u>Creating Consistent Mindfulness Practices with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-artificial-intelligence-top-tools-and-resources-amongst-beginner-circles-top-9/"><u>Navigating Artificial Intelligence: Top Tools and Resources Amongst Beginner Circles (Top 9)</u></a></li>
+<li><a href="https://win11.techidaily.com/prepare-for-win11-offline-installation-guide/"><u>Prepare for Win11: Offline Installation Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-great-divide-in-artificial-intelligence-strong-ai-versus-weak-ai-explained/"><u>The Great Divide in Artificial Intelligence: Strong AI versus Weak AI Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-reasons-why-the-chatgpt-desktop-application-outperforms-its-web-counterpart/"><u>Top Reasons Why The ChatGPT Desktop Application Outperforms Its Web Counterpart</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-persistent-freezing-issues-in-minecraft-dungeons-on-windowsmac/"><u>Troubleshooting Persistent Freezing Issues in Minecraft Dungeons on Windows/Mac</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-x-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone X? How to Fix</u></a></li>
 </ul></div>
 

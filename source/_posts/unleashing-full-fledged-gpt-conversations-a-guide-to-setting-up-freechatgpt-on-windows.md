@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Full-Fledged GPT Conversations: A Guide to Setting Up FreeChatGPT on Windows"
-date: 2024-08-09T20:35:57.437Z
-updated: 2024-08-10T20:35:57.437Z
+date: 2025-01-21T19:03:49.419Z
+updated: 2025-01-25T17:40:48.867Z
 tags:
   - chatgpt
   - open-ai
@@ -23,15 +23,16 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
 
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
@@ -44,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Response Accuracy
 
  Before we look at this, it is important to note that both tools make clear that the accuracy of the information generated cannot be guaranteed. As such, we are not going to check every detail. Rather, we will look at how easy it is to fact-check the response of each tool.
@@ -57,16 +55,14 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  This is probably good because one other interesting feature in Bard's reply was the ability to view other drafts. Although the figures in the other drafts were similar, there was variation.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -79,16 +75,21 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -101,8 +102,9 @@ We did manage to get a response from Bard by rewording the prompt.
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
@@ -119,23 +121,17 @@ We did manage to get a response from Bard by rewording the prompt.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Era of the Chatbot Is Upon Us
 
  Regardless of the flaws we found and our quibbles with the chatbots, these are amazing technological feats that will play an ever-increasing part in our lives. The rapid development of technology will continue to push the boundaries of what these tools can achieve and how we use them.
 
  As AI-powered chatbots like Google Bard and Bing Chat become more sophisticated and capable of handling complex tasks, they will become an even more integral part of our daily lives.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +140,26 @@ We did manage to get a response from Bard by rewording the prompt.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-maximizing-collaboration-zoom-session-setup-and-management-for-2024/"><u>[New] Maximizing Collaboration Zoom Session Setup and Management for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ts-best-practices-for-choosing-images-that-drive-view-count-updates-for-2024/"><u>[New] YT's Best Practices for Choosing Images That Drive View Count Updates for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-youtube-trademarks-tips-on-logo-and-watermark-addition-for-2024/"><u>[Updated] Enhance YouTube Trademarks Tips on Logo and Watermark Addition for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immediate-solution-for-podcast-livestreaming/"><u>[Updated] Immediate Solution for Podcast Livestreaming</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728500751103-acronis/"><u>免費 Acronis 克隆組件的最佳替代方案 - 比較結果</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-and-adventure-with-ions-pro-3-camera-insight-for-2024/"><u>Action and Adventure with ION's Pro 3 Camera Insight for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-top-9-phony-chatgpt-related-threats-that-could-compromise-your-data/"><u>Beware: Top 9 Phony ChatGPT-Related Threats That Could Compromise Your Data</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/countdown-begins-how-microsoft-must-resolve-the-critical-issues-of-windows-11-in-under-a-year-insights-from-zdnet/"><u>Countdown Begins: How Microsoft Must Resolve the Critical Issues of Windows 11 in Under a Year | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-chatgpt-today-with-these-top-9-tools/"><u>Elevate ChatGPT Today! With These Top 9 Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-electronics-insights-by-tom-your-go-to-source/"><u>In-Depth Electronics Insights by Tom - Your Go-To Source</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-enterprise-what-it-provides-how-it-stands-out-and-why-companerates-need-it/"><u>Inside ChatGPT Enterprise: What It Provides, How It Stands Out, and Why Companerates Need It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-the-digital-world-seamlessly-with-perplexity-ai/"><u>Navigate The Digital World Seamlessly With Perplexity AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/number-of-females-surveyed-nfemale-756/"><u>Number of Females Surveyed (N_female) = 756</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-to-change-dall-e-3s-webp-output-into-png-or-jpg-formats/"><u>Quick Guide to Change DALL-E 3'S WebP Output Into PNG or JPG Formats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-secrets-out-engage-in-dialogue-with-chatgpt-today/"><u>The Secret's Out: Engage in Dialogue with ChatGPT Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-trouble-with-trusting-automated-ai-for-intellectual-property-protection/"><u>The Trouble With Trusting Automated AI for Intellectual Property Protection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-complexity-how-transfer-learning-simplifies-ai/"><u>Unraveling Complexity: How Transfer Learning Simplifies AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-top-6-chatgpt-issues-and-how-to-fix-them/"><u>Unraveling the Top 6 ChatGPT Issues and How to Fix Them</u></a></li>
+</ul></div>
 

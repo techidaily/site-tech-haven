@@ -1,7 +1,7 @@
 ---
 title: Top 7 Pitfalls in Handling GPT-Inspired Tech
-date: 2024-08-09T20:35:21.214Z
-updated: 2024-08-10T20:35:21.214Z
+date: 2025-01-23T19:00:39.843Z
+updated: 2025-01-25T18:33:55.466Z
 tags:
   - chatgpt
   - open-ai
@@ -35,9 +35,6 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -58,9 +55,6 @@ As you can see, there are several differences to consider.
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -84,8 +78,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -102,9 +97,6 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
 So, how does Claude compare to ChatGPT?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -121,6 +113,10 @@ So, how does Claude compare to ChatGPT?
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -129,36 +125,40 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
 
  Both ChatGPT and Claude provided poems that fit the parameters of the prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
@@ -193,14 +193,11 @@ Claude's interpretation read...
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -209,4 +206,26 @@ Claude's interpretation read...
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-beating-the-market-top-file-managers-for-2024/"><u>[New] Beating the Market Top File Managers for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/lluminate-your-videos-with-17-lighting-hacks-for-2024/"><u>[New] Illuminate Your Videos with #17 Lighting Hacks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-connection-4-ways-to-tie-in-your-fb-story/"><u>[New] The Art of Connection 4 Ways to Tie in Your Fb Story</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-vpn-for-chrome-how-to-setup-vpn-for-chrome-easily/"><u>Best VPN for Chrome - How to Setup VPN for Chrome Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/bridging-the-gap-between-dreams-and-reality-using-magix-vpx-for-2024/"><u>Bridging the Gap Between Dreams & Reality Using Magix VPX for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/capture-your-screen-with-ease-screenshoting-techniques-for-your-acer-notebook/"><u>Capture Your Screen with Ease: Screenshoting Techniques for Your Acer Notebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-your-printer-to-your-laptop-seamlessly-wireless-and-usb-methods-explained/"><u>Connecting Your Printer to Your Laptop Seamlessly: Wireless and USB Methods Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-to-refresh-your-pcs-firmware-with-windows-11/"><u>Easy Methods to Refresh Your PC's Firmware with Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-pc-restoration-techniques-on-windows-10-operating-system/"><u>Effortless PC Restoration Techniques on Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-move-chrome-bookmarks-to-firefox-master-the-simple-steps-now/"><u>Effortlessly Move Chrome Bookmarks to Firefox – Master the Simple Steps Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eliminating-input-lag-for-a-smoother-gaming-session-on-a-secondary-display-using-windows-11/"><u>Eliminating Input Lag for a Smoother Gaming Session on a Secondary Display Using Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-recognizing-and-preventing-phishing-scams/"><u>Essential Guide: Recognizing and Preventing Phishing Scams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-the-windows-1011-issue-a-step-by-step-guide-to-resolving-error-code-0xa00f4244/"><u>Fixing the Windows 10/11 Issue: A Step-by-Step Guide to Resolving Error Code 0xA00F4244</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x9b-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X9b Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-final-cut-pro-sound-visualization-step-by-step-on-rendering-audio-waveforms-and-their-animation-integration/"><u>In 2024, Final Cut Pro Sound Visualization Step-by-Step on Rendering Audio Waveforms and Their Animation Integration</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo T2x 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-samsung-adb-support-software-for-pcs-free-downloads/"><u>Latest Samsung ADB Support Software for PCs - Free Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/no-cost-asus-high-fidelity-audio-drivers-by-realtek-technology-corp-for-your-pc/"><u>No-Cost ASUS High Fidelity Audio Drivers by Realtek Technology Corp for Your PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
+</ul></div>
 

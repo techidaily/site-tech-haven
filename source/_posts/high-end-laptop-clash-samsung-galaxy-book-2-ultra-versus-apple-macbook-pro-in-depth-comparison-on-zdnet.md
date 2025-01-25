@@ -1,7 +1,7 @@
 ---
 title: "High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison on ZDNet"
-date: 2025-01-13T20:44:26.046Z
-updated: 2025-01-19T17:17:31.493Z
+date: 2025-01-22T17:22:39.624Z
+updated: 2025-01-25T17:58:42.897Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -53,15 +49,7 @@ There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic
 
 Samsung
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You're committed to Samsung's ecosystem
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Samsung Unpacked
 
@@ -72,6 +60,10 @@ It's much easier when your devices not only work well together out of the box, b
 Samsung realized this and included benefits like the options to use a [Galaxy Tab-branded tablet](https://www.zdnet.com/article/samsung-galaxy-tab-s8-ultra-review/) as a wireless second display, to use your Galaxy smartphone as a wirelessly syncing camera, and to control all three devices, at once, from the keyboard and touchpad of the laptop itself. 
 
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You expect to do any gaming
 
@@ -93,12 +85,16 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 
 Apple
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -121,7 +117,7 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
@@ -131,6 +127,10 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,24 +185,20 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-strategies-for-departing-from-your-discord-clan-for-2024/"><u>[New] Strategies for Departing From Your Discord Clan for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-enriching-meta-descriptions-a-template-transformation-journey-for-2024/"><u>[Updated] Enriching Meta Descriptions A Template Transformation Journey for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revolutionizing-online-content-the-power-of-time-stamps/"><u>[Updated] In 2024, Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/7-smart-alternatives-to-chatgpt-apps-for-smartphones/"><u>7 Smart Alternatives to ChatGPT Apps for Smartphones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/accessing-bings-powerful-ai-search-step-by-step/"><u>Accessing Bing's Powerful AI Search: Step-by-Step</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-love-advice-how-chatgpt-helps-you-find-love/"><u>AI Love Advice: How ChatGPT Helps You Find Love</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/1719573835599-canon-pixma-mp620-driver-missing-please-help/"><u>Canon Pixma MP620: Driver Missing, Please Help!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-c55-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco C55 FRP Locks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quickshot-ff-utilities-for-2024/"><u>QuickShot FF Utilities for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/render-movement-blur-in-digital-imagery/"><u>Render Movement Blur in Digital Imagery</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-msvcr100dll-file-cannot-be-found/"><u>Solutions for Resolving 'MSVCR100.DLL' File Cannot Be Found</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-of-up-to-the-minute-information-gathering-by-chatgpt-for-everyone/"><u>Understanding the Impact of Up-to-the-Minute Information Gathering by ChatGPT for Everyone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-full-potential-of-chatgpt-for-a-better-lifestyle/"><u>Unlocking the Full Potential of ChatGPT for a Better Lifestyle</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-5-critical-motivations-for-corporate-anti-chatgpt-policies/"><u>Unveiling 5 Critical Motivations for Corporate Anti-ChatGPT Policies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-potential-of-chatgpt-within-the-sphere-of-generative-artificial-intelligence/"><u>Unveiling the Potential of ChatGPT Within the Sphere of Generative Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-realities-debunking-prevailing-legends-of-intelligent-chatbots/"><u>Unveiling the Realities: Debunking Prevailing Legends of Intelligent Chatbots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/visual-visionaries-using-chatgpt-for-innovative-images/"><u>Visual Visionaries: Using ChatGPT for Innovative Images</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-earnings-update-what-you-need-to-know/"><u>YouTube Earnings Update - What You Need to Know</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-use-ez-grabber-software-for-2024/"><u>[New] How to Use EZ Grabber Software for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-digital-entertainment-preservation-online-tv-show-recording-101-for-2024/"><u>[Updated] Digital Entertainment Preservation Online TV Show Recording 101 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-pcs-premiere-selection-of-ps3-game-simulations/"><u>2024 Approved PC's Premiere Selection of PS3 Game Simulations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-assistance-embrace-8-customized-models/"><u>Cutting-Edge Assistance: Embrace 8 Customized Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/distinguishing-features-nlp-vs-ml-a-comprehensive-guide/"><u>Distinguishing Features: NLP vs ML – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-methods-to-prevent-background-applications-from-running-on-your-android-device/"><u>Effective Methods to Prevent Background Applications From Running on Your Android Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/engage-in-dialogue-expert-tips-for-mastering-conversations-using-chatgpt/"><u>Engage in Dialogue: Expert Tips for Mastering Conversations Using ChatGPT</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expert-filmmakers-picks-best-windows-video-editors-compared/"><u>Expert Filmmaker's Picks Best Windows Video Editors Compared</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/find-writing-motivation-with-these-5-ai-textual-imagination-boosters/"><u>Find Writing Motivation with These 5 AI Textual Imagination Boosters</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-optimal-performance-downloading-and-installing-steelseries-arctis-cued-5-drivers/"><u>Get Optimal Performance: Downloading and Installing SteelSeries Arctis Cued | 5 Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-ai-is-changing-your-search-game-discover-microsofts-newly-updated-bing/"><u>How AI Is Changing Your Search Game: Discover Microsoft's Newly Updated Bing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/julys-top-free-movie-picks-for-you-on-youtube-whats-trending-now/"><u>July's Top Free Movie Picks for You on YouTube - What’s Trending Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/should-we-demonstrate-decorum-with-chatgpt-siri-and-more/"><u>Should We Demonstrate Decorum with ChatGPT? Siri & More</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-docs-is-here-seamlessly-merging-chatgpt-tech-into-your-word-processing-routine/"><u>The Future of Docs Is Here: Seamlessly Merging ChatGPT Tech Into Your Word Processing Routine</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-easiest-video-making-apps-for-mac-unleash-your-creativity-for-2024/"><u>Updated Easiest Video Making Apps for Mac Unleash Your Creativity for 2024</u></a></li>
 </ul></div>
 

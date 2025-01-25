@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Mac Document Management & Creation - Tips From ZDNet"
-date: 2025-01-12T18:21:49.221Z
-updated: 2025-01-19T19:45:05.261Z
+date: 2025-01-21T18:27:04.569Z
+updated: 2025-01-25T16:06:54.257Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ A MagSafe wallet is a streamlined way to keep your cards (and cash) secure and a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the best MagSafe wallet right now?
 
@@ -50,7 +46,15 @@ Cons
 * Adds some weight to phone
 * May be too bulky for some
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Journey Ezmo Wallet and Phone Stand
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best MagSafe wallet overall
 
@@ -86,7 +90,7 @@ Cons
 * Can only hold 2 cards comfortably
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Clckr MagSafe phone holder and wallet
@@ -156,11 +160,11 @@ Cons
 * A little snug with 3 cards
 * Can be a little tricky to get cards in and out in certain situations
 
-## Moft Snap on Phone Stand and Wallet
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Moft Snap on Phone Stand and Wallet
 
 ### Best minimalist MagSafe wallet
 
@@ -194,10 +198,6 @@ Cons
 * Pricier for what you get
 * No front notch
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Casetify Snappy Leather MagSafe Wallet
 
 ### Best MagSafe wallet for fun color or customization
@@ -228,10 +228,6 @@ Pros
 Cons 
 * Magnet could be stronger
 * Bulkier
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ESR HaloLock wallet
 
@@ -298,6 +294,10 @@ If you're looking for a MagSafe wallet that does it all, the Journey Ezmo wallet
 
  \*MSRP at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right MagSafe wallet for you?
 
 MagSafe wallets are a practical option for those who use their phone as their primary always-on-them accessory. While some MagSafe wallets only offer basic storage for a few cards, others also double or triple as a kickstand, phone grip, or cash storage device, possibly converting your phone into the ultimate multitasking tool. 
@@ -324,6 +324,10 @@ We chose these MagSafe wallets through a mix of hands-on testing, carefully cura
 * **Budget:** As always, setting a budget to help you narrow your search parameters is a good idea. If you're looking to invest in a MagSafe wallet accessory long term, spending $45 or more would probably be worth it. If you're only looking to use a MagSafe wallet for a few days or one event, it's probably not worth your money to spend more than $40\.
 * **Occasion**: Like your phone case, any accessory you affix to your phone becomes an extension of your personality. Consider the type of design or color you'd like (especially if your wallet will become a mainstay of your cell), and consider how you'll be using a phone wallet. Is it for everyday use? Special occasions? Events here and there? Narrowing down how you want to use your wallet can help you ultimately set a budget and decide on necessary features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these MagSafe wallets?
 
 ZDNET went hands-on with all the MagSafe wallets on this list. We spend time using these wallets on our own iPhones during daily lives to test out card storage, magnetic strength, comfort, usability, and more -- not just for a day or two, but over the course of a few weeks to really get a feel for a product's add-in value. That is, can you "add-in" this product to your life and benefit from its presence? Or, is it another fad product that's too good to be true or collects dust after the buzz wears off? 
@@ -333,28 +337,24 @@ If we think another product is worth your money, we'll update this list or write
 Plus, we are routinely scouring the web for new products that are worthy of testing, following news on product rollouts and upgrades, and sourcing the best deals. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which phones are MagSafe compatible?
 
 The iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro, iPhone 14, iPhone 14 Pro, iPhone 15, and iPhone 15 Pro are all MagSafe compatible. Unfortunately, the iPhone 12 and [13 Mini models](https://www.zdnet.com/article/iphone-13-mini-lives-the-case-for-buying-it-in-2022/) don't feature MagSafe, and therefore can not be used with MagSafe accessories, however, there are MagSafe rings sold separately that can convert non-MagSafe cases into MagSafe compatible cases. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do I need a specific phone case to use a MagSafe wallet?
 
 Ideally, you should equip your phone with a [MagSafe phone case](https://www.apple.com/shop/product/MQU73ZM/A/iphone-14-silicone-case-with-magsafe-canary-yellow?tag=zdnet-deals-20), which also helps to protect your phone if you're looking to add a MagSafe wallet. You can find MagSafe phone cases at Apple, or other retailers like Amazon and Best Buy. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I know if my phone is MagSafe?
 
 The iPhone 12 through iPhone 15 models (minus the Mini) feature MagSafe technology. If you're not sure what type of iPhone you have, go to **Settings > General >** **About,** and you'll see what model your phone is. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does RFID mean?
 
@@ -362,13 +362,13 @@ According to the [Department of Homeland Security](https://www.dhs.gov/radio-fre
 
 There are devices that can read information contained in a wireless device or "tag" from a distance without making any physical contact or requiring a line of sight -- for example, the chips in credit or debit cards. Wallets which feature RFID-blocking technology prevent these devices from accessing information stored in protected chips, which can help prevent your bank information from being compromised. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do MagSafe wallets ruin credit cards?
 
 No. MagSafe wallets will not damage your cards or make them unusable, though bending, breaking, chipping, and normal wear and tear can occur just as with traditional wallets. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other MagSafe wallets we've tested
 
@@ -422,20 +422,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ideal-approaches-to-mobile-content-preservation/"><u>[New] 2024 Approved Ideal Approaches to Mobile Content Preservation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-newest-qanda-arsenal-for-captivating-listeners/"><u>[New] In 2024, Newest Q&A Arsenal for Captivating Listeners</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-streamline-your-tiktok-lives-4-essential-desktop-practices/"><u>[Updated] Streamline Your TikTok Lives 4 Essential Desktop Practices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-between-myai-and-chatgpt-for-your-snapchat-needs/"><u>Deciding Between MyAI and ChatGPT for Your Snapchat Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-edge-intelligence-insights-into-its-operational-framework/"><u>Demystifying Edge Intelligence: Insights Into Its Operational Framework</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-grok-ai-from-elon-musk-understanding-its-functionality-and-price-structure/"><u>Demystifying Grok AI From Elon Musk: Understanding Its Functionality & Price Structure</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-chatgpt-extensions-for-instant-upgrades/"><u>Discover the Ultimate ChatGPT Extensions for Instant Upgrades</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diving-into-the-world-of-shap-explaining-ai/"><u>Diving Into the World of SHAP Explaining AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/efficiently-managing-gpt-conversations-via-structured-directories/"><u>Efficiently Managing GPT Conversations via Structured Directories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enfournez-au-milieu-du-four-pendant-12-a-15-minutes-ou-jusqua-ce-que-la-tarte-soit-doree-et-legerement-croustillante-servez-cette-delicieuse-tarte-aux-fruit159/"><u>Enfournez Au Milieu Du Four Pendant 12 À 15 Minutes Ou Jusqu'à Ce Que La Tarte Soit Dorée Et Légèrement Croustillante. Servez Cette Délicieuse Tarte Aux Fruits De Mer en Plat Principal Accompagné D’une Salade Verte Croquante Pour Un Repas Équilibré !</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhanced-engagement-charting-the-10-paths-to-better-gpt/"><u>Enhanced Engagement: Charting the 10 Paths to Better GPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-glitch-in-nvidia-experience-w11-edition/"><u>Eradicating Glitch in Nvidia Experience, W11 Edition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/fading-out-sound-fl-studio-guide/"><u>Fading Out Sound FL Studio Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-15-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-secure-your-home-with-the-affordable-blink-4-camera-and-floodlight-bundle-for-only-80/"><u>Labor Day Sale: Secure Your Home with the Affordable Blink 4-Camera & Floodlight Bundle for Only $80</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-directly-download-youtube-videos/"><u>[Updated] In 2024, Directly Download YouTube Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-guide-perfecting-your-mobile-video-recording-for-2024/"><u>[Updated] Step-by-Step Guide Perfecting Your Mobile Video Recording for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-evolution-of-drones-present-impact-and-future-prospects/"><u>[Updated] The Evolution of Drones Present Impact and Future Prospects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-traditional-coding-the-transformation-and-evolution-of-software-development-today/"><u>Beyond Traditional Coding: The Transformation and Evolution of Software Development Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-for-aspiring-poets-craft-beautiful-verse-in-minutes/"><u>ChatGPT for Aspiring Poets: Craft Beautiful Verse in Minutes</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/como-hacer-una-copia-de-seguridad-total-y-gratuita-del-disco-duro-en-unidades-ssd-de-crucial/"><u>Cómo Hacer Una Copia De Seguridad Total Y Gratuita Del Disco Duro en Unidades SSD De Crucial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-attraction-why-do-hackers-focus-on-infiltrating-chatgpt/"><u>Decoding the Attraction: Why Do Hackers Focus on Infiltrating ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-connectivity-downloading-the-right-driver-for-asus-usb-bt500-on-win11-10-and-8/"><u>Effortless Connectivity: Downloading the Right Driver for Asus USB-BT500 on Win11, 10 & 8</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-look-at-samsungs-latest-wireless-earbuds-the-galaxy-buds-plus/"><u>Exclusive Look at Samsung's Latest Wireless Earbuds – The Galaxy Buds Plus</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>In 2024, Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-inside-scoop-on-chatgpt-subscription-pause-what-to-expect-next/"><u>The Inside Scoop on ChatGPT Subscription Pause: What to Expect Next?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-creative-potential-a-guide-to-combining-mindmapping-with-chatgpts-power/"><u>Unlocking Creative Potential: A Guide to Combining Mindmapping with ChatGPT's Power</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-nlp-with-hugbing-face-comprehensive-insights-into-its-functionality-and-benefits/"><u>Unlocking the Potential of NLP with Hugbing Face: Comprehensive Insights Into Its Functionality and Benefits</u></a></li>
 </ul></div>
 

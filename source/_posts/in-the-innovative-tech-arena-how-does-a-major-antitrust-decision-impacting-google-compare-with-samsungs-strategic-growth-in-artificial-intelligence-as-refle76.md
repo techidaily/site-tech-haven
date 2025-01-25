@@ -1,7 +1,7 @@
 ---
 title: In the Innovative Tech Arena, How Does a Major Antitrust Decision Impacting Google Compare with Samsung's Strategic Growth in Artificial Intelligence as Reflected on the Innovation Index?
-date: 2025-01-12T21:08:13.931Z
-updated: 2025-01-19T21:21:49.122Z
+date: 2025-01-24T16:20:22.138Z
+updated: 2025-01-25T18:47:30.303Z
 tags:
   - apple
 categories:
@@ -71,28 +71,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-from-footage-to-followers-uploading-on-twitter/"><u>[New] 2024 Approved From Footage to Followers Uploading on Twitter</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-instagram-edge-vertical-footage-editing-techniques-on-final-cut-x/"><u>[New] 2024 Approved The Instagram Edge Vertical Footage Editing Techniques on Final Cut X</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlock-10-passport-images-at-no-cost-desktopweb/"><u>[New] 2024 Approved Unlock 10 Passport Images at No Cost – Desktop/Web</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-charting-youtubes-course-for-video-short-growth-with-funding/"><u>2024 Approved Charting YouTube's Course for Video Short Growth with Funding</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/7-strategies-for-leveraging-chatgpts-visual-ai/"><u>7 Strategies for Leveraging ChatGPT's Visual AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-with-bots-understanding-censorship-practices/"><u>Behind the Scenes with Bots: Understanding Censorship Practices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-with-gpt-4-revealing-secrets-of-7-revolutionary-application-designs/"><u>Behind The Scenes with GPT-4: Revealing Secrets Of 7 Revolutionary Application Designs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-artificial-intelligence-be-a-friend-to-the-mind/"><u>Can Artificial Intelligence Be a Friend to the Mind?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/complete-control-over-your-youtube-viewing-experience/"><u>Complete Control Over Your YouTube Viewing Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722020651144-discover-top-6-engaging-games-featuring-chatgpt-try-them-now/"><u>Discover Top 6 Engaging Games Featuring ChatGPT - Try Them Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elite-snapdragon-laptops-surpass-15-hour-battery-life-how-they-stack-up-against-intel/"><u>Elite Snapdragon Laptops Surpass 15-Hour Battery Life: How They Stack Up Against Intel</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-realme-c53-by-fonelab-android-recover-music/"><u>How to recover old music from your Realme C53</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722159707964-localize-the-power-of-conversational-ai-free-and-easy-installation-of-a-chatgpt-clone-via-gpt4all-for-your-pc/"><u>Localize the Power of Conversational AI: Free and Easy Installation of a ChatGPT Clone via GPT4All for Your PC!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-platforms-facebook-twitter-instagram-youtube/"><u>Navigating the Big Four Platforms - Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722200350019-surprise-skill-unleashed-learn-the-art-of-engaging-with-chatgpt/"><u>Surprise Skill Unleashed: Learn the Art of Engaging with ChatGPT!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970171-9781088233085-treize-ames/"><u>Treize Ãmes | Free Book</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/visionary-vehicles-5-headlamp-upgrades-to-consider/"><u>Visionary Vehicles: 5 Headlamp Upgrades to Consider</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-makes-a-chatgpt-code-interpreter-crucial-in-todays-ai-landscape/"><u>What Makes a ChatGPT Code Interpreter Crucial in Today's AI Landscape?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-blind-trust-can-lead-us-astray-in-the-age-of-ai/"><u>Why Blind Trust Can Lead Us Astray in the Age of AI</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-sky-cameras-battle-dji-pro-versus-gopro-fury/"><u>[New] In 2024, Sky Cameras Battle DJI Pro Versus GoPro Fury</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-are-opinions-on-goods-compensated-in-videos-in-2024/"><u>[Updated] Are Opinions on Goods Compensated in Videos, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pioneering-techniques-in-health-and-wellness-fb-campaigns/"><u>[Updated] In 2024, Pioneering Techniques in Health & Wellness FB Campaigns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/asking-ai-the-right-way-chatgpts-role-in-your-next-vehicle-upgrade/"><u>Asking AI the Right Way: ChatGPT's Role in Your Next Vehicle Upgrade</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-the-evolving-landscape-of-ai-powered-conversational-agents-and-their-potential-impact/"><u>Beyond ChatGPT: The Evolving Landscape of AI-Powered Conversational Agents and Their Potential Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-browser-ai-7-excellent-extensions/"><u>Boosting Browser AI: 7 Excellent Extensions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-nubia-z50s-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Nubia Z50S Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/incorporating-ai-magic-enhancing-your-dungeons-and-dragons-gameplay-using-chatgpt/"><u>Incorporating AI Magic: Enhancing Your Dungeons & Dragons Gameplay Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-scope-of-chatgpt-understanding-and-expanding-the-input-length-ceiling/"><u>The Scope of ChatGPT: Understanding and Expanding the Input Length Ceiling</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-top-windows-to-do-apps/"><u>The Ultimate Guide to Top Windows To-Do Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-silence-is-golden-when-talking-to-gpt/"><u>Why Silence Is Golden When Talking to GPT</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

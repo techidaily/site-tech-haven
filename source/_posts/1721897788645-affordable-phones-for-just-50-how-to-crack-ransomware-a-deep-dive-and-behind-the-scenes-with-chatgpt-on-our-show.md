@@ -1,7 +1,7 @@
 ---
 title: Affordable Phones for Just $50, How to Crack Ransomware - A Deep Dive, and Behind the Scenes with ChatGPT on Our Show
-date: 2024-08-09T20:27:39.189Z
-updated: 2024-08-10T20:27:39.189Z
+date: 2025-01-19T19:21:05.037Z
+updated: 2025-01-25T17:02:59.270Z
 tags:
   - chatgpt
   - open-ai
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
 This week, we chat about the following tech news that matters:
@@ -47,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -63,4 +61,24 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-gaming-experience-on-youtube/"><u>2024 Approved Elevate Your Gaming Experience on YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/alexa-integrated-ultra-hd-ready-insignia-ns-43df710na19-fire-tv-edition-an-unbeatable-combination/"><u>Alexa Integrated, Ultra HD Ready Insignia NS-43DF710NA19 Fire TV Edition - An Unbeatable Combination!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-cybersecurity-unveiling-the-hidden-dangers-to-bank-data/"><u>ChatGPT and Cybersecurity: Unveiling the Hidden Dangers to Bank Data</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-syma-x8c-to-previous-models/"><u>Comparing Syma X8C to Previous Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-chatgpts-maximum-text-intake-strategies-to-extend-its-reach/"><u>Decoding ChatGPT's Maximum Text Intake: Strategies to Extend Its Reach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-new-dimensions-with-8-inspiring-prompts-for-dall-e-artistry/"><u>Explore New Dimensions with 8 Inspiring Prompts for DALL-E Artistry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-guide-to-using-openais-new-gpt-based-shop-get-started-today/"><u>Immediate Guide to Using OpenAI's New GPT-Based Shop – Get Started Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-openai-playground-a-comprehensive-tutorial-for-leveraging-gpt-3/"><u>Inside OpenAI Playground: A Comprehensive Tutorial for Leveraging GPT-3</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-google-meet-professionally-free-of-charge-for-2024/"><u>Navigating Google Meet Professionally, Free of Charge for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/openai-empowers-chatgpt-with-verbal-interaction-capabilities-for-command-response/"><u>OpenAI Empowers ChatGPT with Verbal Interaction Capabilities for Command Response</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/opening-docx-files-made-easy-with-yl-softwares-comprehensive-tutorial/"><u>Opening DOCX Files Made Easy with YL Software's Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-audience-expansion-without-breaking-the-bank/"><u>Rapid Audience Expansion Without Breaking the Bank</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104671957-resolving-non-responsive-hp-wireless-keyboard-problems-effective-solutions-inside/"><u>Resolving Non-Responsive HP Wireless Keyboard Problems - Effective Solutions Inside!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sarah-silverman-leading-the-charge-against-ai-dominance/"><u>Sarah Silverman Leading the Charge Against AI Dominance</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/simplified-methods-for-migrating-snapshots-to-storage/"><u>Simplified Methods for Migrating Snapshots to Storage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-expert-insights-on-computer-components-and-gadgets/"><u>Tom's Tech Hub: Expert Insights on Computer Components and Gadgets</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-the-paperclip-maximizer-problem-and-its-impact-on-machine-intelligence/"><u>Unraveling the Mystery of the Paperclip Maximizer Problem and Its Impact on Machine Intelligence</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Asset Authorship: Who Responsible For AI's Intellectual Works?"
-date: 2024-08-09T20:26:34.898Z
-updated: 2024-08-10T20:26:34.898Z
+date: 2025-01-23T16:00:57.555Z
+updated: 2025-01-25T16:21:02.789Z
 tags:
   - chatgpt
   - open-ai
@@ -24,18 +24,20 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
 
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -46,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -57,9 +60,9 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -71,9 +74,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -88,8 +91,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +98,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-becoming-a-clone-mastermind-perfecting-the-copycat-artistry-on-tiktok/"><u>[New] Becoming a Clone Mastermind Perfecting the Copycat Artistry on TikTok</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/resh-start-strategy-budget-channels-to-purchase/"><u>[New] Fresh Start Strategy Budget Channels to Purchase</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-new-worlds-a-look-at-vr-today/"><u>[New] In 2024, Navigating New Worlds A Look at VR Today</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-craft-memes-for-comedy-using-adobe/"><u>[Updated] Craft Memes for Comedy Using Adobe</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-outshine-others-expert-tips-on-making-youtube-shorts-pop/"><u>[Updated] In 2024, Outshine Others Expert Tips on Making YouTube Shorts Pop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/expansive-movement-assessment-2023-for-2024/"><u>Expansive Movement Assessment 2023 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-integrate-chatgpt-into-your-windows-experience/"><u>How To Seamlessly Integrate ChatGPT Into Your Windows Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-world-of-youtube-music-shorts/"><u>In 2024, Navigating the World of YouTube Music Shorts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-reno-10-proplus-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Reno 10 Pro+ 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/surviving-the-wild-with-help-from-ai-can-chatgpt-assist-you/"><u>Surviving the Wild with Help From AI: Can ChatGPT Assist You?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-c67-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme C67 5G Location | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-chatgpt-and-plugin-interaction-woes/"><u>Troubleshooting: ChatGPT & Plugin Interaction Woes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-huggingchat-an-insight-into-the-accessible-community-supported-option-against-chatgpt/"><u>Understanding HuggingChat - An Insight Into the Accessible, Community Supported Option Against ChatGPT</u></a></li>
+</ul></div>
 

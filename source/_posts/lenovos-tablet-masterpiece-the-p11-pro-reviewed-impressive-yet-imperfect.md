@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Tablet Masterpiece: The P11 Pro Reviewed - Impressive Yet Imperfect"
-date: 2024-08-09T20:34:22.174Z
-updated: 2024-08-10T20:34:22.174Z
+date: 2025-01-22T18:25:22.363Z
+updated: 2025-01-25T16:14:59.131Z
 categories:
   - BestProducts
 description: "This Article Describes Lenovo's Tablet Masterpiece: The P11 Pro Reviewed - Impressive Yet Imperfect"
@@ -13,9 +13,6 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Apple iMac 24-inch (2021)
 
 ![Apple iMac M1 (2021)](https://www.lifewire.com/thmb/QMeKKKEIaEGlb5iMSj9uWY-ZYVw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_hero_1-SQ-5394e13bec9349e18a0eebd97ce4b3e4.jpg)
@@ -43,9 +40,6 @@ Lifewire/Jeremy Laukkonen
 
 4.4
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Apple iMac 24-inch (2021)
 
 ![Apple iMac M1 (2021)](https://www.lifewire.com/thmb/BAI9YNWyjZ6YgKDJefSHpykeO4g=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_hero_1-SQ-5394e13bec9349e18a0eebd97ce4b3e4.jpg)
@@ -86,10 +80,11 @@ Lifewire/Jeremy Laukkonen
 
  Apple could have taken the easy route and just swapped the M1 hardware into the existing iMac line, but the M1 iMac represents a total redesign from the ground up. The basic look is fairly similar, but the new design has cleaner lines, a uniformly thin body, thinner screen borders, and comes in a variety of attractive colors.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iMac M1 (2021)](https://www.lifewire.com/thmb/kWyk_ORWGF4cESW9qR4PB_fq-oU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_3-259902f12007403184368f631caabff7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire/Jeremy Laukkonen
 
@@ -112,8 +107,9 @@ Lifewire/Jeremy Laukkonen
  While the jump to Apple silicon is the biggest story here, Apple really hit the design out of the park as well. This is an all-in-one that looks great from every angle. It’s a shame it’s held back by a few small issues, like a baffling lack of ports, but that doesn’t stop it from looking great on your desk.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Display: Beautiful 24-inch retina display
 
  Apple bumped the screen size from 21.5 inches to 24 inches for the M1 iMac refresh, and the difference is remarkable. Apple refers to the panel as a 4.5K[Retina display](https://www.lifewire.com/what-is-retina-display-2000362) , which translates to a resolution of 4480 x 2520 and a pixel density of 218ppi in terms of hard numbers.
@@ -121,8 +117,9 @@ Lifewire/Jeremy Laukkonen
  Colors also look fantastic, as the display covers the entire[DCI-P3 gamut](https://www.lifewire.com/what-is-true-tone-display-4048131) , and it’s quite bright as well. I found myself running it at about 60 percent most of the time, despite the big, south-facing windows in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Performance: The M1 chip continues to impress
 
  The 2021 iMac packs in the same M1 chip first seen in the 2020 Mac mini and MacBooks, and it’s just as impressive here. The version of the hardware I tested came with an 8-core CPU and 7-core GPU, but you can also get the 2021 iMac with an 8-core GPU if you need the extra performance.
@@ -151,9 +148,6 @@ Lifewire/Jeremy Laukkonen
 
  While the TouchID option isn't available with the base-level model I tested, I know from experience with the M1 MacBook Air that the inclusion of TouchID is a big productivity boost as it allows you to skip entering passwords and easily swap users. The base level Magic Keyboard swaps in a lock key for the TouchID button, which is less useful.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple iMac M1 (2021)](https://www.lifewire.com/thmb/M5SVrQdMYUOt-gMWcR5czP6dNlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_2-c80d821c9b544a8e939ebba9d01b49ba.jpg)
 
 Lifewire/Jeremy Laukkonen
@@ -168,18 +162,12 @@ Lifewire/Jeremy Laukkonen
 
  The 2021 iMac packs in a surprisingly competent six speaker system, with support for spatial audio, into its thin frame.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Apple iMac M1 (2021)](https://www.lifewire.com/thmb/2aQbf-BzdAnbs61RJL_5e7pUGzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_4-92a8c431947c41c382624699198b96ff.jpg)
 
 Lifewire/Jeremy Laukkonen
 
  If you do want to use headphones, the 2021 iMac features an audio jack on the left side of the frame. It also has built-in Bluetooth connectivity, so you can hook up your favorite pair of headphones.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Network: Great speeds over Ethernet and Wi-Fi 6
 
  The 2021 M1 iMac doesn’t have a built-in Ethernet connection, but some models do come with an Ethernet connection in the power brick. Every version supports[Wi-Fi 6](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) though, with backwards compatibility to[Wi-Fi 5](https://www.lifewire.com/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553) if you haven’t upgraded your router yet. I spent most of my time with the iMac connected to an Eero Wi-Fi 5 network that I use because range is more important to me than speed, but I also tested it on a Wi-Fi 6 network and with an Ethernet adapter.
@@ -187,6 +175,10 @@ Lifewire/Jeremy Laukkonen
  Network speeds were excellent, across the board, compared to other devices I’ve used and tested.
 
  In addition to Wi-Fi and wired connections, the M1 iMac also features[Bluetooth 5.0](https://www.lifewire.com/bluetooth-5-4160255) . The Bluetooth connection is primarily used to connect the Magic Keyboard and Magic Mouse 2, but I also used it with a pair of AirPods Pro and my Avantree Ario Podio headphones. Sound quality and range were both excellent thanks to the Bluetooth 5.0 support, and I was able to listen to music and podcasts throughout my house.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Camera: 1080P FaceTime camera
 
@@ -202,6 +194,10 @@ Lifewire/Jeremy Laukkonen
 
  Photoshop and other popular apps are slated to eventually get M1 support, but I’ve found Rosetta 2 to deliver more than acceptable performance in the meantime.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s New: Apple’s M1 chip and a visual refresh
 
  The iMac (2021) has received a laundry list of changes and updates since the last entry in the line back in 2016\. The biggest news is the inclusion of Apple silicon in the form of the M1 chip, but that’s only the tip of the iceberg.
@@ -214,11 +210,16 @@ Lifewire/Jeremy Laukkonen
 
 ![Apple iMac M1 (2021)](https://www.lifewire.com/thmb/X35BpUO8w1Zk_PhNSA9TmEgvZpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iMacM12021_1-0dc585a074e64b749bea01aad82d498c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire/Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## M1 iMac (2021) vs. M1 Mac mini
 
  This might seem like an odd comparison, but it’s an important one. The 2021 iMac and 2020 Mac mini have very similar hardware, with the major difference being the iMac is an all-in-one with a beautiful display, while the Mac mini doesn’t have a built-in display.
@@ -234,8 +235,9 @@ Lifewire/Jeremy Laukkonen
  The new iMac (M1, 2021) is a massive improvement over its predecessor, offering excellent performance, a beautiful Retina display, great sound, and a slick, colorful look. Power users who need more memory or a more powerful graphics chip may want to wait for an update to the iMac Pro line, but just about everyone else should be satisfied by this hardware.  
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Apple iMac 21.5-inch 4K](https://www.lifewire.com/apple-imac-21-5-inch-4k-review-4689108)
@@ -269,8 +271,6 @@ Lifewire/Jeremy Laukkonen
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +278,26 @@ Lifewire/Jeremy Laukkonen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-illustrate-effortlessly-prime-ios-design-software/"><u>[New] Illustrate Effortlessly Prime iOS Design Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-pathway-understanding-adobes-storage-solutions-and-best-backups/"><u>[Updated] The Ultimate Pathway Understanding Adobe's Storage Solutions & Best Backups</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-steps-to-backup-windows-11-files-to-another-drive/"><u>7 Steps to Backup Windows 11 Files to Another Drive</u></a></li>
+<li><a href="https://fox-access.techidaily.com/audio-integration-into-visual-screens-via-apple/"><u>Audio Integration Into Visual Screens via Apple</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/auto-playing-youtube-content-a-comprehensive-guide-to-looping-your-favorite-videos/"><u>Auto-Playing YouTube Content: A Comprehensive Guide to Looping Your Favorite Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beginners-tutorial-on-crafting-essential-forms-using-microsoft-excel-features/"><u>Beginners' Tutorial on Crafting Essential Forms Using Microsoft Excel Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808370522-best-2-methods-to-extract-audio-from-youtube-video-easily/"><u>Best 2 Methods to Extract Audio From YouTube Video Easily!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-beyond-turings-original-scale/"><u>Breaking Barriers: Beyond Turing's Original Scale</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-kodi-setup-on-xbox-one-step-by-step-instructions/"><u>Complete Guide: Kodi Setup on Xbox One - Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-fixes-for-the-persistent-camera-error-code-0xa00f4244-on-windows-11-devices/"><u>DIY Fixes for the Persistent 'Camera Error Code 0Xa00f4244' On Windows 11 Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-to-speed-up-laptop-windows-10-7-and-81-quickly-and-easily/"><u>Easy to Speed up Laptop | Windows 10, 7 and 8.1 | Quickly & Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-to-speed-up-laptop-windows-11-7-and-81-quickly-and-easily/"><u>Easy to Speed up Laptop | Windows 11, 7 and 8.1 | Quickly & Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-downloads-compatible-hp-driver-packs-for-new-windows-11-users/"><u>Effortless Downloads: Compatible HP Driver Packs for New Windows 11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-computers-audio-easy-steps-to-reinstall-realtek-hd-sound-driver-for-windows-users/"><u>Enhance Your Computer's Audio: Easy Steps to Reinstall Realtek HD Sound Driver for Windows Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-top-5-audio-recording-approaches-on-windows-11-platform/"><u>In 2024, Best Practices Top 5 Audio Recording Approaches on Windows 11 Platform</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-effortless-snapchat-setup-for-mac-enthusiasts/"><u>In 2024, Effortless Snapchat Setup for Mac Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/monitor-and-manage-your-co2-footprint-easily-the-latest-mobile-application-reviewed-on-zdnet/"><u>Monitor and Manage Your CO2 Footprint Easily: The Latest Mobile Application Reviewed on ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-pop-8-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Pop 8 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lag-proven-strategies-for-increasing-fps-in-valorant-2024s-best-fixes/"><u>Say Goodbye to Lag: Proven Strategies for Increasing FPS in Valorant - 2024'S Best Fixes</u></a></li>
+</ul></div>
 

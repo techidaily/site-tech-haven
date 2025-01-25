@@ -1,7 +1,7 @@
 ---
 title: Exploring the Boundaries of AI with OpenAI
-date: 2024-08-09T20:34:36.833Z
-updated: 2024-08-10T20:34:36.833Z
+date: 2025-01-24T18:49:40.912Z
+updated: 2025-01-25T17:01:51.174Z
 tags:
   - chatgpt
   - open-ai
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -45,10 +41,11 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
@@ -58,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
  This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
@@ -69,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -80,17 +71,17 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -99,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -110,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -127,21 +119,19 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
 
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
- AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+ AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +140,26 @@ thumbnail: https://thmb.techidaily.com/487699a5f704513cc060e599888fe3388aa559fd7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-visionary-backdrop-transformers-photorealm-innovation/"><u>[Updated] 2024 Approved Visionary Backdrop Transformers PhotoRealm Innovation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-invisible-viewers-for-fb-chronicles-for-2024/"><u>[Updated] Invisible Viewers for FB Chronicles for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-seamless-steps-preserving-your-iphone-conversations-with-5-simple-archiving-techniques/"><u>1. Seamless Steps: Preserving Your iPhone Conversations with 5 Simple Archiving Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-the-art-of-continuous-snapstreak-success/"><u>2024 Approved Mastering the Art of Continuous Snapstreak Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/addressing-non-responsive-sleep-mode-in-windows-10-a-comprehensive-fix/"><u>Addressing Non-Responsive Sleep Mode in Windows 10: A Comprehensive Fix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/arch-linux-and-post-update-woes-restoring-full-functionality-to-your-bluetooth-mouse-with-ease/"><u>Arch Linux and Post-Update Woes: Restoring Full Functionality to Your Bluetooth Mouse with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/"><u>Boost Your PC's Speaker Performance with a New Install of Realtek HD Audio Manager in Win 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-csgo-gameplay-a-definitive-guide-to-maximizing-frame-rate/"><u>Boosting Your CS:GO Gameplay: A Definitive Guide to Maximizing Frame Rate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-audio-barriers-the-ultimate-speaker-system-that-beats-bose-and-sonos-zdnet-recommendation/"><u>Breaking Audio Barriers: The Ultimate Speaker System That Beats Bose and Sonos (ZDNet Recommendation)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-updating-your-kodi-system-instantly-and-smoothly/"><u>Easy Steps: Updating Your Kodi System Instantly and Smoothly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-techniques-for-changing-the-angle-of-your-computer-monitor/"><u>Effective Techniques for Changing the Angle of Your Computer Monitor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-tips-and-tricks-efficiently-reverting-your-dell-laptop-to-its-original-state-via-hard-reset/"><u>Expert Tips & Tricks: Efficiently Reverting Your Dell Laptop to Its Original State via Hard Reset</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808318995-facing-issues-with-chatgpt-implement-these-5-straightforward-fixes-to-resume-your-interaction/"><u>Facing Issues With ChatGPT? Implement These 5 Straightforward Fixes to Resume Your Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808058729-how-to-uninstall-windows-10-and-downgrade-to-windows-7-or-windows-81-quickly-and-easily/"><u>How to Uninstall Windows 10 and Downgrade to Windows 7 or Windows 8.1, Quickly and Easily</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-samsung-galaxy-budsplus-a-complete-hands-on-experience/"><u>In-Depth Review of Samsung Galaxy Buds+: A Complete Hands-On Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/metaverse-enthusiasts-secret-to-simple-avatars/"><u>Metaverse Enthusiasts' Secret to Simple Avatars</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95544215--the-unfolding-now/"><u>The Unfolding Now | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-enablingdisabling-windows-key-filters/"><u>Tips for Enabling/Disabling Windows' Key Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-your-spoken-language-into-written-communication-using-whisper-on-windows/"><u>Turning Your Spoken Language Into Written Communication Using Whisper on Windows</u></a></li>
+</ul></div>
 

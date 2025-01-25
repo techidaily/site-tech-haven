@@ -1,7 +1,7 @@
 ---
 title: "Author's Guide to Dynamic Characters: Leveraging the Power of ChatGPT"
-date: 2024-08-09T20:26:36.799Z
-updated: 2024-08-10T20:26:36.799Z
+date: 2025-01-23T18:00:08.712Z
+updated: 2025-01-25T18:16:27.947Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,11 @@ Imagine you are a movie and TV show recommendation expert. A user wants to find 
 
  We used the prompt above and then asked ChatGPT to provide TV shows similar to "The Walking Dead" :
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Similar tv shows recommendation from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/similar-tv-shows-recommendation-from-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Try a Different Genre
 
@@ -54,9 +55,6 @@ I've seen a lot of TV shows based on spy, romance, and war themes. I want you to
 
 Trying the prompt above, we had:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![radically different TV shows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radically-different-tv-shows.jpg)
 
 ## 3\. Identify Movies With a Desired Storyline
@@ -71,9 +69,6 @@ I would like to request a list of five TV shows that feature a female protagonis
 
 We tried the prompt above and got some very enticing suggestions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![TV shows with a certain storyline-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-shows-with-a-certain-storyline-1.jpg)
 
 ## 4\. Help Remember a Movie You've Forgotten
@@ -86,19 +81,12 @@ Below is an example of a prompt that can help you with such a request:
 
  When we tried the prompt above, we had the exact movie we had in mind, which was the 2000 movie "Romeo Must Die."
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![ChatGPT finds movies from description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-finds-movies-from-description.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use ChatGPT to Discover Lesser-Known or Underrated Movies
 
  There are a lot of hidden gems sitting around in the catalogs of streaming services. A number of them are better than similar titles with better publicity. ChatGPT can help you discover some of these lesser-known movies you may have overlooked.
@@ -108,8 +96,9 @@ Below is an example of a prompt that can help you with such a request:
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Research Movies Starring Your Favorite Actors
 
  You just watched an amazing TV show with an unfamiliar lead actor. You enjoyed their performance and want to see more of their movies. Or, maybe you just want to research more movies from popular actors you follow. Whichever is the case, ChatGPT can assist you with that. You can simply use prompts like:
@@ -120,10 +109,11 @@ Below is an example of a prompt that can help you with such a request:
 * Suggest some romantic comedies with Sandra Bullock as the lead actress.
 * Can you suggest some animated movies suitable for children with voice acting by Tom Hanks?
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Discover Movies From Short Clips
 
@@ -131,20 +121,21 @@ Below is an example of a prompt that can help you with such a request:
 
  Simply share the details of the scene and the dialogue from the clip, and ask ChatGPT to provide[movie recommendations](https://www.makeuseof.com/unique-ways-to-find-film-and-tv-show-recommendations/) that match the description. While it might not always yield perfect results, you'll be amazed by the commendable effort it puts in to assist you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Let ChatGPT Be Your Personal Movie Recommender
 
  Whether it's a blockbuster thriller, a heart-warming rom-com, a spine-chilling horror, or a timeless classic, ChatGPT can help you narrow down movies and TV shows that truly resonate with you.
 
  If you already use ChatGPT for work and studies, how about you try it for leisure as well? It's time to sit back and let ChatGPT take the reins of your movie journey.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +144,23 @@ Below is an example of a prompt that can help you with such a request:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-understanding-why-youre-not-seen-for-2024/"><u>[New] Understanding Why You're Not Seen for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-from-fragments-to-features-a-guide-to-tiktok-video-construction/"><u>[Updated] 2024 Approved From Fragments to Features A Guide to TikTok Video Construction</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-essential-guide-to-video-spinning-in-vlc-media-player/"><u>[Updated] 2024 Approved The Essential Guide to Video Spinning in VLC Media Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-prompt-injection-in-ai-understanding-its-working-mechanism/"><u>Decoding Prompt Injection in AI - Understanding Its Working Mechanism</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-personalized-chatbots-how-to-create-a-unique-gpt-powered-assistant/"><u>DIY Personalized Chatbots: How To Create a Unique GPT-Powered Assistant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-resume-game-with-ai-innovation/"><u>Elevate Your Resume Game with AI Innovation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-why-snapchats-my-ai-transcends-gimmicks-top-6-insights-you-cant-miss/"><u>Explore Why Snapchat’s My AI Transcends Gimmicks - Top 6 Insights You Can't Miss</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/handhelds-of-the-past-todays-computer-upgrade-guides/"><u>Handhelds of the Past, Today's Computer Upgrade Guides</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-11-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-13t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi 13T FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/leadership-in-the-digital-pitch-playing-manager-for-free/"><u>Leadership in the Digital Pitch: Playing Manager for FREE</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-how-to-download-and-update-epson-printers-on-windows-computers/"><u>Step-by-Step: How to Download and Update Epson Printers on Windows Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-crafting-persuasive-proposals-with-ai-assistance/"><u>The Ultimate Guide to Crafting Persuasive Proposals with AI Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unsubscribe-from-gpt-communication/"><u>Unsubscribe From GPT Communication</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-unavailable-armored/"><u>Xbox 360 Emulation Unavailable: Armored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/zoom-meetings-made-simple-with-camera-snaps/"><u>Zoom Meetings Made Simple with Camera Snaps</u></a></li>
+</ul></div>
 

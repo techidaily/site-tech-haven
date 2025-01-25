@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2025-01-14T17:38:30.436Z
-updated: 2025-01-19T20:43:14.517Z
+date: 2025-01-20T18:22:16.469Z
+updated: 2025-01-25T18:35:33.675Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,19 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-device-agnostic-recording-techniques-for-youtube-live-streams/"><u>[Updated] 2024 Approved Master Device-Agnostic Recording Techniques for YouTube Live Streams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-tips-for-restarting-disrupted-fb-live-videos/"><u>2024 Approved Tips for Restarting Disrupted FB Live Videos</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1728487345441-youtube5/"><u>如何在YouTube上恢复已删除的视频：5个技巧与指南</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boost-productivity-with-slack-alert-systems-a-detailed-exploration/"><u>Boost Productivity with Slack Alert Systems: A Detailed Exploration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-error-handling-a-closer-look-at-6-common-problems-and-solutions/"><u>ChatGPT Error Handling: A Closer Look at 6 Common Problems and Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-for-remote-success-stories-discover-6-key-approaches/"><u>ChatGPT for Remote Success Stories – Discover 6 Key Approaches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatting-to-the-future-gpt-and-bing-in-ai-dialogue-duel/"><u>Chatting to the Future: GPT & Bing in AI Dialogue Duel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cyber-shifts-and-sways-prognosticating-top-7-trends/"><u>Cyber Shifts and Sways: Prognosticating Top 7 Trends</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-on-your-preferred-ai-companion-evaluating-chatgpt-against-microsoft-bings-creation-and-google-bard/"><u>Deciding on Your Preferred AI Companion - Evaluating ChatGPT Against Microsoft Bing's Creation & Google Bard</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-conversations-unveiling-the-process-of-chatgpt/"><u>Decoding Conversations: Unveiling the Process of ChatGPT</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-the-balance-between-cost-and-convenience-with-the-microsoft-surface-laptop-go/"><u>Discovering the Balance Between Cost and Convenience with the Microsoft Surface Laptop Go</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-up-space-a-comprehensive-method-to-empty-cache-on-android-devices/"><u>Free Up Space: A Comprehensive Method to Empty Cache on Android Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-f04-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy F04 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-11-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 11 Pro to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-easy-obs-youtube-live-streaming-guide/"><u>[New] Easy OBS YouTube Live Streaming Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-navigating-current-and-future-of-drone-use-for-2024/"><u>[New] Navigating Current and Future of Drone Use for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-melody-to-video-quick-sound-import-tricks/"><u>[Updated] Melody to Video Quick Sound Import Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-aerial-cutting-edge-the-ultimate-drone-editing-comparison/"><u>2024 Approved Aerial Cutting Edge The Ultimate Drone Editing Comparison</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-c210-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on C210</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-a-captivating-story-integrating-images-on-instagram-for-2024/"><u>Craft a Captivating Story Integrating Images on Instagram for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficient-video-encoding-with-ffmpeg-a-step-by-step-tutorial-on-reducing-file-sizes/"><u>Efficient Video Encoding with FFmpeg: A Step-by-Step Tutorial on Reducing File Sizes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-complete-windows-11-build-15031-download-when-its-frozen-on-initialization/"><u>How to Complete Windows 11 Build 15031 Download When It's Frozen on Initialization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-configure-rdc-on-windows-10-a-comprehensive-guide/"><u>How to Configure RDC on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-create-restore-point-in-windows-10/"><u>How to Create Restore Point in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-delete-browsing-history-in-microsoft-edge/"><u>How to Delete Browsing History in Microsoft Edge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-modify-the-timeout-timer-on-windows-10s-lock-screen/"><u>How to Modify the Timeout Timer on Windows 10'S Lock Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-overcome-error-code-54-on-iphone-troubleshooting-itunes-sync-issues-after-windows-11-upgrade/"><u>How to Overcome Error Code -54 on iPhone: Troubleshooting iTunes Sync Issues After Windows 11 Upgrade</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-gaming-rigs-logitech-momo-steering-wheel-drivers-and-demo-for-pc-available-now/"><u>Upgrade Your Gaming Rigs - Logitech MOMO Steering Wheel Drivers & Demo for PC Available Now!</u></a></li>
 </ul></div>
 

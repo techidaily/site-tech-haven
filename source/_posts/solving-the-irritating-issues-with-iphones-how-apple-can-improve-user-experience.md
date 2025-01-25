@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2025-01-14T19:50:26.988Z
-updated: 2025-01-19T21:01:22.149Z
+date: 2025-01-20T19:04:34.007Z
+updated: 2025-01-25T16:02:09.926Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,10 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -61,6 +57,10 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-the-smartphone-lens-creating-sweeping-panos-for-2024/"><u>[New] The Smartphone Lens Creating Sweeping Panos for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-streamlining-youtube-audio-pace-via-devices/"><u>[Updated] 2024 Approved Streamlining YouTube Audio Pace via Devices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-headset-audio-fixes-mend-that-silent-mic-now/"><u>Astro A50 Headset Audio Fixes - Mend That Silent Mic Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-windows-7-sound-card-driver-download-updated-guide/"><u>Free Windows 7 Sound Card Driver Download: Updated Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fun-on-a-budget-meme-creators-handbook/"><u>Fun on a Budget – Meme Creator’s Handbook</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-over-music-flow-the-art-of-audio-blending/"><u>In 2024, Mastery Over Music Flow The Art of Audio Blending</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-windows-upside-down-error/"><u>Rectifying Window's Upside-Down Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-power-of-openais-shapley-values-how-they-transform-model-clarity-and-decision-making/"><u>The Power of OpenAI's Shapley Values: How They Transform Model Clarity and Decision Making</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-rise-of-bard-googles-new-ai-ambition-against-chatgpt/"><u>The Rise of 'Bard': Google's New AI Ambition Against ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-on-generating-bulk-visuals-and-text-with-canva-and-chatgpt/"><u>The Ultimate Tutorial on Generating Bulk Visuals and Text with Canva & ChatGPT</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-to-clearing-dns-in-microsofts-latest-windows-versions/"><u>The Ultimate Tutorial to Clearing DNS in Microsoft's Latest Windows Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncovering-genuine-chatbot-programming-on-ios/"><u>Uncovering Genuine ChatBot Programming on iOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-best-practices-for-using-chatgpt-as-a-writer/"><u>Unlocking Potential: Best Practices for Using ChatGPT as a Writer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmatched-add-ons-supercharging-your-gpt-experience-in-vs-code/"><u>Unmatched Add-Ons: Supercharging Your GPT Experience in VS Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upgrade-to-excellence-discover-9-superior-reasons-for-choosing-chatgpt-plus/"><u>Upgrade to Excellence: Discover 9 Superior Reasons for Choosing ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-ai-shines-brighter-evaluating-chatgpt-vs-gemini-in-the-world-of-software-development/"><u>Which AI Shines Brighter? Evaluating ChatGPT Vs. Gemini in the World of Software Development</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-game-changing-ways-for-designing-cover-art/"><u>[New] 10 Game-Changing Ways for Designing Cover Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-vegaspro-the-19-edition/"><u>[New] Unveiling VegasPro The '19 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-out-essential-vr-dictionary-words/"><u>[Updated] Inside Out Essential VR Dictionary Words</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ps5-storage-revamped-topping-10-external-units-for-2024/"><u>[Updated] PS5 Storage Revamped Topping 10 External Units for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eradicate-ghost-touch-problems-on-iphones-with-these-10-strategies/"><u>Eradicate Ghost Touch Problems on iPhones with These 10 Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-12plus-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on 12+ 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-hidden-powerhouses-in-your-instagram-toolkit/"><u>In 2024, The Hidden Powerhouses in Your Instagram Toolkit</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-ai-powered-assistants-microsofts-copilot-now-in-mobile-word-powerpoint-and-excel-what-you-should-know/"><u>Introducing AI-Powered Assistants: Microsoft's Copilot Now in Mobile Word, PowerPoint & Excel - What You Should Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-the-all-new-electric-escalade-by-cadillac-an-impressive-450-mile-journey-awaits/"><u>Introducing the All-New Electric Escalade by Cadillac – An Impressive 450 Mile Journey Awaits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-ai-chatbots-to-fall-prey-to-human-like-social-engineering-schemes/"><u>Is It Possible for AI Chatbots to Fall Prey to Human-Like Social Engineering Schemes?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/laptops-vs-smartphones-the-clear-advantage-of-folding-technology-on-pcs/"><u>Laptops Vs. Smartphones: The Clear Advantage of Folding Technology on PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launch-of-metas-groundbreaking-cambria-virtual-reality-device-slated-for-october-release/"><u>Launch of Meta's Groundbreaking Cambria Virtual Reality Device Slated for October Release</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unbeatable-hard-drives-to-upgrade-your-xbox-gear-for-2024/"><u>Unbeatable Hard Drives to Upgrade Your Xbox Gear for 2024</u></a></li>
 </ul></div>
 

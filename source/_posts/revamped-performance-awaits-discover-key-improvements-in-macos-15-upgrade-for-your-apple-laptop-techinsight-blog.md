@@ -1,7 +1,7 @@
 ---
 title: "Revamped Performance Awaits: Discover Key Improvements in MacOS 15 Upgrade for Your Apple Laptop | TechInsight Blog"
-date: 2025-01-16T20:23:14.743Z
-updated: 2025-01-19T17:20:10.692Z
+date: 2025-01-23T16:36:17.304Z
+updated: 2025-01-25T18:31:09.744Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -68,10 +72,6 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -83,10 +83,6 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -101,7 +97,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -115,7 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -127,6 +123,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,16 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/comprehensive-guide-to-xbox-screen-recording-success-for-2024/"><u>Comprehensive Guide to Xbox Screen Recording Success for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-epson-l3150-printer-drivers-on-windows-operating-systems-windows-1087/"><u>How to Install Updated Epson L3150 Printer Drivers on Windows Operating Systems (Windows 10/8/7)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlining-mov-files-on-windows-11-os/"><u>In 2024, Streamlining MOV Files on Windows 11 OS</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-smart-7-hd-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 7 HD Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ransomware-unveiled-secure-your-device-for-just-50-plus-insights-on-how-chatgpt-contributes-to-our-show/"><u>Ransomware Unveiled: Secure Your Device for Just $50 - Plus, Insights on How ChatGPT Contributes to Our Show</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-tackling-the-windows-chatgpt-maximum-capacity-reached-alert/"><u>Step-by-Step Guide: Tackling the Window’s ‘ChatGPT Maximum Capacity Reached’ Alert</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essentials-of-ai-prompt-engineering-and-its-viability-as-a-lifelong-profession/"><u>The Essentials of AI Prompt Engineering and Its Viability as a Lifelong Profession</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolutionary-leap-in-ai-linguistics-introducing-palm-2/"><u>The Evolutionary Leap in AI Linguistics: Introducing PaLM 2</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-downloading-the-official-chatgpt-mobile-application/"><u>The Pitfalls of Downloading the Official ChatGPT Mobile Application</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-post-a-picture-on-youtube-for-2024/"><u>The Ultimate Guide to Post a Picture on YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>[New] In 2024, Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-metaverses-funny-bone-generating-hitsome-online-jokes/"><u>[Updated] The Metaverse's Funny Bone Generating Hitsome Online Jokes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-top-10-frugal-video-communication-platforms-catering-to-corporate-and-educational-needs/"><u>[Updated] The Top 10 Frugal Video Communication Platforms Catering to Corporate & Educational Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-resolving-missing-msvcr100dll-files-and-not-found-warnings/"><u>Easy Steps for Resolving Missing msvcr100.dll Files and Not Found Warnings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-top-7-gpt-4-powered-applications-unveiling-their-functionality/"><u>Exploring the Top 7 GPT-4 Powered Applications: Unveiling Their Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-personal-experience-a-component-of-chatgpts-continued-education-from-dialogues/"><u>Is Personal Experience a Component of ChatGPT’s Continued Education From Dialogues?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-fast-and-reliable-web-browsing-fixes-for-latency-issues/"><u>Mastering Fast and Reliable Web Browsing - Fixes for Latency Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/non-proprietary-serene-tunes-for-2024/"><u>Non-Proprietary Serene Tunes for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/secure-your-data-mastering-backup-and-restore-on-windows-11/"><u>Secure Your Data: Mastering Backup & Restore on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-basics-of-ai-made-easy-a-laymans-guide/"><u>The Basics of AI Made Easy - A Layman's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-final-verdict-on-generative-ai-tools-pitting-notion-ai-against-chatgpt/"><u>The Final Verdict on Generative AI Tools: Pitting Notion AI Against ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-securing-your-iphone-discover-the-most-innovative-and-stylish-smart-lock-solution/"><u>The Ultimate Guide to Securing Your iPhone: Discover the Most Innovative and Stylish Smart Lock Solution!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ubuntu-terminal-basics-for-chatgpt-enthusiasts/"><u>Ubuntu Terminal Basics for ChatGPT Enthusiasts</u></a></li>
 </ul></div>
 

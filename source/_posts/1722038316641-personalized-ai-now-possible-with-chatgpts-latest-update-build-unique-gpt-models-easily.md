@@ -1,7 +1,7 @@
 ---
 title: Personalized AI Now Possible with ChatGPT's Latest Update - Build Unique GPT Models Easily
-date: 2024-08-09T20:27:51.212Z
-updated: 2024-08-10T20:27:51.212Z
+date: 2025-01-19T17:38:43.111Z
+updated: 2025-01-25T18:10:24.395Z
 tags:
   - chatgpt
   - open-ai
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ## Personalized AI Now Possible with ChatGPT's Latest Update - Build Unique GPT Models Easily
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The arrival of GPT-4 Turbo introduces significant improvements to ChatGPT, including a larger context window, up-to-date knowledge base, and improved instruction following abilities. It offers the largest context window of any commercially available AI chatbot.
@@ -40,24 +37,27 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Ability to Create Custom GPTs
 
  GPT-4 Turbo’s arrival is big news, but what you’ll perhaps find more exciting is the ability GPTs feature. In its simplest form, custom GPTs allow you to create mini versions of ChatGPT customized for specific purposes. ​I knocked up an example of an extremely basic custom GPT in seconds, asking the model to help me in Football Manager 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -65,34 +65,33 @@ Close
 
  You could make other custom GPTs as well, like one for movie recommendations primed with a database of films. Then prompt your custom movie bot anytime you want a recommendation. The best part is that you’ll eventually be able to share these specialized GPTs publicly and potentially profit when others find them useful. Custom GPTs allow you to easily customize ChatGPT for specialized purposes beyond its general knowledge without the need to write any code.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Use Pre-Listed GPTs
 
  You can build a custom GPT, or you can choose from a long list of hundreds of pre-built options to supercharge your prompting experience. Since they are optimized for particular functions, you can get even better responses than regular ChatGPT for niche uses. The[pre-built GPTs have already been primed](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) with specialized knowledge to supercharge performance for targeted prompting.
 
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT’s Evolution Continues
 
  ChatGPT's meteoric rise shows no signs of slowing down. Whenever ChatGPT seems to be losing steam, OpenAI rolls out key upgrades that significantly improve the chatbot's capabilities. The AI chatbot is on a steep growth trajectory, evidenced by game-changing additions like the powerful GPT-4 Turbo model and the ability to build specialized GPTs.
 
  Looking ahead, we can expect even more enhancements as OpenAI continues to refine and expand ChatGPT's skills. Soon, ChatGPT may become an indispensable daily aid for many, providing helpful information and customized assistance on demand. Its regular improvements foreshadow a future where feature-rich AI becomes commonplace. For now, we suggest you grab a ChatGPT Plus account, sit back, and enjoy front-row seats as ChatGPT rapidly evolves before our eyes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +100,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-content-creator-your-youtube-journey-begins-for-2024/"><u>[New] From Novice to Content Creator Your YouTube Journey Begins for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-transform-video-vendoring-into-virtual-ventures-and-valuables/"><u>[New] In 2024, Transform Video Vendoring Into Virtual Ventures and Valuables</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultra-hd-marvel-hp-dreamcolor-z32-x-analysis/"><u>2024 Approved Ultra HD Marvel HP DreamColor Z32 X Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-intelligent-data-the-new-bing-search-app/"><u>Dive Into Intelligent Data: The New Bing Search App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-bookmark-and-revisit-past-chatgpt-interactions-anytime/"><u>Easy Steps to Bookmark & Revisit Past ChatGPT Interactions Anytime</u></a></li>
+<li><a href="https://solve-help.techidaily.com/erweitern-sie-ihre-raspberry-pi-sd-karten-unter-windows-7-8-10-und-11-klonen-tipps-and-tricks/"><u>Erweitern Sie Ihre Raspberry Pi SD-Karten Unter Windows 7, 8, 10 Und 11 - Klonen Tipps & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fine-tuning-ai-assistance-in-fitness-regimes-smart-chatgpt-prompt-crafting-methods/"><u>Fine-Tuning AI Assistance in Fitness Regimes: Smart ChatGPT Prompt Crafting Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-ready-to-race-with-the-latest-download-for-logitechs-momo-steering-wheel-compatible-with-pc/"><u>Get Ready to Race with the Latest Download for Logitech's MOMO Steering Wheel Compatible with PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-create-a-3d-text-art-effect-in-adobe-illustrator-for-2024/"><u>How to Create a 3D Text Art Effect in Adobe Illustrator for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sculpting-stories-with-specialty-fonts-in-after-effects/"><u>Sculpting Stories with Specialty Fonts in After Effects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-response-cap-what-are-the-restrictions-on-tokens-used/"><u>Understanding ChatGPT's Response Cap: What Are the Restrictions on Tokens Used?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visual-vortex-30-new-frontiers-in-art-with-dall-e-iii/"><u>Visual Vortex: 30 New Frontiers in Art with DALL-E III</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-apples-mac-mini-m1-2020-the-ultimate-guide-to-beating-the-competition-in-personal-computing/"><u>Why Apple's Mac Mini (M1, 2020): The Ultimate Guide to Beating the Competition in Personal Computing</u></a></li>
+</ul></div>
 

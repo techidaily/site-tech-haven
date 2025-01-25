@@ -1,7 +1,7 @@
 ---
 title: How PaLM 2 Elevates Google's Bard AI - Discover 7 Key Upgrades
-date: 2024-08-09T20:27:14.677Z
-updated: 2024-08-10T20:27:14.677Z
+date: 2025-01-21T17:54:03.234Z
+updated: 2025-01-25T19:18:24.167Z
 tags:
   - chatgpt
   - open-ai
@@ -17,14 +17,8 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
  On May 10th, 2023, Google announced a major upgrade to its large language model (LLM) chatbot Bard AI at Google I/O.Google's Pathways Language Model 2 (PaLM 2) will improve Bard's performance by featuring support for different programming languages, third-party extensions, integration with other Google products, and other interesting additions. Let's explore in detail how PaLM 2 will revolutionize Bard AI.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Support for Different Programming Languages
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
@@ -33,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
  PaLM 2 also offers Codey, a specialized AI model for coding and debugging. Codey will be a part of PaLM 2's generation and code completion service, among other functions. Already there are several ways Bard AI is overtaking ChatGPT in the AI chatbots league, like being free to use, connected to the internet, and accessible in over 180 countries.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Multilingual Capabilities
 
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
@@ -48,27 +39,30 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Med-PaLM 2
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
 
  According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Sec-PaLM 2
 
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
@@ -79,12 +73,13 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  PaLM 2 will bring third-party extensions to Bard, connecting Google with third-party brands like Adobe, Spotify, Khan Academy, and Uber Eats. For example, with Adobe integration, Bard can access Firefly, Adobe's image-generating tool. This will help you export images you generate into Adobe Express.
 
@@ -98,20 +93,21 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PaLM 2 WIll Revolutionize Google Bard
 
  PaLM 2 LLM has provided Google with an appropriate response to Microsoft's Bing search engine and OpenAI's ever-popular ChatGPT. The new upgrades to Bard will not only give you better satisfaction but provide you with increased safety across Google products.
 
  So keep your eyes open to see how these new upgrades to Bing AI will perform in the near future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +116,26 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-discover-every-aspect-of-io-visual-logging/"><u>[New] Discover Every Aspect of IO Visual Logging</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-skills-for-high-quality-screen-recordings-using-nvidia/"><u>[New] Essential Skills for High-Quality Screen Recordings Using NVIDIA</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/arm-up-your-visuals-a-guide-to-top-cozy-winter-backgrounds-for-2024/"><u>[New] Warm Up Your Visuals A Guide to Top Cozy Winter Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-explore-the-finest-top-8-android-mp3-downloader-apps/"><u>2024 Approved Explore the Finest Top 8 Android MP3 Downloader Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-generators-online/"><u>2024 Approved Giggle Generators Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-messaging-platforms-redefining-digital-correspondence-and-mail-services/"><u>Advanced Messaging Platforms: Redefining Digital Correspondence and Mail Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-aaaac-to-mp3-transcoders-top-5-reviews-and-comparison/"><u>Best AA/AAC to MP3 Transcoders - Top 5 Reviews & Comparison</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-thin-and-lightweight-kindle-paperwhite-case-options-reviewed-find-your-perfect-fit/"><u>Best Thin and Lightweight Kindle Paperwhite Case Options Reviewed - Find Your Perfect Fit!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comment-supprimer-avec-succes-les-protections-numeriques-des-livres-electroniques-epub-pdf-azw-prc/"><u>Comment Supprimer Avec Succès Les Protections Numériques Des Livres Électroniques : EPUB, PDF, AZW, PRC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-fundamentals-of-captivating-video-scripts/"><u>In 2024, The Fundamentals of Captivating Video Scripts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-mobile-accessibility-essential-techniques-for-site-improvement/"><u>Maximizing Mobile Accessibility: Essential Techniques for Site Improvement</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/resolving-missing-sound-in-obs/"><u>Resolving Missing Sound in OBS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-removing-drm-from-your-google-play-books/"><u>Step-by-Step Guide: Removing DRM From Your Google Play Books</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-removing-digital-rights-management-from-your-ebook-files/"><u>Step-by-Step Tutorial for Removing Digital Rights Management From Your eBook Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-android-audiobook-players-ultimate-list-of-app-recommendations/"><u>Top 7 Android Audiobook Players: Ultimate List of App Recommendations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-a-5-step-guide-to-writing-and-publishing-your-first-ebook/"><u>Unlocking the Secrets: A 5-Step Guide to Writing and Publishing Your First eBook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-hdr-and-4k-perfection-with-asus-proart-monitor-for-2024/"><u>Unveiling HDR & 4K Perfection with ASUS ProArt Monitor for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>Updated 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://discover-best.techidaily.com/winx-promedia-convert-high-quality-videos-und-audios-umschalten-kostenlos-in-mp4-und-mp3-formate/"><u>WinX ProMedia Convert: High-Quality Videos Und Audios Umschalten Kostenlos in MP4 Und MP3 Formate</u></a></li>
+</ul></div>
 

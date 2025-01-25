@@ -1,7 +1,7 @@
 ---
 title: "Tracing the Progress: The GPT Series Unveiled"
-date: 2024-08-09T20:37:28.072Z
-updated: 2024-08-10T20:37:28.072Z
+date: 2025-01-24T19:17:32.523Z
+updated: 2025-01-25T18:30:05.047Z
 tags:
   - chatgpt
   - open-ai
@@ -22,15 +22,16 @@ thumbnail: https://thmb.techidaily.com/bc534bc9ef4d9b3f9c6dd91c298512dc6fbda8926
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do ChatGPT Plugins Work?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
 
@@ -41,15 +42,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Sign Up for ChatGPT Plugins?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
 
@@ -61,20 +63,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Joining ChatGPT's Plugins Waitlist
 
  ChatGPT's new plugin feature enables users to connect language models to external resources, providing real-time and personalized data that can enhance the models' accuracy and usefulness. If you want to try this feature, sign up for ChatGPT Plus and join the waitlist. With some luck, you could be one of the first to use ChatGPT plugins when released.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +83,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-download-youtube-videos-without-any-software-13-proven-ways-for-2024/"><u>[New] How to Download YouTube Videos without Any Software [13 Proven Ways] for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-elite-compilation-9-online-mic-recorders-ranked-for-2024/"><u>[New] The Elite Compilation 9 Online Mic Recorders Ranked for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-android-tools-for-video-recording/"><u>[Updated] 2024 Approved Essential Android Tools for Video Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-final-cut-pro-x-mastery-crafting-instagrams-desired-format-for-2024/"><u>[Updated] Final Cut Pro X Mastery Crafting Instagram's Desired Format for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-leveraging-chatgpt-to-enhance-your-career-hunt/"><u>6 Effective Strategies: Leveraging ChatGPT to Enhance Your Career Hunt</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compreayers-must-have-top-10-free-passport-photo-tools-for-2024/"><u>A Compreayer's Must-Have Top 10 Free Passport Photo Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-understanding-and-utilizing-claude-2/"><u>A Comprehensive Guide to Understanding and Utilizing Claude 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-gpt4alls-operations/"><u>A Deep Dive Into GPT4All's Operations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-face-off-snapchats-intelligence-vs-bing-chat-on-skype-top-8-comparisons/"><u>AI Face-Off: Snapchat's Intelligence Vs. Bing Chat on Skype – Top 8 Comparisons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-helpers-in-development-choosing-between-copilot-and-gpt-3/"><u>AI Helpers in Development: Choosing Between Copilot & GPT-3</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificayering-academia-with-ai-tools/"><u>Artificayering Academia with AI Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-impact-of-ai-on-search-algorithms/"><u>Assessing the Impact of AI on Search Algorithms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-book-lovers-app-choices/"><u>Discover the Best Book Lovers' App Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722026005149-essential-ai-tools-to-generate-creative-stories-top-picks/"><u>Essential AI Tools to Generate Creative Stories - Top Picks!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-use-creative-commons-copyright-licenses-complete-guide-for-2024/"><u>How to Use Creative Commons Copyright Licenses [Complete Guide] for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/running-advanced-ai-on-windows-devices/"><u>Running Advanced AI on Windows Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-mcpr-files-into-mp4-video-format/"><u>Step-by-Step Guide: Transforming MCPR Files Into MP4 Video Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722169584519-strategic-workflow-optimization-with-the-help-of-chatgpt-a-comprehve-guide/"><u>Strategic Workflow Optimization with the Help of ChatGPT: A Comprehve Guide.</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-note-30-vip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Note 30 VIP Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

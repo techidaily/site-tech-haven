@@ -1,7 +1,7 @@
 ---
 title: "Winning the Tech Race: Apple's Potential Edge Over Giants at WWDC 2024 Revealed"
-date: 2025-01-16T17:13:50.861Z
-updated: 2025-01-19T18:49:45.610Z
+date: 2025-01-23T16:46:36.164Z
+updated: 2025-01-25T16:51:34.936Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
 
 Apple needs a robust strategy for integrating [gen AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) across its devices. Embedding a small language model into MacOS, iOS, iPadOS, and VisionOS will enable real-time processing, improved responsiveness, and increased privacy by keeping more data on-device. Apple should also provide robust APIs to seamlessly utilize on-device, edge, and cloud processing for natural language understanding and computer vision tasks. 
@@ -53,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -83,7 +79,7 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
@@ -93,6 +89,10 @@ To meet the growing demand for fast application response times, I believe Apple 
 **Also: [AI at the edge: 5G and the Internet of Things see fast times ahead](https://www.zdnet.com/article/ai-at-the-edge-fast-times-ahead-for-5g-and-the-internet-of-things/)**
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
 
@@ -105,7 +105,7 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
@@ -125,7 +125,7 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -170,20 +170,20 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-voice-memo-solutions-for-ipads-3-picks/"><u>[New] In 2024, Expert Voice Memo Solutions for iPads, #3 Picks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-leading-pictorial-storage-hubs-for-2024/"><u>[New] Leading Pictorial Storage Hubs for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-gameplay-modifications-in-terraria/"><u>[Updated] In 2024, Ultimate Gameplay Modifications in Terraria</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>[Updated] Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/4-cutting-edge-artificial-intelligence-solutions-for-dynamic-storytelling/"><u>4 Cutting-Edge Artificial Intelligence Solutions for Dynamic Storytelling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-free-ai-tools-to-generate-professional-emails-with-chatgpt-and-summarize-your-inbox/"><u>5 Free AI Tools to Generate Professional Emails With ChatGPT & Summarize Your Inbox</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comprehensive-breakdown-of-features-and-capabilities/"><u>A Comprehensive Breakdown of Features and Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/aggregate-of-top-20-chatgpt-question-and-response-examples/"><u>Aggregate of Top 20 ChatGPT Question and Response Examples</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-insightful-forecasts-vs-starry-readings-of-destiny/"><u>AI's Insightful Forecasts Vs. Starry Readings of Destiny</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-capabilities-an-automated-approach-to-proofreading-texts/"><u>Assessing ChatGPT's Capabilities: An Automated Approach to Proofreading Texts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-dell-inspiron-3671-desktop-computer-a-review-of-an-unassuming-midrange-performance-unit/"><u>Evaluating the Dell Inspiron 3671 Desktop Computer: A Review of an Unassuming, Midrange Performance Unit</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-blueprints-to-hiring-creative-cinematographers/"><u>In 2024, Blueprints to Hiring Creative Cinematographers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/navigating-the-world-of-wifi-easier-with-tp-links-deco-p9-system-a-detailed-breakdown/"><u>Navigating the World of WiFi Easier with TP-Link's Deco P9 System - A Detailed Breakdown</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722147689219-transform-your-windows-computer-with-an-easy-to-install-free-clone-of-the-latest-ai-conversationalist-gpt4all/"><u>Transform Your Windows Computer with an Easy-to-Install Free Clone of the Latest AI Conversationalist, GPT4All</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-no-watermark-no-problem-7-best-video-merger-software/"><u>Updated No Watermark, No Problem 7 Best Video Merger Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-visuals-top-18-camcorders-for-4k-content/"><u>[New] 2024 Approved Ultimate Visuals - Top 18 Camcorders for 4K Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-wise-approach-to-organize-youtube-content-into-chapters/"><u>[New] Step-Wise Approach to Organize YouTube Content Into Chapters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-music-video-watching-apps-for-android/"><u>[Updated] In 2024, Essential Music Video Watching Apps for Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-uniting-content-creators-microphones-that-speak-to-every-yt-style-and-genre/"><u>[Updated] In 2024, Uniting Content Creators Microphones That Speak to Every YT Style and Genre</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/beste-methoden-zur-suche-nach-after-effects-projekte-wiederholungen-finde-deine-dateien-einfach-wieder/"><u>Beste Methoden Zur Suche Nach After Effects Projekte Wiederholungen - Finde Deine Dateien Einfach Wieder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211855603-easy-steps-to-resolve-your-cs-go-game-crashes-fast/"><u>Easy Steps to Resolve Your CS: GO Game Crashes Fast!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-anticheat-connection-failed-issue-in-escape-from-tarkov-a-comprehensive-guide/"><u>Fixing the 'Anticheat Connection Failed' Issue in Escape From Tarkov - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-text-to-images-with-ease-integrating-dall-e-in-chatgpt-4-workflows/"><u>From Text to Images with Ease: Integrating DALL-E in ChatGPT-4 Workflows</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c22-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-unpredictability-of-creative-writing-outside-algorithms/"><u>The Unpredictability of Creative Writing Outside Algorithms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-chat-with-gpt-easily-try-this-chrome-enhancement-now/"><u>Transform Your Chat with GPT Easily - Try This Chrome Enhancement Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-chatgpt-top-9-solutions-when-its-unresponsive-on-ios/"><u>Troubleshooting ChatGPT: Top 9 Solutions When It's Unresponsive on iOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-for-saving-messages-with-chatgpt-a-comprehensive-overview/"><u>Troubleshooting Steps for Saving Messages with ChatGPT - A Comprehensive Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-ai-chatbot-and-large-language-model-llm-capabilities-with-quoras-poe/"><u>Unlocking AI Chatbot & Large Language Model (LLM) Capabilities with Quora's Poe</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/years-best-sale-612-for-eternal-windows-10-life/"><u>Year's Best Sale: $6.12 for Eternal Windows 10 Life</u></a></li>
 </ul></div>
 

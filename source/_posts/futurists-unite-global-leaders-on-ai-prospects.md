@@ -1,7 +1,7 @@
 ---
 title: "Futurists Unite: Global Leaders on AI Prospects"
-date: 2024-08-09T20:38:23.048Z
-updated: 2024-08-10T20:38:23.048Z
+date: 2025-01-23T19:08:05.818Z
+updated: 2025-01-25T19:04:30.626Z
 tags:
   - chatgpt
   - open-ai
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
  As 2024 approaches, there are a number of cybersecurity trends and predictions to be aware of.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
@@ -39,14 +40,16 @@ It was also stated in the same report that:
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Increased Digital Supply Chain Attacks
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
@@ -54,14 +57,8 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
@@ -70,21 +67,13 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
@@ -110,6 +99,10 @@ It was also stated in the same report that:
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
@@ -126,21 +119,15 @@ It was also stated in the same report that:
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Each Year Brings New Cybersecurity Threats
 
  As 2023 comes to its conclusion, it's important to keep 2024's top security trends and predictions in mind. Remaining security-literate helps you fend off threats and better prepare yourself for malicious campaigns. No one knows for sure what 2024 will bring for the cybersecurity realm, but consider keeping the above in mind, as they'll very likely make an appearance.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +136,26 @@ It was also stated in the same report that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-enhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads/"><u>[New] Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-variations-panoramic-and-virtual-reality-films/"><u>[Updated] Exploring Variations Panoramic & Virtual Reality Films</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pick-the-perfect-video-youtube-vs-tiktok-for-2024/"><u>[Updated] Pick the Perfect Video YouTube Vs. TikTok for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-offbeat-uses-for-language-models/"><u>5 Offbeat Uses for Language Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-detailed-analysis-of-what-sets-claude-pro-apart-from-chatgpt-plus/"><u>A Detailed Analysis of What Sets Claude Pro Apart From ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-modern-ai-assessments-making-the-turing-test-obsolete-discover-5-contemporary-evaluation-methods/"><u>Are Modern AI Assessments Making the Turing Test Obsolete? Discover 5 Contemporary Evaluation Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artistic-advocacy-in-court-the-legal-standoff-between-celebrities-and-tech-giants-over-ai/"><u>Artistic Advocacy in Court: The Legal Standoff Between Celebrities & Tech Giants Over AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/augmenting-group-sessions-the-role-of-artificial-intelligence/"><u>Augmenting Group Sessions: The Role of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722111254771-best-ai-for-chatting-clashing-titans-chatgpt-and-google-bard-face-off/"><u>Best AI for Chatting? Clashing Titans - ChatGPT and Google Bard Face-Off!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722015224732-bypass-the-hold-up-on-chatgpt-for-desktop-embrace-an-exceptional-open-source-replacement-today/"><u>Bypass the Hold-Up on ChatGPT for Desktop: Embrace an Exceptional Open Source Replacement Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-origins-troubleshooting-solving-the-crash-problems-for-windows-10-users/"><u>Dragon Age: Origins Troubleshooting - Solving the Crash Problems for Windows 10 Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-quantum-hdr-techniques-for-professionals/"><u>In 2024, Mastering Quantum HDR Techniques for Professionals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>In 2024, The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721853382399-lost-in-time-retrieve-your-past-chatgpt-exchange-records/"><u>Lost in Time? Retrieve Your Past ChatGPT Exchange Records</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-how-to-set-up-outlook-preview-on-windows-1011/"><u>Quick Start: How to Set Up Outlook Preview on Windows 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722143239568-redefine-mobile-browsing-bings-intelligent-search-now-available/"><u>Redefine Mobile Browsing - Bing's Intelligent Search Now Available.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-laptops-the-2020-macbook-pro-13-inch-with-new-m1-chip-review/"><u>Revolutionizing Laptops: The 2020 MacBook Pro 13-Inch with New M1 Chip Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/twriting-mastery-elevate-your-youtube-channels-content-quality/"><u>Scriptwriting Mastery Elevate Your YouTube Channel's Content Quality</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-mac-slideshow-software-simplify-your-video-editing-experience/"><u>Updated In 2024, Mac Slideshow Software Simplify Your Video Editing Experience</u></a></li>
+</ul></div>
 

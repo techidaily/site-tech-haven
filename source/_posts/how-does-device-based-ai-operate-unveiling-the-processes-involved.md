@@ -1,7 +1,7 @@
 ---
 title: How Does Device-Based AI Operate? Unveiling the Processes Involved
-date: 2024-08-09T20:35:22.375Z
-updated: 2024-08-10T20:35:22.375Z
+date: 2025-01-19T18:54:42.460Z
+updated: 2025-01-25T17:38:48.389Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 ## Which Makes the Cut? Evaluating Claude and ChatGPT's Abilities in Handling Everyday Duties
 
  ChatGPT has undoubtedly made history as the most popular AI chatbot to hit our screens, but it has no shortage of competitors. One such competitor, Claude, offers an impressive AI chatbot service, but does this outshine ChatGPT?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are ChatGPT and Claude?
 
@@ -35,9 +39,6 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -58,9 +59,6 @@ As you can see, there are several differences to consider.
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -84,8 +82,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -102,10 +101,6 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
 So, how does Claude compare to ChatGPT?
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -123,8 +118,9 @@ So, how does Claude compare to ChatGPT?
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -133,13 +129,13 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Creative Abilities
 
@@ -155,9 +151,6 @@ So, how does Claude compare to ChatGPT?
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
@@ -166,11 +159,12 @@ So, how does Claude compare to ChatGPT?
 
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When given the same problem, Claude gave us the following response:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
@@ -191,18 +185,19 @@ Claude's interpretation read...
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,4 +206,21 @@ Claude's interpretation read...
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/arnessing-success-with-freefire-hashtag-tips-for-2024/"><u>[New] Harnessing Success with FreeFire Hashtag Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-your-video-sessions-with-zoom-on-youtube-platform/"><u>[New] Tailoring Your Video Sessions with Zoom on YouTube Platform</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-5-headsets-a-youtube-gamers-guide/"><u>[Updated] 2024 Approved Best 5 Headsets A YouTube Gamer's Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4/"><u>[Updated] In 2024, Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-downloading-standardized-youtube-images-with-ease-and-precision/"><u>[Updated] In 2024, Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unleashing-potential-top-10-strategies-for-instagram-video-ads/"><u>2024 Approved Unleashing Potential Top 10 Strategies for Instagram Video Ads</u></a></li>
+<li><a href="https://facebook.techidaily.com/customize-facebook-flawlessly-with-these-must-try-app-configs/"><u>Customize Facebook Flawlessly with These Must-Try App Configs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-the-hxtsrexe-issue-a-comprehensive-guide-for-windows-10-users/"><u>Solving the HxTsr.exe Issue: A Comprehensive Guide for Windows 10 Users</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-moving-images-from-your-iphone-to-macos-catalina/"><u>Step-by-Step Guide: Moving Images From Your iPhone to macOS Catalina</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-solutions-for-tackling-window-11s-high-memory-usage-problem/"><u>Step-by-Step Solutions for Tackling Window 11’S High Memory Usage Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-enabling-advanced-boot-mode-in-windows-11/"><u>Step-by-Step Tutorial: Enabling Advanced Boot Mode in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshoot-and-repair-get-your-oculus-air-link-functional-on-windows-pcs/"><u>Troubleshoot and Repair: Get Your Oculus Air Link Functional on Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-poor-audio-quality-in-airpods-when-connected-to-your-laptop/"><u>Troubleshooting Poor Audio Quality in AirPods When Connected to Your Laptop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visual-tutorial-on-securely-pairing-laptop-and-television-a-comprehensive-walkthrough/"><u>Visual Tutorial on Securely Pairing Laptop & Television - A Comprehensive Walkthrough</u></a></li>
+</ul></div>
 

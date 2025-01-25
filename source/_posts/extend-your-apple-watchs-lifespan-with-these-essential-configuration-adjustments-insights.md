@@ -1,7 +1,7 @@
 ---
 title: Extend Your Apple Watch's Lifespan with These Essential Configuration Adjustments, Insights
-date: 2025-01-17T20:17:38.920Z
-updated: 2025-01-19T20:59:51.758Z
+date: 2025-01-22T17:49:14.546Z
+updated: 2025-01-25T16:18:12.851Z
 tags:
   - apple
 categories:
@@ -36,15 +36,15 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -55,7 +55,7 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -65,10 +65,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -89,7 +85,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn off irregular heart rate notifications
@@ -97,6 +93,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -114,15 +114,15 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,21 +165,16 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-pinpointing-your-unique-tiktok-tagline/"><u>[New] In 2024, Pinpointing Your Unique TikTok Tagline</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips/"><u>[Updated] In 2024, Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-impact-of-freesync-on-lgs-ultra-hd-monitors-27uhd68/"><u>2024 Approved The Impact of FreeSync on LG's Ultra HD Monitors (27UHD68)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/4-ways-to-fix-grayed-out-icloud-settings-on-your-iphone-or-ipad/"><u>4 Ways to Fix Grayed Out iCloud Settings on Your iPhone or iPad</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-software-solutions-retrieve-lost-iphone-notes-with-ease/"><u>Best Software Solutions: Retrieve Lost iPhone Notes with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995145159-conquer-call-of-duty-warzone-glitches-mastering-error-6328-hacks-for-players/"><u>Conquer Call of Duty Warzone Glitches: Mastering Error 6328 Hacks for Players!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-private-messaging-experience-access-chatgpt-and-additional-secure-options-on-duckduckgo/"><u>Elevate Your Private Messaging Experience: Access ChatGPT and Additional Secure Options on DuckDuckGo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-your-3d-printing-skills-with-chatgpt-tips-and-tricks/"><u>Enhancing Your 3D Printing Skills with ChatGPT Tips and Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-data-integrity-amidst-adaptive-chatgpts/"><u>Ensuring Data Integrity Amidst Adaptive ChatGPTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exiting-chatgpts-shadow-for-fresh-experienences/"><u>Exiting ChatGPT's Shadow for Fresh Experienences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-uncharted-gpt-territories-5-features-to-enhance-dialogue/"><u>Explore Uncharted GPT Territories: 5 Features to Enhance Dialogue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-showdown-choosing-between-chatgpt-and-microsoft-bing-chat/"><u>Generative AI Showdown: Choosing Between ChatGPT and Microsoft Bing Chat</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-generative-ai-search-work-and-which-companies-are-using-it/"><u>How Does Generative AI Search Work & Which Companies Are Using It?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-seamlessly-switch-from-mp4-to-swf-comprehensive-guide-for-quick-onlineoffline-conversions/"><u>How to Seamlessly Switch From MP4 to SWF: Comprehensive Guide for Quick Online/Offline Conversions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-basics-opening-command-prompt-across-different-windows-editions/"><u>Mastering the Basics: Opening Command Prompt Across Different Windows Editions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-imovies-automated-size-control-for-2024/"><u>[Updated] Exploring iMovie's Automated Size Control for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pencil-showdown-unpacking-the-features-of-apple-pencil-pro-vs-apple-pencil-2-to-boost-your-ipad-experience-insights/"><u>Apple Pencil Showdown: Unpacking the Features of Apple Pencil Pro Vs. Apple Pencil 2 to Boost Your iPad Experience Insights</u></a></li>
+<li><a href="https://win-community.techidaily.com/comprehensive-tutorial-turn-off-tracking-cookies-for-enhanced-online-security-on-any-gadget/"><u>Comprehensive Tutorial: Turn Off Tracking Cookies for Enhanced Online Security on Any Gadget</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-job-opportunities-discover-6-ai-techniques-using-chatgpt-for-successful-applications/"><u>Maximize Job Opportunities: Discover 6 AI Techniques Using ChatGPT for Successful Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-views-navigating-chatgpt-for-film-recommendations/"><u>Maximizing Views: Navigating ChatGPT for Film Recommendations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-usb-to-hdmi-adapter-issues-and-how-to-resolve-them/"><u>Step-by-Step Repair: USB-to-HDMI Adapter Issues and How to Resolve Them</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/stepwise-guide-to-transform-youtube-clips-into-animated-gifs/"><u>Stepwise Guide to Transform Youtube Clips Into Animated GIFs</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-shrunk-windows-11-icons-restore-original-size/"><u>Tackling Shrunk Windows 11 Icons: Restore Original Size</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-demystifying-top-9-ai-chatbot-fallacies/"><u>The Ultimate Guide to Demystifying Top 9 AI Chatbot Fallacies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-ai-powered-pdf-tools-integrated-with-chatgpt-for-maximum-productivity/"><u>Top 10 AI-Powered PDF Tools Integrated with ChatGPT for Maximum Productivity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-tricks-how-chatgpt-simplifies-daily-tasks/"><u>Top 9 Tricks: How ChatGPT Simplifies Daily Tasks</u></a></li>
 </ul></div>
 

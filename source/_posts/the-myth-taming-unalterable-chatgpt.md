@@ -1,7 +1,7 @@
 ---
 title: "The Myth: Taming Unalterable ChatGPT"
-date: 2024-08-09T20:37:11.115Z
-updated: 2024-08-10T20:37:11.115Z
+date: 2025-01-22T16:30:54.769Z
+updated: 2025-01-25T16:57:03.078Z
 tags:
   - chatgpt
   - open-ai
@@ -32,9 +32,9 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ChatGPT's Chat History and Training Feature?
 
  When you sign up for a ChatGPT account (be it the free or premium version), ChatGPT saves your chat history and uses your chat data for future training by default.
@@ -48,43 +48,43 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
 
  But if you're okay with this, you can easily opt out of ChatGPT's history and training feature with just a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
  ChatGPT lets you turn the feature back on by clicking the**Enable chat history** option that appears over your history list, but this will re-enable both your chat history and the chat data collection for training.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Data Collection You Can't Opt Out From
 
  Though you can disable ChatGPT's history and training feature, certain kinds of data collection you cannot avoid. Namely, OpenAI keeps all your conversations for 30 days to review them for anything harmful or inappropriate. In the aforementioned FAQ, OpenAI writes:
@@ -95,14 +95,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  OpenAI also keeps note of your email address, name, and payment details if you're signed up for the ChatGPT Plus subscription (which is charged monthly). However, to truly delete all of your ChatGPT data, you'll need to[completely delete your ChatGPT account](http://www.makeuseof.com/how-to-delete-your-chatgpt-account/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +108,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-cycling-titles-to-try-out/"><u>[New] Premier Cycling Titles to Try Out</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-compre-writters-manual-for-great-documentary-storytelling/"><u>2024 Approved The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-dall-e-3-prompts-for-your-next-image/"><u>8 DALL-E 3 Prompts for Your Next Image</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-application-with-these-6-creative-uses-of-chatgpt-in-job-searches/"><u>Ace Your Application with These 6 Creative Uses of ChatGPT in Job Searches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-humor-evaluation-does-chatgpt-have-what-it-takes-to-joke-and-laugh-with-us/"><u>AI Humor Evaluation: Does ChatGPT Have What It Takes to Joke and Laugh with Us?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-ushers-new-era-key-capabilities-we-expect-in-gpt-5/"><u>AI Ushers New Era: Key Capabilities We Expect in GPT-5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-chatgpts-ability-to-design-and-describe-cocktails/"><u>Assessing ChatGPT's Ability to Design and Describe Cocktails</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722139473883-chatgpt-on-iphone-not-responding-apply-any-of-our-9-proven-strategies/"><u>ChatGPT on iPhone Not Responding? Apply Any of Our 9 Proven Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175661765-experience-a-chilling-upgrade-with-the-ek-solution-cpu-cooler-witness-up-to-20c-drop-in-intel-core-i9-1efficiency/"><u>Experience a Chilling Upgrade with the EK Solution CPU Cooler - Witness up to 20°C Drop in Intel Core I9-1efficiency</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/geavanceerd-online-3gp-to-webm-konvertierungsinstrument-gratis-movavi-videoconverter/"><u>Geavanceerd Online 3GP-to-WebM Konvertierungsinstrument - Gratis Movavi Videoconverter!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-huawei-nova-y71-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Huawei Nova Y71 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722120515701-navigate-through-the-best-free-ai-image-synthesis-programs-our-open-source-selection/"><u>Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/online-gratuit-omzetten-van-mpeg-archives-professioneel-met-movavi/"><u>Online Gratuit Omzetten Van MPEG-Archives - Professioneel Met Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolving-file-not-playable-error-code-0xc10100be-in-windows-10-and-11/"><u>Resolving 'File Not Playable (Error Code 0xC10100BE) in Windows 10 and 11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Google Pixel 8 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Building Better Websites with ChatGPT: Explore These 4 Essential Tips"
-date: 2024-08-09T20:33:47.487Z
-updated: 2024-08-10T20:33:47.487Z
+date: 2025-01-20T16:16:44.044Z
+updated: 2025-01-25T16:22:29.510Z
 tags:
   - chatgpt
   - open-ai
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -66,8 +63,9 @@ You could use:
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -78,10 +76,11 @@ You could use:
 
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
 
@@ -97,30 +96,30 @@ You could use:
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Not Being Clear and Specific With Your Instructions
 
  To get the best responses from ChatGPT, you'll need to be as specific and as unambiguous as possible in your instructions. Unfortunately, ambiguity opens your prompts to multiple interpretations, making it difficult for ChatGPT to provide a specific and accurate response.
@@ -133,14 +132,11 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +145,24 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/nlock-viewers-interest-with-these-10-yt-reaction-strategies/"><u>[New] Unlock Viewers' Interest with These 10 YT Reaction Strategies</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-the-art-of-captivating-social-media-marketing-with-tiktok-for-2024/"><u>[Updated] Mastering the Art of Captivating Social Media Marketing with TikTok for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-code-helpers-top-7-alternatives-to-chatgpt/"><u>Cutting-Edge Code Helpers: Top 7 Alternatives to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-ai-engineers-which-is-more-capable-chatgpt-or-gemini-the-coding-duel-explained/"><u>Evaluating AI Engineers: Which Is More Capable, ChatGPT or Gemini? The Coding Duel Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-secrets-behind-machine-learnings-ai-black-boxes/"><u>Exploring the Secrets Behind Machine Learning's AI Black Boxes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-gpt-4all-work-understanding-the-revolutionary-tool/"><u>How Does GPT-4ALL Work? Understanding the Revolutionary Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-enjoy-netflix-shows-and-movies-on-your-nintendo-switch/"><u>How to Enjoy Netflix Shows and Movies on Your Nintendo Switch</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashing-issues-in-assassins-creed-valhalla-on-your-computer/"><u>How to Fix Continuous Crashing Issues in Assassin's Creed: Valhalla on Your Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-x7b-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor X7b FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-ai-image-creation-utilizing-chatgpt-effectively/"><u>Mastering AI Image Creation: Utilizing ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/neo-qled-vs-oled-whats-the-difference/"><u>Neo QLED Vs. OLED: What's the Difference?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-comprerancial-onestream-approach-to-online-streaming-for-2024/"><u>The Comprerancial OneStream Approach to Online Streaming for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-leading-ai-powered-prompt-creators-for-enhanced-ai-interaction/"><u>Top 5 Leading AI-Powered Prompt Creators for Enhanced AI Interaction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-smartphone-ai-apps-android-and-ios-compatibility/"><u>Top 8 Smartphone AI Apps: Android & iOS Compatibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-workflow-discover-7-effective-ways-to-utilize-chatgpt-for-superior-productivity-gains/"><u>Transform Your Workflow: Discover 7 Effective Ways to Utilize ChatGPT for Superior Productivity Gains</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-resolving-blue-screen-error-0x0000007e-on-your-windows-7-machine/"><u>Understanding and Resolving Blue Screen Error 0X0000007E on Your Windows 7 Machine</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/understanding-stellar-photo-recovery-tool-an-essential-walkthrough-for-windows-users/"><u>Understanding Stellar Photo Recovery Tool: An Essential Walkthrough for Windows Users</u></a></li>
+</ul></div>
 

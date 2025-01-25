@@ -1,7 +1,7 @@
 ---
 title: "Unlock Exciting New MacOS 15 Perks: Your Apple MacBook's Secret Boost Revealed by ZDNet!"
-date: 2025-01-18T19:58:17.590Z
-updated: 2025-01-19T20:35:37.333Z
+date: 2025-01-22T17:38:46.977Z
+updated: 2025-01-25T19:01:17.248Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Each pair of Apple headphones debut with interesting upgrades which should make 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Hearing aid mode
@@ -39,7 +39,7 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -49,7 +49,7 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -110,16 +110,18 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-best-9-online-mic-recorders/"><u>[New] Best 9 Online Mic Recorders</u></a></li>
-<li><a href="https://win-great.techidaily.com/award-winning-audio-samples-for-producers-get-free-tracks-from-the-bbc-with-this-comprehensive-guide/"><u>Award-Winning Audio Samples for Producers - Get Free Tracks From the BBC with This Comprehensive Guide!</u></a></li>
-<li><a href="https://discover-community.techidaily.com/easy-and-effective-way-to-change-gifs-into-videos-using-a-proven-free-tool-by-movavi/"><u>Easy and Effective Way to Change GIFs Into Videos Using a Proven, Free Tool by Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-gt-5-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme GT 5 Pro Device</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/master-windows-clock-customization-expert-techniques-by-yl-software/"><u>Master Windows Clock Customization: Expert Techniques by YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reaching-new-heights-with-chatgpts-token-limit/"><u>Reaching New Heights with ChatGPT's Token Limit</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-job-application-process-using-chatgpt-for-resume-creation/"><u>Revolutionize Your Job Application Process Using ChatGPT for Resume Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-operations-the-impact-of-chatgpt-and-whisper-apis-on-modern-enterprises/"><u>Revolutionize Your Operations: The Impact of ChatGPT & Whisper APIs on Modern Enterprises</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/separating-nlp-from-ml-in-data-science-fields/"><u>Separating NLP From ML in Data Science Fields</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/superior-hd-video-capture-options-reviewed-here/"><u>Superior HD Video Capture Options Reviewed Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-etiquette-of-engaging-with-artificial-intelligence-considering-chatgpt-alexa-and-siri/"><u>The Etiquette of Engaging with Artificial Intelligence: Considering ChatGPT, Alexa & Siri</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-elite-edits-10-superior-alternatives-to-vimeo-cameos-for-2024/"><u>[New] Elite Edits 10 Superior Alternatives to Vimeo Cameos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-restoring-windows-photo-viewer-in-windows-10-step-by-step-guide/"><u>[New] Restoring Windows Photo Viewer in Windows 10 Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-revolutionize-your-photos-with-these-best-grid-makers-for-ig/"><u>[Updated] In 2024, Revolutionize Your Photos with These Best Grid Makers for IG</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-video-preservation-straightforward-techniques-unpacked/"><u>2024 Approved Instagram Video Preservation Straightforward Techniques Unpacked</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-understanding-invisible-social-signals-in-online-media/"><u>2024 Approved Understanding Invisible Social Signals in Online Media</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-poetry-with-ai-mastering-the-art-of-using-chatgpt/"><u>Creating Poetry with AI: Mastering the Art of Using ChatGPT</u></a></li>
+<li><a href="https://facebook.techidaily.com/dealing-with-non-delivery-of-two-factor-authentication-code-on-fb/"><u>Dealing with Non-Delivery of Two-Factor Authentication Code on FB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-spreadsheet-management-3-chatgpt-insights-for-excel/"><u>Elevating Spreadsheet Management: 3 ChatGPT Insights for Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-efficiency-discover-how-onlyfree-docspace-integrates-with-chatgpt/"><u>Enhancing Efficiency: Discover How ONLYFREE DOCspace Integrates with ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-play-40c-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Play 40C</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-beyondonecam-testing-are-there-better-options/"><u>In 2024, BeyondOneCam Testing Are There Better Options?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-closing-your-chatgpt-profile/"><u>Step-by-Step Guide: Closing Your ChatGPT Profile</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-vloggers-guide-to-choosing-camgear-the-top-9-innovations-for-2024/"><u>The Vlogger's Guide To Choosing CamGear - The Top 9 Innovations for 2024</u></a></li>
 </ul></div>
 

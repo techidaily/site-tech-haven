@@ -1,7 +1,7 @@
 ---
 title: "July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed by ZDNET"
-date: 2025-01-13T16:26:01.348Z
-updated: 2025-01-19T19:47:30.225Z
+date: 2025-01-22T19:29:33.785Z
+updated: 2025-01-25T16:09:54.289Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -126,7 +130,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  More Apple deals
@@ -161,6 +165,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb8114c70-8128-4be6-9cd8-0cc4fe36c521%7Cdtp&dtb=1)
@@ -176,24 +184,16 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
@@ -213,10 +213,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -238,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,21 +283,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-attract-more-viewers-boosting-your-youtube-following/"><u>[New] 2024 Approved Attract More Viewers Boosting Your YouTube Following</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-cash-flow-8-simple-money-making-tips/"><u>[New] YouTube Cash Flow 8 Simple Money-Making Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-become-a-spotify-ad-expert-in-no-time-for-2024/"><u>[Updated] Become a Spotify Ad Expert in No Time for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-textual-journey-from-generation-to-corporate-application/"><u>AI's Textual Journey: From Generation to Corporate Application</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-about-openais-revolutionary-tech/"><u>All About OpenAI's Revolutionary Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-ai-for-chatting-clashing-titans-chatgpt-and-google-bard-face-off/"><u>Best AI for Chatting? Clashing Titans - ChatGPT and Google Bard Face-Off</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-practices-for-secure-communication-with-chatgpt-during-work-projects/"><u>Best Practices for Secure Communication with ChatGPT During Work Projects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-of-hazards-why-installing-the-google-bard-application-could-be-a-mistake/"><u>Beware of Hazards: Why Installing the Google Bard Application Could Be a Mistake</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/busting-the-biggest-misconceptions-the-true-story-of-top-9-artificial-intelligence-chatbots/"><u>Busting the Biggest Misconceptions: The True Story of Top 9 Artificial Intelligence Chatbots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/coding-helper-face-off-determining-if-github-copilot-outshines-chatgpt/"><u>Coding Helper Face-Off: Determining if GitHub Copilot Outshines ChatGPT</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-x50iplus-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor X50i+</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-the-newly-updated-dell-xps-2020-featuring-refined-aesthetics-and-powerful-snapdragon-x-elite-processor/"><u>Comprehensive Review of the Newly Updated Dell XPS 지2020 - Featuring Refined Aesthetics and Powerful Snapdragon X Elite Processor</u></a></li>
-<li><a href="https://win-superb.techidaily.com/decoding-cryptocurrency-exchanges-with-yl-computing-and-yl-software-insights/"><u>Decoding Cryptocurrency Exchanges with YL Computing & YL Software Insights</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ideal-mac-sniping-software-here-are-5-picks/"><u>The Ideal Mac Sniping Software - Here Are 5 Picks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-15-online-and-desktop-platforms-to-create-gifs-for-2024/"><u>Top 15 Online & Desktop Platforms to Create GIFs for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-successfully-running-a-thaumaturge-application-in-pc/"><u>Troubleshooting Tips - Successfully Running a Thaumaturge Application in PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-hack-for-blocking-youtube-ads-on-all-browsers/"><u>[New] The Ultimate Hack for Blocking YouTube Ads on All Browsers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-pushing-past-vimeos-limits-with-top-10-editors/"><u>[Updated] Pushing Past Vimeo's Limits with Top 10 Editors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-tablets-a-comprehensive-guide-to-amazon-fire-and-ipad-find-yours-perfect-match/"><u>Decoding Tablets: A Comprehensive Guide to Amazon Fire and iPad – Find Yours Perfect Match!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/demystifying-zoom-your-complete-guide-for-win11-users-for-2024/"><u>Demystifying Zoom Your Complete Guide for Win11 Users for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhanced-user-experience-with-dynamic-retargeting-through-cookiebot-technology/"><u>Enhanced User Experience with Dynamic Retargeting Through Cookiebot Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-unwanted-character-inputs-while-typing-on-windows-11-proven-solutions/"><u>Fix Unwanted Character Inputs While Typing on Windows 11: Proven Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-your-hands-on-the-freshly-released-linux-mint-22-os/"><u>Get Your Hands on the Freshly Released Linux Mint 22 OS!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-terminate-frozen-programs-on-macos-with-ease/"><u>Guide to Terminate Frozen Programs on macOS with Ease</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-live-broadcasts-obs-tips-for-youtube-and-twitch/"><u>In 2024, Mastering Live Broadcasts OBS Tips for YouTube & Twitch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/making-it-easier-nvidias-revamped-approach-to-pc-application-management/"><u>Making It Easier: NVIDIA's Revamped Approach to PC Application Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-microphone-inputs-a-step-by-step-tutorial-for-windows-11-users/"><u>Mastering Microphone Inputs: A Step-by-Step Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-dig-tool-in-linux-a-step-by-step-guide/"><u>Mastering the 'Dig' Tool in Linux: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/powering-up-pc-gamers-how-microsoft-embraces-arm-technology-for-enhanced-windows-laptop-gaming/"><u>Powering Up PC Gamers: How Microsoft Embraces ARM Technology for Enhanced Windows Laptop Gaming</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211475891-9781397665270-the-call-of-kumayl/"><u>The Call of Kumayl | Free Book</u></a></li>
 </ul></div>
 

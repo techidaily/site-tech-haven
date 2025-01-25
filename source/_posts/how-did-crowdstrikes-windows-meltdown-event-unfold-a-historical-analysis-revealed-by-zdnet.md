@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2025-01-18T18:22:06.636Z
-updated: 2025-01-19T18:45:57.637Z
+date: 2025-01-20T19:04:18.125Z
+updated: 2025-01-25T16:30:33.471Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-sierra-edition-selecting-top-video-editing-software-on-mac-for-2024/"><u>[Updated] Sierra Edition Selecting Top Video Editing Software on Mac for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-discover-luminous-brilliance-for-your-android-videos/"><u>2024 Approved Discover Luminous Brilliance for Your Android Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-mastering-multitasking-sync-many-yt-videos-simultaneously/"><u>2024 Approved Mastering Multitasking Sync Many YT Videos Simultaneously</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/dial-up-discovery-mastering-quick-search-on-social-media/"><u>Dial-Up Discovery Mastering Quick Search on Social Media</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-the-best-solar-lantern-for-adventurous-outdoor-excursions-and-sudden-energy-losses/"><u>Essential Guide: The Best Solar Lantern for Adventurous Outdoor Excursions & Sudden Energy Losses</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-lava-blaze-pro-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Lava Blaze Pro 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-kodi-buffering-glitches-with-these-simple-solutions/"><u>Say Goodbye to Kodi Buffering Glitches with These Simple Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-website-development-with-chatgpt-insights-and-four-effective-techniques/"><u>Transforming Website Development with ChatGPT: Insights and Four Effective Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trust-in-ai-conversations-evaluating-the-veracity-of-chatgpts-answers/"><u>Trust in AI Conversations: Evaluating the Veracity of ChatGPT's Answers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-benefits-and-drawbacks-a-comprehensive-review-of-chatgpt-plus/"><u>Understanding the Benefits & Drawbacks: A Comprehensive Review of ChatGPT Plus</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-milestones-a-thorough-comparison-amongst-openais-groundbreaking-gpt-models-from-1-through-4/"><u>Understanding the Milestones: A Thorough Comparison Amongst OpenAI's Groundbreaking GPT Models From 1 Through 4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-with-python-and-gpt-3/"><u>Unleashing Creativity with Python and GPT-3</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-academic-success-5-insightful-ways-to-harness-chatgpt-for-students-progress/"><u>Unlock Academic Success: 5 Insightful Ways to Harness ChatGPT for Students' Progress</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-15-innovative-choices-for-action-cams-excluding-gopro/"><u>[New] 2024 Approved 15 Innovative Choices for Action Cams, Excluding GoPro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-hangout-history-top-4-strategies/"><u>[Updated] Hangout History Top 4 Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-play-40c-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Play 40C Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-flight-fun-holy-stone-hs170-predator-mini-rc-helicopter-reviews/"><u>Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter Reviews</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-find-x6-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo Find X6 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-s17mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo S17Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-youtube-content-for-instagram-platforms/"><u>Optimizing YouTube Content for Instagram Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rediscovering-the-classics-msn-gamespy-winamp-and-more-memorable-tech-relics/"><u>Rediscovering the Classics: MSN, GameSpy, Winamp & More Memorable Tech Relics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securing-your-data-a-step-by-step-guide-to-encrypting-a-usb-drive-on-windows-1011/"><u>Securing Your Data: A Step-by-Step Guide to Encrypting a USB Drive on Windows 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/soon-windows-11-tackles-and-overcomes-its-major-challenges-with-fat32-storage/"><u>Soon, Windows 11 Tackles and Overcomes Its Major Challenges with FAT32 Storage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stardock-desktopgpt-the-ultimate-ai-driven-tool-superseding-traditional-power-user-assistants/"><u>Stardock DesktopGPT: The Ultimate AI-Driven Tool Superseding Traditional Power User Assistants</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-mastering-the-art-of-iphone-soft-reboot/"><u>Step-by-Step Guide: Mastering the Art of iPhone Soft Reboot</u></a></li>
 </ul></div>
 
