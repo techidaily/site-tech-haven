@@ -1,7 +1,7 @@
 ---
 title: "A Critical Appraisal: ChatGPT and Its 8 Major Flaws"
-date: 2024-08-09T20:29:43.429Z
-updated: 2024-08-10T20:29:43.429Z
+date: 2025-02-03T06:21:54.907Z
+updated: 2025-02-07T14:29:16.383Z
 tags:
   - chatgpt
   - open-ai
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
  People have been looking for simple ways to access the tool ever since it blew up in popularity, but it's finally possible to do so, thanks to its official mobile app.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Comes to iPhone (and Android)
 
  On May 18th, 2023, OpenAI introduced its own ChatGPT app for iOS via an[OpenAI blog post](https://openai.com/blog/introducing-the-chatgpt-app-for-ios) . According to the company, the release comes from a continued increase in user interest, especially from those who love to use the tool when on the move.
@@ -33,29 +34,28 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
  If iOS isn't your preferred platform, know that[ChatGPT is also available for Android devices](https://www.makeuseof.com/chatgpt-is-now-available-on-android/) , allowing you to bypass the somewhat clunky mobile browser experience.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Download ChatGPT on Your iPhone
 
  To download ChatGPT on your iPhone, search the App Store with the keywords "ChatGPT" or "OpenAI." The name of the official app is ChatGPT, and it has a subtitle that reads "The official app by OpenAI."
 
  Once you've identified the ChatGPT app on the App Store, tap the**Get** button to download the app and follow the authentication steps that your iPhone will prompt. You can log in with your OpenAI account if you already have one or sign up with your Apple or Google account.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![ChatGPT iOS app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-ios-app-welcome-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT responding to a query in the official app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-responding-to-a-query-in-the-official-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -64,22 +64,18 @@ Close
 **Download** **:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2025542/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use ChatGPT Seamlessly on Your iPhone
 
  The launch of an official ChatGPT app for mobile devices makes the service convenient to access and significantly increases the ease of use, allowing users to focus more on using ideal prompts and getting a solution to their doubts sooner. It's a welcome development, and we can't wait to see what OpenAI builds next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,4 +84,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-virtual-veracity-versus-physical-prowess-in-live-links/"><u>[Updated] 2024 Approved Virtual Veracity Versus Physical Prowess in Live Links</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-editscreen-pro-windows-8/"><u>[Updated] In 2024, EditScreen Pro Windows 8</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-shift-your-mkv-files-to-mp4-on-windows/"><u>Easily Shift Your MKV Files to MP4 on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-leveraging-chatgpt-for-academic-research-and-writing/"><u>Effective Strategies: Leveraging ChatGPT for Academic Research & Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-history-handling-top-4-extensions-for-gpt-3/"><u>Effortless History Handling - Top 4 Extensions for GPT-3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gimbal-insights-7-best-in-market-for-2024/"><u>Gimbal Insights 7 Best in Market for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-100-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 100 Pro FRP Locks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-precision-guide-for-subtitles-insertion-in-mp4-files/"><u>In 2024, Precision Guide for Subtitles Insertion in MP4 Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-forecasting-with-predictive-ai-technology/"><u>Navigating the World of Forecasting with Predictive AI Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-eus-framework-on-artificial-intelligence-and-its-potential-effects-on-ai-services-like-chatgpt/"><u>The EU's Framework on Artificial Intelligence and Its Potential Effects on AI Services Like ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-digital-doctors-is-chatgpt-shaping-new-pathways-for-health-and-wellness/"><u>The Future of Digital Doctors: Is ChatGPT Shaping New Pathways for Health and Wellness?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-trick-for-protecting-text-documents-with-strong-passwords-learn-today/"><u>Ultimate Trick for Protecting Text Documents with Strong Passwords - Learn Today</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Inspection Manual: Scrutinizing ChatGPT's Aptitude"
-date: 2024-08-09T20:28:52.206Z
-updated: 2024-08-10T20:28:52.206Z
+date: 2025-02-03T23:41:39.518Z
+updated: 2025-02-07T04:27:55.253Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
  ChatGPT has undoubtedly made history as the most popular AI chatbot to hit our screens, but it has no shortage of competitors. One such competitor, Claude, offers an impressive AI chatbot service, but does this outshine ChatGPT?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## What Are ChatGPT and Claude?
 
  You've likely already heard of OpenAI's ChatGPT AI chatbot and its GPT[LLM (large language model)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) . While ChatGPT is presented as a chatbot, incredible work has been done behind the scenes to make it a knowledge hub.
@@ -37,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude: a Quick Comparison
 
@@ -80,9 +81,6 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -98,6 +96,10 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 ## Claude's Pros and Cons
 
 So, how does Claude compare to ChatGPT?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Claude's Pros
 
@@ -123,22 +125,20 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
 
  Both ChatGPT and Claude provided poems that fit the parameters of the prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
@@ -148,17 +148,15 @@ So, how does Claude compare to ChatGPT?
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
 
  ChatGPT's response took us through the equation step-by-step instead of just providing the answer.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
 When given the same problem, Claude gave us the following response:
@@ -168,8 +166,9 @@ When given the same problem, Claude gave us the following response:
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Translation
 
  Lastly, we asked ChatGPT and Claude to translate a paragraph of Japanese into English. The original paragraph reads:
@@ -187,20 +186,18 @@ Claude's interpretation read...
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -209,4 +206,26 @@ Claude's interpretation read...
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-infusing-your-reels-with-soundscape-elements/"><u>[New] In 2024, Infusing Your Reels with Soundscape Elements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-razers-kiyo-webcam-complete-overview/"><u>[New] Razer's Kiyo Webcam - Complete Overview</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-save-space-and-time-with-fb-video-conversion-tools-for-2024/"><u>[New] Save Space & Time with FB Video Conversion Tools for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-charting-a-course-through-youtubes-copyright-maze/"><u>[Updated] In 2024, Charting a Course Through YouTube's Copyright Maze</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-tips-for-applying-onscreen-vhs-effects-and-filters/"><u>Advanced Tips for Applying Onscreen VHS Effects and Filters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-on-your-computer-why-its-superior-to-the-website-experience/"><u>ChatGPT on Your Computer: Why It's Superior to the Website Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatlaw-assessing-gpt-in-legal-discussions/"><u>ChatLaw: Assessing GPT in Legal Discussions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowered-by-poe-to-tap-into-ai-botsllms/"><u>Empowered by PoE to Tap Into AI Bots/LLMs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-unique-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits & Unique Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-chatgpt-a-freelancers-guide-to-efficient-writing-techniques/"><u>Harnessing ChatGPT: A Freelancer’s Guide to Efficient Writing Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-develop-a-detailed-and-lively-text-rpg-experience-via-chatgpt/"><u>How to Develop a Detailed and Lively Text RPG Experience via ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-utilize-gpt-3-for-programming-tasks-a-guide-to-its-6-main-capabilities/"><u>How to Utilize GPT-3 for Programming Tasks: A Guide to Its 6 Main Capabilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capturing-the-moment-leading-recorder-analysis/"><u>In 2024, Capturing the Moment Leading Recorder Analysis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-note-30-vip-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Note 30 VIP Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/methods-for-removing-sound-from-wmv-videos-a-comprehensive-guide/"><u>Methods for Removing Sound From WMV Videos: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-nlp-dive-into-googles-enhanced-palm-2-large-language-system/"><u>The Evolution of NLP: Dive Into Google's Enhanced PaLM 2 Large Language System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-ineffective-chatgpt-tools-to-skip-in-your-projects/"><u>Top 6 Ineffective ChatGPT Tools to Skip in Your Projects</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-8-plus-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 8 Plus without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-full-search-potential-go-for-perplexity-ai/"><u>Unleash Full Search Potential - Go for Perplexity AI</u></a></li>
+</ul></div>
 

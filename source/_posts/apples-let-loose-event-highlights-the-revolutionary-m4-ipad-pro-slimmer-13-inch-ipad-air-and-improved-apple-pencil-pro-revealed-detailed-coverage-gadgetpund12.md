@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2025-01-18T19:04:56.730Z
-updated: 2025-01-25T18:57:03.429Z
+date: 2025-01-30T20:27:38.611Z
+updated: 2025-02-07T13:09:31.929Z
 tags:
   - apple
 categories:
@@ -26,19 +26,11 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -61,7 +53,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -80,6 +72,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -96,19 +92,23 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,18 +160,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/hifting-from-spotify-playlists-to-customized-youtube-music-catalogs/"><u>[New] Shifting From Spotify Playlists to Customized YouTube Music Catalogs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/outube-in-the-classroom-best-practices-and-tips-for-educators-for-2024/"><u>[New] YouTube in the Classroom Best Practices and Tips for Educators for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-captivating-crafting-writing-intriguing-youtube-descriptions-with-templates/"><u>2024 Approved Captivating Crafting Writing Intriguing Youtube Descriptions with Templates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/banks-and-computers-are-you-protected-from-gpt-powered-cyberattacks/"><u>Banks & Computers: Are You Protected From GPT-Powered Cyberattacks?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-challenge-in-depth-strategies-for-fixing-error-code-103003-in-tarkov-online/"><u>Beat the Challenge: In-Depth Strategies for Fixing Error Code 103003 in Tarkov Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-progression-an-examination-and-contrast-of-every-generation-of-openais-gpt-series/"><u>Decoding Progression: An Examination and Contrast of Every Generation of OpenAI's GPT Series</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-tagalog-easily-quick-lessons-every-morning/"><u>Embrace Tagalog Easily - Quick Lessons Every Morning!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fix-your-gameplay-woes-troubleshooting-persistent-wwe-2k22-pc-crashes/"><u>Fix Your Gameplay Woes: Troubleshooting Persistent WWE 2K22 PC Crashes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-exploring-the-top-rated-ios-video-capture-apps/"><u>In 2024, Exploring the Top-Rated iOS Video Capture Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/professional-dvd-extractor-and-editor-by-winxdvd-convert-enhance-videos-using-ai-and-effortlessly-move-to-iphone/"><u>Professional DVD Extractor & Editor by WinXDVD: Convert, Enhance Videos Using AI, and Effortlessly Move to iPhone!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reclaim-your-privacy-the-ultimate-guide-to-exiting-gpt/"><u>Reclaim Your Privacy: The Ultimate Guide to Exiting GPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unexpected-price-drop-apples-m2-macbook-air-now-at-a-steal-for-799-before-the-big-october-sale-the-latest-update-from-techradar/"><u>Unexpected Price Drop: Apple's M2 MacBook Air Now at a Steal for $799 Before the Big October Sale - The Latest Update From TechRadar</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-5-key-reasons-for-the-corporate-ban-on-chatgpt-services/"><u>Unveiling 5 Key Reasons for the Corporate Ban on ChatGPT Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>[New] 2024 Approved Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>[New] The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-finest-iphones-unveiled-expert-ratings-and-in-depth-analysis-find-your-perfect-match-today-cnet-reviews/"><u>2024'S Finest iPhones Unveiled: Expert Ratings and In-Depth Analysis - Find Your Perfect Match Today! | CNET Reviews</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-reveals-iphone/"><u>Apple Reveals iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-your-next-flagship-phone-google-pixel-n-vs-apple-iphone-13-pro-compared/"><u>Choosing Your Next Flagship Phone: Google Pixel N Vs. Apple iPhone 13 Pro Compared</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-to-zero-download-custom-ending-scenes-effortlessly/"><u>Cut to Zero - Download Custom Ending Scenes Effortlessly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-picks-for-premium-mac-boosters-a-comprehensive-review/"><u>Expert Picks for Premium Mac Boosters - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apples-new-ai-tech-announced-at-wwdc-falls-short-of-excitement-and-why-it-might-be-perfect-insights/"><u>How Apple's New AI Tech Announced at WWDC Falls Short of Excitement (And Why It Might Be Perfect) | Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-blueprint-for-capturing-compelling-powerpoint-presentations/"><u>In 2024, The Blueprint for Capturing Compelling PowerPoint Presentations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/nvidia-game-capturer-simple-gaming-sessions-for-2024/"><u>NVIDIA Game Capturer Simple Gaming Sessions for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstating-wi-fi-capability-across-various-windows/"><u>Reinstating Wi-Fi Capability Across Various Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-workspace-essential-strategies-for-integrating-ipad-pro-in-your-home-office/"><u>Revolutionize Your Workspace: Essential Strategies for Integrating iPad Pro in Your Home Office</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/still-discounted-the-second-generation-apple-watch-se-retails-at-80-less-post-prime-day-insights/"><u>Still Discounted: The Second Generation Apple Watch SE Retails at $80 Less Post-Prime Day - Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/timing-your-marketing-to-reach-more-users/"><u>Timing Your Marketing to Reach More Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-discover-how-long-your-apple-watchs-battery-really-lasts/"><u>Unveiling the Truth: Discover How Long Your Apple Watch's Battery Really Lasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-wacom-bamboo-no-hassle-just-fast/"><u>Update Wacom Bamboo - No Hassle, Just Fast!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 8 Plus | Dr.fone</u></a></li>
 </ul></div>
 

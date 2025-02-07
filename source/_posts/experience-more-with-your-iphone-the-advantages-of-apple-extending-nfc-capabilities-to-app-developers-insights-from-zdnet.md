@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2025-01-24T19:05:26.533Z
-updated: 2025-01-25T17:35:26.434Z
+date: 2025-01-30T16:38:22.495Z
+updated: 2025-02-07T11:10:48.689Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -42,10 +46,6 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
@@ -53,7 +53,7 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -64,6 +64,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -71,6 +75,10 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -96,10 +104,6 @@ Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Third-party immersive video workflow
 
 One of the truly breathtaking experiences of the Vision Pro is what Apple calls Immersive video. This is a very big step beyond the typical 3D video we've seen in movies and TV shows. The entire experience wraps around you 180 degrees. When it's done right, it's astonishing. 
@@ -109,10 +113,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -124,7 +124,7 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What do you think?
@@ -171,24 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-skype-soundtrack-hub-finding-the-right-tones-online/"><u>[New] 2024 Approved Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-tailoring-audience-for-your-youtube-videos/"><u>[New] 2024 Approved Tailoring Audience for Your Youtube Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-video-mastery-on-instagram-tips-and-tricks/"><u>[New] 2024 Approved Video Mastery on Instagram Tips and Tricks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-integrating-zoom-and-skype-for-superior-video-conferencing-experience/"><u>[New] In 2024, Integrating ZOOM & SKYPE for Superior Video Conferencing Experience</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-channel-personality-complimentary-youtube-graphics-for-2024/"><u>[Updated] Channel Personality Complimentary YouTube Graphics for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-countdown-configuration-in-obs-for-streamers-and-filmmakers/"><u>[Updated] Countdown Configuration in OBS for Streamers and Filmmakers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-sound-enhance-videos-with-windows-11-audio-integration/"><u>2024 Approved Mastering Sound Enhance Videos with Windows 11 Audio Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-typing-crafting-stories-through-chatgpt/"><u>Beyond Typing, Crafting Stories Through ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-efficiency-in-telecommuting-a-guide-to-the-6-best-uses-of-chatgpt-for-independent-contractors/"><u>Boosting Efficiency in Telecommuting: A Guide to the 6 Best Uses of ChatGPT for Independent Contractors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-tutorial-on-llama-2-setup-on-your-computer/"><u>Complete Tutorial on Llama 2 Setup on Your Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-bot-explained-insights-into-website-blocking-measures/"><u>GPT Bot Explained: Insights Into Website Blocking Measures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/huggingchat-decoded-an-openai-alternative-for-conversation-ai/"><u>HuggingChat Decoded: An OpenAI Alternative for Conversation AI</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/personalized-fitness-plans-with-safe-and-effective-tips/"><u>Personalized Fitness Plans with Safe and Effective Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/scam-alert-be-wary-of-chatbots/"><u>Scam Alert! Be Wary of ChatBots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-connectivity-enabling-access-to-chatgpt-globally-using-chatgpt-everywhere-app/"><u>Seamless Connectivity: Enabling Access to ChatGPT Globally Using ChatGPT Everywhere App</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-from-viral-tiktok-to-custom-phone-ringtones-for-2024/"><u>Step-by-Step From Viral TikTok to Custom Phone Ringtones for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-how-to-fix-chatgpt-ios-application-issues/"><u>Troubleshooting Guide: How to Fix ChatGPT iOS Application Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/harting-the-peak-1-shorter-videos-downloader-hub/"><u>[New] Charting the Peak #1 Shorter Videos Downloader Hub</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-segmented-screen-success-is-splitcam-superior-in-2024/"><u>[Updated] Segmented Screen Success Is SplitCam Superior, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/busting-common-gpt-3-misconceptions-and-fixes-for-a-smooth-experience/"><u>Busting Common GPT-3 Misconceptions & Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-future-home-automation-apples-plans-unveiled-on-a-potential-domestic-robotic-companion/"><u>Exploring Future Home Automation: Apple's Plans Unveiled on a Potential Domestic Robotic Companion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gain-first-look-at-apple-vision-pro-tools-with-testflight-a-step-by-step-guide/"><u>Gain First Look at Apple Vision Pro Tools with TestFlight – A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-10-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark 10 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-netgears-powerline-ac1200-aesthetics-vs-performance/"><u>In-Depth Analysis of Netgear's Powerline AC1200: Aesthetics vs Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-at-home-leveraging-the-capabilities-of-an-ipad-pro-for-office-use-zdnet/"><u>Maximizing Efficiency at Home: Leveraging the Capabilities of an iPad Pro for Office Use | ZDNet</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-add-emojis-to-discord-on-desktop-computer-and-mobile/"><u>New 2024 Approved How to Add Emojis To Discord on Desktop Computer and Mobile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/samsung-vs-apple-galaxy-watch-ultra-and-apple-watch-ultra-face-off-choose-wisely/"><u>Samsung Vs. Apple: Galaxy Watch Ultra and Apple Watch Ultra Face-Off - Choose Wisely!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screen-capture-mastery-a-closer-look-at-recmeister-tech-for-2024/"><u>Screen Capture Mastery A Closer Look at Recmeister Tech for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/sending-streaming-content-linking-fb-vids-and-whatsapp-messages/"><u>Sending Streaming Content Linking FB Vids & WhatsApp Messages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-36-unbeatable-prime-day-2024-tablet-bargains-exclusive-offers-from-zdnet/"><u>Top 36 Unbeatable Prime Day 2024 Tablet Bargains - Exclusive Offers From ZDNet!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-smartphone-assessment-techniques-insights-comprehensive-review/"><u>Unveiling Smartphone Assessment Techniques: Insights Comprehensive Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrade-safely-how-macos-1441-secures-your-system-before-the-latest-update-insights-from-zdnet/"><u>Upgrade Safely: How macOS 14.4.1 Secures Your System Before the Latest Update - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-to-expect-from-apples-new-airpods-releases-a-comprehensive-guide-to-differences-amongst-models-zdnet/"><u>What to Expect From Apple's New AirPods Releases: A Comprehensive Guide to Differences Amongst Models | ZDNET</u></a></li>
 </ul></div>
 

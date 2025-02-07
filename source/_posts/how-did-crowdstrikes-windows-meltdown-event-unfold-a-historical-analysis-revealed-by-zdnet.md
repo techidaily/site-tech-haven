@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2025-01-20T19:04:18.125Z
-updated: 2025-01-25T16:30:33.471Z
+date: 2025-02-02T08:51:56.268Z
+updated: 2025-02-07T09:00:23.195Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-15-innovative-choices-for-action-cams-excluding-gopro/"><u>[New] 2024 Approved 15 Innovative Choices for Action Cams, Excluding GoPro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-hangout-history-top-4-strategies/"><u>[Updated] Hangout History Top 4 Strategies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-play-40c-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Play 40C Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-flight-fun-holy-stone-hs170-predator-mini-rc-helicopter-reviews/"><u>Affordable Flight Fun: Holy Stone HS170 Predator Mini RC Helicopter Reviews</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-find-x6-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo Find X6 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-s17mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo S17Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/izing-youtube-content-for-instagram-platforms/"><u>Optimizing YouTube Content for Instagram Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/rediscovering-the-classics-msn-gamespy-winamp-and-more-memorable-tech-relics/"><u>Rediscovering the Classics: MSN, GameSpy, Winamp & More Memorable Tech Relics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-your-data-a-step-by-step-guide-to-encrypting-a-usb-drive-on-windows-1011/"><u>Securing Your Data: A Step-by-Step Guide to Encrypting a USB Drive on Windows 10/11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/soon-windows-11-tackles-and-overcomes-its-major-challenges-with-fat32-storage/"><u>Soon, Windows 11 Tackles and Overcomes Its Major Challenges with FAT32 Storage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/stardock-desktopgpt-the-ultimate-ai-driven-tool-superseding-traditional-power-user-assistants/"><u>Stardock DesktopGPT: The Ultimate AI-Driven Tool Superseding Traditional Power User Assistants</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-mastering-the-art-of-iphone-soft-reboot/"><u>Step-by-Step Guide: Mastering the Art of iPhone Soft Reboot</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-premier-8-edits-suites-for-linux-buffs/"><u>[New] In 2024, Premier 8 Edits Suites for Linux Buffs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ogo-luminosity-enhancing-gaming-channels-with-designs-for-2024/"><u>[New] Logo Luminosity Enhancing Gaming Channels with Designs for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-take-control-of-your-instagram-content/"><u>[New] Take Control of Your Instagram Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-photography-enhancement-hacks-for-professionals/"><u>[Updated] 2024 Approved Insta-Photography Enhancement Hacks for Professionals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximize-your-income-winning-at-monetizing-social-media-videos/"><u>[Updated] In 2024, Maximize Your Income Winning at Monetizing Social Media Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-tablet-picks-for-2eze-year-in-depth-analysis-and-ratings/"><u>Affordable Tablet Picks for 2Eze Year: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/buy-airpods-pro-2-with-built-in-hearing-aid-functionality-at-an-exclusive-24-discount-today-shop-now/"><u>Buy AirPods Pro 2 with Built-In Hearing Aid Functionality at an Exclusive 24% Discount Today - Shop Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/collaborating-on-apple-pages-files-through-icloud-a-comprehensive-guide/"><u>Collaborating on Apple Pages Files Through iCloud: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-ios-applications-for-business-in-2eby-microsoft-2022s-top-rated-selection/"><u>Discover the Leading iOS Applications for Business in 2Eby Microsoft: 2022'S Top-Rated Selection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/future-proofing-communication-how-apple-bolsters-imessage-security-insights/"><u>Future-Proofing Communication: How Apple Bolsters iMessage Security - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-the-apple-watch-ultra-2-became-a-game-changing-wearable-for-me-now-with-100-off-on-labor-day-exclusive-review-by-zdnet/"><u>How the Apple Watch Ultra 2 Became a Game-Changing Wearable for Me, Now with $100 Off on Labor Day | Exclusive Review by ZDNET</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-14-plus-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 14 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-13-ultra-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi 13 Ultra online without jailbreak</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-gt-5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme GT 5 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-apples-revolutionary-universal-control-for-enhanced-ipad-mac-synchronization-expert-advice-from-zdnet/"><u>The Ultimate Guide to Apple's Revolutionary Universal Control for Enhanced iPad-Mac Synchronization | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unbeatable-apple-watch-series-9-offer-steals-the-show-post-prime-day-exclusive-at-zdnet/"><u>Unbeatable Apple Watch Series #9 Offer: Steals the Show Post-Prime Day! | Exclusive at ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-fb-videos-instant-mp4-format-conversion-for-2024/"><u>Unlock FB Videos Instant MP4 Format Conversion for 2024</u></a></li>
 </ul></div>
 

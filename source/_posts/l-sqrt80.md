@@ -1,7 +1,7 @@
 ---
 title: \\[ L = \\Sqrt{80} \\
-date: 2025-01-23T18:37:17.063Z
-updated: 2025-01-25T19:08:50.024Z
+date: 2025-02-02T11:05:51.761Z
+updated: 2025-02-07T01:45:55.727Z
 tags:
   - apple
 categories:
@@ -45,10 +45,14 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the Google Pixel 6 Pro if…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
@@ -60,7 +64,7 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want a bigger battery
@@ -72,7 +76,7 @@ While Apple's iPhones have made significant improvements to battery life since t
 CNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
@@ -88,7 +92,7 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 ##  You should buy the iPhone 13 Pro if...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
@@ -110,10 +114,6 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -153,17 +153,19 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/solved-tales-of-arise-ue4-fatal-error/"><u>[SOLVED] Tales of Arise UE4 Fatal Error</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-guide-to-selecting-a-personalized-video-sharing-app/"><u>[Updated] In 2024, The Ultimate Guide to Selecting a Personalized Video Sharing App</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-innovative-shooting-with-drones-in-media/"><u>[Updated] Innovative Shooting with Drones in Media</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-digital-exploration-go-for-perplexity-ai/"><u>Enhance Your Digital Exploration – Go for Perplexity AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-these-exceptional-chatgpt-alternatives-top-picks-unveiled/"><u>Explore These Exceptional ChatGPT Alternatives – Top Picks Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-limitations-of-ai-why-cant-chatgpt-identify-its-creative-outputs/"><u>Exploring the Limitations of AI: Why Can't ChatGPT Identify Its Creative Outputs?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y78t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y78t to Roku | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-logitechs-4k-webcam-masterclass-a-complete-review/"><u>In 2024, Logitech’s 4K Webcam Masterclass - A Complete Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/rediscover-nature-with-these-top-ar-titles/"><u>Rediscover Nature with These Top AR Titles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-creative-uses-of-chatgpt-vision-technology/"><u>Top 8 Creative Uses of ChatGPT Vision Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlining-adobe-presentation-videos-in-adobe-for-2024/"><u>[Updated] Streamlining Adobe Presentation Videos in Adobe for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-13-pro-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 13 Pro to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/cbs-news-video-downloads-available-in-multiple-file-types-for-easy-viewing-and-sharing/"><u>CBS News Video Downloads Available in Multiple File Types for Easy Viewing and Sharing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/differentiating-amongst-public-access-corporate-owned-and-user-centric-artificial-intelligence-solutions/"><u>Differentiating Amongst Public-Access, Corporate-Owned, and User-Centric Artificial Intelligence Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-privacy-with-personalized-language-models-how-to-defend-against-potential-data-leaks/"><u>Ensuring Privacy with Personalized Language Models: How to Defend Against Potential Data Leaks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-and-its-transformative-applications-in-the-world-of-advanced-generative-ai/"><u>Exploring ChatGPT & Its Transformative Applications in the World of Advanced Generative AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-your-bluetooth-connectivity-problems-in-windows-10-ultimate-fixes/"><u>How to Resolve Your Bluetooth Connectivity Problems in Windows 10 - Ultimate Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-mobile-applications-in-the-ios-marketplace/"><u>Identifying Counterfeit ChatGPT Mobile Applications in the iOS Marketplace</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revamped-podcast-chats-attracting-true-fans/"><u>In 2024, Revamped Podcast Chats Attracting True Fans</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-tiny-snippets-deciphered-important-facts/"><u>In 2024, Tiny Snippets Deciphered Important Facts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ai-techniques-crafting-epic-dandd-characters-with-chatgpt-and-dall-e/"><u>Innovative AI Techniques: Crafting Epic D&D Characters with ChatGPT and DALL-E</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/picking-the-perfect-partner-which-is-better-claude-or-chatgpt-for-daily-interactions/"><u>Picking the Perfect Partner: Which Is Better, Claude or ChatGPT for Daily Interactions?</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-edge-40-neo-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Edge 40 Neo Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

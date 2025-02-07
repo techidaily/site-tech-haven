@@ -1,7 +1,7 @@
 ---
 title: Score the Sweetest Price Yet on Apple's New M2 MacBook Air at Amazon for Only $800 – No Prime Day Necessary | ZDNet Exclusive Deal
-date: 2025-01-20T18:19:31.703Z
-updated: 2025-01-25T16:52:22.364Z
+date: 2025-01-31T15:23:02.603Z
+updated: 2025-02-06T19:11:40.291Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 Many folks don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C2R8MP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc29ebbda-99dd-4505-b503-7802d6019c7c%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,22 +79,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-google-meetings-archive/"><u>[New] 2024 Approved Google Meetings Archive</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-up-to-date-tips-for-purchasing-top-360-imagers/"><u>[New] Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-blueprint-strategies-for-authentic-life-enrichment-videos-for-2024/"><u>[Updated] Blueprint Strategies for Authentic Life Enrichment Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-miniature-marketers-guide-to-video-promos-infographic/"><u>[Updated] Miniature Marketer's Guide to Video Promos (Infographic)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/closedsubsquery-time-to-reengage-in-dialogue/"><u>ClosedSubsQuery: Time to Reengage in Dialogue?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-guide-to-crafting-perfect-chatgpt-personalized-prompts-top-5-methods/"><u>Expert Guide to Crafting Perfect ChatGPT Personalized Prompts (Top 5 Methods)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-depths-of-googles-artificve-intelligence-unveiling-gemini/"><u>Exploring the Depths of Google's Artificve Intelligence: Unveiling Gemini</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-k70-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi K70 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bring-laughter-to-life-with-adobe-meme-tools/"><u>In 2024, Bring Laughter to Life with Adobe Meme Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-strategies-to-perfect-your-resume-with-ai/"><u>Innovative Strategies to Perfect Your Resume with AI</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-10-essential-tools-for-creating-stunning-slow-motion-videos/"><u>New 10 Essential Tools for Creating Stunning Slow Motion Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/starting-with-langchain-llm-the-essential-starter-kit/"><u>Starting with LangChain LLM: The Essential Starter Kit</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-effective-strategies-integrating-chatgpt-into-your-job-hunt/"><u>Top 6 Effective Strategies: Integrating ChatGPT Into Your Job Hunt</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-three-methods-leveraging-chatgpt-with-the-wolfram-alpha-add-on/"><u>Top Three Methods: Leveraging ChatGPT with the Wolfram Alpha Add-On</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-conversational-ai-combining-chatgpt-and-siri/"><u>Unleashing the Power of Conversational AI: Combining ChatGPT and Siri</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>[New] 2024 Approved Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unveiling-the-art-of-designing-captivating-valorant-thumbnails/"><u>[Updated] 2024 Approved Unveiling the Art of Designing Captivating Valorant Thumbnails</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-battle-of-live-streamers-twitch-versus-youtube/"><u>[Updated] The Battle of Live Streamers Twitch Versus YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/decrypting-the-secrets-of-social-media-invisibility/"><u>Decrypting the Secrets of Social Media Invisibility</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/vering-how-youtube-runs-its-creator-workshop/"><u>Discovering How YouTube Runs Its Creator Workshop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-perfect-flying-companions-the-top-kids-drones/"><u>In 2024, Perfect Flying Companions The Top Kids' Drones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-background-footage-for-engaging-content/"><u>Leveraging Background Footage for Engaging Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-terminal-tips-for-finding-and-showing-hidden-documents/"><u>MacOS Terminal Tips for Finding and Showing Hidden Documents</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-mastering-mp4-video-cropping-using-desktop-software-and-online-services/"><u>Quick Guide: Mastering MP4 Video Cropping Using Desktop Software and Online Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securely-access-hotstar-media-uncover-two-complimentary-downloading-techniques/"><u>Securely Access Hotstar Media: Uncover Two Complimentary Downloading Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-dsds2-files-into-wav-format/"><u>Step-by-Step Guide: Converting DS/DS2 Files Into WAV Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-converting-audio-cds-into-mp3-files-via-vlc-and-wmp-tools/"><u>Step-by-Step Tutorial on Converting Audio CDs Into MP3 Files via VLC & WMP Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-integrating-the-fdjhd-channel-into-your-kodi-media-player/"><u>Step-by-Step Tutorial: Integrating the FDJ.HD Channel Into Your Kodi Media Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-tutorial-on-switching-from-prores-to-avi-video-encoding/"><u>The Ultimate Tutorial on Switching From ProRes to AVI Video Encoding</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-simple-tools-to-undo-youtube-videos-with-a-click/"><u>Top 4 Simple Tools to Undo YouTube Videos with a Click</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-premium-free-movies-of-2024-your-ultimate-download-guide-without-signing-up/"><u>Top 7 Premium-Free Movies of 2024: Your Ultimate Download Guide Without Signing Up!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-unlocking-full-features-of-hd-video-converter-factory-pro-without-cost/"><u>Ultimate Tutorial on Unlocking Full Features of HD Video Converter Factory Pro Without Cost</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2025-01-22T18:55:25.146Z
-updated: 2025-01-25T17:38:41.596Z
+date: 2025-02-05T01:38:45.889Z
+updated: 2025-02-07T03:40:43.427Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,22 +129,17 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/a-decades-best-anime-opening-songs-compiled-for-2024/"><u>A Decade's Best Anime Opening Songs Compiled for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-free-ai-programs-to-generate-stunning-visual-content/"><u>Best Free AI Programs to Generate Stunning Visual Content</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-to-get-minecraft-running-smoothly-on-your-win11-system/"><u>Comprehensive Fixes to Get Minecraft Running Smoothly on Your Win11 System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/develop-your-emotional-smarts-using-chatgpt-tactics/"><u>Develop Your Emotional Smarts Using ChatGPT Tactics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-functionality-of-llama2-platforms-a-complete-guide/"><u>Discover the Functionality of LLAMA2 Platforms – A Complete Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-future-of-web-search-bings-ai-on-android-and-ios/"><u>Explore the Future of Web Search: Bing's AI on Android & iOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-acquainted-with-ai-enhanced-bing-registration-pathway/"><u>Getting Acquainted with AI-Enhanced Bing: Registration Pathway</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-5-speculations-anticipated-launch-timeline/"><u>GPT-5 Speculations: Anticipated Launch Timeline?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-huawei-p60-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Huawei P60 Phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-innovating-with-snapchats-new-highlight-feature/"><u>In 2024, Innovating with Snapchat's New Highlight Feature</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-pioneering-methods-to-log-lol-gaming-sessions/"><u>In 2024, Pioneering Methods to Log LOL Gaming Sessions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-android-and-iphones-finest-video-creators-with-music-integration/"><u>New 2024 Approved Android and iPhones Finest Video Creators with Music Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-common-challenges-in-preserving-conversations-on-chatgpt/"><u>Overcoming Common Challenges in Preserving Conversations on ChatGPT</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-issues-with-the-steelseries-gg-engine-in-windows/"><u>Troubleshooting Guide: Fixing Issues with the SteelSeries GG Engine in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-gemini-googles-next-gen-ai-initiative/"><u>Unraveling the Mystery of Gemini – Google’s Next-Gen AI Initiative</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/valorant-gameplay-disrupted-fix-graphic-driver-errors-instantly/"><u>Valorant Gameplay Disrupted? Fix Graphic Driver Errors Instantly!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-excellent-audio-capture-on-demand/"><u>[Updated] In 2024, Excellent Audio Capture on Demand</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/automating-visibility-concealing-and-revealing-your-macs-menu-bar/"><u>Automating Visibility: Concealing and Revealing Your Mac's Menu Bar</u></a></li>
+<li><a href="https://win-web.techidaily.com/how-to-customize-your-network-preferences-insights-from-yl-software-experts/"><u>How to Customize Your Network Preferences: Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-copy-and-paste-features-in-your-windows-11-operating-system/"><u>How to Restore Copy and Paste Features in Your Windows 11 Operating System</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-capturing-moments-dslr-setup-for-online-streaming-pcmac/"><u>In 2024, Capturing Moments DSLR Setup for Online Streaming (PC/Mac)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unbeatable-online-headline-builder/"><u>In 2024, Unbeatable Online Headline Builder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-on-the-legality-of-duplicating-dvd-content-a-full-breakdown/"><u>In-Depth Analysis on the Legality of Duplicating DVD Content: A Full Breakdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/installing-the-blink-addon-for-seamless-viewing-a-users-manual-with-matrix-support-on-kodi/"><u>Installing the Blink Addon for Seamless Viewing - A User's Manual with Matrix Support on Kodi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/intellectual-property-rules-for-instagram-beats-for-2024/"><u>Intellectual Property Rules for Instagram Beats for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-openwizard-integration-with-kodi-top-tips-for-flawless-operation-efficient-backups-and-streamlined-maintenance/"><u>Mastering OpenWizard Integration with Kodi: Top Tips for Flawless Operation, Efficient Backups & Streamlined Maintenance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-video-compression-essential-techniques-and-methods-explained/"><u>Mastering Video Compression: Essential Techniques and Methods Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-glitches-solving-the-avatar-frontiers-of-pandora-game-crash-on-desktop-edition/"><u>No More Glitches! Solving the Avatar: Frontiers of Pandora Game Crash on Desktop Edition</u></a></li>
 </ul></div>
 

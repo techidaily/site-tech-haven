@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2025-01-23T18:25:29.681Z
-updated: 2025-01-25T17:10:03.062Z
+date: 2025-01-31T09:53:10.053Z
+updated: 2025-02-06T21:54:01.806Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -41,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -52,10 +52,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -63,6 +59,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -80,6 +80,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,21 +140,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-drone-applications-in-the-now-and-in-the-near-future/"><u>[New] 2024 Approved Drone Applications in the Now & In the Near Future</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-assemble-unique-meme-creations-with-ease/"><u>[New] Assemble Unique Meme Creations with Ease</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exploring-mac-best-sniping-tools-ranked/"><u>[Updated] Exploring Mac Best Sniping Tools Ranked</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-video-content-transcriber/"><u>[Updated] Video Content Transcriber</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-ultimate-guide-expert-level-competitors-to-geek-squad-sd-card-restoration/"><u>1. Ultimate Guide: Expert-Level Competitors to Geek Squad SD Card Restoration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-comprehension-7-puzzling-queries-that-confound-ai-models-like-chatgpt/"><u>Beyond Comprehension: 7 Puzzling Queries That Confound AI Models Like ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-freelancers-empowering-self-managed-workflows/"><u>ChatGPT for Freelancers: Empowering Self-Managed Workflows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/customizing-chatgpt-with-gpt-technology-for-enhanced-conversations/"><u>Customizing ChatGPT with GPT Technology for Enhanced Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dissecting-ais-pivotal-role-in-prompt-creation-and-employment-trends/"><u>Dissecting AI's Pivotal Role in Prompt Creation & Employment Trends</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/examining-alternative-use-of-restricted-gpt-features/"><u>Examining Alternative Use of Restricted GPT Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-chatgpts-versatile-coding-tool-5-innovative-uses-for-developers-and-enthusiasts/"><u>Explore ChatGPT's Versatile Coding Tool: 5 Innovative Uses for Developers and Enthusiasts</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-a34-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy A34 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/immediate-access-future-legacy-preserving-your-digital-moments-for-2024/"><u>Immediate Access, Future Legacy Preserving Your Digital Moments for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-android-clip-inversions-for-2024/"><u>Mastering the Art of Android Clip Inversions for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-classroom-with-chatgpts-five-essential-tools/"><u>Navigating the Classroom with ChatGPT's Five Essential Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-chatgpt-plus-is-your-next-big-leap-discover-9-key-motivators/"><u>Why ChatGPT Plus Is Your Next Big Leap – Discover 9 Key Motivators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>[New] The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-studio-review-profits-and-payments-for-2024/"><u>[Updated] YouTube Studio Review Profits and Payments for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-settings-tweaks-revealed-by-zdnet/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Settings Tweaks Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-your-next-apple-laptop-a-detailed-comparison-of-m3-vs-m2-macbook-air-models/"><u>Choosing Your Next Apple Laptop: A Detailed Comparison of M3 Vs. M2 MacBook Air Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-xr-glasses-overcome-apples-vision-pro-shortcomings-for-less-the-game-changer-you-need/"><u>Cutting-Edge XR Glasses Overcome Apple's Vision Pro Shortcomings for Less – The Game Changer You Need</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-amd-radeon-driver-for-windows-8-no-cost/"><u>Download AMD Radeon Driver for Windows 8 - No Cost</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-master-download-manager-facebook-and-firefox-edition-tools/"><u>In 2024, Master Download Manager Facebook & FireFox Edition Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-investing-in-the-iphone-16-worth-it-unpacking-apples-ai-capabilities-with-insights/"><u>Is Investing in the iPhone 16 Worth It? Unpacking Apple's AI Capabilities with Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-review-for-jackery-powerbar-station-focus-on-ac-connectivity-and-charging-capabilities/"><u>Top Review for Jackery PowerBar Station - Focus on AC Connectivity and Charging Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-airtag-gadgets-and-peripherals-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated AirTag Gadgets & Peripherals of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
 </ul></div>
 

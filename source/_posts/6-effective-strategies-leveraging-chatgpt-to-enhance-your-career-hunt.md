@@ -1,7 +1,7 @@
 ---
 title: "6 Effective Strategies: Leveraging ChatGPT to Enhance Your Career Hunt"
-date: 2024-08-09T20:28:57.234Z
-updated: 2024-08-10T20:28:57.234Z
+date: 2025-02-02T15:00:52.413Z
+updated: 2025-02-06T20:41:16.880Z
 tags:
   - chatgpt
   - open-ai
@@ -19,16 +19,17 @@ thumbnail: https://thmb.techidaily.com/522924ced0006a97e1c9e5d253d5bd56be4e5257c
 
  You may have heard ChatGPT can help people write cover letters and resumes, and you’re wondering if it can help you write difficult emails, too. If you provide the AI with adequate information, you can get content to use as a foundation for your email. ChatGPT can help you focus on the message without getting emotions involved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Open an Account With ChatGPT
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Screenshot of ChatGPT homepage (updated)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-homepage-updated.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The process to open an account with ChatGPT. Go to the website[https://chat.openai.com/](https://chat.openai.com/) , where you’ll see a prompt to log in or sign up. You can create an account with an email or use your Google account.
 
@@ -38,9 +39,6 @@ No advertising on the website.
 
  The cost for GPT-4 is $20 monthly. If you’re curious about the beta features GPT-4 offers, you may be interested in learning about[things you can do with ChatGPT’s code interpreter](https://www.makeuseof.com/chatgpt-code-interpreter-uses/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Provide ChatGPT With Custom Instructions
 
  Before you ask ChatGPT to create content for you, you need to provide the platform with custom instructions. There are two questions for you to answer so the AI can provide the responses you want.
@@ -51,9 +49,6 @@ No advertising on the website.
 
 Here is an example introduction:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Screenshot of ChatGPT custom instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-custom-instructions.jpg)
 
 ## Step 3: Prompt ChatGPT to Write the Email You Want
@@ -74,21 +69,23 @@ Here is an example introduction:
 
 ![Screenshot of ChatGPT letter to board advising not going to make deadline](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-letter-to-board-advising-not-going-to-make-deadline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t let embarrassment stop you from letting management and your team know you’re having difficulty meeting a deadline. When everyone’s aware of the challenges you’re experiencing, they may be able to make adjustments to help you meet the deadline.
 
  You don’t want to be the cause of a bottleneck. Not waiting until the last minute to let management and your team know you won’t make the deadline can help preserve relationships and build trust.
 
  Some people struggle to meet deadlines because they fall into the trap of procrastination. If that sounds like you, you may be interested in learning[the top tips to avoid procrastination and meet deadlines](https://www.makeuseof.com/top-tips-avoid-procrastination-meet-deadlines/) .
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Email to Request Emergency Leave
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Screenshot of emergency leave request generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-emergency-leave-request-generated-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Emergency leaves can be stressful. The last thing you need to worry about is writing a letter asking for leave on short notice, especially if things are busy at work.
 
@@ -98,14 +95,8 @@ Here is an example introduction:
 
  If you have a senior in your life, you may dread the day you need to take an emergency leave. You may be interested in sharing these[smart gadgets for seniors to maintain good health and wellness](https://www.makeuseof.com/smart-gadgets-seniors-maintain-health-wellness/) with your loved ones.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Email to Say “No” to a Project
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of email saying no to a project generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-email-saying-no-to-a-project-generated-by-chatgpt.jpg)
 
  While “Are you kidding me?” may be the knee-jerk response to a request to take on another project, you’re better off with a diplomatic reply. You may want to send the email quickly if you have people-pleasing tendencies.
@@ -114,15 +105,8 @@ Here is an example introduction:
 
  Before sending the email, ensure your response aligns with the organization’s policy and is suitable for the receiver. If you need help to refuse things at work confidently, you may be interested in learning[how to say “no” at work politely](https://www.makeuseof.com/how-to-say-no-at-work/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Email to Gain Clarity on Organizational Priorities
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Screenshot of an email asking for clarity on priortities generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-an-email-asking-for-clarity-on-priortities-generated-by-chatgpt.jpg)
 
  Sometimes, you may get overwhelmed with your responsibilities and unsure where to start. Rather than trying to figure it out independently, asking your manager or supervisor what they want you to prioritize is best.
@@ -131,12 +115,17 @@ Here is an example introduction:
 
  The ability to prioritize is a skill you can build if you feel it’s weak. If you need help prioritizing, you may be interested in[the best apps you can use to prioritize tasks at work](https://www.makeuseof.com/best-apps-to-prioritize-tasks-at-work/ "The 8 Best Apps You Can Use to Prioritize Tasks at Work") .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 4: Review and Edit the Emails ChatGPT Creates
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Image of sheet with red pen making corrections on the page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-sheet-with-red-pen-making-corrections-on-the-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once ChatGPT creates an email using your prompt, you should review it and make the necessary edits. Some of the things mentioned in the draft may not apply to you, and the AI may miss critical information that you want to include.
 
@@ -146,20 +135,21 @@ Here is an example introduction:
 
  This is probably the most challenging part of writing a difficult email. Stop worrying about the reaction, and send it! Before you hit send, you may want to learn the[mistakes that make a business email look unprofessional](https://www.makeuseof.com/mistakes-make-business-email-unprofessional/ "10 Mistakes That Make a Business Email Look Unprofessional") .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Difficult Emails Have to Be Sent
 
  Sending emails of a negative nature can be challenging, but they need to be done. Avoiding complex topics can cause more problems than addressing them creates. Even though drafting a difficult email may induce anxiety, you’ll feel better once you hit send.
 
  Your manager or supervisor may not be happy with the message, but they’ll appreciate you telling them what’s happening with sufficient notice. Dealing with conflict might not be your favorite thing to do, but it’s important to manage it effectively. Conflict management is an essential skill to learn professionally and personally.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +158,18 @@ Here is an example introduction:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-straightforward-approach-screen-record-on-macbook-air-for-2024/"><u>[Updated] A Straightforward Approach Screen Record on Macbook Air for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhancing-viewership-maintaining-youtubes-creative-commons/"><u>[Updated] Enhancing Viewership Maintaining YouTube's Creative Commons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accelerate-your-pc-performance-solutions-for-a-speedy-windows-11/"><u>Accelerate Your PC Performance: Solutions For A Speedy Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-the-future-of-personalized-cbt-interventions/"><u>ChatGPT and the Future of Personalized CBT Interventions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-avoid-interrupting-allow-the-speaker-to-finish-their-thoughts-before-responding-or-asking-questions/"><u>In 2024, Avoid Interrupting Allow the Speaker to Finish Their Thoughts Before Responding or Asking Questions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-razr-40-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Razr 40 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-popularity-a-comprehensive-list-of-instagrams-top-25-tags/"><u>In 2024, Unlocking Popularity A Comprehensive List of Instagram's Top 25 Tags</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-safe-6-cybersecurity-risks-of-openais-chatbot/"><u>Is ChatGPT Safe? 6 Cybersecurity Risks of OpenAI's Chatbot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-virtual-collaboration-a-guide-to-leveraging-chatgpt-in-team-meetings/"><u>Optimizing Virtual Collaboration: A Guide to Leveraging ChatGPT in Team Meetings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-sensitive-info-best-practices-for-using-chatgpt-in-professional-settings/"><u>Safeguarding Sensitive Info: Best Practices for Using ChatGPT in Professional Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-benefits-of-using-chatgpt-in-your-cryptocurrency-investment-strategy/"><u>Top 5 Benefits of Using ChatGPT in Your Cryptocurrency Investment Strategy</u></a></li>
+</ul></div>
 

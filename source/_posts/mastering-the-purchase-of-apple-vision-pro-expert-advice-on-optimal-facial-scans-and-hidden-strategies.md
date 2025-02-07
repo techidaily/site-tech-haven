@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Purchase of Apple Vision Pro: Expert Advice on Optimal Facial Scans & Hidden Strategies"
-date: 2025-01-20T18:22:16.469Z
-updated: 2025-01-25T18:35:33.675Z
+date: 2025-02-03T21:40:11.086Z
+updated: 2025-02-07T10:08:02.909Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,19 +129,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-easy-obs-youtube-live-streaming-guide/"><u>[New] Easy OBS YouTube Live Streaming Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-navigating-current-and-future-of-drone-use-for-2024/"><u>[New] Navigating Current and Future of Drone Use for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-melody-to-video-quick-sound-import-tricks/"><u>[Updated] Melody to Video Quick Sound Import Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-aerial-cutting-edge-the-ultimate-drone-editing-comparison/"><u>2024 Approved Aerial Cutting Edge The Ultimate Drone Editing Comparison</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-c210-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on C210</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-a-captivating-story-integrating-images-on-instagram-for-2024/"><u>Craft a Captivating Story Integrating Images on Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficient-video-encoding-with-ffmpeg-a-step-by-step-tutorial-on-reducing-file-sizes/"><u>Efficient Video Encoding with FFmpeg: A Step-by-Step Tutorial on Reducing File Sizes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-complete-windows-11-build-15031-download-when-its-frozen-on-initialization/"><u>How to Complete Windows 11 Build 15031 Download When It's Frozen on Initialization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-configure-rdc-on-windows-10-a-comprehensive-guide/"><u>How to Configure RDC on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-create-restore-point-in-windows-10/"><u>How to Create Restore Point in Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-delete-browsing-history-in-microsoft-edge/"><u>How to Delete Browsing History in Microsoft Edge</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-modify-the-timeout-timer-on-windows-10s-lock-screen/"><u>How to Modify the Timeout Timer on Windows 10'S Lock Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-overcome-error-code-54-on-iphone-troubleshooting-itunes-sync-issues-after-windows-11-upgrade/"><u>How to Overcome Error Code -54 on iPhone: Troubleshooting iTunes Sync Issues After Windows 11 Upgrade</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-your-gaming-rigs-logitech-momo-steering-wheel-drivers-and-demo-for-pc-available-now/"><u>Upgrade Your Gaming Rigs - Logitech MOMO Steering Wheel Drivers & Demo for PC Available Now!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras/"><u>[Updated] The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-compatible-setup-procedures-for-ps-vr-and-computers/"><u>Expert Advice: Compatible Setup Procedures for PS VR and Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-conversational-ai-discover-6-innovative-ways-to-use-chatgpts-code-interpretation-skills/"><u>Harnessing Conversational AI: Discover 6 Innovative Ways to Use ChatGPT's Code Interpretation Skills</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-intelligent-systems-are-redefining-game-creation-and-consumption/"><u>How Intelligent Systems Are Redefining Game Creation and Consumption</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mastering-youtube-ad-removal-chrome-firefox-android-iphone-methods/"><u>In 2024, Mastering YouTube Ad Removal Chrome, Firefox, Android, iPhone Methods</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-kobo-forma-a-commitment-to-enhancing-your-reading-experience/"><u>In-Depth Analysis of Kobo Forma: A Commitment to Enhancing Your Reading Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-interaction-by-dodging-these-critical-writing-errors/"><u>Mastering ChatGPT Interaction by Dodging These Critical Writing Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-linkedin-posts-with-chatgpt-techniques/"><u>Optimizing LinkedIn Posts with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-content-creation-boost-productivity-using-hix-ai-and-gpt-4/"><u>Streamline Content Creation: Boost Productivity Using HIX AI & GPT-4</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-blueprint-for-success-livestreaming-ultra-wide-video-content-on-youtube-for-2024/"><u>The Blueprint for Success Livestreaming Ultra-Wide Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/401662-9780446549486-the-merciful-god-of-prophecy/"><u>The Merciful God of Prophecy | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-secret-behind-artificnial-intelligence-black-boxes-explained/"><u>The Secret Behind Artificnial Intelligence Black Boxes Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-plan-for-chatgpt-plug-in-success/"><u>The Ultimate Plan for ChatGPT Plug-In Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-collection-top-16-free-video-platforms/"><u>Ultimate Collection Top 16 Free Video Platforms</u></a></li>
 </ul></div>
 

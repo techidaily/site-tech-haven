@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly | ZDNET"
-date: 2025-01-18T19:08:30.826Z
-updated: 2025-01-25T16:38:34.418Z
+date: 2025-02-01T16:47:41.657Z
+updated: 2025-02-07T05:56:18.353Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
 One of the biggest additions to the Apple Watch in WatchOS 11 is the new Vitals app, which helps you explore and contextualize your health by tracking your heart rate, respiratory rate, wrist temperature, and blood oxygen while you're asleep. These metrics are processed through an algorithm and displayed on a chart the next morning to tell you whether you're in your normal range. 
@@ -38,13 +42,13 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -66,10 +70,6 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
@@ -84,13 +84,13 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -99,7 +99,7 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
@@ -110,13 +110,13 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -152,24 +152,20 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nhancing-viewership-maintaining-youtubes-creative-commons-for-2024/"><u>[New] Enhancing Viewership Maintaining YouTube's Creative Commons for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unveiling-the-secrets-to-filmoras-fcc-status/"><u>[New] In 2024, Unveiling the Secrets to Filmora’s FCC Status</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-capturing-life-from-above-yuneec-breeze-experience-for-2024/"><u>[Updated] Capturing Life From Above Yuneec Breeze Experience for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-dissecting-vsdcs-capabilities-in-screen-recording-vs-alternatives-for-2024/"><u>[Updated] Dissecting VSDC's Capabilities in Screen Recording vs Alternatives for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-strategizing-effective-movie-sneak-peeks/"><u>2024 Approved Strategizing Effective Movie Sneak Peeks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-therapeutic-tool-enhancing-cognitive-behavioral-techniques/"><u>ChatGPT as a Therapeutic Tool: Enhancing Cognitive-Behavioral Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-overview-harnessing-power-of-openais-api/"><u>Comprehensive Overview: Harnessing Power of OpenAI's API</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evolution-of-conversational-agents-the-roadmap-for-advanced-generative-ai-beyond-chatgpt/"><u>Evolution of Conversational Agents: The Roadmap for Advanced Generative AI Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-depths-of-custom-features-in-gpt-3-conversations/"><u>Exploring the Depths of Custom Features in GPT-3 Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-truthgpts-unveiling-law-enforcement-action-against-mullvad-vpn-leading-free-pc-games-and-mechanical-keyboards-decoded/"><u>Exploring TruthGPT's Unveiling, Law Enforcement Action Against Mullvad VPN, Leading Free PC Games & Mechanical Keyboards Decoded</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-correcting-realtek-alc887-hd-audio-issues-in-windows-operating-system/"><u>Guide to Correcting Realtek ALC887 HD Audio Issues in Windows Operating System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-razr-40-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola Razr 40?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/insight-into-ais-linguistic-giants-understanding-the-unique-characteristics-of-gpt-vs-bert/"><u>Insight Into AI's Linguistic Giants: Understanding The Unique Characteristics of GPT Vs. BERT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-power-of-gpt-4-your-complete-guide-to-embracing-microsofts-latest-innovation-in-ai/"><u>Mastering the Power of GPT-4: Your Complete Guide to Embracing Microsoft's Latest Innovation in AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/reimagining-do-it-yourself-with-upcoming-ai/"><u>Reimagining Do-It-Yourself with Upcoming AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synthesizing-the-future-using-chatgpt-in-digital-music-production/"><u>Synthesizing the Future: Using ChatGPT in Digital Music Production</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/k-your-potential-mastering-the-art-of-youtube-edits/"><u>Unlock Your Potential Mastering the Art of YouTube Edits</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/bes-secrets-integrating-text-overlays-in-your-clips/"><u>YouTube's Secrets Integrating Text Overlays in Your Clips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-compendium-of-camera-types-for-professional-videos-for-2024/"><u>[New] Compendium of Camera Types for Professional Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-weaving-worthy-movie-openings-for-2024/"><u>[New] Weaving Worthy Movie Openings for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-10-fb-videos-to-mp4-converter-toolkit/"><u>[Updated] 2024 Approved Top 10 FB Videos to MP4 Converter Toolkit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-inspiring-video-concepts-for-impactful-presentations-for-2024/"><u>[Updated] Inspiring Video Concepts for Impactful Presentations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-secrets-to-superior-gaming-on-android-with-kinemaster/"><u>2024 Approved Unlocking the Secrets to Superior Gaming on Android With KineMaster</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/custom-write-with-ai-shaping-chatgpts-output-to-mirror-your-own-literary-style/"><u>Custom Write with AI: Shaping ChatGPT's Output to Mirror Your Own Literary Style</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-claudes-superiority-four-distinct-benefits-compared-to-chatgpt/"><u>Exploring Claude's Superiority: Four Distinct Benefits Compared to ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-for-interview-preparation/"><u>How to Use ChatGPT for Interview Preparation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-with-unique-chatai/"><u>Innovate with Unique ChatAI</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keyboard-conundrum-on-ios-devices-overcome-top-6-common-ipadiphone-typing-issues-easily/"><u>Keyboard Conundrum on iOS Devices? Overcome Top 6 Common iPad/iPhone Typing Issues Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/precision-in-ai-interactions-how-six-specific-prompting-styles-diminish-misunderstandings/"><u>Precision in AI Interactions: How Six Specific Prompting Styles Diminish Misunderstandings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-14-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-universal-connectivity-mastering-access-to-chatgpt-through-chatgpt-everywheres-features/"><u>Unleash Universal Connectivity: Mastering Access to ChatGPT Through ChatGPT Everywhere's Features</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dvd8/"><u>マルチメディアコンテンツのプレイバックガイド：動画・音声・DVD方法まとめ8ページ目</u></a></li>
 </ul></div>
 

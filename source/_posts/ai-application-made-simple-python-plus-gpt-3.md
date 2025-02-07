@@ -1,7 +1,7 @@
 ---
 title: "AI Application Made Simple: Python + GPT-3"
-date: 2024-08-09T20:30:14.094Z
-updated: 2024-08-10T20:30:14.094Z
+date: 2025-02-06T15:29:07.337Z
+updated: 2025-02-07T06:51:40.338Z
 tags:
   - chatgpt
   - open-ai
@@ -28,20 +28,15 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
  Your browser does not support the video tag.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. ChatGPT
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT in App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-in-app-store.jpg)
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 ![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
@@ -56,14 +51,12 @@ Close
 
 ## 2\. WOMBO Dream
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![WOMBO Dream AI art generator app text prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-text-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![WOMBO Dream AI art generator app art style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-art-style-options.jpg)
 
 ![WOMBO Dream AI artwork example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-artwork-example.jpg)
@@ -78,19 +71,17 @@ Close
 
 **Download:** WOMBO Dream for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.womboai.wombodream) |[iOS](https://apps.apple.com/us/app/wombo-dream-ai-art-generator/id1586366816) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Youper
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Youper Therapy chatbot conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-conversations.jpg)
 
 ![Youper Therapy chatbot tracking emotional state](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-tracking-emotional-state.jpg)
 
 ![Youper Therapy chatbot emotions tracking slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-tracking-slider.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Youper Therapy chatbot emotions log](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-log.jpg)
 
@@ -104,21 +95,16 @@ Close
 
 **Download:** Youper for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=br.com.youper) |[iOS](https://apps.apple.com/us/app/youper-cbt-therapy-chatbot/id1060691513) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Replika
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Replika AI app relationship status options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-relationship-status-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Replika AI app chat example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-chat-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Replika AI app Pride Month outfit collection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replika-ai-app-pride-month-outfit-collection.jpg)
 
 Close
@@ -131,22 +117,16 @@ Close
 
 ## 5\. Be My Eyes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Be My Eyes app start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-start-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Be My Eyes app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-home-page.jpg)
 
 ![Be My Eyes app instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-instructions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Be My Eyes app community menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-community-menu.jpg)
 
 Close
@@ -158,8 +138,9 @@ Close
 **Download:** Be My Eyes for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes) |[iOS](https://apps.apple.com/us/app/be-my-eyes/id905177575) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Bing
 
 ![Home page for the Bing app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-app-home.jpg)
@@ -176,17 +157,19 @@ Close
 
 **Download:** Bing for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/app/bing-chat-with-ai-gpt-4/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. ELSA
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![ELSA Speak English learning app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-home-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![ELSA Speak English learning app training options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-training-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ELSA Speak English learning app catching errors in pronunciation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-catching-errors-in-pronunciation.jpg)
 
@@ -207,8 +190,9 @@ Close
 ![Otter AI app transcribing speech example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-transcribing-speech-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Otter AI app menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-menu-options.jpg)
 
 ![Otter AI app Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-settings-menu.jpg)
@@ -222,22 +206,20 @@ Close
 **Download:** Otter for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.aisense.otter) |[iOS](https://apps.apple.com/us/app/otter-transcribe-voice-notes/id1276437113) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## There's an AI App for Almost Everything
 
  As amazing as these AI tools are, it's wise to remember that—all things considered—the technology is still in its infancy and is likely to deliver inaccurate, inappropriate, irrelevant, or unwanted results sometimes.
 
  The good news is that AI is growing exponentially, so a lot of the complaints that we currently have will likely be addressed sooner than you might expect, and its benefits will be available for us all to reap. Still, it's never a bad idea to proceed with caution.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -246,4 +228,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-hero5-black-versus-hero4-silver-comparison/"><u>[New] Hero5 Black Versus Hero4 Silver Comparison</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-frames-per-second-in-video-recording-the-3060-dilemma/"><u>[Updated] In 2024, Navigating Frames Per Second in Video Recording - The 30/60 Dilemma</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-artifical-intelligence-for-everyday-comprehension/"><u>Breaking Down Artifical Intelligence for Everyday Comprehension</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-cognitive-abilities-are-they-diminishing-over-time-openai-weighs-in/"><u>ChatGPT and Its Cognitive Abilities: Are They Diminishing Over Time? OpenAI Weighs In</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-ultimate-virtual-sous-chef-for-home-cooks/"><u>ChatGPT: The Ultimate Virtual Sous-Chef for Home Cooks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-f25-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo F25 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-precision-leaders-best-7-shooting-adventures/"><u>In 2024, Precision Leaders Best 7 Shooting Adventures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-y78-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y78 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/investigating-chatgpts-writing-blind-spots-understanding-its-detection-shortcomings/"><u>Investigating ChatGPT's Writing Blind Spots: Understanding Its Detection Shortcomings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-sustainable-cinematography-gear-for-2024/"><u>Premier Sustainable Cinematography Gear for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outuber-essentials-studio-choice-over-beta-alternative/"><u>Pro YouTuber Essentials Studio Choice Over Beta Alternative</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-data-at-a-steep-price-cut-grab-the-8tb-samsung-t5-ssd-now-with-36-off-after-prime-day-available-exclusively-from-amazon-zdnet-review/"><u>Secure Your Data at a Steep Price Cut: Grab the 8TB Samsung T5 SSD Now with 36% Off After Prime Day, Available Exclusively From Amazon – ZDNet Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-artisans-algorithm-gpt-assisted-ai-masterpieces/"><u>The Artisan's Algorithm: GPT-Assisted AI Masterpieces</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-n3-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find N3 Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gpts-personalized-guidance-feature-usage-exploration/"><u>Unveiling GPT's Personalized Guidance Feature: Usage Exploration</u></a></li>
+</ul></div>
 

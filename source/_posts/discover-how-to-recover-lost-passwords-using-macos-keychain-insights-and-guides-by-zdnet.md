@@ -1,7 +1,7 @@
 ---
 title: Discover How to Recover Lost Passwords Using macOS Keychain | Insights & Guides by ZDNET
-date: 2025-01-20T16:18:59.007Z
-updated: 2025-01-25T18:15:17.960Z
+date: 2025-02-06T07:49:01.911Z
+updated: 2025-02-06T21:40:33.834Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,6 +70,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -77,10 +81,6 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,19 +113,22 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-iphone-7-perfect-methods-for-screen-recording-for-2024/"><u>[Updated] IPhone 7 Perfect Methods for Screen Recording for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>2024 Approved Mastering Facebook Vids The Top 20 Marketing Hacks</u></a></li>
-<li><a href="https://article-files.techidaily.com/5-best-live-streaming-software-for-mac-you-must-know/"><u>5 Best Live Streaming Software for Mac You Must Know</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-realme-11-proplus-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Realme 11 Pro+ Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comprehensive-solutions-for-every-windows-11-update-problem-encountered/"><u>Comprehensive Solutions for Every Windows 11 Update Problem Encountered</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-ai-syntax-the-essential-vocabulary-list/"><u>Deciphering AI Syntax: The Essential Vocabulary List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elevate-farming-fun-with-these-top-7-stardew-valley-enhancements-for-2024/"><u>Elevate Farming Fun with These Top 7 Stardew Valley Enhancements for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-4s-global-footprint-simplified/"><u>GPT-4's Global Footprint, Simplified</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-productivity-leveraging-chatgpt-for-professional-efficiency/"><u>Mastering Productivity: Leveraging ChatGPT for Professional Efficiency</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-prompts-made-simple-introducing-the-user-friendly-chatgpt-tool-for-chrome-enthusiasts/"><u>Mastering Prompts Made Simple: Introducing the User-Friendly ChatGPT Tool for Chrome Enthusiasts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/revolutionizing-reports-with-paper-less-prints/"><u>Revolutionizing Reports with Paper-Less Prints</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-creative-potential-using-dall-e-3-at-no-cost-on-microsoft-bing-platform/"><u>Unlocking Creative Potential: Using DALL-E 3 at No Cost on Microsoft Bing Platform</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-key-disparities-comparing-features-of-googles-palm-2-and-openais-gpt-4/"><u>Unveiling Key Disparities: Comparing Features of Google's PaLM 2 and OpenAI's GPT-4</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-audible-mac-visual-record-functionality/"><u>[New] In 2024, Audible Mac Visual Record Functionality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mastering-iphone-creating-and-editing-low-speed-video-clips/"><u>[New] In 2024, Mastering iPhone Creating & Editing Low-Speed Video Clips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-shooter-showdown-the-ultimate-battle-for-game-supremacy/"><u>[New] In 2024, Shooter Showdown The Ultimate Battle for Game Supremacy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-impact-of-weather-on-syma-x8c-performance/"><u>[New] In 2024, The Impact of Weather on Syma X8C Performance</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728496101501-windows-11excel/"><u>「Windows 11におけるExcelファイルの回復方法：失われたデータ救出手順」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-unveils-plans-for-a-new-os-tailored-to-fortify-its-artifical-intelligence-servers-explore-what-weve-learned-so-far/"><u>Apple Unveils Plans for a New OS Tailored to Fortify Its Artifical Intelligence Servers – Explore What We've Learned So Far</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-future-at-wwdc-discover-how-apples-m4-ipad-pro-maximizes-performance-through-cutting-edge-artificial-intelligence/"><u>Exploring the Future at WWDC: Discover How Apple's M4 iPad Pro Maximizes Performance Through Cutting-Edge Artificial Intelligence</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-look-at-apples-latest-ipad-releases-m4-pro-large-screen-ipad-air-new-apple-pencil-expert-analysis/"><u>In-Depth Look at Apple's Latest iPad Releases: M4 Pro, Large-Screen iPad Air, New Apple Pencil | Expert Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-the-m1-macbook-pro-worth-an-upgrade-from-your-current-m3-model-expert-comparison-and-insights/"><u>Is the M1 MacBook Pro Worth an Upgrade From Your Current M3 Model? Expert Comparison & Insights</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos/"><u>Mastering Visual Effects on a Budget Essential Tutorials and Techniques From 4 VFX Experts' Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplify-your-email-management-a-no-fuss-method-to-clear-out-digital-junk-featuring-just-one-trick-and-a-single-account-techblast/"><u>Simplify Your Email Management: A No-Fuss Method to Clear Out Digital Junk, Featuring Just One Trick & a Single Account | TechBlast</u></a></li>
+<li><a href="https://techidaily.com/sony-messages-recovery-recover-deleted-messages-from-sony-by-fonelab-android-recover-messages/"><u>Sony Messages Recovery - Recover Deleted Messages from Sony</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-iphone-15-unveiled-expert-endorsement-for-tech-savvies-and-veterans/"><u>The iPhone 15 Unveiled: Expert Endorsement for Tech Savvies & Veterans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727790898599-top-rated-childrens-tablets-endorsed-by-parents-expert-picks/"><u>Top-Rated Children's Tablets Endorsed by Parents | Expert Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-services-for-macos-comprehensive-reviews-by-tech-experts/"><u>Top-Rated VPN Services for macOS: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://win-webster.techidaily.com/why-is-windows-easy-transfer-missing-from-windows-10-discover-alternatives/"><u>Why Is Windows Easy Transfer Missing From Windows 10? Discover Alternatives</u></a></li>
 </ul></div>
 

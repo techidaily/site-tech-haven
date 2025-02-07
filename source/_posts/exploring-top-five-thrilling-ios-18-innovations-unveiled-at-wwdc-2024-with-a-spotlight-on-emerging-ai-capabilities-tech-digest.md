@@ -1,7 +1,7 @@
 ---
 title: Exploring Top Five Thrilling iOS 18 Innovations Unveiled at WWDC 2024, with a Spotlight on Emerging AI Capabilities | Tech Digest
-date: 2025-01-19T19:28:02.022Z
-updated: 2025-01-25T16:11:06.958Z
+date: 2025-02-06T03:28:26.063Z
+updated: 2025-02-07T15:33:36.776Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,18 +128,15 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-picture-crafting-top-10-resources-for-elegant-photo-framing/"><u>[New] In 2024, Picture Crafting Top 10 Resources for Elegant Photo Framing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-free-srt-conversion-uncover-top-8-online-options/"><u>[Updated] 2024 Approved Free SRT Conversion Uncover Top 8 Online Options</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-how-to-promote-your-youtube-channel-with-high-impact-showcase-techniques/"><u>[Updated] In 2024, How to Promote Your YouTube Channel with High-Impact Showcase Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-guide-to-adding-effects-in-tiktok-videos/"><u>[Updated] In 2024, The Ultimate Guide to Adding Effects in TikTok Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts/"><u>Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-on-your-phone-discover-why-it-may-not-be-necessary-to-install/"><u>ChatGPT on Your Phone: Discover Why It May Not Be Necessary to Install</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-chatgpt-for-enhanced-medical-diagnostics/"><u>Harnessing ChatGPT for Enhanced Medical Diagnostics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/move-past-comparisons-exploring-the-unique-features-of-siri-and-chatgpt/"><u>Move Past Comparisons - Exploring the Unique Features of Siri & ChatGPT</u></a></li>
-<li><a href="https://facebook.techidaily.com/step-by-step-to-upgrade-your-social-media-agebirthdate/"><u>Step-by-Step to Upgrade Your Social Media Age/Birthdate</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-hd-cameras-for-elk-and-mule-deer/"><u>Top HD Cameras for Elk and Mule Deer</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/transform-your-vids-for-social-scenes-with-tunes/"><u>Transform Your Vids for Social Scenes With Tunes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-ranking-linux-distros-ideal-for-newcomers-comprehensive-analysis-by-industry-experts/"><u>Ultimate Guide: Top-Ranking Linux Distros Ideal for Newcomers - Comprehensive Analysis by Industry Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-of-chatgpt-for-optimal-health-top-strategies-inside/"><u>Unlock the Potential of ChatGPT for Optimal Health - Top Strategies Inside</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-deciphering-the-latest-instagram-posting-rules-for-2024/"><u>[Updated] Deciphering the Latest Instagram Posting Rules for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ipad-screen-recording-made-simple-a-handy-overview-for-2024/"><u>[Updated] IPad Screen Recording Made Simple A Handy Overview for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-iphone-era-smartphone-options-that-outshine-retired-models-of-iphone-13-and-iphone-15-pro-zdnet/"><u>Beyond the iPhone Era: Smartphone Options That Outshine Retired Models of iPhone 13 and iPhone 15 Pro | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-local-libraries-and-online-oceans-dropbox-googledrive-on-c/"><u>Bridging Local Libraries & Online Oceans: Dropbox, GoogleDrive on C:/</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crossing-the-line-guesting-in-friends-tiktok-shows/"><u>Crossing the Line Guesting in Friends' TikTok Shows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-apple-m2-macbook-air-now-available-at-a-steal-only-800-before-october-prime-day-bonanza-tech-insights/"><u>Discover the Apple M2 MacBook Air Now Available at a Steal: Only $800 Before October Prime Day Bonanza – Tech Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/reduction-de-taille-video-pour-whatsapp-avec-qualite-optimale-guide-ultime-du-telechargement-winxdvd/"><u>Réduction De Taille Vidéo Pour WhatsApp Avec Qualité Optimale : Guide Ultime Du Téléchargement WinXDVD</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplify-your-inbox-the-simple-method-to-eliminate-mess-without-extra-accounts-or-complicated-guidelines-tech-news/"><u>Simplify Your Inbox: The Simple Method to Eliminate Mess Without Extra Accounts or Complicated Guidelines | Tech News</u></a></li>
+<li><a href="https://article-posts.techidaily.com/superior-tune-makers-for-iphone-users-for-2024/"><u>Superior Tune Makers for iPhone Users for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-revolutionary-innovation-of-the-google-pixel-9-first-android-phone-to-offer-sos-via-satellites-according-to-zdnet-reports/"><u>The Revolutionary Innovation of the Google Pixel 9: First Android Phone to Offer SOS via Satellites, According to ZDNet Reports</u></a></li>
 </ul></div>
 

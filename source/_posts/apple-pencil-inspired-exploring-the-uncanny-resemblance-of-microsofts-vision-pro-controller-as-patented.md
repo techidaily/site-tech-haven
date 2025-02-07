@@ -1,7 +1,7 @@
 ---
 title: Apple Pencil Inspired? Exploring the Uncanny Resemblance of Microsoft's Vision Pro Controller as Patented
-date: 2025-01-20T18:37:43.939Z
-updated: 2025-01-25T18:12:00.862Z
+date: 2025-02-01T10:43:28.913Z
+updated: 2025-02-07T06:00:03.292Z
 tags:
   - apple
 categories:
@@ -75,26 +75,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-essential-art-of-editing-boost-your-instagram-videography/"><u>[New] 2024 Approved The Essential Art of Editing Boost Your Instagram Videography</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-pick-your-favorites-top-6-fb-lite-videos-downloaders/"><u>[New] Pick Your Favorites Top 6 FB Lite Videos Downloaders</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-cutting-edge-of-cinematography-kinemasters-zoom-excellence-for-2024/"><u>[New] The Cutting Edge of Cinematography Kinemaster’s Zoom Excellence for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-teamwork-made-simple-the-ultimate-guide-to-8-schedulers-for-2024/"><u>[Updated] Teamwork Made Simple The Ultimate Guide to 8 Schedulers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-the-creator-gap-with-ai-help/"><u>Bridging the Creator Gap with AI Help</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-mechanics-of-7-gpt-4-apps/"><u>Exploring the Mechanics of 7 GPT-4 Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/exploring-the-merits-of-obs-studio-and-fraps-for-recording-screens/"><u>Exploring the Merits of OBS Studio & Fraps for Recording Screens</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-8-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 8 Plus Properly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-implementing-a-text-bar-with-an-icon-in-windows-11/"><u>Re-Implementing a Text Bar with an Icon in Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/reactivate-windows-photo-viewer-with-ease-win-11-for-2024/"><u>Reactivate Windows Photo Viewer with Ease (Win 11) for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-narrative-enhancing-your-storytelling-skills-with-chatgpt-assistance/"><u>The Art of Narrative: Enhancing Your Storytelling Skills with ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-basics-of-predictive-ai-working-methods-unveiled/"><u>The Basics of Predictive AI - Working Methods Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-next-generation-in-ai-when-can-we-expect-to-see-gpt-nplus1/"><u>The Next Generation in AI: When Can We Expect to See GPT-N+1?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-rendering-errors-updated-solutions/"><u>Troubleshooting the Rendering Errors - Updated Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-plus-in-language-learning-journey/"><u>Unleashing the Power of ChatGPT Plus in Language Learning Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-health-wisdom-with-chatgpts-top-7-aspects/"><u>Unlocking Health Wisdom with ChatGPT's Top 7 Aspects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-content-creators-should-think-twice-before-turning-to-ai-chatbots-8-key-reasons/"><u>Why Content Creators Should Think Twice Before Turning to AI Chatbots: 8 Key Reasons</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-rhythmic-recording-music-infused-snapchat-adventures/"><u>[New] 2024 Approved Rhythmic Recording Music-Infused Snapchat Adventures</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twit-tumble-sharing-videos-seamlessly/"><u>[Updated] 2024 Approved Twit-Tumble Sharing Videos Seamlessly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-revolutionize-your-snapchat-with-smart-boomerangs/"><u>[Updated] In 2024, Revolutionize Your Snapchat with Smart Boomerangs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027722559-2024dvd/"><u>「最新！2024年に使えるDVDプロテクト解除ツールの完全ガイドとその安全性」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-snapchats-top-stories/"><u>2024 Approved Exploring Snapchat's Top Stories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029408410-pciphoneandroid/"><u>異なるデバイスにおける動画音量ゼロ化テクニックを解説（PC・iPhone・Android） - 完全ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windowstop3/"><u>最新リスト：Windowsに対応した優れた全画面レコーディングツールTOP3</u></a></li>
+<li><a href="https://win-answers.techidaily.com/challenges-facing-the-widespread-adoption-of-nanofiber-filters-in-industry-such-as-production-scalability-cost-considerations-and-ensuring-long-term-operati378/"><u>Challenges Facing the Widespread Adoption of Nanofiber Filters in Industry, Such as Production Scalability, Cost Considerations, and Ensuring Long-Term Operational Durability.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028303519-dvdwonderfox/"><u>DVDビデオ変換ソフトウェア「WonderFox」インストール成功 - 本日のご利用、心より感謝申し上げます。</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/early-orders-show-promising-future-my-insights-on-the-anticipated-launch-of-apple-vision-pro-as-covered-by-zdnet/"><u>Early Orders Show Promising Future: My Insights on the Anticipated Launch of Apple Vision Pro, as Covered by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-eliminate-linear-stripes-appearing-horizontally-across-your-desktop-display/"><u>How to Eliminate Linear Stripes Appearing Horizontally Across Your Desktop Display</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/synchronized-soundtracks-the-years-most-recurring-tiktok-songs/"><u>Synchronized Soundtracks The Year’s Most Recurring TikTok Songs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unseen-pathways-to-friend-finder-excellence/"><u>Unseen Pathways to Friend Finder Excellence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-1011wav/"><u>Windows 10/11用のWAVファイルクォリティ保証で分割するためのフリーツールと推奨ウェブサイト</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-114/"><u>Windows 11の特定エリアスクリーンショット撮影技術4選 - 詳しく解説</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/xmovies8-to-go-get-your-essential-downloader-tool-for-hassle-free-movie-savings-and-offscreen-viewing/"><u>XMovies8 to Go! Get Your Essential Downloader Tool for Hassle-Free Movie Savings and Offscreen Viewing.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028438988-youtube/"><u>オンラインで簡単なアプリケーションを使ってYouTubeの音源録音方法</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Deceptive Chrome Add-On That Hijacks Your Facebook Credentials
-date: 2024-08-16T10:13:53.970Z
-updated: 2024-08-17T10:13:53.970Z
+date: 2025-02-02T20:17:26.082Z
+updated: 2025-02-07T11:48:27.698Z
 tags:
   - chatgpt
   - open-ai
@@ -18,14 +18,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the[AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) .
@@ -41,8 +36,9 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
@@ -50,27 +46,26 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,4 +74,16 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-ultimate-radio-station-siriusxm-top-notch-sports-coverage-and-diverse-music-selection/"><u>Experience the Ultimate Radio Station SiriusXM: Top-Notch Sports Coverage & Diverse Music Selection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-lite-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 Lite to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-xr-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone XR Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-perfect-your-visuals-on-insta-with-these-borders/"><u>In 2024, Perfect Your Visuals on Insta with These Borders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-simple-methods-for-transforming-qt-video-format-into-high-quality-mp4/"><u>Quick & Simple Methods for Transforming QT Video Format Into High-Quality MP4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speedy-uploads-mastered-unveiling-5-effortless-techniques-for-accelerating-your-youtube-video-publishing/"><u>Speedy Uploads Mastered: Unveiling 5 Effortless Techniques for Accelerating Your YouTube Video Publishing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transforming-dvd-content-into-mp4-format-for-windows-users/"><u>Step-by-Step Guide: Transforming DVD Content Into MP4 Format for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-a-seamless-vhs-to-dvd-transfer-using-premium-conversion-tools/"><u>Step-by-Step Instructions for a Seamless VHS to DVD Transfer Using Premium Conversion Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is It Time for You to Grab an Apple Vision Pro on Presale? Five Crucial Questions Answered by Experts at ZDNet
-date: 2025-01-18T17:37:57.070Z
-updated: 2025-01-25T16:19:17.597Z
+date: 2025-01-30T19:43:39.173Z
+updated: 2025-02-07T04:11:07.758Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -63,7 +63,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -88,6 +88,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
@@ -103,7 +107,7 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -114,10 +118,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
@@ -125,7 +125,7 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -168,19 +168,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-choosing-your-go-to-youtube-video-downloaders-on-android-platform/"><u>[New] In 2024, Choosing Your Go-To YouTube Video Downloaders on Android Platform</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-live-yt-sessions-on-phone-for-newbies-without-a-million-viewers-for-2024/"><u>[New] Live YT Sessions on Phone for Newbies without a Million Viewers for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ideo-integration-youtube-images-in-slide-decks/"><u>[New] Video Integration YouTube Images in Slide Decks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-affordable-methods-for-video-and-text-synergy/"><u>[Updated] Affordable Methods for Video and Text Synergy</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-decoding-love-for-filmora-the-editors-prime-traits/"><u>[Updated] In 2024, Decoding Love for Filmora The Editor’s Prime Traits</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-inspirational-movies-fuel-for-the-soul-and-spirit-for-2024/"><u>[Updated] Inspirational Movies Fuel for the Soul and Spirit for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bizarre-food-hacks-how-google-suggests-using-glue-as-snacks-and-gas-for-noodles/"><u>Bizarre Food Hacks: How Google Suggests Using Glue as Snacks & Gas for Noodles!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenges-plaguing-googles-innovative-gemini-artificial-intelligence-system/"><u>Challenges Plaguing Google's Innovative Gemini Artificial Intelligence System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/confronting-googles-bard-and-microsofts-chatgpt-an-in-depth-comparison-to-find-the-leading-language-model/"><u>Confronting Google's BARD and Microsoft's ChatGPT: An In-Depth Comparison to Find The Leading Language Model</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-exploring-the-facts-beyond-the-myth-of-true-artificial-intelligence/"><u>Demystifying AI: Exploring the Facts Beyond the Myth of True Artificial Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-google-bard-first-impressions-of-an-innovative-ai-chat-companion/"><u>Discovering Google Bard - First Impressions of an Innovative AI Chat Companion</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/savor-these-10-amazing-foodie-programs-on-netflix/"><u>Savor These 10 Amazing Foodie Programs on Netflix</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/turn-your-image-brightness-upside-down-a-tutorial-for-2024/"><u>Turn Your Image Brightness Upside Down A Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-navigate-to-notoriety-on-facebook-with-10-effective-tactics/"><u>[New] 2024 Approved Navigate to Notoriety on Facebook with 10 Effective Tactics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-enhancing-browser-use-with-chromes-picture-in-picture-feature/"><u>[New] Enhancing Browser Use with Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-advanced-phototext-techniques-for-stunning-3d-effects/"><u>[New] In 2024, Advanced PhotoText Techniques for Stunning 3D Effects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-methodology-for-going-live-with-podcasts/"><u>[New] Seamless Methodology for Going Live with Podcasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-v27e-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo V27e Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-teamwork-on-apple-pages-using-icloud-insights/"><u>Effective Strategies for Teamwork on Apple Pages Using iCloud - Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apple-is-developing-a-robust-os-to-power-its-artificnal-intelligence-facilities-the-latest-breakdown-zdnet-exclusive/"><u>How Apple Is Developing a Robust OS to Power Its Artificnal Intelligence Facilities - The Latest Breakdown | ZDNet Exclusive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/imessage-communication-simplified-a-step-by-step-tutorial-for-windows-operating-system/"><u>IMessage Communication Simplified: A Step-by-Step Tutorial for Windows Operating System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-s18-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo S18 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/live-the-future-with-mycam-video-recording-revolution-for-2024/"><u>Live the Future with MyCam Video Recording Revolution for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintain-your-iphone-13s-youthful-appearance-with-these-3-must-have-accessories-according-to-zdnet/"><u>Maintain Your iPhone 13'S Youthful Appearance with These 3 Must-Have Accessories According to ZDNET</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/resolving-printer-issues-effective-strategies-for-handling-print-error-messages-at-yl-technology/"><u>Resolving Printer Issues: Effective Strategies for Handling Print Error Messages at YL Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-messaging-feature-to-enhance-iphone-safety-with-ios-18-release-not-powered-by-artificial-intelligence/"><u>Revolutionary Messaging Feature to Enhance iPhone Safety with iOS 18 Release - Not Powered by Artificial Intelligence</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/strategies-for-indefinitely-removing-a-tiktok-profile-for-2024/"><u>Strategies for Indefinitely Removing a TikTok Profile for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-essential-benefits-of-using-apples-official-support-pages-insights/"><u>Top 5 Essential Benefits of Using Apple's Official Support Pages: Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-ranked-wireless-charger-reviews-industry-experts-weigh-in-techradar/"><u>Top-Ranked Wireless Charger Reviews - Industry Experts Weigh In | TechRadar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-apps-for-apple-devices-comprehensive-reviews-and-comparisons-by-experts-zdnet/"><u>Top-Rated VPN Apps for Apple Devices: Comprehensive Reviews & Comparisons by Experts - ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-wireless-charging-pads-thoroughly-reviewed-by-tech-experts/"><u>Top-Rated Wireless Charging Pads : Thoroughly Reviewed by Tech Experts</u></a></li>
 </ul></div>
 

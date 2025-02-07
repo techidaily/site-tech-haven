@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16: Is It Worth the Upgrade? Insights Experts on Pros & Cons"
-date: 2025-01-21T16:02:41.751Z
-updated: 2025-01-25T18:36:15.898Z
+date: 2025-01-30T20:40:34.324Z
+updated: 2025-02-07T10:59:07.190Z
 tags:
   - apple
 categories:
@@ -31,12 +31,16 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The camera
 
@@ -50,10 +54,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -65,6 +65,10 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -88,17 +92,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -110,6 +106,10 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -118,15 +118,15 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,22 +168,18 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-finding-your-preferred-video-editor-filmora-vs-democreator-insights/"><u>[New] In 2024, Finding Your Preferred Video Editor Filmora Vs. Democreator Insights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-revenue-realms-of-youtube-from-virtual-viewership-to-banknotes/"><u>[New] In 2024, Revenue Realms of YouTube From Virtual Viewership to Banknotes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-guide-to-making-money-on-youtube-average-required-views/"><u>[Updated] 2024 Approved The Ultimate Guide to Making Money on YouTube Average Required Views</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-free-online-tools-perfect-your-beats-like-a-pro-dj/"><u>[Updated] In 2024, Free Online Tools Perfect Your Beats Like a Pro DJ</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-z2-masterpiece-review-a-smart-tech-journey/"><u>2024 Approved Z2 Masterpiece Review A Smart Tech Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-techniques-for-creating-a-poetry-anthology/"><u>ChatGPT Techniques for Creating a Poetry Anthology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-simple-ai-to-sophisticated-gpt-4/"><u>From Simple AI to Sophisticated GPT-4</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/printer-not-showing-up-discover-solutions-for-undetected-devices-with-yl-software-advice/"><u>Printer Not Showing Up? Discover Solutions for Undetected Devices with YL Software Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-integration-using-ai-enriched-bing-on-android/"><u>Seamless Integration: Using AI-Enriched Bing on Android</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-instagram-pros-tips-for-bulk-upload-of-images-and-video/"><u>The Instagram Pro’s Tips for Bulk Upload of Images and Video</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-openai-transition-from-basic-to-advanced-ai-gpt-14/"><u>The OpenAI Transition: From Basic to Advanced AI (GPT-1–4)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-samsung-galaxy-note-9-unveiled-a-comprehensive-guide-to-the-leading-large-display-phone/"><u>The Samsung Galaxy Note 9 Unveiled: A Comprehensive Guide to the Leading Large-Display Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-artificial-intelligence-driven-prompt-platforms-you-cant-ignore/"><u>Top 7 Artificial Intelligence-Driven Prompt Platforms You Can't Ignore</u></a></li>
-<li><a href="https://discover-great.techidaily.com/transform-your-images-and-videos-with-winxvideo-ai-tools-for-enhancing-quality-stabilizing-footage-converting-formats-and-editing/"><u>Transform Your Images and Videos with Winxvideo AI - Tools for Enhancing Quality, Stabilizing Footage, Converting Formats & Editing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tunes-on-demand-picks-of-6-top-ranked-free-android-apps-for-youtube-for-2024/"><u>Tunes on Demand Picks of 6 Top-Ranked Free Android Apps for YouTube for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-is-grok-ai-inside-the-innovative-project-launched-by-elon-musk/"><u>What Is Grok AI? Inside the Innovative Project Launched By Elon Musk</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-cant-chatgpt-detect-itself-analyzing-ai-self-awareness-in-text-generation/"><u>Why Can't ChatGPT Detect Itself? Analyzing AI Self-Awareness in Text Generation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mobile-and-desktop-tips-for-gotomeeting-captures/"><u>[Updated] In 2024, Mobile & Desktop Tips for GoToMeeting Captures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725286640401-dvd-decrypter/"><u>DVD Decrypterを安全に設置する方法：エラー無く最新バージョンのインストール手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-methods-to-adapt-your-videos-for-seamless-viewing-on-apples-mobile-gadgets-ipod-ipad-and-iphone/"><u>Easy Methods to Adapt Your Videos for Seamless Viewing on Apple's Mobile Gadgets: IPod, iPad, and iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-free-conversion-transforming-flv-videos-into-avi-format/"><u>Easy Steps to Free Conversion: Transforming FLV Videos Into AVI Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-guide-converting-dvds-to-mp4-format-for-universal-playback-compatibility/"><u>Effortless Guide: Converting DVDs to MP4 Format for Universal Playback Compatibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-viewing-experience-with-customized-video-resolution-settings-for-perfect-playback-everywhere/"><u>Enhance Your Viewing Experience with Customized Video Resolution Settings for Perfect Playback Everywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-combine-videos-in-vegas-pro-a-step-by-step-walkthrough/"><u>How To Seamlessly Combine Videos in Vegas Pro: A Step-By-Step Walkthrough</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-vlc-media-player-for-midi-file-playback/"><u>How to Use VLC Media Player for MIDI File Playback</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-assessment-of-the-hp-zbook-firefly-15-g8-your-go-to-travel-companion/"><u>In-Depth Assessment of the HP ZBook Firefly 15 G8: Your Go-To Travel Companion</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premium-line-up-top-5-slow-motion-models-for-2024/"><u>Premium Line-Up Top 5 Slow Motion Models for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-11-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Pro Max Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1728487050539-windows-11usb/"><u>Windows 11專用移動式USB自動備份系統</u></a></li>
 </ul></div>
 

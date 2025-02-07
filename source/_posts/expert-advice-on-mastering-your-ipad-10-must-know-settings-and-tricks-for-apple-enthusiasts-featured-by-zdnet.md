@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET"
-date: 2025-01-21T17:27:58.798Z
-updated: 2025-01-25T17:03:46.018Z
+date: 2025-02-06T03:44:21.204Z
+updated: 2025-02-06T19:48:22.021Z
 tags:
   - apple
 categories:
@@ -27,6 +27,10 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
 
@@ -66,10 +70,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -77,10 +77,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -92,15 +88,15 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -116,6 +112,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -125,7 +125,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -137,7 +137,7 @@ I've always felt like the Control Center is slightly underrated for all the stuf
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
@@ -180,18 +180,21 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-cross-platform-tweeting-twitterfacebook/"><u>[New] Mastering Cross-Platform Tweeting (Twitter/Facebook)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pinnacle-10-royale-clashes/"><u>[New] Pinnacle 10 Royale Clashes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-seamless-no-download-gif-to-video-converters/"><u>2024 Approved Ultimate List Seamless No-Download GIF to Video Converters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-power-of-chatgpt-teach-yourself-board-games-and-generate-images-using-ai-bots/"><u>Discover the Power of ChatGPT: Teach Yourself Board Games & Generate Images Using AI Bots</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-elo-touch-screen-drivers-for-windows-pcs/"><u>Download the Latest Elo Touch Screen Drivers for Windows PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-set-up-signing-up-for-chatgpt-telegram-and-whatsapp-without-your-cell/"><u>Getting Set Up: Signing Up for ChatGPT, Telegram & WhatsApp Without Your Cell</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-12-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 12 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-14-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 14 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-impostor-programs-that-pretend-to-be-chatgpt-risking-your-private-data-security/"><u>Protect Yourself From Impostor Programs That Pretend to Be ChatGPT, Risking Your Private Data Security</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-converting-dall-e-3-webp-outputs-to-common-image-formats/"><u>Step-by-Step Tutorial on Converting DALL-E 3 WebP Outputs to Common Image Formats</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-guide-finding-the-latest-toshiba-driver-software-for-windows-devices/"><u>Tech Guide: Finding the Latest Toshiba Driver Software for Windows Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-productivity-install-microsoft-copilot-on-your-mac-today/"><u>Unlocking Productivity: Install Microsoft Copilot on Your Mac Today!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/windows-10-protips-the-ultimate-quick-reference/"><u>Windows 10 Protips The Ultimate Quick Reference</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-monetizing-with-youtube-avg-revenue-from-an-ad/"><u>[New] 2024 Approved Monetizing with Youtube Avg Revenue From An Ad?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-real-number-of-youtube-views-you-need-to-make-a-living/"><u>[Updated] The Real Number of YouTube Views You Need to Make a Living</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-launchpad-for-novice-gopro-owners-must-have-gear-guide/"><u>2024 Approved Launchpad for Novice GoPro Owners - Must-Have Gear Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/3g2/"><u>3G2ファイルをスムーズに再生する技術と、プレイバックが難しい場合の解決方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dvdgoogle/"><u>DVDファイルをGoogleドライブへアップロードする手順</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-tips-for-viewing-avi-videos-on-ios-devices/"><u>Effortless Tips for Viewing AVI Videos on iOS Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-system-specifications-understanding-what-your-pc-needs/"><u>Essential System Specifications: Understanding What Your PC Needs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-methods-converting-mkv-files-into-a-playable-dvd-format/"><u>Free Methods: Converting MKV Files Into a Playable DVD Format</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-creating-a-cost-free-youtube-to-ipodiphone-video-conversion-tool-using-automated-software/"><u>Guide: Creating a Cost-Free YouTube to iPod/iPhone Video Conversion Tool Using Automated Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-11-pro-max-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 11 Pro Max (4 Methods) | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-cross-media-content-flow-from-youtube-to-thirtyplus-others/"><u>In 2024, Cross-Media Content Flow From YouTube to Thirty+ Others</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-standout-vr-film-highlights-to-discover/"><u>In 2024, Standout VR Film Highlights to Discover</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-techniques-for-enhancing-viewability-of-participants-in-google-meets-for-2024/"><u>Proven Techniques for Enhancing Viewability of Participants in Google Meets for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-comprehensive-guide-to-downloading-and-installing-updated-hp-deskjet-2700-drivers-2024-version/"><u>The Comprehensive Guide to Downloading and Installing Updated HP DeskJet 2700 Drivers (2024 Version)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030663443-gif/"><u>おすすめのアプリで効果的な写真からGIFへの変換方法</u></a></li>
 </ul></div>
 

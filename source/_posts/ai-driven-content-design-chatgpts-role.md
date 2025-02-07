@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Content Design: ChatGPT's Role"
-date: 2024-08-09T20:30:59.030Z
-updated: 2024-08-10T20:30:59.030Z
+date: 2025-02-01T19:56:48.091Z
+updated: 2025-02-07T03:02:10.509Z
 tags:
   - chatgpt
   - open-ai
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/f69988e77f104bb45c90c9e2b34f1257506e2bba3
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the[AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) .
@@ -35,8 +36,9 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
@@ -44,27 +46,26 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,4 +74,21 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-art-of-documenting-real-time-facetime-discussions-for-2024/"><u>[New] Unveiling the Art of Documenting Real-Time FaceTime Discussions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps/"><u>[Updated] From Scripted to Spontaneous Elevating Reactions for YouTube Success (3 Steps)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unravel-the-power-of-wmp-in-audio-transition-from-cds/"><u>[Updated] Unravel the Power of WMP in Audio Transition From Cds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-incorporate-no-cost-tunes-to-boost-your-vlogs/"><u>2024 Approved Incorporate No-Cost Tunes to Boost Your Vlogs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/biz-prowess-boosted-new-era-of-communication-with-gpt-and-whisper/"><u>Biz Prowess Boosted: New Era of Communication with GPT & Whisper</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/dvd-dvd-winx-dvd/"><u>DVD 생성을 위한 윈엑스 비디오 컨버터, DVD 리퍼 - WinX DVD 코드를 구현하는 공식 웹사이트</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-amd-glitches-tarkov/"><u>Eliminate AMD Glitches, Tarkov</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-vs-chatgpt-top-3-unmatched-functions-only-excel-offers/"><u>Excel Vs. ChatGPT: Top 3 Unmatched Functions Only Excel Offers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-these-7-smart-ai-apps-can-transform-your-presentation-skills/"><u>How These 7 Smart AI Apps Can Transform Your Presentation Skills</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-risks-and-rewards-chatgpt-for-trustworthy-therapy-sessions/"><u>Navigating the Risks and Rewards: ChatGPT for Trustworthy Therapy Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/privacy-first-explore-the-best-10-no-cost-highly-secured-video-calling-apps-for-smartphones/"><u>Privacy First Explore the Best 10 No-Cost, Highly-Secured Video Calling Apps for Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-silent-players-4-ways-to-find-disconnects/"><u>Seeking Silent Players: 4 Ways to Find Disconnects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-streamlining-professional-endeavors/"><u>The Role of ChatGPT in Streamlining Professional Endeavors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-introductory-ai-toolsets-for-new-enthusiasts/"><u>Top 9 Introductory AI Toolsets for New Enthusiasts</u></a></li>
+</ul></div>
 

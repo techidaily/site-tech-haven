@@ -1,7 +1,7 @@
 ---
 title: Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.
-date: 2025-01-18T18:45:53.601Z
-updated: 2025-01-25T16:19:51.859Z
+date: 2025-02-06T02:00:33.006Z
+updated: 2025-02-06T19:52:23.985Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ And while spending $100 on a four-pack doesn't seem that bad after living throug
 Since AirTags are powered by a CR2032 coin cell battery, you can [replace the battery](https://www.zdnet.com/article/how-to-change-the-battery-in-your-apple-airtag/) whenever it dies, preventing you from buying a new one each time. Remember, since AirTags are thin pocket-sized devices, you can use them for just about anything and repurpose them as often as you'd like. From helping you find a parking spot to tracking your child's favorite toy, there are endless possibilities with your AirTags -- you just have to get [creative](https://www.zdnet.com/article/seven-ways-apple-airtags-can-help-you-beyond-tracking-keys/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,19 +77,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-from-raw-footage-to-mov-windows-10-filming-techniques/"><u>[New] In 2024, From Raw Footage to MOV Windows 10 Filming Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ios-leading-ps2-simulators-top-picks/"><u>[New] In 2024, IOS Leading PS2 Simulators Top Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-best-overlooked-free-speech-tools-for-mac/"><u>[Updated] Unveiling Best Overlooked Free Speech Tools for Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-piece-by-piece-crafting-the-mosaic-photo-collage-way/"><u>2024 Approved Piece-by-Piece Crafting The Mosaic Photo Collage Way</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/connect-with-digital-artistry-expert-communication-solutions/"><u>Connect with Digital Artistry - Expert Communication Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-powerpoints-automatic-text-conversion-features/"><u>In 2024, Navigating Through PowerPoint's Automatic Text Conversion Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-remove-default-podcast-listings-from-spotify-playlists/"><u>In 2024, Remove Default Podcast Listings From Spotify Playlists</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-update-news-and-product-safety-announcements-weekly-summary/"><u>IPhone Update News & Product Safety Announcements - Weekly Summary</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-york-times-puzzles-insightful-clues-and-solutions-from-todays-edition-may-19th/"><u>New York Times Puzzles - Insightful Clues & Solutions From Today’s Edition, May 19Th</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-level-speed-boosts-for-microsoft-edge-on-the-horizon/"><u>Next-Level Speed Boosts for Microsoft Edge on the Horizon</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/patch-your-browser-protect-against-the-newest-chrome-security-flaw/"><u>Patch Your Browser: Protect Against the Newest Chrome Security Flaw</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-your-identity-online-strategies-for-securing-sensitive-personal-information/"><u>Protecting Your Identity Online: Strategies for Securing Sensitive Personal Information</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protonmail-streamlines-your-communication-with-automated-email-drafting/"><u>ProtonMail Streamlines Your Communication with Automated Email Drafting</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-top-15-innovative-snapchat-ideas-for-2024/"><u>The Ultimate Guide Top 15 Innovative Snapchat Ideas for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-perfect-tiktok-start-mac-based-production-strategies/"><u>[New] 2024 Approved Perfect TikTok Start Mac-Based Production Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-video-discoverability-with-effective-titles-and-tags/"><u>[New] Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-isolated-viewers-to-shared-experiences-online-for-2024/"><u>[New] From Isolated Viewers to Shared Experiences Online for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-elite-tablets-ranked-in-depth-tester-insights-and-evaluations-digitalsavvy/"><u>2024'S Elite Tablets Ranked: In-Depth Tester Insights and Evaluations | DigitalSavvy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-the-2022-released-airpods-pro-still-a-top-notch-choice-an-in-depth-analysis/"><u>Are the 2022 Released AirPods Pro Still a Top-Notch Choice? An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-and-tricks-for-hitch-free-wifi-connection-installation-in-windows-7/"><u>Expert Tips & Tricks for Hitch-Free WiFi Connection Installation in Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968162491-get-the-latest-insignia-wireless-networking-dongle-for-xbox-free-driver/"><u>Get the Latest Insignia Wireless Networking Dongle for Xbox - FREE Driver</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hands-on-review-of-the-apple-studio-display-attractive-design-overpriced-at-500-more-than-rivals-for-pros-on-mac-cnet/"><u>Hands-On Review of the Apple Studio Display: Attractive Design, Overpriced at $500 More Than Rivals for Pros on Mac | CNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727788397518-iphone/"><u>IPhone 지대 선택의 도전 : 균일, 더 큰, 프로, 프로 마우스를 비교하기</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/next-moment-examination-alternate-strategies-for-2024/"><u>Next Moment Examination Alternate Strategies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/programming-language-trends-from-2016-the-highs-and-lows-and-insights-for-developers-techcrunch/"><u>Programming Language Trends From 2016: The Highs and Lows & Insights for Developers | TechCrunch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-smartphone-photography-iphone-16s-camera-now-boasts-intelligent-visual-recognition-skills-similar-to-google-lens/"><u>Revolutionizing Smartphone Photography: IPhone 16'S Camera Now Boasts Intelligent Visual Recognition Skills Similar to Google Lens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-the-new-m4-ipad-pro-how-wwdc-showcases-its-capabilities-with-advanced-ai-integration/"><u>Unveiling the Power of the New M4 iPad Pro: How WWDC Showcases Its Capabilities with Advanced AI Integration</u></a></li>
 </ul></div>
 

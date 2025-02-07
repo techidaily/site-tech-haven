@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2025-01-20T16:06:15.381Z
-updated: 2025-01-25T16:05:58.094Z
+date: 2025-02-02T00:12:53.965Z
+updated: 2025-02-07T00:47:06.582Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay online and in stores
@@ -66,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -73,10 +77,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -87,7 +87,7 @@ Enter your passcode to confirm Apple Pay payment.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
@@ -119,10 +119,6 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
@@ -137,10 +133,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -148,6 +140,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,14 +197,19 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-quick-start-guide-utilizing-aiseesoft-for-effortless-screen-recordings/"><u>[Updated] In 2024, Quick Start Guide Utilizing Aiseesoft for Effortless Screen Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts-for-2024/"><u>Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/contrasting-generations-the-top-5-innovations-from-gpt-35-to-gpt-4-revealed/"><u>Contrasting Generations: The Top 5 Innovations From GPT-3.5 to GPT-4 Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-started-with-langchain-llm-essential-tips-for-newcomers/"><u>Getting Started with LangChain LLM: Essential Tips for Newcomers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harness-the-power-of-ai-how-chatgpt-transforms-data-analytics-5-tactics/"><u>Harness the Power of AI: How ChatGPT Transforms Data Analytics (5 Tactics)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/maximize-your-snapshots-on-android/"><u>Maximize Your Snapshots on Android</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-your-pcs-among-us-audio-problem-a-step-by-step-guide/"><u>Solve Your PC's 'Among Us' Audio Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-converting-video-files-and-extracting-dvd-content-with-handbrake/"><u>Step-by-Step Guide: Converting Video Files & Extracting DVD Content with Handbrake</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-capabilities-is-there-a-maximum-length-for-answers/"><u>Understanding ChatGPT Capabilities: Is There a Maximum Length for Answers?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-finest-8-platforms-for-sharing-3d-text-psd-files-for-2024/"><u>[New] The Finest 8 Platforms for Sharing 3D Text PSD Files for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/20month-subscription-could-it-unlock-the-true-potential-of-your-apple-device-experts-weigh-in-insights-from-zdnet/"><u>$20/Month Subscription: Could It Unlock the True Potential of Your Apple Device? Experts Weigh In - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-watch-showdown-series-10-vs-series-8-which-is-better-zdnet/"><u>Apple Watch Showdown: Series 10 Vs. Series 8 – Which Is Better? | ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/data-synchronization-merging-in-win1011-systems/"><u>Data Synchronization: Merging in WIN10/11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722979058917-easy-access-to-newest-amd-radeon-rx-480-graphic-driver-releases/"><u>Easy Access to Newest AMD Radeon RX 480 Graphic Driver Releases.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/effortless-approach-perfecting-time-lapses-using-samsungs/"><u>Effortless Approach Perfecting Time-Lapses Using Samsungs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-future-of-iphone-intelligence-with-ios-amos-latest-ai-updates-and-what-to-expect-next/"><u>Explore the Future of iPhone Intelligence with iOS Amo's Latest AI Updates & What to Expect Next!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apple-enhances-its-mac-line-up-with-cutting-edge-m4-chips-complete-with-onboard-artificnial-intelligence-anticipated-launch-dates-revealed/"><u>How Apple Enhances Its Mac Line-Up with Cutting-Edge M4 Chips, Complete with Onboard Artificnial Intelligence - Anticipated Launch Dates Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pocketsized-skies-budget-large-data-haven/"><u>PocketSized Skies - Budget Large Data Haven</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shop-the-latest-mac-ipad-and-iphone-unveiled-at-wwdc-availability-and-preorders-explained-zdnet/"><u>Shop the Latest Mac, iPad & iPhone Unveiled at WWDC: Availability and Preorders Explained - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-to-ensure-seamless-integration-of-your-logitech-mouse/"><u>Simple Steps to Ensure Seamless Integration of Your Logitech Mouse</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solution-for-non-detectable-usb-devices-on-a-windows-10-system/"><u>Solution for Non-Detectable USB Devices on a Windows 10 System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-july-2024-exclusive-offers-curated-by-zdnet/"><u>Top 11 Unbeatable Discounts on Apple Watches in July 2024 - Exclusive Offers Curated by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004973688-untangling-the-problems-in-call-of-duty-wwii-decoding-error-4128/"><u>Untangling the Problems in Call of Duty: WWII - Decoding Error 4128!</u></a></li>
 </ul></div>
 

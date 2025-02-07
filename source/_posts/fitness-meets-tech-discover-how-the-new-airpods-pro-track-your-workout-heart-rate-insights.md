@@ -1,7 +1,7 @@
 ---
 title: "Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights"
-date: 2025-01-22T18:42:19.649Z
-updated: 2025-01-25T17:44:26.427Z
+date: 2025-02-03T18:25:34.561Z
+updated: 2025-02-06T23:24:31.534Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,6 +63,10 @@ How and why did I come to those conclusions? Let's dig in.
 | Colors           | Midnight, Starlight, Blue, Purple, Product RED                    |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Familiar design, with one exception
 
@@ -83,7 +87,7 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -111,7 +115,7 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Camera upgrades
@@ -132,10 +136,6 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -147,7 +147,7 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -186,19 +186,17 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-exclusive-directory-free-visual-content-oasis-online/"><u>[Updated] Exclusive Directory Free Visual Content Oasis Online</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-high-quality-freely-accessible-music-websites-listed-here-for-2024/"><u>[Updated] High-Quality, Freely Accessible Music Websites Listed Here for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-the-balance-visuals-and-sound-in-media-creation/"><u>[Updated] In 2024, Mastering the Balance Visuals and Sound in Media Creation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-financial-race-between-dailymovement-and-youtube-channels-for-2024/"><u>[Updated] The Financial Race Between DailyMovement and YouTube Channels for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claude-3-simplified-uses-and-functionality/"><u>Claude 3 Simplified: Uses & Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-on-device-artificial-intelligence-understanding-its-functionality/"><u>Exploring the World of On-Device Artificial Intelligence: Understanding Its Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/framework-of-flawed-intelligence-policy/"><u>Framework of Flawed Intelligence: Policy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-troubleshooting-and-fixing-the-issue-of-unable-to-load-mov-movies-in-premiere-proelemental-standard/"><u>Guide: Troubleshooting & Fixing the Issue of Unable to Load MOV Movies in Premiere Pro/Elemental Standard</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-11-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 11 Without Previous Owner?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-poetry-writing-with-chatgpts-ai-assistance/"><u>Mastering the Art of Poetry: Writing with ChatGPT's AI Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-phase-in-machine-learning-the-advent-of-gpt-5/"><u>Next Phase in Machine Learning: The Advent of GPT-5?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-deceptive-chrome-extensions-posing-as-chatgpt-threaten-facebook-security/"><u>Protect Yourself: Deceptive Chrome Extensions Posing as ChatGPT Threaten Facebook Security</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-immersive-sound-experiences-an-introduction-to-dts-virtualx-technology/"><u>Unlocking Immersive Sound Experiences: An Introduction to DTS Virtual:X Technology</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vlc-and-mx-showdown-for-media-loading/"><u>VLC and MX Showdown for Media Loading</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-curious-case-of-inverted-images-on-social-media/"><u>[New] The Curious Case of Inverted Images on Social Media</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora-for-2024/"><u>[Updated] Sparking Interest Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-3-ways-to-record-ps4-gameplay/"><u>2024 Approved 3 Ways to Record PS4 Gameplay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-organization-utilizing-chatgpt-for-effective-timing/"><u>Elevate Your Organization: Utilizing ChatGPT for Effective Timing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-htc-u23-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track HTC U23 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>In 2024, Unlocking Visuals Detailed Guide to Hero5 Black Proficiency</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-reno-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Reno 11 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-modern-connectivity-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Mastering Modern Connectivity: Strategies for Facebook, Twitter, Instagram & YouTube Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-identity-balancing-personalization-and-privacy/"><u>Protecting Identity: Balancing Personalization and Privacy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-digital-landscapes-with-openais-groundbreaking-release-of-the-powerful-gpt-gpt-4-model/"><u>Transforming Digital Landscapes with OpenAI's Groundbreaking Release of the Powerful GPT-GPT-4 Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-for-writing-an-impressive-cover-letter-a-comprehensive-guide/"><u>Utilizing ChatGPT for Writing an Impressive Cover Letter: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
 </ul></div>
 

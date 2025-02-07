@@ -1,7 +1,7 @@
 ---
 title: Explore New Horizons with Apple's Latest Upgrade - What to Expect From the Updated WatchOS 11 | ZDNET
-date: 2025-01-21T17:11:51.151Z
-updated: 2025-01-25T17:00:36.308Z
+date: 2025-02-03T12:52:56.485Z
+updated: 2025-02-07T12:28:06.882Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ To help you make this decision, we've broken down all of the most important deta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -49,17 +49,9 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -69,10 +61,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -80,6 +68,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -99,9 +91,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,24 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-youtube-growth-secrets-8-honestly-endorsed-methods/"><u>[New] Top Youtube Growth Secrets – 8 Honestly-Endorsed Methods</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-picking-a-champion-in-video-software-vlcmx/"><u>[Updated] In 2024, Picking a Champion in Video Software VLC/MX</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-revolutionizing-the-way-you-engage-early-on-in-listening/"><u>[Updated] In 2024, Revolutionizing the Way You Engage Early on in Listening</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>[Updated] The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-find-n3-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo Find N3 Activity | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bards-next-gen-ai-seven-innovations-unveiled-by-google-io-2023/"><u>Bard's Next-Gen AI: Seven Innovations Unveiled by Google I/O 2023</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oneplus-nord-3-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-google-pixel-music-matches-online/"><u>Choosing Google Pixel Music Matches Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-instructions-for-transmitting-oral-communications-via-iphone-apps/"><u>Complete Instructions for Transmitting Oral Communications via iPhone Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-notetaking-using-chatgpt-for-studying/"><u>Cutting-Edge Notetaking: Using ChatGPT for Studying</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-job-performance-the-7-best-applications-of-chatgpt-for-a-more-productive-workday/"><u>Elevate Your Job Performance: The 7 Best Applications of ChatGPT for a More Productive Workday</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-gpt-35-to-gpt-4-spotlight-on-the-five-pivotal-evolutionary-steps-in-generative-pre-trained-transformer-technology/"><u>From GPT-3.5 to GPT-4: Spotlight on the Five Pivotal Evolutionary Steps in Generative Pre-Trained Transformer Technology</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-m54-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy M54 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-visual-narrative-crafting-your-podcasts-brand-image/"><u>In 2024, The Visual Narrative Crafting Your Podcast's Brand Image</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-dawn-of-enhanced-ai-gpt-4-arrival/"><u>The Dawn of Enhanced AI: GPT-4 Arrival</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tunes-for-timeless-imovie-projects/"><u>Tunes for Timeless iMovie Projects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-best-ai-prompts-sites-your-essential-guide-to-cutting-edge-creativity/"><u>Unveiling the Best AI Prompts Sites – Your Essential Guide to Cutting-Edge Creativity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/which-ai-excels-at-code-an-in-depth-comparison-of-chatgpt-and-gemini/"><u>Which AI Excels at Code? An In-Depth Comparison of ChatGPT and Gemini</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-chatgpt-might-not-be-ideal-for-your-crypto-trading-strategies-5-key-points/"><u>Why ChatGPT Might Not Be Ideal for Your Crypto Trading Strategies: 5 Key Points</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-premieres-export-woes-to-fix-srt-files/"><u>[New] 2024 Approved Navigating Premiere's Export Woes to Fix SRT Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-dystopian-dreams-comparable-games-to-grand-theft-auto-v/"><u>[Updated] Dystopian Dreams Comparable Games To Grand Theft Auto V</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44oh44o844or57wm55sx44gn6zplusz5qw944ov44kh44kk44or44ks6lui6ycb44gz44kl44gf44kb44gu5asn5a656yep44kz44ou44o85oml6acg44cn/"><u>「メール経由で音楽ファイルを転送するための大容量コピー手順」</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-undersea-video-7-easy-to-follow-techniques/"><u>2024 Approved Mastering Undersea Video 7 Easy-to-Follow Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/audacity-tutorial-mastering-the-art-of-cd-extraction/"><u>Audacity Tutorial: Mastering the Art of CD Extraction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beginners-guide-enjoying-vr-content-via-2-quick-methods/"><u>Beginner's Guide: Enjoying VR Content via 2 Quick Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bulk-conversion-guide-transforming-shn-files-into-high-quality-flac/"><u>Bulk Conversion Guide: Transforming SHN Files Into High-Quality FLAC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-free-wmv-video-editors-top-picks-for-web-and-desktop-use/"><u>Comprehensive Guide to FREE WMV Video Editors - Top Picks for Web and Desktop Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-walkthrough-for-handling-audio-tracks-mastering-cda-file-use-and-conversion-techniques/"><u>Comprehensive Walkthrough for Handling Audio Tracks: Mastering .CDA File Use & Conversion Techniques</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/converti-senza-costi-mkv-a-flac-online-veloce-e-facile-mediaconversionpro/"><u>Converti Senza Costi MKV a FLAC Online Veloce E Facile - MediaConversionPro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/copyright-free-tutorial-incorporating-audio-into-your-youtube-videos/"><u>Copyright-Free Tutorial: Incorporating Audio Into Your YouTube Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/davinci-resolve-tutorial-how-to-isolate-and-remove-audio-tracks-from-video-files/"><u>DaVinci Resolve Tutorial: How to Isolate and Remove Audio Tracks From Video Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-jet-li-films-effortlessly-a-step-by-step-guide/"><u>Download Jet Li Films Effortlessly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>In 2024, Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-save-instastories-infinite-the-liberation-app/"><u>In 2024, Save InstaStories Infinite The Liberation App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximum-fps-impacting-low-motion-sequences/"><u>Maximum FPS Impacting Low-Motion Sequences</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-persistent-steam-stalls-tips-for-smooth-gameplay/"><u>Solving Persistent Steam Stalls: Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://win-web3.techidaily.com/struggling-with-outlook-access-issues-discover-easy-fixes-to-regain-entry-to-your-account/"><u>Struggling with Outlook Access Issues? Discover Easy Fixes to Regain Entry to Your Account</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-8-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 8</u></a></li>
 </ul></div>
 

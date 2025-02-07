@@ -1,7 +1,7 @@
 ---
 title: "AI Conversation Revolution: Snapchat MyAI or GPT?"
-date: 2024-08-09T20:29:40.401Z
-updated: 2024-08-10T20:29:40.401Z
+date: 2025-01-31T04:12:58.290Z
+updated: 2025-02-06T17:28:27.642Z
 tags:
   - chatgpt
   - open-ai
@@ -16,8 +16,9 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 ## The Art of Hidden Conversations on ChatGPT: No Deletion Required
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
@@ -39,17 +40,18 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 2. Select the chat you want to hide from the sidebar and click the**ellipsis (...)** button next to it.
 3. Now, choose**Archive chat** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
@@ -78,10 +80,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -96,20 +99,14 @@ Close
 3. Tap on the hidden chat and then select**View** if you want to read it, or**Unarchive** to bring the chat back to the sidebar.
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
 Close
@@ -120,14 +117,11 @@ Close
 
  While archiving is a great way to organize your secret conversations with ChatGPT, it's not a perfect solution like[using ChatGPT Folders to sort all your chats](https://www.makeuseof.com/how-to-use-chatgpt-folders-to-manage-chatgpt-conversations/) . It'd be nice if OpenAI let users lock archived chats behind a password for extra protection in a future update.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +130,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-best-software-bundles-for-animation-modelers-for-2024/"><u>[New] Best Software Bundles for Animation Modelers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-drone-footage-a-step-by-step-guide/"><u>[Updated] Mastering Drone Footage A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm44og44os44ot6auy6kej5yop5bqm44kz44oz44og44oz44oe6kiy5oa25lplusd5oyb5oml6acg44oe44k544k44o844kv44op44k544cn/"><u>「テレビ高解像度コンテンツ記憶保持手順マスタークラス」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-raised-to-new-heights-the-7-exciting-features-boosted-by-palm-2-technology/"><u>Bard Raised to New Heights: The 7 Exciting Features Boosted by PaLM 2 Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-top-10-distinctions-between-chatgpt-and-microsofts-bing-ai/"><u>Comparing Giants: Top 10 Distinctions Between ChatGPT and Microsoft's Bing AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-the-milestones-can-we-beat-the-turing-test-in-machine-learning-evolution/"><u>Examining the Milestones: Can We Beat the Turing Test in Machine Learning Evolution?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/free-voyage-vision-pinpoint-your-dream-trip-with-top-7-ai-tools/"><u>Free Voyage Vision: Pinpoint Your Dream Trip with Top 7 AI Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/game-on-with-the-samsung-ue590-a-freesync-dream-tv-review-for-2024/"><u>Game On with the Samsung UE590 A FreeSync Dream TV Review for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-elitebook-x360-103nv-c2-driver-download-guide/"><u>HP EliteBook X360 103Nv C2 - Driver Download Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pinnaclepix-z7-pro-elevate-your-photos-dimensions/"><u>In 2024, PinnaclePix Z7 Pro Elevate Your Photo's Dimensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-3d-printing-with-the-help-of-chatgpt-a-comprehensive-guide/"><u>Mastering 3D Printing with the Help of ChatGPT - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-conversational-ais-first-steps-to-becoming-a-master-prompt-creator/"><u>Navigating the World of Conversational AIs: First Steps to Becoming a Master Prompt Creator</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/resolvez-lerreur-3f0-sur-le-ssd-dun-portable-hp-guide-complet/"><u>Résolvez L'Erreur '3F0' Sur Le SSD D'un Portable HP - Guide Complet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionize-gaming-sounds-ps5ps4-edition/"><u>Revolutionize Gaming Sounds PS5/PS4 Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/six-effective-strategies-to-minimize-ai-hallucinations-during-prompt-engineering/"><u>Six Effective Strategies to Minimize AI Hallucinations During Prompt Engineering</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-essential-manual-to-creating-youtube-playlists/"><u>The Essential Manual to Creating YouTube Playlists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vector-databases-demystified-boosting-ai-capabilities-with-efficient-data-structures/"><u>Vector Databases Demystified: Boosting AI Capabilities with Efficient Data Structures</u></a></li>
+</ul></div>
 

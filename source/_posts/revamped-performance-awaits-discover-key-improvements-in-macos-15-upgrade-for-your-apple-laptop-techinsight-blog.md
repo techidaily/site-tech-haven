@@ -1,7 +1,7 @@
 ---
 title: "Revamped Performance Awaits: Discover Key Improvements in MacOS 15 Upgrade for Your Apple Laptop | TechInsight Blog"
-date: 2025-01-23T16:36:17.304Z
-updated: 2025-01-25T18:31:09.744Z
+date: 2025-02-05T04:22:37.691Z
+updated: 2025-02-06T20:34:51.126Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -71,6 +71,10 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -97,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -110,10 +114,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,18 +162,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>[New] In 2024, Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-metaverses-funny-bone-generating-hitsome-online-jokes/"><u>[Updated] The Metaverse's Funny Bone Generating Hitsome Online Jokes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-top-10-frugal-video-communication-platforms-catering-to-corporate-and-educational-needs/"><u>[Updated] The Top 10 Frugal Video Communication Platforms Catering to Corporate & Educational Needs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-resolving-missing-msvcr100dll-files-and-not-found-warnings/"><u>Easy Steps for Resolving Missing msvcr100.dll Files and Not Found Warnings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-top-7-gpt-4-powered-applications-unveiling-their-functionality/"><u>Exploring the Top 7 GPT-4 Powered Applications: Unveiling Their Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-personal-experience-a-component-of-chatgpts-continued-education-from-dialogues/"><u>Is Personal Experience a Component of ChatGPT’s Continued Education From Dialogues?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-fast-and-reliable-web-browsing-fixes-for-latency-issues/"><u>Mastering Fast and Reliable Web Browsing - Fixes for Latency Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/non-proprietary-serene-tunes-for-2024/"><u>Non-Proprietary Serene Tunes for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/secure-your-data-mastering-backup-and-restore-on-windows-11/"><u>Secure Your Data: Mastering Backup & Restore on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-basics-of-ai-made-easy-a-laymans-guide/"><u>The Basics of AI Made Easy - A Layman's Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-final-verdict-on-generative-ai-tools-pitting-notion-ai-against-chatgpt/"><u>The Final Verdict on Generative AI Tools: Pitting Notion AI Against ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-securing-your-iphone-discover-the-most-innovative-and-stylish-smart-lock-solution/"><u>The Ultimate Guide to Securing Your iPhone: Discover the Most Innovative and Stylish Smart Lock Solution!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ubuntu-terminal-basics-for-chatgpt-enthusiasts/"><u>Ubuntu Terminal Basics for ChatGPT Enthusiasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[Updated] 2024 Approved How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/calculating-total-vids-for-high-capacity-hardware-64128gb/"><u>Calculating Total Vids for High-Capacity Hardware (64/128GB)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expected-postponement-of-apples-ai-innovations-new-release-date-set-for-october-technewstoday/"><u>Expected Postponement of Apple's AI Innovations: New Release Date Set for October | TechNewsToday</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-your-broken-hp-display-expert-advice/"><u>How to Repair Your Broken HP Display – Expert Advice</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-honor-x50-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor X50 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-free-wifi-driver-for-acer-devices-effortless-installation/"><u>Instant Access: Free WiFi Driver for Acer Devices - Effortless Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-resolve-stop-error-0x0000001d-no-spin-lock/"><u>Step-by-Step Guide to Resolve STOP Error 0X0000001D (No Spin Lock)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/stream-movies-from-your-device-to-chromecast-windows-mac-android-and-ios-instructions-for-2024/"><u>Stream Movies From Your Device to Chromecast Windows, Mac, Android, and iOS Instructions for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tiny-titans-collide-comprehensive-examination-of-the-razer-book-13/"><u>Tiny Titans Collide: Comprehensive Examination of the Razer Book 13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-kid-friendly-ipad-models-expert-review-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models : Expert Review by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallets-professional-ratings-and-in-depth-analysis-techreview/"><u>Top-Rated Magsafe Wallets : Professional Ratings & In-Depth Analysis | TechReview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-the-best-apple-watch-straps-for-2eplusty-featuring-professional-tests-and-ratings/"><u>Ultimate Guide to Choosing the Best Apple Watch Straps for 2E+tY, Featuring Professional Tests and Ratings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-premium-compact-tablets-of-2024-comprehensive-tests-and-expert-insights/"><u>Ultimate Guide to Premium Compact Tablets of 2024: Comprehensive Tests and Expert Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-im-choosing-apples-new-mini-iphone-16-pro-over-the-max-model-exclusive-insights-and-reasons/"><u>Why I'm Choosing Apple's New Mini-iPhone 16 Pro Over the Max Model : Exclusive Insights and Reasons</u></a></li>
 </ul></div>
 

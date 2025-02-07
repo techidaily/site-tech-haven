@@ -1,7 +1,7 @@
 ---
 title: Is CodeGPT The Future of Coding? Evaluating Its Capability to Compose Code
-date: 2024-08-09T20:29:35.246Z
-updated: 2024-08-10T20:29:35.246Z
+date: 2025-02-02T01:51:06.389Z
+updated: 2025-02-07T01:09:32.964Z
 tags:
   - chatgpt
   - open-ai
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 ## Is CodeGPT The Future of Coding? Evaluating Its Capability to Compose Code
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CodeGPT?](https://www.makeuseof.com/code-gpt-can-it-really-write-code/#what-is-codegpt)
@@ -30,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 * [Can CodeGPT Really Write Code?](https://www.makeuseof.com/code-gpt-can-it-really-write-code/#can-codegpt-really-write-code)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * CodeGPT is an AI-powered coding assistant that helps programmers write and fix code, with features like auto-completion and code explanation.
@@ -41,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -52,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
  While there are several[code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/) , macOS, and Windows, CodeGPT is only available in two. Today, you can either[install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Does CodeGPT Cost?
 
  You can download and install CodeGPT for free, but using the extension comes at a cost. CodeGPT offers various subscription packages that you can pay for if you need unlimited access.
@@ -63,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can[access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/) , you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can CodeGPT Really Write Code?
 
  To evaluate this, we'll use the extension to help us generate two different code samples in Python.
@@ -147,14 +147,11 @@ with open('output.csv', 'w', newline='') as output_file:
 
  So: CodeGPT can write code, but you should be careful because it won't always give you the best output. What you get might be error-prone and might not follow the best practices. Whenever you use CodeGPT or any other AI-powered tool to write code, strive to understand what the code does first. Don't just copy and paste.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +160,22 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-masterclass-in-muting-and-dismantling-an-instagram-account/"><u>[New] Masterclass in Muting & Dismantling an Instagram Account</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-enhance-audio-visual-sync-with-wmp-subtitle-integration-for-2024/"><u>[Updated] Enhance Audio-Visual Sync with WMP Subtitle Integration for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-experience-engaged-youtube-exchanges/"><u>[Updated] Experience Engaged YouTube Exchanges</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-major-6-social-media-venues-optimized-for-company-growth/"><u>[Updated] Major 6 Social Media Venues Optimized for Company Growth</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pixus-mf8500c-find-and-download-the-correct-printer-drivers-for-various-windows-versions-7-81-10/"><u>Canon PIXUS MF8500C: Find and Download the Correct Printer Drivers for Various Windows Versions (7, 8.1, 10)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-writing-empowering-word-with-gpt/"><u>Cutting Edge Writing: Empowering Word with GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-artificial-intelligence-lexicon-discover-the-top-29-keywords/"><u>Demystifying Artificial Intelligence Lexicon: Discover the Top 29 Keywords</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embracing-ai-setup-gpt-on-pc/"><u>Embracing AI: Setup GPT on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-writing-process-with-these-8-ai-tools-for-writers/"><u>Enhance Your Writing Process with These 8 AI Tools for Writers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/harnessing-googles-capability-for-exact-speech-recognition/"><u>Harnessing Google’s Capability for Exact Speech Recognition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-6-ai-enhanced-notetakers-revolutionizing-how-you-capture-and-organize-information/"><u>Leading 6 AI-Enhanced Notetakers: Revolutionizing How You Capture and Organize Information</u></a></li>
+<li><a href="https://common-error.techidaily.com/prevent-win11-reboots-unexpectedly/"><u>Prevent Win11 Reboots Unexpectedly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-notetaker-tablets-of-2024-comprehensive-reviews-and-comparisons-zdnet/"><u>Top Notetaker Tablets of 2024 - Comprehensive Reviews & Comparisons | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-driven-guidance-steering-chatgpt-with-five-key-strategies/"><u>Voice-Driven Guidance: Steering ChatGPT with Five Key Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-snapchats-my-ai-isnt-just-a-fun-gimmick-discover-its-6-unexpected-advantages/"><u>Why Snapchat's My AI Isn’t Just a Fun Gimmick – Discover Its 6 Unexpected Advantages</u></a></li>
+</ul></div>
 
