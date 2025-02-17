@@ -1,7 +1,7 @@
 ---
 title: $50 Ransomware Fix with Smartphone Hacks - Plus, How ChatGPT Is Shaping Our Podcast Conversations Today
-date: 2024-08-16T10:18:46.298Z
-updated: 2024-08-17T10:18:46.298Z
+date: 2025-02-10T23:33:58.606Z
+updated: 2025-02-16T19:33:46.753Z
 tags:
   - chatgpt
   - open-ai
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/b07f8aafe5ebbf14ba4a69b2b5bb7f9ec0a78d9ab
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
 This week, we chat about the following tech news that matters:
@@ -48,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -64,4 +61,21 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-bend-reality-with-your-own-animated-craftsmanship/"><u>[New] 2024 Approved Bend Reality with Your Own Animated Craftsmanship</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-boosting-engagement-techniques-for-snap-camera-on-teams/"><u>[New] 2024 Approved Boosting Engagement Techniques for Snap Camera on Teams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-straightforward-approach-beginners-guide-to-creating-nfts/"><u>A Straightforward Approach Beginner's Guide to Creating NFTs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/downloading-soundtrails-easily-how-to-add-apple-podcasts-on-ios/"><u>Downloading Soundtrails Easily How to Add Apple Podcasts on iOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-steelseries-arctis-5-microphone-issues-comprehensive-troubleshooting-guide/"><u>Fixing SteelSeries Arctis 5 Microphone Issues - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-download-canons-official-windows-scanning-software-today-free/"><u>Quick and Easy: Download Canon's Official Windows Scanning Software Today, FREE!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/selecting-superior-free-srt-translation-apps-today/"><u>Selecting Superior Free SRT Translation Apps Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-distinct-features-of-auto-gpt-an-in-depth-look-compared-to-chatgpt/"><u>The Distinct Features of Auto-GPT: An In-Depth Look Compared to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-influence-of-gpt-conversations-on-productivity-boosting/"><u>The Influence of GPT Conversations on Productivity Boosting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-secrets-behind-virtual-personas-a-deep-dive-into-the-dead-internet-theory-of-online-communication/"><u>The Secrets Behind Virtual Personas: A Deep Dive Into the 'Dead Internet Theory' Of Online Communication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-six-dos-and-donts-of-constructing-effective-chatgpt-prompts/"><u>The Six Do's and Don'ts of Constructing Effective ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-translation-titan-gpts-role-in-natural-language-understanding/"><u>The Translation Titan: GPT's Role in Natural Language Understanding</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-antivirus-solutions-expert-reviews-by-zdnet/"><u>Top-Ranked Antivirus Solutions - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-maximum-tokens-possibility-of-going-beyond/"><u>Understanding ChatGPT's Maximum Tokens: Possibility of Going Beyond</u></a></li>
+</ul></div>
 

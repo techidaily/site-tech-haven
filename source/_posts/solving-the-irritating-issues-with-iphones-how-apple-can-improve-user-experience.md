@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2025-01-31T02:26:16.075Z
-updated: 2025-02-07T05:20:07.577Z
+date: 2025-02-14T00:11:32.097Z
+updated: 2025-02-16T22:36:15.680Z
 tags:
   - apple
 categories:
@@ -28,17 +28,21 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -48,10 +52,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-are-there-restrictions-in-saving-youtube-videos/"><u>[New] 2024 Approved Are There Restrictions in Saving YouTube Videos?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-realtime-hd-uplift-for-pc-mac-and-online-devices/"><u>2024 Approved RealTime HD Uplift for PC, Mac & Online Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-spark-20c-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Spark 20C</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-transition-from-finewoven-to-exclusive-beats-cases-implications-and-insights-zdnet/"><u>Apple's Transition From FineWoven to Exclusive Beats Cases: Implications and Insights | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-best-free-mkv-editing-tools-your-ultimate-guide/"><u>Discover the Best Free MKV Editing Tools - Your Ultimate Guide!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-amd-radeon-rx-580-graphics-driver-fast-and-simple/"><u>Download & Update AMD Radeon RX 580 Graphics Driver - Fast & Simple</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apple-protects-user-ai-data-on-cloud-platforms-the-significance-explained-by-zdnet/"><u>How Apple Protects User AI Data on Cloud Platforms: The Significance Explained by ZDNET</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-effectively-share-youtube-links-on-instagrams-story-feature/"><u>In 2024, How to Effectively Share YouTube Links on Instagram's Story Feature</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-gt-5-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme GT 5 ProFRP Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-13-and-iphone-15-pro-discontinued-explore-the-best-alternatives-for-your-next-smartphone-purchase/"><u>IPhone 13 & iPhone 15 Pro Discontinued – Explore the Best Alternatives for Your Next Smartphone Purchase</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-ipad-output-discover-key-apps-to-enhance-productivity-and-workflow-as-recommended-experts/"><u>Maximizing iPad Output? Discover Key Apps to Enhance Productivity and Workflow as Recommended Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-iphone-frustrations-essential-fixes-apple-should-prioritize-according-to-zdnet-experts/"><u>Overcoming iPhone Frustrations: Essential Fixes Apple Should Prioritize, According to ZDNet Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/perfect-audio-experience-with-oculus-quest-expert-advice-for-leveraging-its-built-in-microphone/"><u>Perfect Audio Experience with Oculus Quest: Expert Advice for Leveraging Its Built-In Microphone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-surprising-star-of-apples-let-loose-in-depth-review-and-analysis-of-the-349-ipad-by-tech-experts-at-zdnet/"><u>The Surprising Star of Apple's 'Let Loose': In-Depth Review and Analysis of the $349 iPad by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-protective-sleeves-and-skins-for-the-new-iphone-1212-pro-latest-picks/"><u>Top-Rated Protective Sleeves & Skins for the New iPhone 12/12 Pro - Latest Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-wireless-power-banks-of-2024-reviewed-by-tech-experts-pcmag/"><u>Top-Rated Wireless Power Banks of 2024 Reviewed by Tech Experts | PCMag</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/whats-next-for-apple-discover-the-exciting-developments-in-its-revolutionary-game-mode/"><u>What's Next for Apple? Discover the Exciting Developments in Its Revolutionary Game Mode</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/winxvideo-ai-recording-solution-capture-screenshots-video-calls-and-audio-live/"><u>WinxVideo AI Recording Solution: Capture Screenshots, Video Calls & Audio Live!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-captivate-viewers-learn-to-perfectly-border-ig-videos/"><u>[New] 2024 Approved Captivate Viewers Learn to Perfectly Border IG Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ideal-video-capture-apps-for-educators/"><u>[New] Ideal Video Capture Apps for Educators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-tiktok-to-twitter-sharing/"><u>[New] In 2024, The Essential TikTok to Twitter Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-undisclosed-browsing-of-fb-stories/"><u>[New] Undisclosed Browsing of FB Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-logic-pros-strategy-for-muffled-sound-tracks-for-2024/"><u>[Updated] Logic Pro's Strategy for Muffled Sound Tracks for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-online-sensation-spotlight-for-2024/"><u>[Updated] Online Sensation Spotlight for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-viral-gifs-via-giphy-portal/"><u>2024 Approved Fabricate Viral Gifs via Giphy Portal</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-telling-stories-vertically-video-editing-for-instagram-with-fcpx/"><u>2024 Approved Telling Stories Vertically Video Editing for Instagram with FCPX</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-routes-to-collecting-visual-content-for-2024/"><u>Best Routes to Collecting Visual Content for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-social-media-game-by-integrating-chatgpt-into-your-content-strategy/"><u>Elevate Your Social Media Game by Integrating ChatGPT Into Your Content Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensure-digital-safety-for-children-5-strategies-to-utilize-chatgpt-securely/"><u>Ensure Digital Safety for Children: 5 Strategies to Utilize ChatGPT Securely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-untapped-benefits-essential-chatgpt-tools-you-might-be-ignoring/"><u>Explore Untapped Benefits: Essential ChatGPT Tools You Might Be Ignoring</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-functionality-of-chatgpts-code-interpreter-essential-insights/"><u>Exploring the Functionality of ChatGPT's Code Interpreter – Essential Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-importance-of-chatgpts-programming-language-decoder/"><u>Exploring the Importance of ChatGPT's Programming Language Decoder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exposing-gpt-powered-dialogue-safe-link-sharing/"><u>Exposing GPT-Powered Dialogue: Safe Link Sharing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/face-off-of-giants-evaluating-chatgpt-and-google-bard-for-top-ai-experience/"><u>Face-Off of Giants: Evaluating ChatGPT and Google Bard for Top AI Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover How to Recover Lost Passwords Using macOS Keychain | Insights & Guides by ZDNET
-date: 2025-02-06T07:49:01.911Z
-updated: 2025-02-06T21:40:33.834Z
+date: 2025-02-13T01:42:49.080Z
+updated: 2025-02-16T20:44:11.225Z
 tags:
   - apple
 categories:
@@ -18,16 +18,12 @@ I will start this out by reminding everyone that you should be using a password 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +35,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +49,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -71,7 +67,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -81,6 +77,10 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,22 +113,24 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-audible-mac-visual-record-functionality/"><u>[New] In 2024, Audible Mac Visual Record Functionality</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mastering-iphone-creating-and-editing-low-speed-video-clips/"><u>[New] In 2024, Mastering iPhone Creating & Editing Low-Speed Video Clips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-shooter-showdown-the-ultimate-battle-for-game-supremacy/"><u>[New] In 2024, Shooter Showdown The Ultimate Battle for Game Supremacy</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-impact-of-weather-on-syma-x8c-performance/"><u>[New] In 2024, The Impact of Weather on Syma X8C Performance</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1728496101501-windows-11excel/"><u>「Windows 11におけるExcelファイルの回復方法：失われたデータ救出手順」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-unveils-plans-for-a-new-os-tailored-to-fortify-its-artifical-intelligence-servers-explore-what-weve-learned-so-far/"><u>Apple Unveils Plans for a New OS Tailored to Fortify Its Artifical Intelligence Servers – Explore What We've Learned So Far</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-future-at-wwdc-discover-how-apples-m4-ipad-pro-maximizes-performance-through-cutting-edge-artificial-intelligence/"><u>Exploring the Future at WWDC: Discover How Apple's M4 iPad Pro Maximizes Performance Through Cutting-Edge Artificial Intelligence</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-look-at-apples-latest-ipad-releases-m4-pro-large-screen-ipad-air-new-apple-pencil-expert-analysis/"><u>In-Depth Look at Apple's Latest iPad Releases: M4 Pro, Large-Screen iPad Air, New Apple Pencil | Expert Analysis</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-the-m1-macbook-pro-worth-an-upgrade-from-your-current-m3-model-expert-comparison-and-insights/"><u>Is the M1 MacBook Pro Worth an Upgrade From Your Current M3 Model? Expert Comparison & Insights</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos/"><u>Mastering Visual Effects on a Budget Essential Tutorials and Techniques From 4 VFX Experts' Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simplify-your-email-management-a-no-fuss-method-to-clear-out-digital-junk-featuring-just-one-trick-and-a-single-account-techblast/"><u>Simplify Your Email Management: A No-Fuss Method to Clear Out Digital Junk, Featuring Just One Trick & a Single Account | TechBlast</u></a></li>
-<li><a href="https://techidaily.com/sony-messages-recovery-recover-deleted-messages-from-sony-by-fonelab-android-recover-messages/"><u>Sony Messages Recovery - Recover Deleted Messages from Sony</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-iphone-15-unveiled-expert-endorsement-for-tech-savvies-and-veterans/"><u>The iPhone 15 Unveiled: Expert Endorsement for Tech Savvies & Veterans</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1727790898599-top-rated-childrens-tablets-endorsed-by-parents-expert-picks/"><u>Top-Rated Children's Tablets Endorsed by Parents | Expert Picks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-vpn-services-for-macos-comprehensive-reviews-by-tech-experts/"><u>Top-Rated VPN Services for macOS: Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://win-webster.techidaily.com/why-is-windows-easy-transfer-missing-from-windows-10-discover-alternatives/"><u>Why Is Windows Easy Transfer Missing From Windows 10? Discover Alternatives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dailymotion-vs-youtube-monetization-which-is-more-profitable/"><u>[Updated] 2024 Approved Dailymotion vs YouTube Monetization Which Is More Profitable?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-skyrocketing-revenue-mastering-video-monetization-everywhere/"><u>[Updated] 2024 Approved Skyrocketing Revenue Mastering Video Monetization Everywhere</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-boost-your-contents-reach-with-these-tiktok-unboxing-strategies/"><u>[Updated] Boost Your Content’s Reach with These TikTok Unboxing Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-risks-trusting-ai-for-mental-health/"><u>8 Risks: Trusting AI for Mental Health</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722196012429-affordable-cybersecurity-solve-ransomware-for-just-50-using-your-phone-plus-insights-from-chatgpt-in-our-latest-episode/"><u>Affordable Cybersecurity: Solve Ransomware for Just $50 Using Your Phone, Plus Insights From ChatGPT in Our Latest Episode!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/augmented-danger-the-deepening-ai-vulnerability-puzzle/"><u>Augmented Danger: The Deepening AI Vulnerability Puzzle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-advanced-techniques-to-use-chatgpt-for-notes/"><u>Boost Productivity: Advanced Techniques to Use ChatGPT for Notes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-replies-from-chatgpt-vary-in-size-and-count/"><u>Can Replies From ChatGPT Vary in Size and Count?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unleashed-10-innovative-modifications-revealed/"><u>ChatGPT Unleashed: 10 Innovative Modifications Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-the-key-to-simplified-web-application-creation-for-beginners/"><u>ChatGPT: The Key to Simplified Web Application Creation for Beginners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-gpt-4-gpt-4-turbo-and-gpt-4o-unveiling-key-distinctions/"><u>Comparing GPT-4, GPT-4 Turbo, and GPT-4o: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-language-tools-chatgpt-vs-google-translate-who-wins-the-battle-of-accuracy/"><u>Comparing Language Tools: ChatGPT Vs. Google Translate – Who Wins the Battle of Accuracy?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-x8b-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor X8b</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-k70-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi K70 Pro FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-ideal-7-video-capture-tools-for-engaging-social-media-presentations/"><u>In 2024, Ideal 7 Video Capture Tools for Engaging Social Media Presentations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-non-working-windows-lock-screen-delay/"><u>Reviving Non-Working Windows Lock Screen Delay</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-and-tricks-for-effective-participation-in-a-live-twitter-chat-session/"><u>Tips and Tricks for Effective Participation in a Live Twitter Chat Session</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/veiling-uw-skype-gesprek-efficient-en-gemakkelijk-onderdelen-informatieverwerkende-voertuigen/"><u>Veiling Uw Skype Gesprek - Efficiënt en Gemakkelijk Onderdelen Informatieverwerkende Voertuigen</u></a></li>
 </ul></div>
 

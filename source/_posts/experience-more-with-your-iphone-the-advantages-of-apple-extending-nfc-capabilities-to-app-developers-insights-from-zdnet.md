@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2025-01-30T16:38:22.495Z
-updated: 2025-02-07T11:10:48.689Z
+date: 2025-02-14T17:04:04.084Z
+updated: 2025-02-16T21:31:52.795Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -52,10 +52,6 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -63,10 +59,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -77,7 +69,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -85,6 +77,10 @@ On the other hand, Apple "later this year" will enable you to create displays wi
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -104,6 +100,10 @@ Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Third-party immersive video workflow
 
 One of the truly breathtaking experiences of the Vision Pro is what Apple calls Immersive video. This is a very big step beyond the typical 3D video we've seen in movies and TV shows. The entire experience wraps around you 180 degrees. When it's done right, it's astonishing. 
@@ -114,6 +114,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,22 +171,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/harting-the-peak-1-shorter-videos-downloader-hub/"><u>[New] Charting the Peak #1 Shorter Videos Downloader Hub</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-segmented-screen-success-is-splitcam-superior-in-2024/"><u>[Updated] Segmented Screen Success Is SplitCam Superior, In 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/busting-common-gpt-3-misconceptions-and-fixes-for-a-smooth-experience/"><u>Busting Common GPT-3 Misconceptions & Fixes for a Smooth Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-future-home-automation-apples-plans-unveiled-on-a-potential-domestic-robotic-companion/"><u>Exploring Future Home Automation: Apple's Plans Unveiled on a Potential Domestic Robotic Companion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gain-first-look-at-apple-vision-pro-tools-with-testflight-a-step-by-step-guide/"><u>Gain First Look at Apple Vision Pro Tools with TestFlight – A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-10-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark 10 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-netgears-powerline-ac1200-aesthetics-vs-performance/"><u>In-Depth Analysis of Netgear's Powerline AC1200: Aesthetics vs Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-at-home-leveraging-the-capabilities-of-an-ipad-pro-for-office-use-zdnet/"><u>Maximizing Efficiency at Home: Leveraging the Capabilities of an iPad Pro for Office Use | ZDNet</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-add-emojis-to-discord-on-desktop-computer-and-mobile/"><u>New 2024 Approved How to Add Emojis To Discord on Desktop Computer and Mobile</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/samsung-vs-apple-galaxy-watch-ultra-and-apple-watch-ultra-face-off-choose-wisely/"><u>Samsung Vs. Apple: Galaxy Watch Ultra and Apple Watch Ultra Face-Off - Choose Wisely!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screen-capture-mastery-a-closer-look-at-recmeister-tech-for-2024/"><u>Screen Capture Mastery A Closer Look at Recmeister Tech for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/sending-streaming-content-linking-fb-vids-and-whatsapp-messages/"><u>Sending Streaming Content Linking FB Vids & WhatsApp Messages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-36-unbeatable-prime-day-2024-tablet-bargains-exclusive-offers-from-zdnet/"><u>Top 36 Unbeatable Prime Day 2024 Tablet Bargains - Exclusive Offers From ZDNet!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-smartphone-assessment-techniques-insights-comprehensive-review/"><u>Unveiling Smartphone Assessment Techniques: Insights Comprehensive Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upgrade-safely-how-macos-1441-secures-your-system-before-the-latest-update-insights-from-zdnet/"><u>Upgrade Safely: How macOS 14.4.1 Secures Your System Before the Latest Update - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-to-expect-from-apples-new-airpods-releases-a-comprehensive-guide-to-differences-amongst-models-zdnet/"><u>What to Expect From Apple's New AirPods Releases: A Comprehensive Guide to Differences Amongst Models | ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-creative-edge-incorrances-on-luts-in-after-effects-for-2024/"><u>[New] Creative Edge Incorrances on LUTs in After Effects for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-trailblazers-top-intro-list-for-zooids/"><u>[New] In 2024, Trailblazers Top Intro List for Zooids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-inhibit-surprise-youtube-recommendations/"><u>[Updated] 2024 Approved Inhibit Surprise YouTube Recommendations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>[Updated] Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>[Updated] Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/commandez-movavi-video-suite-pour-entreprise-gratuit-et-facile-a-utiliser/"><u>Commandez Movavi Video Suite Pour Entreprise - Gratuit Et Facile À Utiliser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-outreach-for-chatgpt-sessions-techniques-for-link-sharing-success/"><u>Global Outreach for ChatGPT Sessions: Techniques for Link Sharing Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-personalized-language-models-can-compromise-your-data-and-steps-to-enhance-security/"><u>How Personalized Language Models Can Compromise Your Data and Steps to Enhance Security</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-15-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 15 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ideal-framework-top-20-most-engaging-github-and-chatgpt-dialogues/"><u>Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-every-aspect-of-apples-new-ai-technologies-revealed-at-the-recent-worldwide-developers-conference/"><u>In-Depth Analysis: Every Aspect of Apple's New AI Technologies Revealed at the Recent Worldwide Developers Conference</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/jobs-at-risk-predicting-ais-impact-on-careers/"><u>Jobs at Risk: Predicting AI's Impact on Careers?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-chatgpt-to-establish-and-reach-effective-health-aspirations/"><u>Leverage ChatGPT to Establish and Reach Effective Health Aspirations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-referencing-custom-gpts-with-gpt-mentions-in-chatgpt-talks/"><u>Mastering the Art of Referencing Custom GPTs with GPT Mentions in ChatGPT Talks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mirth-and-machines-the-evolution-of-portable-tech-and-secure-surfing/"><u>Mirth and Machines: The Evolution of Portable Tech & Secure Surfing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-multilingualism-with-chatgpt-premium-tools/"><u>Navigating Multilingualism with ChatGPT Premium Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-recommended-network-attached-storage-backup-solutions-for-windows-11-10-8-and-7/"><u>Top Recommended Network Attached Storage Backup Solutions for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-quality-samsung-s90c-oled-marked-as-samsungs-finest-ever-now-at-an-unbelievable-discount-discover-how-zdnet/"><u>Unbeatable Quality: Samsung S90C OLED Marked as Samsung's Finest Ever, Now at an Unbelievable Discount – Discover How! [ZDNet]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlocking-your-youtube-potential-through-brand-partnerships-for-2024/"><u>Unlocking Your YouTube Potential Through Brand Partnerships for 2024</u></a></li>
 </ul></div>
 

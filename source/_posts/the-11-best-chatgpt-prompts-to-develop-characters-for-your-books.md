@@ -1,7 +1,7 @@
 ---
 title: The 11 Best ChatGPT Prompts to Develop Characters for Your Books
-date: 2024-08-16T10:16:45.413Z
-updated: 2024-08-17T10:16:45.413Z
+date: 2025-02-10T22:42:36.389Z
+updated: 2025-02-16T18:35:56.340Z
 tags:
   - chatgpt
   - open-ai
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the[AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) .
@@ -35,8 +36,9 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
@@ -44,27 +46,26 @@ Guardio took to Twitter to warn readers of the malicious campaign.
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,4 +74,21 @@ Guardio took to Twitter to warn readers of the malicious campaign.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-a-comprehensive-guide-to-high-quality-laptop-recordings/"><u>[New] In 2024, A Comprehensive Guide to High-Quality Laptop Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-master-quickfix-for-podcast-broadcasts/"><u>[New] Master Quickfix for Podcast Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-easy-audio-alterations-for-competitive-play/"><u>[Updated] Pioneering Easy Audio Alterations for Competitive Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maciphoneipadapple-tvitunes-mp4mov/"><u>最適な動画変換ソフトウェアでMacからiPhone/iPad/Apple TV/iTunes用ビデオ: MP4/MOVへのシームレス変換</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-revolution-chatgpts-potential-threat-to-employment-stability-in-the-tech-industry/"><u>AI Revolution: ChatGPT's Potential Threat to Employment Stability in the Tech Industry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-therapeutic-tool-best-practices-for-safe-implementation-by-mental-health-professionals/"><u>ChatGPT as a Therapeutic Tool: Best Practices for Safe Implementation by Mental Health Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-authenticity-avoiding-copyright-infringement/"><u>ChatGPT Authenticity: Avoiding Copyright Infringement</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unveiled-navigating-through-8-significant-obstacles/"><u>ChatGPT Unveiled: Navigating Through 8 Significant Obstacles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/contrastive-analysis-the-8-unique-features-of-myai-on-snapchat-against-bing-chat-on-skype/"><u>Contrastive Analysis: The 8 Unique Features of MyAI on Snapchat Against Bing Chat on Skype</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android-for-2024/"><u>Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlined-repairs-gpu-no-monitor-attached/"><u>Streamlined Repairs: GPU, No Monitor Attached</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-artificial-intelligence-on-modern-gaming-dynamics/"><u>The Impact of Artificial Intelligence on Modern Gaming Dynamics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unmanned-aircraft-an-overview/"><u>Unmanned Aircraft An Overview</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-latest-in-home-security-a-deep-dive-into-googles-nest-hello-with-enhanced-features/"><u>Unveiling the Latest in Home Security: A Deep Dive Into Google's Nest Hello with Enhanced Features</u></a></li>
+</ul></div>
 

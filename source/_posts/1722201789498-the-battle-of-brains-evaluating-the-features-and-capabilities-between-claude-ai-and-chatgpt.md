@@ -1,7 +1,7 @@
 ---
 title: "The Battle of Brains: Evaluating the Features and Capabilities Between Claude AI and ChatGPT."
-date: 2024-08-16T10:16:00.986Z
-updated: 2024-08-17T10:16:00.986Z
+date: 2025-02-14T18:30:43.166Z
+updated: 2025-02-17T01:58:23.227Z
 tags:
   - chatgpt
   - open-ai
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 ## Evaluating the Battle Between Google Gemini and Microsoft's ChatGPT in AI Innovation
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
@@ -30,9 +23,9 @@ No advertising on the website.
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
@@ -77,10 +70,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
@@ -92,29 +86,22 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 Here's the source screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
@@ -123,30 +110,25 @@ Here's the source screenshot.
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is Gemini Better than ChatGPT?
 
  Before Google launched Bard, we thought it'd be the ChatGPT competition we had been waiting for—it wasn't. Now, Gemini is here, and so far, Gemini Pro doesn't seem like the model to give ChatGPT the knockout punch.
 
  Google says Gemini Ultra is going to be much better. We truly hope it is, and that it meets or exceeds the claims made in the Gemini Ultra announcement. But until we see and test the best version of Google's generative AI tool, we won't know if it can unseat other AI model competitors. As it stands, GPT-4 remains the undisputed AI model champion.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +137,24 @@ Here's the source screenshot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhance-channel-appeal-with-free-professional-banner-designs-for-2024/"><u>[Updated] Enhance Channel Appeal with Free, Professional Banner Designs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>2024 Approved Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/achieving-persistent-video-playback-on-your-social-media-page/"><u>Achieving Persistent Video Playback on Your Social Media Page</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ideal-kids-ipads-our-ultimate-2022-selection-based-on-user-ratings-and-features/"><u>Discover the Ideal Kids' IPads: Our Ultimate 2022 Selection Based on User Ratings and Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-selection-of-prime-deals-save-big-on-hp-apple-and-razer-laptops-in-our-18-pick-guide-zdnets-tech-savvy-picks/"><u>Discover the Ultimate Selection of Prime Deals: Save Big on HP, Apple, and Razer Laptops in Our 18-Pick Guide | ZDNET's Tech Savvy Picks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/efficient-approaches-for-transforming-the-intercept-podcast-into-multiple-audio-types-mp3-wav-aac-and-flac/"><u>Efficient Approaches for Transforming The Intercept Podcast Into Multiple Audio Types: MP3, WAV, AAC & FLAC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fitness-meets-tech-discover-how-the-new-airpods-pro-track-your-workout-heart-rate-insights/"><u>Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-unsteady-and-wobbly-visuals-on-your-surface-pro-device/"><u>Fixing the Unsteady and Wobbly Visuals on Your Surface Pro Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-official-method-to-unlock-your-apple-iphone-6s-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Official Method to Unlock Your Apple iPhone 6s</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy A15 5G Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/latest-vs-previous-a-comprehensive-review-of-iphone-16-versus-iphone-e-should-you-update-to-apples-new-model/"><u>Latest Vs. Previous: A Comprehensive Review of iPhone 16 Versus iPhone E - Should You Update to Apple's New Model?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-late-text-message-problems-on-your-iphone-try-out-cuhre-9-techniques-for-immediate-success/"><u>Overcome Late Text Message Problems on Your iPhone: Try Out Cuhre 9 Techniques for Immediate Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prepare-to-power-up-your-apple-devices-top-anker-chargers-reviewed-by-zdnets-experts/"><u>Prepare to Power Up Your Apple Devices: Top Anker Chargers Reviewed by ZDNet's Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/recognizing-the-red-flags-top-6-indications-of-a-failing-graphics-card/"><u>Recognizing the Red Flags: Top 6 Indications of a Failing Graphics Card</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727785718828-seamless-transfer-of-images-from-google-photos-to-icloud-a-simple-guide/"><u>Seamless Transfer of Images From Google Photos to iCloud – A Simple Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-keyboards-comprehensive-testing-and-reviews-by-tech-experts-zdnets-selection/"><u>Top-Rated Keyboards : Comprehensive Testing & Reviews by Tech Experts - ZDNet's Selection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-prominent-applications-wont-make-it-to-the-apple-vision-pro-lineup-discover-now/"><u>Which Prominent Applications Won't Make It to the Apple Vision Pro Lineup – Discover Now</u></a></li>
+</ul></div>
 

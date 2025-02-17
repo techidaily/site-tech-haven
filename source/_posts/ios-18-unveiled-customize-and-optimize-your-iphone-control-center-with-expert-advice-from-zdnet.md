@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Customize & Optimize Your iPhone Control Center with Expert Advice From ZDNET"
-date: 2024-12-31T01:08:06.238Z
-updated: 2025-01-06T21:48:02.622Z
+date: 2025-02-13T02:27:22.316Z
+updated: 2025-02-16T19:11:40.463Z
 tags:
   - apple
 categories:
@@ -26,19 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -47,6 +47,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -57,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -77,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,19 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-simplifying-the-process-recording-on-xbox-one/"><u>[Updated] Simplifying the Process Recording on Xbox One</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-luminous-leadership-elevating-content-through-insta-hits/"><u>2024 Approved Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-enhanced-ar-with-apples-new-spatial-personalization-on-vision-pro-get-started-now/"><u>Experience Enhanced AR with Apple's New Spatial Personalization on Vision Pro - Get Started Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Samsung Galaxy Z Flip 5.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/immediate-purchase-top-3-apples-devices-unveiled-at-wwdc-and-how-to-secure-your-order-today-learn-more-on-zdnet/"><u>Immediate Purchase: Top 3 Apples Devices Unveiled at WWDC and How to Secure Your Order Today - Learn More on ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-navigating-earnings-skyward-youtube-analytics-and-advertising-guide/"><u>In 2024, Navigating Earnings Skyward YouTube Analytics & Advertising Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-ready-to-revolutionize-the-market-unveiling-lgs-latest-creation-an-xr-headset-beyond-meta-quest-3-insights/"><u>Is It Ready to Revolutionize the Market? - Unveiling LG's Latest Creation: An XR Headset Beyond Meta Quest 3 | Insights .</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-graphics-cards-in-4k-resolution-for-2024/"><u>Leading Graphics Cards in 4K Resolution for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preserve-your-iphone-articles-pristine-appearance-with-these-three-must-have-accessories-insights/"><u>Preserve Your iPhone ([Article])'s Pristine Appearance with These Three Must-Have Accessories - Insights</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-blue-screen-fixing-memory-issues-in-windows-10-and-11/"><u>Resolving Blue Screen: Fixing Memory Issues in Windows 10 & 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/section-pertant-for-structural-elucidation-of-complex-molecules/"><u>Section Pertant for Structural Elucidation of Complex Molecules.</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/windows-11108/"><u>Windows 11・10・8用最高の移動可能なディスクイメージコピーツール</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/yakuza-3-reimagined-fixed-pc-version-now-running-smoothly/"><u>Yakuza 3 Reimagined: Fixed PC Version Now Running Smoothly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-avoiding-common-mistakes-in-screencasting/"><u>[New] 2024 Approved Avoiding Common Mistakes in Screencasting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-harnessing-the-power-of-imagery-for-engaging-fb-slideshows-for-2024/"><u>[New] Harnessing the Power of Imagery for Engaging FB Slideshows for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-top-tools-6-sleek-signature-backdrop-removers-online/"><u>[Updated] Pinnacle Top Tools – 6 Sleek Signature Backdrop Removers Online</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581577843-bangladesh-by-ten-minutes-a-day/"><u>Bangladesh by Ten Minutes a Day</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-canon-dr-c225-drivers-for-windows-10-8-and-latest-version/"><u>Download & Setup Guide: Canon DR-C225 Drivers for Windows 10, 8 & Latest Version</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/essential-list-of-gratuitous-online-photo-enhancement-suites/"><u>Essential List of Gratuitous Online Photo Enhancement Suites</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reestablish-windows-steam-connections/"><u>How to Reestablish Windows-Steam Connections</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-note-30-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Note 30 Pro FRP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-incentivized-world-of-openai-bug-hunting-everything-you-need-to-know-about-joining-and-earning/"><u>Inside the Incentivized World of OpenAI Bug Hunting – Everything You Need to Know About Joining & Earning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-chatgpt-to-create-customized-secure-fitness-routines-tailored-just-for-you/"><u>Is It Possible for ChatGPT to Create Customized, Secure Fitness Routines Tailored Just for You?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-quoras-poe-features-for-seamless-interaction-with-ai-chatbots-and-large-language-models/"><u>Leverage Quora's Poe Features for Seamless Interaction with AI Chatbots and Large Language Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-the-ultimate-freelancers-toolkit-for-writer-excellence/"><u>Mastering ChatGPT: The Ultimate Freelancer's Toolkit for Writer Excellence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-coding-smarter-not-harder-leveraging-chatgpt-inside-vs-code/"><u>Mastering Coding Smarter, Not Harder: Leveraging ChatGPT Inside VS Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-collaboration-with-chatgpt-tips-for-content-creators/"><u>Mastering Collaboration with ChatGPT - Tips for Content Creators</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-your-chances-with-effective-job-listings-online/"><u>Maximizing Your Chances with Effective Job Listings Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsofts-revolutionary-image-creator-tool-generate-one-of-a-kind-ai-images-today/"><u>Microsoft's Revolutionary Image Creator Tool – Generate One-of-a-Kind AI Images Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-chatgpt-access-roadblocks/"><u>Navigating Through ChatGPT Access Roadblocks</u></a></li>
 </ul></div>
 

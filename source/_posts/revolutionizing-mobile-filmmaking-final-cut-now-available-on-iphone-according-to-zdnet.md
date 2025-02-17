@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Mobile Filmmaking: Final Cut Now Available on iPhone, According to ZDNET"
-date: 2025-02-04T17:12:13.124Z
-updated: 2025-02-07T09:36:09.397Z
+date: 2025-02-15T21:25:43.752Z
+updated: 2025-02-16T16:35:05.321Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -33,6 +33,10 @@ Ever since, those attributes have defined all smartphones, save for one common s
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -60,6 +64,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -81,7 +89,7 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -104,10 +112,6 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -117,10 +121,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -138,6 +138,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -151,10 +155,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -254,24 +254,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultrawide-vs-uhd-4k-monitors-which-to-choose/"><u>[New] UltraWide VS UHD 4K Monitors Which to Choose</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2023s-premier-ios-emulators-excellent-psp-gaming-choices-for-2024/"><u>[Updated] 2023'S Premier iOS Emulators Excellent PSP Gaming Choices for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-breaking-through-the-shadows-fixes-for-obss-black-gaming-capture/"><u>[Updated] 2024 Approved Breaking Through the Shadows Fixes for OBS's Black Gaming Capture</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-revolutionize-chromebooks-tone-with-our-essential-list-of-extensions/"><u>[Updated] 2024 Approved Revolutionize Chromebook's Tone with Our Essential List of Extensions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-perfecting-screenshots-editing-vids-vertically-on-fcpx/"><u>[Updated] In 2024, Perfecting Screenshots Editing Vids Vertically on FCPX</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/2024youtube7/"><u>「2024年度必見！人気の高い無料YouTube録画ツールベスト7品紹介」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030408861-2024vob10/"><u>「2024年向け最優秀無料VOB再生ソフトウェアベスト10！」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029511958-facebookmp4/"><u>「究極のツールでFacebookビデオをMP4として変換: 詳細ガイド」</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-hobbyist-to-pro-why-you-need-to-upgrade-from-final-cut-express/"><u>2024 Approved From Hobbyist to Pro Why You Need to Upgrade From Final Cut Express</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5pel5pys44gu6ygl6lui5ywn6kix44gr6zai44gz44kl6kap57se77ya5zplus65rqw44go44ox44ot44k744k5/"><u>日本の運転免許に関する規約：基準とプロセス</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-about-video-frame-rates-essential-insights-and-facts/"><u>All About Video Frame Rates: Essential Insights and Facts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/batch-downloading-dailymotion-playlists-as-mp4-files-a-step-by-step-guide/"><u>Batch Downloading Dailymotion Playlists as MP4 Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030157424-dat-avi/"><u>DAT 画像ファイルを AVI ビデオ形式に完全ガイド</u></a></li>
-<li><a href="https://games-able.techidaily.com/hear-the-greatness-of-beyerdynamic-mmx-200/"><u>Hear the Greatness of Beyerdynamic MMX 200</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-skilled-pilots-choice-selecting-top-5-pro-drones/"><u>In 2024, Skilled Pilots' Choice - Selecting Top 5 Pro Drones</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-marketing-mastery-for-affiliate-success/"><u>Video Marketing Mastery for Affiliate Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029725998-vobdvd/"><u>VOBファイルをDVDコンバータで変換できない理由</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030229566-youtube/"><u>スマートフォン、パソコンにてYouTube動画の優れた録画テクニック</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-rectify-faux-face-display-on-social-network-engagements/"><u>[New] 2024 Approved Rectify Faux Face Display on Social Network Engagements</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-best-music-video-reactions-2023-list/"><u>[New] In 2024, YouTube's Best Music Video Reactions, 2023 List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-stunning-photographic-mosaics/"><u>[New] Mastering Stunning Photographic Mosaics</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-detailed-hdr-tutorial-uncomplicated-approach/"><u>In 2024, Detailed HDR Tutorial Uncomplicated Approach</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a05-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A05 Pattern Lock Screen</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-immediate-strategies-for-enhancing-your-thumbnail-designs/"><u>In 2024, Immediate Strategies for Enhancing Your Thumbnail Designs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y28-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y28 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-excel-a-comprehensive-guide-to-step-by-step-formula-analysis/"><u>Mastering Excel: A Comprehensive Guide to Step-by-Step Formula Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-coding-workflow-codegpt-in-vs-code/"><u>Streamline Coding Workflow: CodeGPT in VS Code</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-photo-editing-processes-a-guide-for-2024/"><u>Streamlining Photo Editing Processes A Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/talk-tech-titles-exploring-the-distinctions-between-gpt-and-bings-bot-dialogues/"><u>Talk Tech Titles: Exploring the Distinctions Between GPT & Bing's Bot Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-chatgpt-inspired-art-of-video-scriptwriting/"><u>The ChatGPT-Inspired Art of Video Scriptwriting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-backing-up-your-chat-history-with-chatgpt/"><u>The Ultimate Guide to Backing Up Your Chat History with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-20-essential-chatgpt-conversation-starters-available-on-github/"><u>Top 20 Essential ChatGPT Conversation Starters Available on GitHub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-ai-book-discovery-platforms-uncover-new-fiction-and-nonfiction-with-smart-recommendations/"><u>Top 5 AI Book Discovery Platforms: Uncover New Fiction & Nonfiction with Smart Recommendations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-fitness-coaching-gpt-powered-approaches/"><u>Transforming Fitness Coaching: GPT-Powered Approaches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-shared-links-mechanism-and-functionality/"><u>Understanding ChatGPT Shared Links: Mechanism & Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-challenge-of-artificial-intelligence-goal-alignment/"><u>Understanding the Challenge of Artificial Intelligence Goal Alignment</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlocking-financial-growth-the-compelling-perks-of-diving-into-digital-assets-with-yl-softwares-analysis/"><u>Unlocking Financial Growth: The Compelling Perks of Diving Into Digital Assets with YL Software's Analysis</u></a></li>
 </ul></div>
 

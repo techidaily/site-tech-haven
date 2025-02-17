@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks
-date: 2025-01-30T20:14:34.573Z
-updated: 2025-02-06T23:16:12.114Z
+date: 2025-02-11T19:35:44.663Z
+updated: 2025-02-16T23:38:02.896Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -38,7 +38,7 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -52,7 +52,7 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
@@ -62,7 +62,7 @@ So, clearly, Quick Actions is limited without a bit of extra work. However, if y
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -92,7 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -145,20 +145,16 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-tapping-into-trends-your-guide-to-impactful-instagram-tags/"><u>[New] 2024 Approved Tapping Into Trends Your Guide to Impactful Instagram Tags</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-your-journey-to-glamorous-guruship-launching-an-aesthetic-channel/"><u>[New] 2024 Approved Your Journey to Glamorous Guruship Launching an Aesthetic Channel</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-revolutionizing-education-through-vr-for-2024/"><u>[New] Revolutionizing Education Through VR for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adjusting-story-video-playback-rate-on-instagram/"><u>Adjusting Story Video Playback Rate on Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-watch-communication-guide-effortless-check-ins-with-friends-and-family-zdnet-insights/"><u>Apple Watch Communication Guide: Effortless Check-Ins with Friends and Family | ZDNET Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-the-art-of-smartphone-and-earbuds-ergonomics-expert-tips-for-iphone-and-airpod-users/"><u>Master the Art of Smartphone & Earbuds Ergonomics: Expert Tips for iPhone and AirPod Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-to-success-with-top-notch-key-finder-gadgets/"><u>Navigate to Success with Top-Notch Key Finder Gadgets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/newly-released-apple-unveils-13-and-15-macbook-air-models-powered-by-the-latest-m3-processor-key-features-highlighted-tech-news-on-zdnet/"><u>Newly Released: Apple Unveils 13 & 15 MacBook Air Models Powered by the Latest M3 Processor - Key Features Highlighted | Tech News on ZDNet.</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/online-converter-von-mkv-dateien-kostenlos-und-einfach-mit-hilfe-von-movavi-lernen-sie-schnell-mehr/"><u>Online Converter Von MKV Dateien Kostenlos Und Einfach Mit Hilfe Von Movavi - Lernen Sie Schnell Mehr!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-winpodcast-options-reviewed/"><u>Premier WinPodcast Options Reviewed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/step-by-step-restoring-color-on-asus-gadgets/"><u>Step-by-Step: Restoring Color on Asus Gadgets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailoring-your-macos-sonoma-menu-for-easy-access-ultimate-decluttering-techniques/"><u>Tailoring Your macOS Sonoma Menu for Easy Access: Ultimate Decluttering Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-roadmap-to-triumph-critical-improvements-required-by-apples-vision-pro-for-business-mastery-zdnet-analysis/"><u>The Roadmap to Triumph: Critical Improvements Required by Apple's Vision Pro for Business Mastery - ZDNet Analysis</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-the-moto-g-power-elegant-design-meets-extraordinary-battery-life/"><u>The Ultimate Review of the Moto G Power: Elegant Design Meets Extraordinary Battery Life</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-iphone-16-the-revolutionary-camera-button-redefines-mobile-photography-full-details/"><u>Unveiling the iPhone 16: The Revolutionary Camera Button Redefines Mobile Photography – Full Details .</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-hottest-8-video-clips-trending-today-online/"><u>[Updated] 2024 Approved The Hottest 8 Video Clips Trending Today Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing-for-2024/"><u>[Updated] Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-6-ai-driven-apps-for-analyzing-and-conversing-in-pdfs-like-a-pro/"><u>Discover the Ultimate List of 6 AI-Driven Apps for Analyzing and Conversing in PDFs Like a Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-iphone-experience-by-combining-siri-with-chatgpt-ai/"><u>Enhancing Your iPhone Experience by Combining Siri with ChatGPT AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpts-honesty-is-it-a-source-of-trustworthy-answers-or-fictitious-content/"><u>Evaluating ChatGPT’s Honesty - Is It a Source of Trustworthy Answers or Fictitious Content?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-your-comprehensive-guide-to-the-top-open-source-ai-conversational-agent/"><u>Exploring HuggingChat: Your Comprehensive Guide to the Top Open-Source AI Conversational Agent</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/"><u>From Your Insights to Ingenious AI: Build a GPT of Your Design</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successful-rndis-driver-installation-and-updates-on-windows-step-by-step-guide/"><u>Successful RNDIS Driver Installation and Updates on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-file-management-incorporating-new-commands-into-windows-11-menus/"><u>Tailoring File Management: Incorporating New Commands Into Windows 11 Menus</u></a></li>
 </ul></div>
 

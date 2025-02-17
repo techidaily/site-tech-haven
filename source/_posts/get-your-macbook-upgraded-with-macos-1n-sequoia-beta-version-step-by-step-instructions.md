@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Upgraded with macOS 1N Sequoia Beta Version - Step-by-Step Instructions!
-date: 2025-01-31T09:53:10.053Z
-updated: 2025-02-06T21:54:01.806Z
+date: 2025-02-15T20:47:51.060Z
+updated: 2025-02-16T18:24:22.447Z
 tags:
   - apple
 categories:
@@ -27,21 +27,17 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -52,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -81,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -140,17 +140,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>[New] The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-studio-review-profits-and-payments-for-2024/"><u>[Updated] YouTube Studio Review Profits and Payments for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-settings-tweaks-revealed-by-zdnet/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Settings Tweaks Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-your-next-apple-laptop-a-detailed-comparison-of-m3-vs-m2-macbook-air-models/"><u>Choosing Your Next Apple Laptop: A Detailed Comparison of M3 Vs. M2 MacBook Air Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-xr-glasses-overcome-apples-vision-pro-shortcomings-for-less-the-game-changer-you-need/"><u>Cutting-Edge XR Glasses Overcome Apple's Vision Pro Shortcomings for Less – The Game Changer You Need</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-amd-radeon-driver-for-windows-8-no-cost/"><u>Download AMD Radeon Driver for Windows 8 - No Cost</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-master-download-manager-facebook-and-firefox-edition-tools/"><u>In 2024, Master Download Manager Facebook & FireFox Edition Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-investing-in-the-iphone-16-worth-it-unpacking-apples-ai-capabilities-with-insights/"><u>Is Investing in the iPhone 16 Worth It? Unpacking Apple's AI Capabilities with Insights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-review-for-jackery-powerbar-station-focus-on-ac-connectivity-and-charging-capabilities/"><u>Top Review for Jackery PowerBar Station - Focus on AC Connectivity and Charging Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-airtag-gadgets-and-peripherals-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated AirTag Gadgets & Peripherals of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dive-into-the-depth-of-4k-content-your-ultimate-guide-for-youtube-submission/"><u>[New] Dive Into the Depth of 4K Content Your Ultimate Guide for YouTube Submission</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/creating-captivating-insta-vids-3-description-strategies-for-2024/"><u>Creating Captivating Insta Vids 3 Description Strategies for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dipping-into-the-dynamics-of-digital-image-dimensions/"><u>Dipping Into the Dynamics of Digital Image Dimensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-googles-new-gemini-ai-superior-to-chatgpt/"><u>Is Google's New Gemini AI Superior to ChatGPT?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/managing-and-fixing-chatgpt-overload-situations-in-windows-operating-systems/"><u>Managing and Fixing ChatGPT Overload Situations in Windows Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-machine-learning-auto-gpt-setup/"><u>Mastering Machine Learning: Auto-GPT Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-gpt-capabilities-for-financial-success/"><u>Maximizing GPT Capabilities for Financial Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/multilingual-mastery-leveraging-chatgpt-beyond-english/"><u>Multilingual Mastery: Leveraging ChatGPT Beyond English</u></a></li>
+<li><a href="https://blog-min.techidaily.com/profiles-tailored-for-dvd-ripping-enjoy-high-quality-movie-viewing-on-mobile-devices/"><u>Profiles Tailored for DVD Ripping: Enjoy High-Quality Movie Viewing on Mobile Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-google-pixel-7a-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Google Pixel 7a to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-7-hd-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 7 HD Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-window-wizardry-how-to-reactivate-off-screen-apps/"><u>Windows 11 Window Wizardry: How to Reactivate Off-Screen Apps</u></a></li>
 </ul></div>
 

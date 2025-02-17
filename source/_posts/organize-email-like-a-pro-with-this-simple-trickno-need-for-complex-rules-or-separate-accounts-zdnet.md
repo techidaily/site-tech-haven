@@ -1,7 +1,7 @@
 ---
 title: Organize Email Like a Pro with This Simple Trick—No Need for Complex Rules or Separate Accounts | ZDNET
-date: 2025-01-02T02:03:13.381Z
-updated: 2025-01-07T04:18:21.199Z
+date: 2025-02-10T02:30:24.651Z
+updated: 2025-02-16T23:33:43.249Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,20 +146,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-the-essence-of-movement-in-iphone-photography/"><u>[New] Capture the Essence of Movement in iPhone Photography</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ideal-3d-software-for-creating-animation/"><u>[New] Ideal 3D Software for Creating Animation</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-risk-free-providers-of-popularity-boosts-on-tiktok/"><u>[New] Risk-Free Providers of Popularity Boosts on TikTok</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-5-secure-methods-to-maximize-instagram-earnings/"><u>[Updated] 2024 Approved Top 5 Secure Methods to Maximize Instagram Earnings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-expands-educational-outreach-with-massive-ai-training-initiative-for-alumni-and-student-body-latest-developments/"><u>Apple Expands Educational Outreach with Massive AI Training Initiative for Alumni and Student Body | Latest Developments</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-halts-distribution-of-new-ios-beta-after-users-report-phone-malfunctions-digital-digest/"><u>Apple Halts Distribution of New iOS Beta After Users Report Phone Malfunctions - Digital Digest</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-m3-macbook-air-unveiled-the-ultimate-accessible-ai-powered-laptop-experience/"><u>Apple M3 MacBook Air Unveiled: The Ultimate Accessible AI-Powered Laptop Experience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-use-google-trends-to-come-up-with-video-ideas-easy-guide/"><u>How to Use Google Trends to Come up with Video Ideas [Easy Guide]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-90-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor 90</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination/"><u>In 2024, Strategic Planning for Virtual Teams Mastering Slack & Filmora Coordination</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlock-every-shared-file-and-image-in-messaging-app/"><u>In 2024, Unlock Every Shared File and Image in Messaging App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/power-up-and-stay-cool-the-all-in-one-magsafe-dock-for-iphone-ipad-mac/"><u>Power Up and Stay Cool: The All-in-One MagSafe Dock for iPhone, iPad, Mac</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reviving-your-touchpad-driver-fixes-shared/"><u>Reviving Your Touchpad: Driver Fixes Shared</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-discounts-on-amazon-in-september-2024-find-your-must-have-items-at-unbeatable-prices/"><u>Top Discounts on Amazon in September 2024 - Find Your Must-Have Items at Unbeatable Prices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-your-imessages-were-marked-as-undeliverable-last-night-uncover-the-reason/"><u>Why Your iMessages Were Marked as 'Undeliverable' Last Night: Uncover the Reason</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-a-practical-approach-to-incorporate-youtube-playlists-online/"><u>[New] In 2024, A Practical Approach to Incorporate YouTube Playlists Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-most-effective-android-apps-to-download-youtube-videos/"><u>[New] The Most Effective Android Apps to Download YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-echo-to-etchings-discovering-preeminent-text-apps/"><u>[Updated] In 2024, Echo to Etchings Discovering Preeminent Text Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/7-must-have-gratis-learning-apps-every-student-needs-before-school-starts/"><u>7 Must-Have Gratis Learning Apps Every Student Needs Before School Starts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-humor-in-technology-can-artificial-intelligence-be-funny/"><u>Exploring Humor in Technology: Can Artificial Intelligence Be Funny?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-tech-behind-ai-how-chatbots-mimic-human-interactions/"><u>Exploring the Tech Behind AI: How Chatbots Mimic Human Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/four-key-feature-improvements-to-boost-the-chatgpt-plugins-shop-experience/"><u>Four Key Feature Improvements to Boost the ChatGPT Plugins Shop Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fusion-of-reality-and-fantasy-through-ai-unveiling-the-concept-in-8-key-aspects/"><u>Fusion of Reality & Fantasy Through AI: Unveiling the Concept in 8 Key Aspects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-strikes-back-with-bard-the-innovative-ai-built-to-compete-directly-with-microsofts-chatgpt/"><u>Google Strikes Back with Bard: The Innovative AI Built to Compete Directly With Microsoft's ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-chatgpt-and-wolfram-a-triad-of-techniques-to-boost-productivity/"><u>Harnessing ChatGPT and Wolfram: A Triad of Techniques to Boost Productivity</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-to-decide-what-to-watch-next/"><u>How to Use ChatGPT to Decide What to Watch Next</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-inauthentic-copies-a-guide-to-recognizing-fraudulent-chatgpt-ios-applications/"><u>Identifying Inauthentic Copies: A Guide to Recognizing Fraudulent ChatGPT iOS Applications</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-exploring-ai-face-generators/"><u>In 2024, Exploring AI Face Generators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lwjgl-exception-handling-correcting-non-accelerated-pixel-formats-efficiently/"><u>LWJGL Exception Handling: Correcting Non-Accelerated Pixel Formats Efficiently</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-how-to-alter-picture-backgrounds-with-a-photo-editing-tool/"><u>Step-by-Step Guide: How to Alter Picture Backgrounds with a Photo Editing Tool</u></a></li>
 </ul></div>
 

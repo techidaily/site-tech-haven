@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2025-02-05T00:18:51.996Z
-updated: 2025-02-06T21:39:58.794Z
+date: 2025-02-14T23:46:50.951Z
+updated: 2025-02-16T20:12:15.522Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,22 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-income-monetization-through-youtube-sponsored-videos-for-2024/"><u>[New] Discovering Income Monetization Through YouTube Sponsored Videos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-digital-dossiers-decoded-craft-your-signature-bio-with-stars/"><u>[New] In 2024, Digital Dossiers Decoded Craft Your Signature Bio with Stars</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-instant-best-picture-viewer-pro/"><u>[New] In 2024, Instant Best Picture Viewer Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-crossfades-a-premiere-pro-guide/"><u>[New] In 2024, Mastering Crossfades A Premiere Pro Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-adverts-recent-changes-and-compliance/"><u>[New] YouTube Adverts Recent Changes and Compliance</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-illumination-the-ultimate-guide-to-hdr-photography/"><u>2024 Approved Perfect Illumination The Ultimate Guide to HDR Photography</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-loyalists-delight-as-lg-rolls-out-no-cost-audio-improvement-featured/"><u>Apple Loyalists Delight as LG Rolls Out No-Cost Audio Improvement, Featured</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-latest-timepieces-the-return-of-the-apple-watch-series-9-and-ultra-amidst-legal-hurdles/"><u>Apple's Latest Timepieces: The Return of the Apple Watch Series 9 & Ultra Amidst Legal Hurdles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crossing-the-streams-moving-your-favorite-tunes-from-apple-to-youtube-music-and-back-again/"><u>Crossing the Streams: Moving Your Favorite Tunes From Apple to YouTube Music and Back Again</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exclusive-docooler-usb-20-camera-testing-results-can-the-quality-really-match-the-hype/"><u>Exclusive Docooler USB 2.0 Camera Testing Results – Can the Quality Really Match The Hype?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-breakdown-dji-inspire-1-explored/"><u>In 2024, Complete Breakdown DJI Inspire 1 Explored</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/kid-friendly-tablets-reviewed-and-endorsed-by-parents-featured/"><u>Kid-Friendly Tablets Reviewed & Endorsed by Parents, Featured</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/nintendo-switch-review/"><u>Nintendo Switch Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-connection-how-to-wirelessly-sync-airpods-with-quest-3-without-disturbing-others-insights-from-zdnet/"><u>Seamless Connection: How to Wirelessly Sync AirPods with Quest 3 without Disturbing Others - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-nomad-iphone-cases-on-sale-bogo-offer-available-today-shop-at-yourwebsitecom/"><u>Top Nomad iPhone Cases on Sale - BOGO Offer Available Today! Shop at [YourWebsite.com]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-workouts-discover-how-the-airpods-pros-heart-rate-monitor-can-guide-your-fitness-journey/"><u>Transforming Workouts: Discover How the AirPods Pro's Heart Rate Monitor Can Guide Your Fitness Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-new-potential-how-apple-enables-third-party-integration-with-iphones-nfc-features-insights-from-zdnet/"><u>Unlocking New Potential: How Apple Enables Third-Party Integration with iPhone's NFC Features | Insights From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-future-is-here-magix-vpx-unveiled-and-tested-for-2024/"><u>[New] The Future Is Here Magix VPX Unveiled and Tested for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-playbook-iphone-downloading-for-podcast-enthusiasts/"><u>[Updated] The Ultimate Playbook IPhone Downloading for Podcast Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-fixing-hp-officejet-pro-6978-driver-issues/"><u>Comprehensive Guide to Fixing HP OfficeJet Pro 6978 Driver Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/drones-and-stabilization-your-ultimate-camera-gimbal-selection/"><u>Drones & Stabilization Your Ultimate Camera Gimbal Selection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-create-backups-of-your-chatgpt-conversations-for-easy-access-later-on/"><u>How To Create Backups Of Your ChatGPT Conversations for Easy Access Later On</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-sidestep-generative-ai-faults-insights-into-7-critical-errors/"><u>How to Sidestep Generative AI Faults: Insights Into 7 Critical Errors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210933012-9781855844643-human-beings-experiences-beyond-the-gates-of-death/"><u>Human Being's Experiences Beyond The Gates of Death | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-ais-frailty-how-do-prompt-injections-threaten-its-integrity/"><u>Inside AI's Frailty: How Do Prompt Injections Threaten Its Integrity?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-data-secure-with-chatgpts-privacy-measures/"><u>Is Your Data Secure with ChatGPT's Privacy Measures?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-edge-insights-discover-6-uses-for-ais-code-maestro/"><u>Leading-Edge Insights - Discover 6 Uses for AI's Code Maestro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outlook-crashes-heres-what-you-need-to-know-for-a-smooth-experience/"><u>Outlook Crashes? Here's What You Need to Know for a Smooth Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-nord-n30-se-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus Nord N30 SE FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-google-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Google Phones</u></a></li>
+<li><a href="https://win-dash.techidaily.com/youtube-gif/"><u>YouTube ムービーを GIFへ変換するコツと最適ソフト |無料リスト</u></a></li>
 </ul></div>
 

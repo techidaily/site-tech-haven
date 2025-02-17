@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2025-02-05T01:38:45.889Z
-updated: 2025-02-07T03:40:43.427Z
+date: 2025-02-13T23:14:11.419Z
+updated: 2025-02-16T18:28:33.691Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,17 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-excellent-audio-capture-on-demand/"><u>[Updated] In 2024, Excellent Audio Capture on Demand</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/automating-visibility-concealing-and-revealing-your-macs-menu-bar/"><u>Automating Visibility: Concealing and Revealing Your Mac's Menu Bar</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-customize-your-network-preferences-insights-from-yl-software-experts/"><u>How to Customize Your Network Preferences: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-copy-and-paste-features-in-your-windows-11-operating-system/"><u>How to Restore Copy and Paste Features in Your Windows 11 Operating System</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-capturing-moments-dslr-setup-for-online-streaming-pcmac/"><u>In 2024, Capturing Moments DSLR Setup for Online Streaming (PC/Mac)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unbeatable-online-headline-builder/"><u>In 2024, Unbeatable Online Headline Builder</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-on-the-legality-of-duplicating-dvd-content-a-full-breakdown/"><u>In-Depth Analysis on the Legality of Duplicating DVD Content: A Full Breakdown</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/installing-the-blink-addon-for-seamless-viewing-a-users-manual-with-matrix-support-on-kodi/"><u>Installing the Blink Addon for Seamless Viewing - A User's Manual with Matrix Support on Kodi</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/intellectual-property-rules-for-instagram-beats-for-2024/"><u>Intellectual Property Rules for Instagram Beats for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-openwizard-integration-with-kodi-top-tips-for-flawless-operation-efficient-backups-and-streamlined-maintenance/"><u>Mastering OpenWizard Integration with Kodi: Top Tips for Flawless Operation, Efficient Backups & Streamlined Maintenance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-video-compression-essential-techniques-and-methods-explained/"><u>Mastering Video Compression: Essential Techniques and Methods Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-glitches-solving-the-avatar-frontiers-of-pandora-game-crash-on-desktop-edition/"><u>No More Glitches! Solving the Avatar: Frontiers of Pandora Game Crash on Desktop Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[Updated] 2024 Approved Finding the Balance Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-pixelpuzzle-pro-crafting-videos-for-instagallery-for-2024/"><u>[Updated] PixelPuzzle Pro Crafting Videos for InstaGallery for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-efficiency-the-key-to-srt-export-in-premiere-for-2024/"><u>Enhancing Efficiency The Key to SRT Export in Premiere for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-cumuluspro-ergonomic-desk-mat-enhance-your-standing-experience/"><u>Expert Analysis of the CumulusPRO Ergonomic Desk Mat: Enhance Your Standing Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-and-bing-battle-for-top-generative-bot-acclaim/"><u>GPT and Bing Battle for Top Generative Bot Acclaim</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt4all-demystified-operation-insights/"><u>GPT4All Demystified: Operation Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guiding-kids-in-the-age-of-ai-5-essential-practices-for-responsible-chatgpt-use/"><u>Guiding Kids in the Age of AI: 5 Essential Practices for Responsible ChatGPT Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/heres-what-10-global-tech-leaders-think-about-ai/"><u>Here's What 10 Global Tech Leaders Think About AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-ai-facilitates-cybercrime-understanding-the-top-5-methods/"><u>How AI Facilitates Cybercrime: Understanding the Top 5 Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-artificial-intelligence-chatbots-transform-the-landscape-of-creating-digital-content/"><u>How Artificial Intelligence Chatbots Transform the Landscape of Creating Digital Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-troubleshoot-these-6-typical-chatgpt-mistakes-easily/"><u>How to Troubleshoot These 6 Typical ChatGPT Mistakes Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/idea-genesis-leveraging-ais-insights-to-boost-project-quality/"><u>Idea Genesis: Leveraging AI's Insights to Boost Project Quality</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-xcover-6-pro-tactical-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy XCover 6 Pro Tactical Edition without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-troubleshooting-guide-to-fix-warframe-failed-startup-issues/"><u>Solution Found: Troubleshooting Guide to Fix Warframe Failed Startup Issues</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/techniques-de-copie-video-dvd-vers-disque-dur-sous-windows-11-10-et-7-avec-une-version-mac/"><u>Techniques De Copie Vidéo DVD Vers Disque Dur Sous Windows 11, 10 Et 7 Avec Une Version Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-unbeatable-savings-on-new-apple-watch-series-10-only-99-when-you-preorder-now-from-best-buy-exclusive-insights-inside/"><u>Unlock Unbeatable Savings on New Apple Watch Series 10 - Only $99 When You Preorder Now From Best Buy | Exclusive Insights Inside!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zodiac-wisdom-in-101-whatsapp-bio-ideas/"><u>Zodiac Wisdom in 101 WhatsApp Bio Ideas</u></a></li>
 </ul></div>
 

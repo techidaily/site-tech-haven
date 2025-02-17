@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Your CA State ID Into Digital Wallets: The Ultimate Walkthrough for iPhone & Android Users"
-date: 2025-01-02T21:24:34.708Z
-updated: 2025-01-07T01:12:52.073Z
+date: 2025-02-12T19:37:33.511Z
+updated: 2025-02-16T18:42:58.763Z
 tags:
   - apple
 categories:
@@ -28,21 +28,17 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,17 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-visibility-igtv-and-facebook-connection-techniques/"><u>[New] 2024 Approved Boosting Visibility IGTV & Facebook Connection Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10/"><u>[New] 2024 Approved Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>[New] Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-integrating-fb-live-on-roku-step-by-step-guide/"><u>[Updated] Integrating FB Live on Roku Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>2024 Approved Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-classifications-strong-ai-versus-weak-ai-an-in-depth-comparison/"><u>Demystifying AI Classifications: Strong AI versus Weak AI - An In-Depth Comparison</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exciting-update-directly-speak-with-chatgpt/"><u>Exciting Update: Directly Speak With ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/insights-from-top-10-international-technology-innovators-on-artifice-intelligence/"><u>Insights From Top 10 International Technology Innovators on Artifice Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-top-3-strategies-for-utilizing-chatgpt-with-microsoft-excel/"><u>Maximizing Productivity: Top 3 Strategies for Utilizing ChatGPT with Microsoft Excel</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-insight-series-linus-tech-tips-hack-analysis-and-trojan-viruses-breakdown/"><u>Tech Insight Series: Linus Tech Tips Hack Analysis and Trojan Viruses Breakdown</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/this-week-in-mobile-innovation-anticipated-releases-from-google-and-samsung-examined/"><u>This Week in Mobile Innovation: Anticipated Releases From Google and Samsung Examined</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ipads-drawing-dynasty-top-8-sketch-apps/"><u>[Updated] IPad's Drawing Dynasty Top 8 Sketch Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-ultimate-audio-capture-plugins-for-spotify-for-2024/"><u>[Updated] Top 10 Ultimate Audio Capture Plugins for Spotify for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-bridging-the-web-with-instagram-a-url-tutorial/"><u>2024 Approved Bridging the Web with Instagram A URL Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-pre-launch-report-deciphering-rumors-pricing-and-release-date-for-the-samsung-galaxy-s25-ultra-what-to-expect/"><u>Exclusive Pre-Launch Report: Deciphering Rumors, Pricing & Release Date for The Samsung Galaxy S25 Ultra – What to Expect?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/path-of-exile-connection-errors-resolved-master-guide-for-the-2024-update/"><u>Path of Exile Connection Errors Resolved: Master Guide for the 2024 Update</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/l-video-marketing-insights-for-small-business-infographic/"><u>Social Video Marketing Insights for Small Business [Infographic]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-choosing-your-ai-gemini-advanced-versus-chatgpt-plus/"><u>The Ultimate Guide to Choosing Your AI: Gemini Advanced Versus ChatGPT Plus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-mastering-bings-ai-features-on-android/"><u>The Ultimate Guide to Mastering Bing's AI Features on Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-identifying-9-notorious-impostor-chatgpt-malware-apps-at-risk-of-stealing-your-data/"><u>The Ultimate Guide: Identifying 9 Notorious Impostor ChatGPT Malware Apps at Risk of Stealing Your Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-strategy-for-merging-chatgpt-and-whatsapp-in-your-customer-service-approach/"><u>The Ultimate Strategy for Merging ChatGPT and WhatsApp in Your Customer Service Approach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-inquiries-unsolvable-by-chatgpt-understanding-its-limits/"><u>Top 7 Inquiries Unsolvable by ChatGPT: Understanding Its Limits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-innovative-chatbot-tools-boosting-health-and-wellbeing/"><u>Top 8 Innovative Chatbot Tools Boosting Health & Wellbeing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-the-potential-comprehensive-analysis-of-dji-phantom-4/"><u>Unlocking the Potential Comprehensive Analysis of DJI Phantom 4</u></a></li>
 </ul></div>
 

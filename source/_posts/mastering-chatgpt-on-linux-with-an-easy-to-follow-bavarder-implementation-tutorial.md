@@ -1,7 +1,7 @@
 ---
 title: Mastering ChatGPT on Linux with an Easy-to-Follow Bavarder Implementation Tutorial
-date: 2024-08-16T10:18:16.636Z
-updated: 2024-08-17T10:18:16.636Z
+date: 2025-02-09T19:10:06.632Z
+updated: 2025-02-16T21:45:25.796Z
 tags:
   - chatgpt
   - open-ai
@@ -34,11 +34,16 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -48,12 +53,13 @@ False news can be categorized into three types:
 
 Here's the fictitious article that ChatGPT came up with:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -66,10 +72,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -78,9 +80,6 @@ The ultimate burning program for all your needs!</a>
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -90,8 +89,9 @@ The ultimate burning program for all your needs!</a>
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -104,36 +104,20 @@ The ultimate burning program for all your needs!</a>
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +126,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-methods-to-record-and-save-lectures-on-imac/"><u>[Updated] 2024 Approved Cutting-Edge Methods to Record and Save Lectures on iMac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ins-and-outs-of-earning-from-youtube/"><u>[Updated] 2024 Approved The Ins and Outs of Earning From YouTube</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/digital-memory-management-saving-snaps-from-social-platforms/"><u>Digital Memory Management Saving Snaps From Social Platforms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-realme-11x-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme 11X 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-4-the-next-wave-of-ai-revolutionizing-the-world-of-crafts-creativity-and-independent-projects/"><u>GPT-4: The Next Wave of AI Revolutionizing the World of Crafts, Creativity & Independent Projects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-the-leader-of-openai-advocate-for-enhanced-ai-oversight/"><u>How Does the Leader of OpenAI Advocate for Enhanced AI Oversight?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-for-fictional-worldbuilding/"><u>How to Use ChatGPT for Fictional Worldbuilding</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>In 2024, Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-shopping-spree-to-stardom-editing-your-haul-video/"><u>In 2024, From Shopping Spree to Stardom Editing Your Haul Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-modernity-discover-these-top-10-digital-realms-for-artistic-font-styles/"><u>In 2024, Unveiling Modernity Discover These Top 10 Digital Realms for Artistic Font Styles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-wilderness-scenarios-how-effective-is-microsofts-chatbot-assistance/"><u>In Wilderness Scenarios, How Effective Is Microsoft's Chatbot Assistance?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-a-localized-llm-ideal-for-you-exploring-key-benefits-and-limitations/"><u>Is a Localized LLM Ideal for You? Exploring Key Benefits and Limitations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-there-a-cap-on-word-or-character-count-in-gpt-responses/"><u>Is There a Cap on Word or Character Count in GPT Responses?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-there-a-drop-in-intelligence-for-chatgpt-a-closer-look-with-inputs-from-openai/"><u>Is There a Drop in Intelligence for ChatGPT? A Closer Look with Inputs From OpenAI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-highlighting-your-custom-gpt-techniques-with-gpt-references-in-chatgpt-dialogues/"><u>Mastering the Art of Highlighting Your Custom GPT: Techniques with GPT References in ChatGPT Dialogues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-problems-when-your-msi-dragon-center-wont-start/"><u>Resolving Problems When Your MSI Dragon Center Won't Start</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-playback-functionality-resolving-windows-7-sound-problems/"><u>Restoring Playback Functionality: Resolving Windows ˈ7 Sound Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fitness Meets Tech: Discover How the New AirPods Pro Track Your Workout Heart Rate - Insights"
-date: 2025-02-03T18:25:34.561Z
-updated: 2025-02-06T23:24:31.534Z
+date: 2025-02-13T20:44:56.192Z
+updated: 2025-02-16T20:37:13.233Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,10 +63,6 @@ How and why did I come to those conclusions? Let's dig in.
 | Colors           | Midnight, Starlight, Blue, Purple, Product RED                    |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Familiar design, with one exception
 
@@ -87,12 +83,16 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
 
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -115,7 +115,7 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Camera upgrades
@@ -136,6 +136,10 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -145,10 +149,6 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 [Buy the Apple iPhone 14 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -186,17 +186,21 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-curious-case-of-inverted-images-on-social-media/"><u>[New] The Curious Case of Inverted Images on Social Media</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora-for-2024/"><u>[Updated] Sparking Interest Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora) for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-3-ways-to-record-ps4-gameplay/"><u>2024 Approved 3 Ways to Record PS4 Gameplay</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-organization-utilizing-chatgpt-for-effective-timing/"><u>Elevate Your Organization: Utilizing ChatGPT for Effective Timing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-htc-u23-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track HTC U23 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>In 2024, Unlocking Visuals Detailed Guide to Hero5 Black Proficiency</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-reno-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Reno 11 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-modern-connectivity-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Mastering Modern Connectivity: Strategies for Facebook, Twitter, Instagram & YouTube Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-identity-balancing-personalization-and-privacy/"><u>Protecting Identity: Balancing Personalization and Privacy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-digital-landscapes-with-openais-groundbreaking-release-of-the-powerful-gpt-gpt-4-model/"><u>Transforming Digital Landscapes with OpenAI's Groundbreaking Release of the Powerful GPT-GPT-4 Model</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-for-writing-an-impressive-cover-letter-a-comprehensive-guide/"><u>Utilizing ChatGPT for Writing an Impressive Cover Letter: A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-distinguished-audible-collection-for-filmmakers/"><u>[New] In 2024, Distinguished Audible Collection for Filmmakers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-reach-without-money-youtube-video-advancement-strategies/"><u>[New] Mastering Reach Without Money YouTube Video Advancement Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/abletons-guide-to-softening-transition-endings-for-2024/"><u>Ableton's Guide to Softening Transition Endings for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deceptive-chatbot-plugin-on-chrome-hijacks-your-social-network-logins/"><u>Deceptive Chatbot Plugin on Chrome Hijacks Your Social Network Logins</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decode-the-nightmare-effective-strategies-for-solving-pc-issues-and-ending-black-screens-in-resident-evil-village/"><u>Decode the Nightmare: Effective Strategies for Solving PC Issues and Ending Black Screens in Resident Evil Village</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-gpt-bots-role-in-web-security-and-its-impact-on-accessibility/"><u>Decoding GPT Bot's Role in Web Security and Its Impact on Accessibility</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-ultimate-battle-of-ai-chatbots-chatgpt-vs-microsoft-bings-new-brain-vs-google-bard/"><u>Decoding The Ultimate Battle of AI Chatbots - ChatGPT Vs Microsoft Bing's New Brain vs Google Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-use-cases-integrating-chatgpt-and-wolfram-language-3-key-insights/"><u>Effective Use Cases: Integrating ChatGPT and Wolfram Language - 3 Key Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-chatbot-communication-discover-the-best-chrome-addon-for-simple-effective-gpt-3-prompting/"><u>Effortless Chatbot Communication: Discover the Best Chrome Addon for Simple, Effective GPT-3 Prompting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/envisioning-innovations-4-game-changing-additions-for-gpt-5/"><u>Envisioning Innovations: 4 Game-Changing Additions for GPT-5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-safe-communication-connect-via-duckduckgos-ai-chat-for-encrypted-exchanges-with-chats-like-gpt-and-others/"><u>Experience Safe Communication - Connect via DuckDuckGo's AI Chat for Encrypted Exchanges With Chats Like GPT and Others</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y78plus-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-prioritize-close-up-views-for-effective-collaboration/"><u>How to Prioritize Close-Up Views for Effective Collaboration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/immersive-escapades-top-5-playstation-vr-titles-to-excite-gamers-for-2024/"><u>Immersive Escapades Top 5 PlayStation VR Titles to Excite Gamers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-no-splurge-audio-devices-for-yt-beginners/"><u>In 2024, No-Splurge Audio Devices for YT Beginners</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/samsung-ubd-k8500-review-for-2024/"><u>Samsung UBD-K8500 Review for 2024</u></a></li>
 </ul></div>
 

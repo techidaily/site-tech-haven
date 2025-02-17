@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Apple Watch's Endurance - Top 8 Battery-Saving Tweaks Revealed by ZDNet
-date: 2025-01-31T02:09:28.606Z
-updated: 2025-02-07T01:38:28.259Z
+date: 2025-02-15T23:41:04.127Z
+updated: 2025-02-16T17:23:06.701Z
 tags:
   - apple
 categories:
@@ -36,19 +36,11 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -57,10 +49,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **How to:** Lift your Apple Watch and press the side button to bring up the quick settings menu. Tap your battery percentage, then hit the "Low Power Mode" button. From there, scroll down through the list of features that Apple says the feature will disable. Then, tap the yellow "Turn On" button. You can also schedule it to turn off after a while, if you want.
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
 
@@ -71,7 +59,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -92,11 +80,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -105,6 +101,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -121,7 +121,7 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -165,24 +165,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mosaicmind-pro-unleashing-creative-potential/"><u>[New] 2024 Approved MosaicMind Pro Unleashing Creative Potential</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premium-online-meeting-applications-no-zoom-for-2024/"><u>[New] Premium Online Meeting Applications (No Zoom) for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-facetune-your-complete-2024-guidebook/"><u>[Updated] Step-by-Step Facetune Your Complete 2024 Guidebook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iuoajoamhpluswqjeobleocjoobnpluss6uuejqeobrumfspluswjsoakuea2idrli5xnllvnt6jpm4bjgafkvbjgyjjgovmnidmlrdjg4bjgqjg4vjg4pjgqjgi0i/"><u>「指名された人物の音声抹消:動画編集で使える最新テクニック」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-video-capture-top-tools-for-quickly-downloading-youtube-videos/"><u>Effortless Video Capture: Top Tools for Quickly Downloading YouTube Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-fixes-for-a-frozen-windows-11-search-box-within-settings-app/"><u>Essential Fixes for a Frozen Windows 11 Search Box Within Settings App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fix-it-fast-solutions-for-when-4k-video-downloader-struggles-with-urls/"><u>Fix It Fast: Solutions for When 4K Video Downloader Struggles with URLs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-continuous-failures-tackling-pc-crashes-in-alien-fireteam-elite/"><u>Fixes for Continuous Failures: Tackling PC Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freemake/"><u>Freemakeを利用してダウンロード失敗する原因と対処法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hassle-free-tutorial-on-transposing-vttsrt-subtitles-for-seamless-editing/"><u>Hassle-Free Tutorial on Transposing VTT/SRT Subtitles for Seamless Editing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-incorporate-soundtracks-into-your-videos-using-vlc-media-player/"><u>How to Incorporate Soundtracks Into Your Videos Using VLC Media Player</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-itel-a60s-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Itel A60s Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-masterclass-in-image-cleanup-remove-unwanted-surroundings/"><u>In 2024, Masterclass in Image Cleanup Remove Unwanted Surroundings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-androidyoutube-music/"><u>IPhone / Androidで使用するためのYouTube Musicからの最適な着信メロディ選び方</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone/"><u>IPhoneで動画から高品質音声への変換テクニック</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-crossplatform-recording-the-ultimate-202n4-guide-to-documenting-ps4-gameplay-on-your-pc/"><u>Mastering Crossplatform Recording: The Ultimate 202N4 Guide to Documenting PS4 Gameplay on Your PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-solution-a-step-by-step-guide-for-resolving-fatal-errors-in-ark-game-servers/"><u>Mastering the Solution: A Step-by-Step Guide for Resolving Fatal Errors in ARK Game Servers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/optimizing-your-streams-sound-advanced-tips-for-using-obs-audio-ducking/"><u>Optimizing Your Streams Sound Advanced Tips for Using OBS Audio Ducking</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-no-supported-devices-detected-fixes-and-tips-for-windows-7-setup/"><u>Resolve 'No Supported Devices Detected': Fixes & Tips for Windows 7 Setup</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-guidance-to-youtube-music-mix/"><u>[New] Guidance to YouTube Music Mix</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-digital-duel-diaries-record-galaxy-gamer-stories/"><u>[Updated] Digital Duel Diaries Record Galaxy Gamer Stories</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-infuse-humor-in-content-simple-text-meme-creation/"><u>[Updated] In 2024, Infuse Humor in Content Simple Text Meme Creation</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-xpath-querying-techniques-and-ixmlsearch-strategies/"><u>Advanced XPath Querying Techniques and IXMLSearch Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenges-with-ai-detection-software-more-harm-than-good/"><u>Challenges with AI Detection Software: More Harm Than Good?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-assisting-podcasts-phones-security-simplified/"><u>ChatGPT Assisting Podcasts: Phones, Security, Simplified</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-an-apple-centric-approach-to-dialogue/"><u>ChatGPT Mastery: An Apple-Centric Approach to Dialogue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-proficiency-6-essential-reasons-to-excel-in-the-modern-workforce/"><u>ChatGPT Proficiency: 6 Essential Reasons to Excel in the Modern Workforce</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-horoscopes-which-is-more-accurate-in-forecasting-whats-ahead/"><u>ChatGPT vs Horoscopes: Which Is More Accurate in Forecasting What's Ahead?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bing-bot-showdown-a-comprehensive-breakdown-of-their-10-main-distinctions/"><u>ChatGPT Vs. Bing Bot Showdown: A Comprehensive Breakdown of Their 10 Main Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/combating-loneliness-with-chatgpt-a-comprehensive-guide/"><u>Combating Loneliness with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-oppo-k11-5g-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Oppo K11 5G.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cracking-gpts-code-exposing-ai-realities/"><u>Cracking GPT's Code: Exposing AI Realities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/intensified-interaction-through-advanced-zoom-settings/"><u>Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-investing-in-a-4k-television-necessary-for-an-average-cable-viewer/"><u>Is Investing in a 4K Television Necessary for an Average Cable Viewer?</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/mastering-professional-skills-with-icom-certification-courses-a-comprehensive-guide/"><u>Mastering Professional Skills with ICOM Certification Courses - A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

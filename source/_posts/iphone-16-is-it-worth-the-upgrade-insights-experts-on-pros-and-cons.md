@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16: Is It Worth the Upgrade? Insights Experts on Pros & Cons"
-date: 2025-01-30T20:40:34.324Z
-updated: 2025-02-07T10:59:07.190Z
+date: 2025-02-14T18:17:38.133Z
+updated: 2025-02-16T19:29:45.252Z
 tags:
   - apple
 categories:
@@ -30,16 +30,12 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -54,6 +50,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -67,7 +67,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -96,6 +96,10 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -107,7 +111,7 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -117,10 +121,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -168,18 +168,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mobile-and-desktop-tips-for-gotomeeting-captures/"><u>[Updated] In 2024, Mobile & Desktop Tips for GoToMeeting Captures</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725286640401-dvd-decrypter/"><u>DVD Decrypterを安全に設置する方法：エラー無く最新バージョンのインストール手順</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-methods-to-adapt-your-videos-for-seamless-viewing-on-apples-mobile-gadgets-ipod-ipad-and-iphone/"><u>Easy Methods to Adapt Your Videos for Seamless Viewing on Apple's Mobile Gadgets: IPod, iPad, and iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-steps-to-free-conversion-transforming-flv-videos-into-avi-format/"><u>Easy Steps to Free Conversion: Transforming FLV Videos Into AVI Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-guide-converting-dvds-to-mp4-format-for-universal-playback-compatibility/"><u>Effortless Guide: Converting DVDs to MP4 Format for Universal Playback Compatibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-viewing-experience-with-customized-video-resolution-settings-for-perfect-playback-everywhere/"><u>Enhance Your Viewing Experience with Customized Video Resolution Settings for Perfect Playback Everywhere</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-combine-videos-in-vegas-pro-a-step-by-step-walkthrough/"><u>How To Seamlessly Combine Videos in Vegas Pro: A Step-By-Step Walkthrough</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-vlc-media-player-for-midi-file-playback/"><u>How to Use VLC Media Player for MIDI File Playback</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-assessment-of-the-hp-zbook-firefly-15-g8-your-go-to-travel-companion/"><u>In-Depth Assessment of the HP ZBook Firefly 15 G8: Your Go-To Travel Companion</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/premium-line-up-top-5-slow-motion-models-for-2024/"><u>Premium Line-Up Top 5 Slow Motion Models for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Pro Max Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728487050539-windows-11usb/"><u>Windows 11專用移動式USB自動備份系統</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-avoiding-pitfalls-securing-your-skype-recordings-in-obs-for-2024/"><u>[New] Avoiding Pitfalls Securing Your Skype Recordings in OBS for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/issecting-and-defeating-dreadful-greenscreen-a-mac-editors-directive/"><u>[New] Dissecting & Defeating Dreadful Greenscreen A Mac Editor's Directive</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lol-factory-robotic-deadwalkers/"><u>[New] LOL Factory Robotic Deadwalkers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-championing-the-leading-gif-apps-on-iphones/"><u>[Updated] 2024 Approved Championing the Leading GIF Apps on iPhones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-art-of-crossfade-audio-seamless-integration-in-logic-x/"><u>[Updated] The Art of Crossfade Audio Seamless Integration in Logic X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-master-the-ultimate-periscope-handbook/"><u>2024 Approved From Novice to Master The Ultimate Periscope Handbook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-mastering-windows-movie-maker-in-w11-for-beginners/"><u>2024 Approved Guide to Mastering Windows Movie Maker in W11 for Beginners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-recent-updates-to-dall-e-3s-edit-toolkit-advances-and-shortcomings/"><u>Assessing the Recent Updates to DALL-E 3’S Edit Toolkit: Advances and Shortcomings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-relationships-with-chatgpts-insightful-advice/"><u>Boosting Relationships with ChatGPT's Insightful Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-combine-iphones-siri-with-chatgpt/"><u>Bridging the Gap: Combine iPhone's Siri with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-goes-mobile-the-ultimate-ai-companer-for-android-users/"><u>ChatGPT Goes Mobile: The Ultimate AI Companer for Android Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-showdown-comparing-direct-browser-access-to-enhanced-plugin-features/"><u>ChatGPT Showdown: Comparing Direct Browser Access to Enhanced Plugin Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conquer-the-interview-process-using-chatgpt-as-your-personal-coach/"><u>Conquer the Interview Process Using ChatGPT as Your Personal Coach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digital-decorum-addressing-ai-like-chatgpt-and-others/"><u>Digital Decorum: Addressing AI Like ChatGPT & Others</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-flexibility-of-nvidias-artificial-intelligence-services-who-qualifies-for-use/"><u>Discovering the Flexibility of NVIDIA’s Artificial Intelligence Services – Who Qualifies for Use?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embracing-gpt-3-the-path-to-excellence-at-openai/"><u>Embracing GPT-3: The Path to Excellence at OpenAI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-crystal-clear-audio-free-gigabyte-driver-software-for-your-system/"><u>Experience Crystal Clear Audio: Free Gigabyte Driver Software for Your System</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-dial-up-beats-easy-audio-posting-to-youtubes/"><u>In 2024, Dial-Up Beats Easy Audio Posting to YouTubes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oneplus-ace-2-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track OnePlus Ace 2 Pro Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

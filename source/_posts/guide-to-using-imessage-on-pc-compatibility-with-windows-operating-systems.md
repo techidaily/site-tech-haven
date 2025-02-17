@@ -1,7 +1,7 @@
 ---
 title: "Guide to Using iMessage on PC: Compatibility with Windows Operating Systems"
-date: 2025-02-04T17:00:05.318Z
-updated: 2025-02-07T13:16:48.720Z
+date: 2025-02-12T18:17:26.021Z
+updated: 2025-02-16T23:59:37.371Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
@@ -60,15 +56,15 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -79,10 +75,6 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -96,6 +88,10 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -107,10 +103,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -134,6 +126,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -141,7 +137,7 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
@@ -149,6 +145,10 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -192,21 +192,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-unmatched-storytelling-education-1-8-spotlight/"><u>[New] Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725286850982-ai/"><u>自由進入的AI光學迷你化照片修復程式 - 八大功能</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/easy-ways-to-screen-record-instagram-story-for-2024/"><u>Easy Ways to Screen Record Instagram Story for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-win11-dns-client-service-adjustment/"><u>Essential Tips for Win11 DNS Client Service Adjustment</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-z-fold-5-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy Z Fold 5 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-weibo-stars-quick-chats-on-snapchat/"><u>In 2024, Weibo Stars Quick Chats on Snapchat</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transforming-rmvb-file-type-into-high-quality-mp4-videos/"><u>Step-by-Step Guide: Transforming RMVB File Type Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-viewing-dvds-on-dell-laptops-using-windows-1011/"><u>Step-by-Step Tutorial for Viewing DVDs on Dell Laptops Using Windows 10/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-testing-your-sites-latency-with-simple-ping-commands/"><u>Step-by-Step Tutorial: Testing Your Site's Latency with Simple Ping Commands</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-three-step-guide-to-converting-video-clips-into-pictures/"><u>The Three-Step Guide to Converting Video Clips Into Pictures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-recommended-wav-playback-software-options-for-windows-11-users/"><u>Top 6 Recommended WAV Playback Software Options for Windows 11 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-methods-for-converting-wav-files-to-wma-format-using-batch-processing-in-windows/"><u>Top Methods for Converting WAV Files to WMA Format Using Batch Processing in Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-two-tricks-for-converting-oma-audio-to-free-mp3-without-hitches/"><u>Top Two Tricks for Converting OMA Audio to Free MP3 Without Hitches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-transform-your-videos-effortlessly-using-video-converter-factorys-no-cost-features/"><u>Ultimate Tutorial: Transform Your Videos Effortlessly Using Video Converter Factory's No-Cost Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-cyber-self-portraiture-creating-a-caricatured-emblem/"><u>[Updated] In 2024, Cyber Self-Portraiture Creating a Caricatured Emblem</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movgif-movavi/"><u>無料MOVからGIFへのシームレスなオンライン変換 - Movaviで学ぶ方法</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-a-408-timeout-issue-causes-and-remedies-explained/"><u>Diagnosing a 408 Timeout Issue: Causes and Remedies Explained</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y100-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/go-beyond-basic-top-10-hidden-whatsapp-features-for-2024/"><u>Go Beyond Basic Top 10 Hidden WhatsApp Features for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-io-2nd-the-top-7-cutting-edge-features-revealed-for-the-new-bard-ai/"><u>Google I/O 2nD: The Top 7 Cutting-Edge Features Revealed for the New Bard AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-reliable-are-googles-bard-and-microsofts-chatgpt-for-making-savvy-investment-choices/"><u>How Reliable Are Google's Bard and Microsoft's ChatGPT for Making Savvy Investment Choices?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-access-new-features-in-chatgpt-turn-on-the-beta-version-of-web-browsing-and-plugins/"><u>How To Access New Features in ChatGPT - Turn On the Beta Version of Web Browsing and Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-securely-backup-and-export-your-data-from-chatgpt/"><u>How to Securely Backup and Export Your Data From ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/qualitatsfreie-kompression-fur-grosse-videos-auf-whatsapp-mit-winxdvd/"><u>Qualitätsfreie Kompression Für Große Videos Auf WhatsApp Mit WinXDVD</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rodrigo-alves-prolific-author-at-movavi/"><u>Rodrigo Alves - Prolific Author at Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-ringers-guide-shaping-iphone-sounds/"><u>The Ultimate Ringer's Guide Shaping iPhone Sounds</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>Updated The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
 </ul></div>
 

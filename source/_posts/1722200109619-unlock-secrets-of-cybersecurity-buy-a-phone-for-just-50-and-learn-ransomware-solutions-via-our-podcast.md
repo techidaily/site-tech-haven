@@ -1,7 +1,7 @@
 ---
 title: "Unlock Secrets of Cybersecurity: Buy a Phone for Just $50 and Learn Ransomware Solutions via Our Podcast!"
-date: 2024-08-16T10:18:48.410Z
-updated: 2024-08-17T10:18:48.410Z
+date: 2025-02-14T19:38:43.623Z
+updated: 2025-02-16T20:58:08.051Z
 tags:
   - chatgpt
   - open-ai
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/d1b957d75a545d4bf761b1ab71e56a83f74f572b9
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shownotes
 
 This week, we chat about the following tech news that matters:
@@ -47,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -63,4 +61,26 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-webinar-recording-on-a-budget/"><u>[New] Mastering Webinar Recording on a Budget</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-expertly-mastering-file-imports-in-the-realm-of-windows-10-for-2024/"><u>[Updated] Expertly Mastering File Imports in the Realm of Windows 10 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-securing-your-gameplay-on-windows-10-the-5-essentials/"><u>[Updated] In 2024, Securing Your Gameplay on Windows 10 The 5 Essentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-demystified-insight-into-what-it-is-and-the-perils-that-accompany-it/"><u>AI Demystified: Insight Into What It Is and the Perils That Accompany It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-role-in-todays-misinformation-landscape/"><u>AI's Role in Today's Misinformation Landscape</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/alert-for-savvy-users-avoid-googles-pretend-wizard-bot/"><u>Alert for Savvy Users: Avoid Google's Pretend Wizard Bot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/all-advantages-with-real-time-chatgpt-data/"><u>All Advantages with Real-Time ChatGPT Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/alternative-ai-programs-like-chatgpt-for-seamless-code-creation-tools/"><u>Alternative AI Programs Like ChatGPT for Seamless Code Creation Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/android-users-can-now-enjoy-ai-conversation-with-chatgpt/"><u>Android Users Can Now Enjoy AI Conversation with ChatGPT!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artistic-uprising-understanding-why-sarah-silverman-is-leading-a-lawsuit-for-ai-accountability/"><u>Artistic Uprising: Understanding Why Sarah Silverman Is Leading a Lawsuit for AI Accountability</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/become-a-pro-at-adding-features-to-chatgpt/"><u>Become a Pro at Adding Features to ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-coder-amongst-chatbots-can-gemini-outperform-chatgpt-in-code-generation/"><u>Best Coder Amongst Chatbots: Can Gemini Outperform ChatGPT in Code Generation?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-hd-audio-codec-drivers-on-windows-11-a-complete-guide/"><u>How to Install IDT HD Audio Codec Drivers on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insights-into-instagrams-maxed-out-videos/"><u>Insights Into Instagram's Maxed-Out Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editor-showdown-the-best-options-for/"><u>Mac Video Editor Showdown The Best Options For</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/spotlight-on-11-top-audio-capture-equipments/"><u>Spotlight on 11 Top Audio Capture Equipments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-and-gauging-interpupillary-distance-key-insights-for-optimizing-virtual-reality-experiences/"><u>Understanding and Gauging Interpupillary Distance: Key Insights for Optimizing Virtual Reality Experiences</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/understanding-the-balance-of-risk-vs-reward-in-digital-asset-investments-insights-by-yl-software/"><u>Understanding the Balance of Risk Vs. Reward in Digital Asset Investments - Insights by YL Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-data-recovery-options-following-an-iphone-factory-restoration-procedure/"><u>Unlocking Data Recovery Options Following an iPhone Factory Restoration Procedure</u></a></li>
+</ul></div>
 

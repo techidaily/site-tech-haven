@@ -1,7 +1,7 @@
 ---
 title: "Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch From ZDNet"
-date: 2025-02-06T14:06:19.911Z
-updated: 2025-02-07T07:37:55.293Z
+date: 2025-02-12T17:57:12.375Z
+updated: 2025-02-16T19:34:46.692Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -44,15 +40,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -77,7 +73,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -91,7 +87,7 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -101,7 +97,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -117,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,17 +154,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/1-amped-up-analysis-the-ultimate-amazon-fire-hd/"><u>1. Amped Up Analysis: The Ultimate Amazon Fire HD</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-iphone-manual-for-capturing-and-adjusting-pace-in-motion/"><u>2024 Approved The Ultimate iPhone Manual for Capturing and Adjusting Pace in Motion</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/automatic-tab-closure-settings-in-safari-on-macos-sierra-a-step-by-step-guide/"><u>Automatic Tab Closure Settings in Safari on macOS Sierra - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/find-the-mean-of-these-absolute-deviations-48-plus-28-plus-22-plus-82-plus-38-plus-12-6-approx-230-groop6-approx-39/"><u>Find the Mean of These Absolute Deviations: $(4.8 + 2.8 + 2.2 + 8.2 + 3.8 + 1.2) / 6 Approx 23.0 / Groop(6) Approx 3.9$</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-zte-blade-a73-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ios-18-update-a-comprehensive-guide-to-personalizing-and-enhancing-your-iphones-control-center/"><u>IOS 18 Update: A Comprehensive Guide to Personalizing and Enhancing Your iPhone's Control Center</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/restore-lost-sounds-to-twitter-vids/"><u>Restore Lost Sounds to Twitter Vids</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209174326-solved-shockwave-flash-no-longer-compatible-with-google-chrome-fix-now/"><u>Solved: Shockwave Flash No Longer Compatible with Google Chrome - Fix Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-discontinuing-your-subscription-to-apple-music-without-using-itunes-tips-and-tricks/"><u>Step-by-Step Guide: Discontinuing Your Subscription to Apple Music Without Using iTunes - Tips & Tricks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-2024s-best-smartwatches-professional-ratings-and-in-depth-analysis-zdnet/"><u>The Ultimate Guide to 2024'S Best Smartwatches: Professional Ratings & In-Depth Analysis | ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlocking-apple-vision-pros-full-potential-top-reasons-and-steps-for-securing-your-next-demo-appointment/"><u>Unlocking Apple Vision Pro's Full Potential: Top Reasons & Steps for Securing Your Next Demo Appointment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-capturing-piscine-adventures-5-superior-camers/"><u>[New] 2024 Approved Capturing Piscine Adventures - 5 Superior Camers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-revive-a-stuck-obs-fullscreen-for-2024/"><u>[Updated] How to Revive a Stuck OBS Fullscreen for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-share-videos-to-instagram/"><u>2024 Approved How to Share Videos to Instagram?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-how-the-paperclip-maximizer-scenario-shapes-modern-ai-systems/"><u>Exploring How the Paperclip Maximizer Scenario Shapes Modern AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-eus-artificinas-regulation-and-its-effects-on-gpt-like-interactive-assistants/"><u>Exploring the EU's Artificinas Regulation & Its Effects on GPT-Like Interactive Assistants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-installation-to-interaction-a-comprehensive-guide-on-using-the-chatgpt-widget-on-android-systems/"><u>From Installation to Interaction: A Comprehensive Guide on Using the ChatGPT Widget on Android Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-evolution-the-top-10-personalized-modifications-for-conversation/"><u>GPT Evolution: The Top 10 Personalized Modifications for Conversation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-10c-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 10C? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

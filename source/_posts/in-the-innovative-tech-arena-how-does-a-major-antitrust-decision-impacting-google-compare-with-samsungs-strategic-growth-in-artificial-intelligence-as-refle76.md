@@ -1,7 +1,7 @@
 ---
 title: In the Innovative Tech Arena, How Does a Major Antitrust Decision Impacting Google Compare with Samsung's Strategic Growth in Artificial Intelligence as Reflected on the Innovation Index?
-date: 2025-02-03T04:31:00.537Z
-updated: 2025-02-07T13:33:28.913Z
+date: 2025-02-13T17:28:36.405Z
+updated: 2025-02-16T20:15:25.873Z
 tags:
   - apple
 categories:
@@ -71,24 +71,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-detecting-changes-in-your-instagram-network/"><u>[New] In 2024, Detecting Changes in Your Instagram Network</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smoothshot-stabilizing-technology-on-the-move/"><u>[New] In 2024, SmoothShot Stabilizing Technology on the Move</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-recording-companion-az-tests-and-alternatives/"><u>[New] In 2024, Ultimate Recording Companion - AZ Tests & Alternatives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-watch-ultra-vs-series-8-detailed-comparison-and-buying-advice-for-potential-owners/"><u>Apple Watch Ultra Vs. Series 8: Detailed Comparison & Buying Advice for Potential Owners</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-long-lasting-battery-laptops-of-the-year-zdnets-picks-for-ultraportable-computers-that-keep-up-with-your-lifestyle/"><u>Best Long-Lasting Battery Laptops of the Year - ZDNet's Picks for Ultraportable Computers That Keep Up with Your Lifestyle</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/broadcasting-brilliance-how-to-capture-compelling-sports-content/"><u>Broadcasting Brilliance How to Capture Compelling Sports Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact-for-2024/"><u>New Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/soluzione-rapida-al-problema-del-disco-di-stato-solido-non-rilevato-nel-bios/"><u>Soluzione Rapida Al Problema Del Disco Di Stato Solido Non Rilevato Nel BIOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-tech-showdown-how-the-ipad-airs-superior-performance-makes-me-rethink-my-ipad-pro-choice/"><u>The Ultimate Tech Showdown: How the iPad Air's Superior Performance Makes Me Rethink My iPad Pro Choice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-leading-microsoft-enterprise-solutions-for-ios-in-2n-expert-picks-by-zdnet/"><u>Top 10 Leading Microsoft Enterprise Solutions for iOS in 2N - Expert Picks by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-advanced-artificial-intelligence-innovations-required-for-iphones-to-match-androids-capabilities-insights/"><u>Top 4 Advanced Artificial Intelligence Innovations Required for iPhones to Match Android's Capabilities - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1727792261031-top-rated-tablet-computers-comprehensive-reviews-by-tech-experts/"><u>Top Rated Tablet Computers - Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-macos-software-of-2023-expert-reviews-and-picks/"><u>Top-Rated macOS Software of 2023 - Expert Reviews & Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-macs-inability-to-recognize-exterior-monitor/"><u>Troubleshooting Guide: Resolving Mac's Inability to Recognize Exterior Monitor</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-action-shooting-guide-choosing-cameras-as-a-novice-23-update/"><u>[New] Action Shooting Guide Choosing Cameras as a Novice '23 Update</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-efficiently-engaging-with-numerous-youtube-lectures/"><u>[New] In 2024, Efficiently Engaging with Numerous YouTube Lectures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-enabling-pip-for-youtube-viewing-on-your-iphone/"><u>2024 Approved Enabling PIP for YouTube Viewing on Your iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-revenue-driven-guide-to-designing-youtube-trailers/"><u>2024 Approved The Revenue-Driven Guide to Designing YouTube Trailers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-review-of-lenovo-thinkpad-x1n-by-zdnet-unleashing-power-in-an-arm-based-ultraportable-with-5g-and-exceptional-battery-duration/"><u>Exclusive Review of Lenovo ThinkPad X1n by ZDNET: Unleashing Power in an Arm-Based Ultraportable with 5G & Exceptional Battery Duration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-ai-with-claude-the-comprehensive-guide-on-its-functionality-and-advantages/"><u>Harnessing AI with Claude: The Comprehensive Guide on Its Functionality and Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-ensure-the-integrity-of-ios-ai-apps/"><u>How to Ensure the Integrity of iOS AI Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-troubleshoot-windows-movie-maker-mp4-video-import-and-editing-problems/"><u>How to Troubleshoot Windows Movie Maker MP4 Video Import and Editing Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-s18-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo S18 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-6-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 6</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-approach-integrating-chatgpt-into-your-3d-printing-processes/"><u>Innovative Approach: Integrating ChatGPT Into Your 3D Printing Processes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581435720-invest-in-yourself-lifetime-access-for-just-pennies/"><u>Invest in Yourself: Lifetime Access for Just Pennies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/investigating-ai-in-the-creation-of-malicious-software/"><u>Investigating AI in the Creation of Malicious Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-references-for-seamless-integration-into-custom-chatbot-experiences/"><u>Leveraging GPT References for Seamless Integration Into Custom Chatbot Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-household-outputs-a-sixfold-guide-to-leveraging-chatgpt/"><u>Maximize Household Outputs: A Sixfold Guide to Leveraging ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-integrating-chatgpt-into-your-excel-workflows/"><u>Maximizing Productivity: Integrating ChatGPT Into Your Excel Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsoft-integrates-artificial-intelligence-with-bing-discover-the-future-features/"><u>Microsoft Integrates Artificial Intelligence with Bing – Discover the Future Features</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

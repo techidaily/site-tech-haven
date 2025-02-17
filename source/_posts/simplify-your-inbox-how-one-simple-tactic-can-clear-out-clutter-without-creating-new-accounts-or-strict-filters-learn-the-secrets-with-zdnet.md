@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets with ZDNet"
-date: 2025-02-03T11:47:23.799Z
-updated: 2025-02-06T22:55:44.878Z
+date: 2025-02-13T20:32:47.081Z
+updated: 2025-02-16T16:50:37.521Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,16 +146,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-simplified-rss-feed-creation-methods-for-podcasters/"><u>[New] Simplified RSS Feed Creation Methods for Podcasters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/all-the-buzz-from-wwdc-today-dive-deeper-into-apples-world-of-enhancements-with-siri-upgrades-and-beyond-tech-insider/"><u>All the Buzz From WWDC Today: Dive Deeper Into Apple’s World of Enhancements with Siri Upgrades and Beyond | Tech Insider</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-tech-for-flawless-4k-recordings-for-2024/"><u>Cutting-Edge Tech for Flawless 4K Recordings for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-s17t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S17t – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/section-3a-understanding-material-properties-in-welding/"><u>Section 3A: Understanding Material Properties in Welding</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/664331-9781846946899-seventy-thousand-veils-the-miracle-of/"><u>Seventy Thousand Veils: The Miracle Of | Free Book</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/t7-kit-unveiled-next-gen-in-canon-dslr-technology/"><u>T7 Kit Unveiled: Next Gen in Canon DSLR Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-compelling-reason-im-staying-with-apple-watch-series-7-instead-of-switching-to-series-10-tech-analysis-on-zdnet/"><u>The Compelling Reason I'm Staying with Apple Watch Series 7 Instead of Switching to Series 10 | Tech Analysis on ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-upgrades-android-must-embrace-to-challenge-apples-ios-dominance-expert-analysis-from-zdnet-tech-news/"><u>Top 5 Upgrades Android Must Embrace to Challenge Apple's iOS Dominance - Expert Analysis From ZDNet (Tech News)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-my-decision-iphone-16-pro-triumphs-over-max-in-apples-latest-release-reviewed/"><u>Unveiling My Decision: IPhone 16 Pro Triumphs over Max in Apple’s Latest Release Reviewed</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-download-discord-videos-for-free-on-desktop-and-mobile/"><u>[Updated] 2024 Approved How to Download Discord Videos for Free on Desktop & Mobile?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-meme-mastery-top-ten-template-treasures/"><u>[Updated] 2024 Approved Meme Mastery Top Ten Template Treasures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-stop-automatic-video-recommendations-immediately/"><u>[Updated] Stop Automatic Video Recommendations Immediately</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-social-networks-roadmap-making-the-most-of-daily-use/"><u>2024 Approved The Social Network's Roadmap Making the Most of Daily Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-development-with-zero-cost-here-are-5-amazing-phi-variant-replacements-at-hand/"><u>Boost Your Development with Zero Cost: Here Are 5 Amazing Phi Variant Replacements at Hand</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-output-quality-large-scale-creation-via-canva-plus-chatgpt/"><u>Boosting Output Quality: Large-Scale Creation via Canva + ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charting-the-progress-from-gpt-1-to-gpt-4/"><u>Charting the Progress: From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbots-showdown-evaluating-chatgpt-bings-ai-and-googlenards-dominance/"><u>Chatbots Showdown: Evaluating ChatGPT, Bing's AI, and Google'nards Dominance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-role-in-streamlining-productivity-for-dynamic-workflow-management/"><u>ChatGPT and Its Role in Streamlining Productivity for Dynamic Workflow Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-to-overcome-isolation-and-solitude/"><u>ChatGPT as a Tool to Overcome Isolation and Solitude</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/copilot-or-copilot-pro-a-comprehensive-guide-to-making-the-right-choice-for-you/"><u>Copilot or Copilot Pro? A Comprehensive Guide to Making the Right Choice for You</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-security-outlook-discover-the-latest-trends-and-future-projections/"><u>Cyber Security Outlook: Discover the Latest Trends and Future Projections</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dialogue-to-discovery-using-chatgpt-for-views/"><u>Dialogue to Discovery: Using ChatGPT for Views</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/discover-the-leading-alternatives-to-chatgpt-the-ultimate-list/"><u>Discover the Leading Alternatives to ChatGPT - The Ultimate List</u></a></li>
+<li><a href="https://blog-min.techidaily.com/error-404-page-discovered-by-wonderfox-redirecting-you/"><u>Error 404: Page Discovered by WonderFox - Redirecting You</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-15-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 15 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-home-cinematic-wonders-fastest-tips-and-tricks/"><u>In 2024, Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-transition-to-win11-with-updated-hp-printer-drivers/"><u>Seamless Transition to Win11 with Updated HP Printer Drivers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-comprerante-guide-to-mastering-international-languages-tests/"><u>The Comprerante Guide to Mastering International Languages Tests</u></a></li>
 </ul></div>
 

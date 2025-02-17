@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2025-01-31T15:25:37.861Z
-updated: 2025-02-07T02:02:37.287Z
+date: 2025-02-14T20:17:07.675Z
+updated: 2025-02-16T18:56:30.924Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you've ever wondered how we evaluate the [latest smartphones](https://www.zdn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test phones in 2024
@@ -49,7 +49,7 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -63,7 +63,7 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -87,7 +87,7 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -99,7 +99,7 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Special features
@@ -148,18 +148,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/mile-and-watch-your-guide-to-the-top-15-funny-youtubers-for-2024/"><u>[New] Smile and Watch Your Guide to the Top 15 Funny YouTubers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-cut-screen-claims-is-splitcam-supreme/"><u>[Updated] In 2024, Cut Screen Claims Is SplitCam Supreme?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/audiopiece-recorder-guide-installation-and-test-for-2024/"><u>AudioPiece Recorder Guide Installation & Test for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/big-news-apple-developers-enhance-your-code-with-our-newly-upgraded-complimentary-ai-integration/"><u>Big News Apple Developers: Enhance Your Code with Our Newly Upgraded Complimentary AI Integration</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-samsung-galaxy-s23-ultra-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Samsung Galaxy S23 Ultra Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/corporate-guide-expert-analysis-of-microsoft-surface-pro-8-features-performance-and-pricing/"><u>Corporate Guide: Expert Analysis of Microsoft Surface Pro 8 - Features, Performance & Pricing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/elite-video-editing-tools-tailored-to-windows-platforms/"><u>Elite Video Editing Tools Tailored to Windows Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enabling-and-using-imessages-on-pc-a-step-by-step-tutorial/"><u>Enabling & Using iMessages on PC: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximize-views-with-these-top-rated-keyword-analysis-tools-for-2024/"><u>Maximize Views with These Top-Rated Keyword Analysis Tools for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-training-with-whoop-and-apple-watch-a-perfect-duo-for-competitive-athletes/"><u>Maximizing Training with Whoop and Apple Watch: A Perfect Duo for Competitive Athletes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/october-is-now-on-the-horizon-anticipated-arrival-of-apples-intelligent-systems-confirmed-by-insiders-gadgetworld/"><u>October Is Now on the Horizon: Anticipated Arrival of Apple’s Intelligent Systems Confirmed by Insiders - GadgetWorld</u></a></li>
-<li><a href="https://discover-data.techidaily.com/rapid-resolutions-overcoming-the-challenge-of-google-drive-not-syncing-with-your-mac/"><u>Rapid Resolutions - Overcoming the Challenge of Google Drive Not Syncing with Your Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-inner-fan-with-apple-sports-discover-the-ultimate-complimentary-experience-on-your-iphone-exclusively-featured/"><u>Unleash Your Inner Fan with Apple Sports: Discover the Ultimate Complimentary Experience on Your iPhone - Exclusively Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dont-trust-unverified-ai-services-spot-the-fakes/"><u>Don't Trust Unverified AI Services - Spot the Fakes!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-dsounddll-is-missing-issues/"><u>Effective Solutions for 'Dsound.dll Is Missing' Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-cooking-skills-with-chatgpt-top-7-uses-for-home-chefs/"><u>Elevate Your Cooking Skills with ChatGPT – Top 7 Uses for Home Chefs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embrace-confidential-communication-try-duckduckgos-ai-chat-for-safe-encounters-with-chatgpt-and-beyond/"><u>Embrace Confidential Communication - Try DuckDuckGo's AI Chat for Safe Encounters With ChatGPT and Beyond</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/emerging-leaders-the-best-advances-in-artificam-hardware-today/"><u>Emerging Leaders: The Best Advances in Artificam Hardware Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-secure-use-of-ai-like-chatgpt-in-therapy-and-counseling/"><u>Ensuring Secure Use of AI Like ChatGPT in Therapy and Counseling</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exposing-the-frauds-identify-these-warty-fake-chatgpt-virus-apps-before-they-endanger-your-information/"><u>Exposing the Frauds: Identify These Warty Fake ChatGPT Virus Apps Before They Endanger Your Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-unresponsive-files-downloads-in-windows-11-5/"><u>Fixing Unresponsive Files Downloads in Windows 11 (5)</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-interacting-with-a-blended-world-the-essence-of-mixed-reality/"><u>In 2024, Interacting with a Blended World The Essence of Mixed Reality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photopony-pro-exploring-affordable-filters/"><u>In 2024, PhotoPony Pro Exploring Affordable Filters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-pick-de-aplicativos-de-edicao-de-video-para-pc-windows-em-2024/"><u>Top Pick De Aplicativos De Edição De Video Para PC Windows Em 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-srt-systems-for-2024/"><u>Unlocking the Secrets of SRT Systems for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-windows-10-mastering-photo-and-video-importation/"><u>Unveiling Windows 10 Mastering Photo & Video Importation</u></a></li>
 </ul></div>
 

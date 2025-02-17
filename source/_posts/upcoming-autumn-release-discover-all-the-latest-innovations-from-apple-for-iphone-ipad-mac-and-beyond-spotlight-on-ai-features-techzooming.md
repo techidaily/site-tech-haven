@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Autumn Release: Discover All the Latest Innovations From Apple for iPhone, iPad, Mac, and Beyond - Spotlight on AI Features | TechZooming"
-date: 2025-02-04T02:39:35.895Z
-updated: 2025-02-07T01:24:25.700Z
+date: 2025-02-09T16:39:30.141Z
+updated: 2025-02-16T16:09:21.950Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -91,7 +87,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -108,10 +104,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +115,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,6 +128,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>[New] In 2024, Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/on-tripod-techniques-for-still-cameras/"><u>[New] Non-Tripod Techniques for Still Cameras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-artistic-zoomers-handbook-a-filters-journey/"><u>[Updated] The Artistic Zoomer's Handbook A Filters Journey</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-clear-focus-blurring-videos-on-teams/"><u>2024 Approved Achieving Clear Focus Blurring Videos on Teams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/an-insider-look-at-vegaspro-2019-for-2024/"><u>An Insider Look at VegasPro 2019 for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-ways-to-confirm-whether-you-are-being-monitored-by-apples-airtag-technology/"><u>Discover Ways to Confirm Whether You Are Being Monitored by Apple's AirTag Technology</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-6s-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 6s</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-enhanced-ar-with-apples-new-spatial-personalization-on-vision-pro-get-started-now/"><u>Experience Enhanced AR with Apple's New Spatial Personalization on Vision Pro - Get Started Now</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oneplus-nord-3-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/iastorasys-bluescreens-no-more-comprehensive-guide-to-fixing-your-pcs-critical-error/"><u>IaStora.sys Bluescreens No More! - Comprehensive Guide to Fixing Your PC's Critical Error</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/immediate-purchase-top-3-apples-devices-unveiled-at-wwdc-and-how-to-secure-your-order-today-learn-more-on-zdnet/"><u>Immediate Purchase: Top 3 Apples Devices Unveiled at WWDC and How to Secure Your Order Today - Learn More on ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-look-at-apples-latest-event-new-horizons-in-tablet-innovation-with-the-m4-ipad-pro-revamped-ipad-air-and-improved-apple-pencil-gadgetguru/"><u>Inside Look at Apple's Latest Event: New Horizons in Tablet Innovation with the M4 iPad Pro, Revamped iPad Air & Improved Apple Pencil | GadgetGuru</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preparing-for-macos-sonoma-version-144-essential-updates-and-fixes-covered-in-the-latest-patch-notes-guide/"><u>Preparing for MacOS Sonoma Version 14.4? Essential Updates and Fixes Covered in the Latest Patch Notes Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preserve-your-iphone-articles-pristine-appearance-with-these-three-must-have-accessories-insights/"><u>Preserve Your iPhone ([Article])'s Pristine Appearance with These Three Must-Have Accessories - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/section-pertant-for-structural-elucidation-of-complex-molecules/"><u>Section Pertant for Structural Elucidation of Complex Molecules.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simple-steps-for-setting-up-your-samsung-allshare-tv-remote-to-control-your-screen/"><u>Simple Steps for Setting Up Your Samsung AllShare TV Remote to Control Your Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-by-tech-experts-pcmag/"><u>Top-Rated Magsafe Wallets : Comprehensive Reviews by Tech Experts | PCMag</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-harness-online-tools-for-free-fb-video-conversion-to-1080p720p-mp4/"><u>[New] 2024 Approved Harness Online Tools for Free FB Video Conversion to 1080P/720p MP4</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-navigating-recordings-in-windows-11-a-compreayers-guide/"><u>[New] In 2024, Navigating Recordings in Windows 11 A Compreayer's Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-streamline-your-screens-youtube-video-resizing-tricks-for-2024/"><u>[New] Streamline Your Screens YouTube Video Resizing Tricks for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-easeus-reviewed-a-world-of-technology/"><u>[Updated] EaseUS Reviewed A World of Technology</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-strategizing-against-the-phantom-follower-phenomenon-for-2024/"><u>[Updated] Strategizing Against the Phantom Follower Phenomenon for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-christmas-movies-ever-top-10-family-friendly-selections/"><u>Best Christmas Movies Ever: Top 10 Family-Friendly Selections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-series-exceptional-5-slow-mo-tech/"><u>In 2024, Ultimate Series Exceptional 5 Slow Mo Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-stability-solve-frequent-blender-crash-issues-on-windows-and-mac/"><u>Master the Art of Stability: Solve Frequent Blender Crash Issues on Windows & Mac</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-perfecting-production-quality-utilizing-real-time-ducking-features-in-windows-adobe-premiere-pro-edition/"><u>New In 2024, Perfecting Production Quality Utilizing Real-Time Ducking Features in Windows Adobe Premiere Pro Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-11/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-imagination-into-visual-reality-with-microsofts-copilot-image-creator-tutorial/"><u>Transform Your Imagination Into Visual Reality with Microsoft's Copilot Image Creator Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-auto-gpt-vs-chatgpt-a-comparative-overview/"><u>Understanding Auto-GPT Vs. ChatGPT: A Comparative Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-on-android-a-users-handbook/"><u>Unleashing the Power of ChatGPT on Android: A User's Handbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-productivity-chatgpt-for-effective-time-utilization/"><u>Unlocking Productivity: ChatGPT for Effective Time Utilization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-smart-search-with-bings-ai-on-your-android-device-an-easy-guide/"><u>Unlocking Smart Search with Bing’s AI on Your Android Device: An Easy Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-hugging-face-exploring-its-purpose-and-applications/"><u>Unveiling the Power of Hugging Face: Exploring Its Purpose & Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-what-chatgpt-enterprise-has-to-offer-compared-to-standard-models/"><u>Unveiling What ChatGPT Enterprise Has to Offer Compared to Standard Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-chatgpt-for-emotional-support-and-reducing-isolation/"><u>Using ChatGPT for Emotional Support and Reducing Isolation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-cant-you-break-out-7-reasons-behind-the-security-fortitude-against-ai-jailbreaking/"><u>Why Can't You Break Out? 7 Reasons Behind the Security Fortitude Against AI Jailbreaking</u></a></li>
 </ul></div>
 

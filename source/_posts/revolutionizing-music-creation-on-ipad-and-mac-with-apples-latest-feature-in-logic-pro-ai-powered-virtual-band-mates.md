@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Music Creation on iPad & Mac with Apple's Latest Feature in Logic Pro: AI-Powered Virtual Band Mates"
-date: 2025-01-04T23:48:48.942Z
-updated: 2025-01-06T23:26:31.811Z
+date: 2025-02-10T16:07:41.032Z
+updated: 2025-02-17T01:19:03.126Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -35,10 +39,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -58,10 +58,6 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -92,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -107,6 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -118,10 +118,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -136,7 +132,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -154,6 +150,10 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -210,24 +210,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-kingdom-the-path-to-youtube-mastery/"><u>[New] 2024 Approved Crafting Kingdom The Path to YouTube Mastery</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-full-screen-fixes-for-online-streams/"><u>[New] In 2024, Full-Screen Fixes for Online Streams</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-perfecting-the-pulse-news-outro-techniques-for-2024/"><u>[Updated] Perfecting the Pulse News Outro Techniques for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-superior-window-calls-8-apps-ranked-1-8-for-2024/"><u>[Updated] Superior Window Calls 8 Apps Ranked #1-8 for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-ensuring-correct-ad-revenue-a-comprehensive-guide-to-yt-channel-earnings/"><u>2024 Approved Ensuring Correct Ad Revenue A Comprehensive Guide to YT Channel Earnings</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-organization-utilizing-chatgpt-for-effective-timing/"><u>Elevate Your Organization: Utilizing ChatGPT for Effective Timing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elon-musk-showcases-grok-artificial-intelligence-what-it-can-do-and-its-market-price/"><u>Elon Musk Showcases Grok Artificial Intelligence - What It Can Do and Its Market Price?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-smartphone-interaction-with-chatgpt/"><u>Enhancing Smartphone Interaction with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-5-unveiled-essential-advances-to-keep-an-eye-on/"><u>GPT-5 Unveiled: Essential Advances to Keep an Eye On</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-iphone-cinematography-top-8-tips-for-professional-video-shooting/"><u>Master iPhone Cinematography Top 8 Tips for Professional Video Shooting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prime-digital-marketplaces-for-ai-creativity/"><u>Prime Digital Marketplaces for AI Creativity</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-identity-balancing-personalization-and-privacy/"><u>Protecting Identity: Balancing Personalization and Privacy</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209842283-9781911134008-quareia-the-apprentice/"><u>Quareia The Apprentice | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/script-creation-made-easy-how-chatgpt-revolutionizes-video-game-storytelling/"><u>Script Creation Made Easy: How ChatGPT Revolutionizes Video Game Storytelling</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-incorporating-b-roll-in-video-production/"><u>The Art of Incorporating B Roll in Video Production</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-digital-landscapes-with-openais-groundbreaking-release-of-the-powerful-gpt-gpt-4-model/"><u>Transforming Digital Landscapes with OpenAI's Groundbreaking Release of the Powerful GPT-GPT-4 Model</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-for-writing-an-impressive-cover-letter-a-comprehensive-guide/"><u>Utilizing ChatGPT for Writing an Impressive Cover Letter: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-fun-downloading-fb-status-video/"><u>[New] 2024 Approved Maximizing Fun Downloading FB Status Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-panoramic-insights-digest/"><u>[New] Panoramic Insights Digest</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-respecting-copyrights-when-converting-youtube-to-mp4/"><u>[Updated] Respecting Copyrights When Converting YouTube to MP4</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/final-cut-pro-masterclass-top-10-plugin-guide/"><u>Final Cut Pro Masterclass Top 10 Plugin Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-explained-revolutionizing-innovation-in-tech/"><u>Generative AI Explained: Revolutionizing Innovation in Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-can-i-use-chatgpt-for-my-smart-home-automation/"><u>How Can I Use ChatGPT For My Smart Home Automation?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-transfer-learning-power-up-ai-unveiling-the-intricacies/"><u>How Does Transfer Learning Power Up AI? Unveiling the Intricacies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-convert-vob-files-to-mp4-on-windows-nx-for-free-best-tools-reviewed/"><u>How to Convert VOB Files to MP4 on Windows nX for Free – Best Tools Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-to-develop-emotional-intelligence/"><u>How to Use ChatGPT to Develop Emotional Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/impatient-for-chatgpt-as-a-desktop-app-heres-an-exceptional-open-source-solution-to-tide-you-over/"><u>Impatient for ChatGPT as a Desktop App? Here’s an Exceptional Open-Source Solution to Tide You Over!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ai-strategies-vital-gadgets-for-todays-business-magnates/"><u>Innovative AI Strategies: Vital Gadgets for Today's Business Magnates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-hackers-to-utilize-chatgpt-for-breaching-financial-and-personal-security-systems/"><u>Is It Possible for Hackers to Utilize ChatGPT for Breaching Financial and Personal Security Systems?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-improved-3d-model-creation-and-printing-techniques/"><u>Leveraging ChatGPT for Improved 3D Model Creation and Printing Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mov-video-rotation-software-top-picks/"><u>New 2024 Approved Free MOV Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-m4a-to-wav-file-conversion-get-started-with-movavis-free-service-now/"><u>Quick and Easy M4A to WAV File Conversion - Get Started With Movavi's Free Service Now!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-7-online-audio-cutters-for-efficient-and-hassle-free-file-management/"><u>Updated In 2024, Top 7 Online Audio Cutters for Efficient and Hassle-Free File Management</u></a></li>
 </ul></div>
 

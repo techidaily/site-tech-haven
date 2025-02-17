@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Get the New Apple Pencil (2Nd Generation) at a Steep Discount - Only $95 This Labor Day! Shop Now on ZDNet"
-date: 2025-01-04T20:52:36.161Z
-updated: 2025-01-07T04:09:09.188Z
+date: 2025-02-12T19:29:43.852Z
+updated: 2025-02-16T23:30:54.711Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,18 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-spice-up-your-videos-7-premium-royalty-free-audio-clips/"><u>[New] 2024 Approved Spice Up Your Videos 7 Premium, Royalty-Free Audio Clips</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-spotlight-10-anonymous-story-gazers/"><u>[Updated] 2024 Approved Spotlight 10 Anonymous Story Gazers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-techniques-for-enhancing-game-stream-videos-with-ai-portrait-technology-for-2024/"><u>[Updated] Techniques for Enhancing Game Stream Videos with AI Portrait Technology for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/climb-the-linguistic-ladder-for-workplace-success/"><u>Climb the Linguistic Ladder for Workplace Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-visual-journey-capturing-videos-for-2024/"><u>Facebook's Visual Journey Capturing Videos for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-vlc-media-player-for-midi-file-playback/"><u>How to Use VLC Media Player for MIDI File Playback</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-on-the-legality-of-duplicating-dvd-content-a-full-breakdown/"><u>In-Depth Analysis on the Legality of Duplicating DVD Content: A Full Breakdown</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/installing-the-blink-addon-for-seamless-viewing-a-users-manual-with-matrix-support-on-kodi/"><u>Installing the Blink Addon for Seamless Viewing - A User's Manual with Matrix Support on Kodi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-2-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 2 Phone FRP Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-openwizard-integration-with-kodi-top-tips-for-flawless-operation-efficient-backups-and-streamlined-maintenance/"><u>Mastering OpenWizard Integration with Kodi: Top Tips for Flawless Operation, Efficient Backups & Streamlined Maintenance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-video-compression-essential-techniques-and-methods-explained/"><u>Mastering Video Compression: Essential Techniques and Methods Explained</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tips-and-tricks-how-to-choose-a-winner-amongst-360-degree-cameras-for-2024/"><u>Tips & Tricks How to Choose a Winner Amongst 360-Degree Cameras for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-easy-steps-for-correcting-your-tiktok-profile-age/"><u>[Updated] In 2024, Easy Steps for Correcting Your TikTok Profile Age</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-experts-guide-to-infinite-space-utilization/"><u>[Updated] In 2024, Expert's Guide to Infinite Space Utilization</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-memes-edit-master/"><u>[Updated] Ultimate Memes Edit Master</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-10-zero-cost-video-collaboration-platforms-for-enterprises-and-education/"><u>2024 Approved Best 10 Zero-Cost Video Collaboration Platforms For Enterprises & Education</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-performance-at-a-glance-top-4k-laptops/"><u>2024 Approved Best Performance at a Glance - Top 4K Laptops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-5-email-security-solutions-to-protect-your-privacy/"><u>Discover the Leading 5 Email Security Solutions to Protect Your Privacy</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/essential-guide-transacting-with-digital-coins-a-deep-dive-by-yl-computing/"><u>Essential Guide: Transacting with Digital Coins - A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/is-your-computers-memory-failing-learn-how-to-test-ram-for-defects-with-tips-from-yl-software-experts/"><u>Is Your Computer's Memory Failing? Learn How to Test RAM for Defects with Tips From YL Software Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-on-leveraging-google-maps-live-view-feature/"><u>The Complete Walkthrough on Leveraging Google Maps' Live View Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-smartphone-browsing-with-bings-ai-enhancements-to-search-now-on-both-app-and-web-platforms/"><u>Transform Your Smartphone Browsing with Bing's AI Enhancements to Search - Now on Both App and Web Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformative-sheet-experience-via-ai-tech-chatgpt/"><u>Transformative Sheet Experience via AI Tech (ChatGPT)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/twitters-emoji-ban-linuss-leaks-trojan-insight-and-chatgpt-shortcomings-highlighted/"><u>Twitters Emoji Ban, Linus's Leaks, Trojan Insight, & ChatGPT Shortcomings Highlighted</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-key-distinctions-between-ai-models/"><u>Understanding Key Distinctions Between AI Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-concerns-is-it-safe-to-download-chatgpt-on-a-mac/"><u>Understanding the Concerns: Is It Safe to Download ChatGPT on a Mac?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-ai-with-these-7-prompt-optimization-secrets/"><u>Unlock the Power of AI with These 7 Prompt Optimization Secrets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2025-02-02T00:12:53.965Z
-updated: 2025-02-07T00:47:06.582Z
+date: 2025-02-12T01:48:15.707Z
+updated: 2025-02-16T20:39:44.028Z
 tags:
   - apple
 categories:
@@ -28,13 +28,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -67,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -85,10 +85,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -119,6 +115,10 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
@@ -133,6 +133,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -142,7 +146,7 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
@@ -158,10 +162,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,19 +197,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-finest-8-platforms-for-sharing-3d-text-psd-files-for-2024/"><u>[New] The Finest 8 Platforms for Sharing 3D Text PSD Files for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/20month-subscription-could-it-unlock-the-true-potential-of-your-apple-device-experts-weigh-in-insights-from-zdnet/"><u>$20/Month Subscription: Could It Unlock the True Potential of Your Apple Device? Experts Weigh In - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-watch-showdown-series-10-vs-series-8-which-is-better-zdnet/"><u>Apple Watch Showdown: Series 10 Vs. Series 8 – Which Is Better? | ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/data-synchronization-merging-in-win1011-systems/"><u>Data Synchronization: Merging in WIN10/11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722979058917-easy-access-to-newest-amd-radeon-rx-480-graphic-driver-releases/"><u>Easy Access to Newest AMD Radeon RX 480 Graphic Driver Releases.</u></a></li>
-<li><a href="https://article-tips.techidaily.com/effortless-approach-perfecting-time-lapses-using-samsungs/"><u>Effortless Approach Perfecting Time-Lapses Using Samsungs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-future-of-iphone-intelligence-with-ios-amos-latest-ai-updates-and-what-to-expect-next/"><u>Explore the Future of iPhone Intelligence with iOS Amo's Latest AI Updates & What to Expect Next!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apple-enhances-its-mac-line-up-with-cutting-edge-m4-chips-complete-with-onboard-artificnial-intelligence-anticipated-launch-dates-revealed/"><u>How Apple Enhances Its Mac Line-Up with Cutting-Edge M4 Chips, Complete with Onboard Artificnial Intelligence - Anticipated Launch Dates Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pocketsized-skies-budget-large-data-haven/"><u>PocketSized Skies - Budget Large Data Haven</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/shop-the-latest-mac-ipad-and-iphone-unveiled-at-wwdc-availability-and-preorders-explained-zdnet/"><u>Shop the Latest Mac, iPad & iPhone Unveiled at WWDC: Availability and Preorders Explained - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-steps-to-ensure-seamless-integration-of-your-logitech-mouse/"><u>Simple Steps to Ensure Seamless Integration of Your Logitech Mouse</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solution-for-non-detectable-usb-devices-on-a-windows-10-system/"><u>Solution for Non-Detectable USB Devices on a Windows 10 System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-july-2024-exclusive-offers-curated-by-zdnet/"><u>Top 11 Unbeatable Discounts on Apple Watches in July 2024 - Exclusive Offers Curated by ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723004973688-untangling-the-problems-in-call-of-duty-wwii-decoding-error-4128/"><u>Untangling the Problems in Call of Duty: WWII - Decoding Error 4128!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-begin-recording-webcam-via-vlc/"><u>[New] In 2024, Begin Recording Webcam via VLC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-propagate-your-content-with-vimeo-links/"><u>[Updated] 2024 Approved Propagate Your Content with Vimeo Links</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-online-locations-free-quality-alarm-songs/"><u>[Updated] Optimal Online Locations Free, Quality Alarm Songs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-gravar-aperfeicoando-a-qualidade-sonora-melhores-ferramentas-de-computador-para-2024-insights-pelo-movavi/"><u>Como Gravar Aperfeiçoando a Qualidade Sonora: Melhores Ferramentas De Computador Para 2024 – Insights Pelo Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-secure-conversations-with-duckduckgo-ai-chat-your-gateway-to-privacy-first-chatgpt-interactions/"><u>Discover Secure Conversations with DuckDuckGo AI Chat: Your Gateway to Privacy-First ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-7-ai-coding-assistants-effective-replacements-for-chatgpt/"><u>Discover the Best 7 AI Coding Assistants: Effective Replacements for ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-ai-checker-apps-to-authenticate-student-writings-and-reports/"><u>Discover the Leading AI Checker Apps to Authenticate Student Writings & Reports</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-overcome-chatgpt-saving-conversation-glitches/"><u>Effective Strategies to Overcome ChatGPT Saving Conversation Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-overwatch-competitive-edge-meets-team-tactics-in-shooter-gaming/"><u>Expert Review of Overwatch: Competitive Edge Meets Team Tactics in Shooter Gaming.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-humor-capabilities-in-artificial-intelligence-plus-an-insight-into-the-evolution-of-laptops-and-advancements-in-virtual-private-network-technology22/"><u>Exploring Humor Capabilities in Artificial Intelligence + An Insight Into the Evolution of Laptops & Advancements in Virtual Private Network Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-novice-to-expert-transitioning-into-the-dynamic-field-of-conversational-ai-development/"><u>From Novice to Expert: Transitioning Into the Dynamic Field of Conversational AI Development</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-release-of-la-noire-confirmed-overcoming-launch-hurdles-successfully/"><u>PC Release of L.A. Noire Confirmed: Overcoming Launch Hurdles Successfully</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-operations-bluetooth-drivers-on-windows/"><u>Smooth Operations: Bluetooth Drivers on Windows</u></a></li>
 </ul></div>
 

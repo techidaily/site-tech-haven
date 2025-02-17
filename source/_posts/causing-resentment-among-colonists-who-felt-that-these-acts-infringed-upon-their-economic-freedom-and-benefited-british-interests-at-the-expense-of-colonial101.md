@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2024-12-31T01:00:33.664Z
-updated: 2025-01-06T21:21:00.190Z
+date: 2025-02-13T19:41:17.083Z
+updated: 2025-02-17T00:44:05.199Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -91,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +113,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -133,10 +137,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -154,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,20 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-instruction-on-downloading-installing-and-using-ez-grabber-for-2024/"><u>[New] Step-by-Step Instruction on Downloading, Installing & Using EZ Grabber for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dissecting-mr-beasts-fortune-portfolio/"><u>[Updated] In 2024, Dissecting Mr. Beast's Fortune Portfolio</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-pioneering-tech-in-vr-content-creation/"><u>[Updated] In 2024, Pioneering Tech in VR Content Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fastway-apeflac/"><u>「劣化しないFASTWAY: APEをFLAC形式に素早く変換するスチューディオガイド」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/flashhtml5/"><u>「FlashファイルをHTML5に効率良く変換する方法」</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-elite-collection-top-10-sites-for-professional-icons/"><u>2024 Approved The Elite Collection Top 10 Sites for Professional Icons</u></a></li>
-<li><a href="https://common-error.techidaily.com/combat-your-desktops-snooze-mode-troubleshoot-and-prevent-involuntary-shutdowns/"><u>Combat Your Desktop's Snooze Mode: Troubleshoot and Prevent Involuntary Shutdowns</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/convert-your-m4v-files-to-dvd-format-for-playback/"><u>Convert Your M4V Files to DVD Format for Playback</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-detritus-recovering-photos-from-camera/"><u>Digital Detritus: Recovering Photos From Camera</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-the-latest-xrecorder-software-for-windows-users-compatible-with-win11-win10-win81-win8-and-win7/"><u>Download the Latest XRecorder Software for Windows Users: Compatible with Win11, Win10, Win8.1, Win8 & Win7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-compatibility-a-guide-to-making-your-videos-work-on-all-nokia-smartphones/"><u>Ensuring Compatibility: A Guide to Making Your Videos Work on All Nokia Smartphones</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-pioneer-bdr-xs06-a-comprehensive-guide-to-its-mobility-and-functionality/"><u>Evaluating the Pioneer BDR-XS06: A Comprehensive Guide to Its Mobility and Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-to-capturing-your-3ds-gaming-experience-techniques-with-and-without-a-capture-card/"><u>Guide to Capturing Your 3DS Gaming Experience: Techniques with and without a Capture Card</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/handbrake/"><u>HandBrakeで動画字幕統合＆保存手順：詳しいガイドと設定方法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-time-through-pages-a-comprehensive-way-to-utilize-the-wayback-machine/"><u>Navigating Time Through Pages: A Comprehensive Way to Utilize the Wayback Machine</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-skillfully-secure-and-save-gif-images-from-facebooks-domain/"><u>[Updated] How To Skillfully Secure and Save GIF Images From Facebook's Domain</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-winning-at-movie-watching-leading-windows-phone-apps/"><u>[Updated] In 2024, Winning at Movie Watching Leading Windows Phone Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-spotting-instagrams-newly-deactivated-accounts-for-2024/"><u>[Updated] Spotting Instagram's Newly Deactivated Accounts for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/creating-interactive-digital-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Creating Interactive Digital Flipbooks with FlipBuilder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciding-on-a-roku-streamer-what-sets-the-roku-express-apart-from-the-original-stick-model/"><u>Deciding on a Roku Streamer: What Sets the Roku Express Apart From the Original Stick Model?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-vivo-g2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo G2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-facebooks-image-search-feature-like-a-pro/"><u>Navigating Facebook's Image Search Feature Like a Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/privacy-protocols-in-ai-dialogues/"><u>Privacy Protocols in AI Dialogues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prompt-crafting-the-workforce-behind-ais-responsiveness/"><u>Prompt Crafting: The Workforce Behind AI's Responsiveness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scriptwriting-made-simple-boost-your-youtube-videos-with-chatgpt-insights/"><u>Scriptwriting Made Simple: Boost Your YouTube Videos with ChatGPT Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-youtube-to-mp4-converter-change-your-video-extensions-instantly-online/"><u>Seamless YouTube-to-MP4 Converter: Change Your Video Extensions Instantly Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/side-by-side-comparison-how-myai-outperforms-bing-chat-across-8-crucial-aspects-in-social-media-platforms/"><u>Side-by-Side Comparison: How MyAI Outperforms Bing Chat Across 8 Crucial Aspects in Social Media Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-6-revolutionary-traits-of-snapchats-my-ai/"><u>The 6 Revolutionary Traits of Snapchat's My AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-conundrum-of-ensuring-harmonious-human-ai-objectives-an-insight/"><u>The Conundrum of Ensuring Harmonious Human-AI Objectives: An Insight</u></a></li>
 </ul></div>
 

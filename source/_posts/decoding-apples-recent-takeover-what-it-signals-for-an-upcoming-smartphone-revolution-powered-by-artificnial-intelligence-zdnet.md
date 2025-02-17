@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2025-02-02T12:29:28.472Z
-updated: 2025-02-07T11:09:37.219Z
+date: 2025-02-09T16:54:36.230Z
+updated: 2025-02-17T00:28:42.550Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Apple Intelligence?
 
 Apple
@@ -37,7 +41,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -76,7 +80,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -91,10 +95,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -108,7 +108,7 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -136,7 +136,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -210,14 +210,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-insight-downloading-audio-on-apple-gadgets/"><u>2024 Approved Expert's Insight Downloading Audio on Apple Gadgets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/break-away-from-conventional-thinking-with-ai-innovation-strategies-insights-by-a-leading-ai-expert/"><u>Break Away From Conventional Thinking with AI Innovation Strategies - Insights by a Leading AI Expert</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/breaking-down-the-specs-and-quality-of-docoolers-12mp-usb-20-photographic-device-overhyped-or-underrated/"><u>Breaking Down the Specs and Quality of Docooler's 12Mp USB 2.0 Photographic Device: Overhyped or Underrated?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/breathing-new-life-into-zombie-games-a-comprehensive-7-days-to-live-review-on-fun-and-innovation/"><u>Breathing New Life Into Zombie Games: A Comprehensive 7 Days to Live Review on Fun and Innovation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cutting-edge-tech-released-the-new-stylish-magsafe-power-bank-that-charges-faster-than-ever-before-discover-the-innovation-on-gizmodaily/"><u>Cutting-Edge Tech Released: The New, Stylish MagSafe Power Bank That Charges Faster Than Ever Before - Discover the Innovation on GizmoDaily!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-16-is-it-worth-the-upgrade-insights-from-zdnet-experts-on-pros-and-cons/"><u>IPhone 16: Is It Worth the Upgrade? Insights From ZDNet Experts on Pros & Cons</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-laptop-picks-from-ces-2024-featured-on-zdnet/"><u>Top-Rated Laptop Picks From CES 2024 - Featured on ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-covert-connectedness-do-you-own-a-mac-or-ipad-with-integrated-home-automation-radio/"><u>Unveiling the Covert Connectedness: Do You Own a Mac or iPad with Integrated Home Automation Radio?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnet-offers-complete-resource-for-your-apple-products-easy-access-to-manuals-specs-and-fix-it-guides/"><u>ZDNet Offers Complete Resource for Your Apple Products – Easy Access to Manuals, Specs and Fix-It Guides!</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-the-world-of-youtube-product-endorsements/"><u>[Updated] Navigating the World of YouTube Product Endorsements</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-simplified-techniques-for-high-quality-webcam-videos-for-2024/"><u>[Updated] Simplified Techniques for High-Quality Webcam Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-smooth-cinematography-premium-stabilizer-recommendations-for-2024/"><u>[Updated] Smooth Cinematography Premium Stabilizer Recommendations for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/5-essential-browser-recording-apps-unveiled-for-2024/"><u>5 Essential Browser Recording Apps Unveiled for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-xiaomi-redmi-note-12t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/julys-top-picks-8-free-software-solutions-to-update-your-drivers/"><u>July's Top Picks: 8 Free Software Solutions to Update Your Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028018485-line-music/"><u>LINE MUSICでの高品質オーディオダウンロード手順：専門ガイド</u></a></li>
+<li><a href="https://win-hot.techidaily.com/recognizing-signs-of-hardware-malfunction-on-your-windows-pc-a-guide-by-yl-computing/"><u>Recognizing Signs of Hardware Malfunction on Your Windows PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-content-creation-in-volume-a-detailed-guide-to-using-canva-plus-gpt-3-tools/"><u>Streamlining Content Creation in Volume: A Detailed Guide to Using Canva + GPT-3 Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tackling-chatgpts-compliance-concerns-google-news-modifications-and-achieving-optimal-mobile-internet-performance-on-leisure-trips/"><u>Tackling ChatGPT's Compliance Concerns, Google News Modifications & Achieving Optimal Mobile Internet Performance on Leisure Trips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essentials-of-using-nvidias-ai-foundations-in-tailored-generative-ai-applications-and-user-qualifications/"><u>The Essentials of Using NVIDIA's AI Foundations in Tailored Generative AI Applications and User Qualifications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hacking-art-of-romantic-ruses/"><u>The Hacking Art of Romantic Ruses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-legalities-of-cutting-staff-based-on-chatgpt-implementation/"><u>The Legalities of Cutting Staff Based on ChatGPT Implementation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-strategies-leveraging-chatgpt-in-your-web-development-process/"><u>Top 4 Strategies: Leveraging ChatGPT in Your Web Development Process</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-uses-of-chatgpts-advanced-coding-capabilities/"><u>Top 6 Uses of ChatGPT’s Advanced Coding Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-the-10-highest-ranking-crypto-questions-for-chatgpt/"><u>Ultimate List: The 10 Highest-Ranking Crypto Questions for ChatGPT</u></a></li>
 </ul></div>
 

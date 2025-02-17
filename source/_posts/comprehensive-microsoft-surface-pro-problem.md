@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Microsoft Surface Pro # Problem
-date: 2025-01-02T18:11:00.424Z
-updated: 2025-01-06T22:28:31.509Z
+date: 2025-02-11T17:35:56.699Z
+updated: 2025-02-16T21:02:13.277Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -74,10 +74,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -93,6 +89,10 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -125,10 +125,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -151,6 +147,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -164,13 +164,13 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -210,20 +210,16 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-luminous-leap-quick-brightening-tricks-for-iphone-recordings/"><u>[New] Luminous Leap Quick Brightening Tricks for iPhone Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-screen-recording-app-for-no-popups/"><u>[Updated] 2024 Approved Elite Screen Recording App for No Popups</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-fitness-frontiers-unveiling-premier-virtual-reality-walkers/"><u>[Updated] In 2024, Fitness Frontiers Unveiling Premier Virtual Reality Walkers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-detailed-tutorial-implementing-custom-lut-filters-in-obs-productions/"><u>2024 Approved Detailed Tutorial Implementing Custom LUT Filters in OBS Productions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-proven-winners-the-top-5-tools-for-video-conference-recording/"><u>2024 Approved Proven Winners The Top 5 Tools for Video Conference Recording</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>2024 Approved Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-the-latest-your-next-apple-phone-choice-post-iphone-13-and-15-pro-discontinuation-insights/"><u>Beyond the Latest: Your Next Apple Phone Choice Post-iPhone 13 & 15 Pro Discontinuation - Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-premier-microsoft-enterprise-mobile-applications-a-comprehensive-guide-to-the-top-10-picks-for-iphones-and-ipads-biztech-insights/"><u>Discover the Premier Microsoft Enterprise Mobile Applications: A Comprehensive Guide to the Top 10 Picks for iPhones and iPads | BizTech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exclusive-spotlight-on-top-smartphone-picks-from-zdnets-tech-team-experts/"><u>Exclusive Spotlight on Top Smartphone Picks From ZDNet's Tech Team Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-to-customizing-individual-website-access-in-safari-extensions-a-detailed-walkthrough/"><u>Guide to Customizing Individual Website Access in Safari Extensions: A Detailed Walkthrough</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-magic-6-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor Magic 6 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pros-and-cons-of-switching-to-iphone-16-insights-from-leading-tech-experts-at-zdnet/"><u>Pros and Cons of Switching to iPhone 16: Insights From Leading Tech Experts at ZDNet</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/sourav-joshis-guide-to-youtube-earning-power-by-2024/"><u>Sourav Joshi’s Guide to YouTube Earning Power by 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-essential-upgrades-for-android-how-it-can-surpass-ios-as-the-premier-os-techinsight/"><u>Top 5 Essential Upgrades for Android: How It Can Surpass iOS as the Premier OS | TechInsight</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-audiovisual-alchemy-infusing-your-vimeo-clips-with-soundtracks/"><u>[New] In 2024, Audiovisual Alchemy Infusing Your Vimeo Clips with Soundtracks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-and-restore-vanished-desktop-icons-in-windows-10-with-easy-tricks/"><u>Fix and Restore Vanished Desktop Icons in Windows 10 with Easy Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-reno-11-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Reno 11 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-12-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 12 Pro Making It Possible</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intuitive-interaction-on-the-road-mercedes-benz-ai-advance/"><u>Intuitive Interaction on the Road: Mercedes-Benz AI Advance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/launching-liberated-chatgpt-on-windows/"><u>Launching Liberated ChatGPT on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/llamas-vs-ai-giants-comparing-llama-3-and-gpt-4-effectiveness/"><u>Llamas Vs. AI Giants: Comparing Llama 3 and GPT-4 Effectiveness</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maintaining-information-security-while-leveraging-chatgpt-in-the-workplace/"><u>Maintaining Information Security While Leveraging ChatGPT in the Workplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-automated-code-through-non-chatgpt-applications/"><u>Mastering Automated Code Through Non-ChatGPT Applications</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-mts-video-editors-top-picks-for-2024/"><u>New Best MTS Video Editors Top Picks for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-art-of-overcoming-adversity-in-2009-achieving-contentment-through-massmail-applications/"><u>The Art of Overcoming Adversity in 2009: Achieving Contentment Through MassMail Applications</u></a></li>
 </ul></div>
 

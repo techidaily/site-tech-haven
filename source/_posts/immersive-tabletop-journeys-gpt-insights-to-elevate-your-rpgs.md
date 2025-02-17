@@ -1,7 +1,7 @@
 ---
 title: "Immersive Tabletop Journeys: GPT Insights to Elevate Your RPGs"
-date: 2024-08-16T10:20:12.334Z
-updated: 2024-08-17T10:20:12.334Z
+date: 2025-02-11T16:13:16.545Z
+updated: 2025-02-16T18:36:26.990Z
 tags:
   - chatgpt
   - open-ai
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
  OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an[OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -41,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Browse the Web
 
 That's not all, though.
@@ -53,14 +55,12 @@ That's not all, though.
 
  For example, I asked ChatGPT: "Who is the current leader of the F1 World Championship?"
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
@@ -78,13 +78,18 @@ Close
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select**Settings**
@@ -95,9 +100,6 @@ Close
 
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT Is Finally Connected to the Internet
 
  Internet-connected ChatGPT is finally here. Although the Web Browsing and Plugins are limited to ChatGPT Plus currently, it won't be long until regular ChatGPT users can gain access to internet-powered generative AI.
@@ -106,14 +108,11 @@ Close
 
  The generative AI wars are truly underway, and the rapid development will bring tools to the consumer faster than ever. The only question is whether humans can keep up.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-apples-role-in-simplifying-educational-audio-archives/"><u>[New] In 2024, Apple's Role in Simplifying Educational Audio Archives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-five-superior-timelapse-filmmakers/"><u>[Updated] Five Superior Timelapse Filmmakers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-instantaneous-identification-in-the-social-media-jungle-for-2024/"><u>[Updated] Instantaneous Identification in the Social Media Jungle for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-ai-powered-creativity-and-industry-applications/"><u>A Deep Dive Into AI-Powered Creativity & Industry Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-crypto-research-top-10-expert-approved-chatgpt-prompts-for-insightful-conversations/"><u>Ace Your Crypto Research: Top 10 Expert-Approved ChatGPT Prompts for Insightful Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/art-of-chocolate-chips-quantity-queries-answered/"><u>Art of Chocolate Chips: Quantity Queries Answered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-productivity-with-chatgpt-5-overlooked-features-to-explore-now/"><u>Boost Productivity with ChatGPT: 5 Overlooked Features to Explore Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-empathy-skills-a-guide-on-enhancing-eq-with-chatgpt/"><u>Boosting Your Empathy Skills: A Guide on Enhancing EQ with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-ai-revolutionize-mental-health-support-for-the-better-or-is-it-a-step-towards-deterioration/"><u>Can AI Revolutionize Mental Health Support for the Better, or Is It a Step Towards Deterioration?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tching-dreadful-green-screen-distortion-on-mac-editing-sessions-for-2024/"><u>Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721776654687-how-does-claude-ai-transform-your-tech-experience-learn-now/"><u>How Does Claude AI Transform Your Tech Experience? Learn Now!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-how-to-download-arduino-mega-2560-driver-get-started-fast/"><u>Quick Guide: How to Download Arduino Mega 2560 Driver - Get Started Fast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-right-click-malfunctions-in-windows-11-a-step-by-step-guide/"><u>Resolving Mouse Right-Click Malfunctions in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/startup-guide-for-windows-11s-immediate-help-tool/"><u>Startup Guide for Windows 11'S Immediate Help Tool</u></a></li>
+</ul></div>
 

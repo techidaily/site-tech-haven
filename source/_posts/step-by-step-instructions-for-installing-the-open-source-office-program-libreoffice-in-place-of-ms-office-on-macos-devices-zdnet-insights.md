@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Installing the Open Source Office Program, LibreOffice, in Place of MS Office on macOS Devices | ZDNET Insights
-date: 2025-02-01T02:30:23.771Z
-updated: 2025-02-06T23:04:08.231Z
+date: 2025-02-11T19:34:04.954Z
+updated: 2025-02-16T19:27:28.629Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ That's why ZDNET is here to cut through the noise. Here's our one-stop guide for
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A screen protector
@@ -47,10 +47,6 @@ It fits onto your screen tightly with an EZ Apply Tray to simplify application, 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BFBTBBHR%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1611728030&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6518316%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6518316.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1) 
 
 [Best iPad screen protector for a paper-like feel Paperlike 2.1 iPad Screen Protector The Paperlike screen protector transforms your screen to feel like a piece of paper and mimics a more realistic writing, drawing, and sketching experience. It's made of tempered glass with a smooth, scratch-resistant surface and reinforced edges for better longevity. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS86VV9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best privacy iPad screen protector Sahara iPad ZeroDamage UltraStrong+ Tempered Glass Screen Protector You'll also be assured that whatever you're watching, working on, or browsing stays unseen by passerbys thanks to the Sahara's privacy screen, which blocks the view of any person trying to view your screen, whether to the left or right of you, within a 38-degree angle. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BNCGQJ18%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A basic case
 
@@ -72,6 +68,10 @@ What's even better is that Zugu offers a [one-time AppleCare+ repair fee](https:
 
 [Best standard iPad case Casetify Impact Case The Casetify Impact Case combines style and function. It features Casetify's EcoShock technology and enhanced protective corners for extra security, and is drop-rated up to 4ft. Along with a secure exterior, the Impact case features Apple Pencil charging for easy stylus integration. View at Casetify](https://casetify.hyyc7q.net/c/159047/228232/3937?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.casetify.com%2Fproduct%2FhISQZ%5Fgroovy-pattern%2Fipad-air-109-2020%2Fipad-ultra-impact-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best iPad case from Apple Apple Smart Folio Case It's hard to beat a case coming straight from the manufacturer. When you choose the Apple-designed Smart Folio for your iPad, you're not just guaranteed a perfect fit. You also get functionality that can make it easier to both protect and use your tablet, like the ability to charge your Apple Pencil with the case on. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-smart-folio-for-ipad-10th-generation-sky%2F6340395.p%3F&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A keyboard case
 
 If you're using your iPad for work, school, or other activities that would benefit from a keyboard, I highly recommend adding a [reliable keyboard case](https://www.zdnet.com/article/best-ipad-keyboard-case/) to your collection of iPad accessories. Keyboards can quickly upgrade your iPad from tablet to laptop, often giving you more bang for your buck, and are available for nearly every model iPad, including the [iPad Pro](https://www.zdnet.com/article/best-ipad-pro-keyboard-case/) and iPad Air. 
@@ -91,7 +91,7 @@ When ZDNET's Senior Reviews Editor, Kerry Wan, tested the Combo Touch and Logite
 [Best keyboard case from Apple Apple Magic Keyboard Folio Designed specially for the 10th-generation iPad, it features a built-in trackpad, a 14-key function row, an adjustable stand and detachable keyboard, and a versatile two-piece design. It's the most obvious choice on the market if you're looking for a keyboard case for your iPad, but keep in mind it costs over $200. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Keyboard-Folio-10th-Generation%2Fdp%2FB0BJLFH8RC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best iPad keyboard for the iPad Pro 13-inch Apple Magic Keyboard for iPad Pro (2024) Apple's newest Magic Keyboard is compatible with the new iPad Pro models. Available in an 11-inch or 13-inch configuration, this new keyboard offers a larger trackpad and a sleeker design, amongst other features. Preorder it now. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR43LL%2FA%2Fmagic-keyboard-for-ipad-pro-13%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best keyboard case for iPad Pro Apple Magic Keyboard for iPad Pro Apple's Magic Keyboard costs a hefty $299, but it features quiet, backlit keys and has angle adjustability, and is the flagship keyboard case for the iPad Pro. View at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMagic-Keyboard-for-iPad-Pro-11-inch-4th-generation-and-iPad-Air-5th-generation-US-English-Black-iPad-Not-Included%2F984505060&subId1=zd-__COM_CLICK_ID__-dtp)[Best budget keyboard case ESR Rebound Magnetic Keyboard Case The ESR Rebound Magnetic Keyboard features similar top specs like a trackpad, long-lasting battery, a floating, angled stand for viewing, laptop-style keys, a stylus holder and front and back protection, but at a lower price of $105. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Compatible-Cantilever-Precision-Multi-Touch%2Fdp%2FB09N744Y4C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A stylus
@@ -114,10 +114,6 @@ Keep in mind that the third iteration of Apple's handy [pencil may be launching 
 
 [Best Apple Pencil for new iPad models (2024) Apple Pencil Pro Apple's newest Apple Pencil Pro is available for preorder now. Designed for the new iPad Air and Pro models, it features Find My technology, as well as offers new features like squeeze and barrel roll for more precision. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best comfortable stylus Logitech Crayon Even though this stylus is from Logitech, it is built using Apple Pencil technology and can be used with hundreds of Apple Pencil-supported apps. In fact, it's the only non-Apple stylus with Apple's stamp of approval (and even sold on Apple's website). Its flat form factor is much more comfortable than the Apple Pencil, offering a reassuring grip. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07JFP5G4L%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best dual-tip stylus Zagg Pro Stylus The Zagg Pro stylus stands out in our list because it's a dual-tip stylus. The end tip is excellent for scrolling, while the active tip is built for drawing and writing (with tilt recognition to boot). It also has palm-rejection technology and can attach magnetically to iPad Pro models. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08M6FGQ94%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You might also need:
 
 While everyone's idea of essential accessories for their iPad will be different, here's a few other top-tested items we think amp up your iPad's function and are worth the investment.
@@ -139,12 +135,16 @@ While everyone's idea of essential accessories for their iPad will be different,
 [Logitech i345 Portable Wireless Mouse for iPad $22.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08MY7JDT4%2Fref%3Dasc%5Fdf%5FB08MY7JDT41727521200000%3Fcreative%3D395261%26creativeASIN%3DB08MY7JDT4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPad?
 
 ZDNET's top pick for the best iPad is the iPad Air (5th generation) because it includes nearly all of the best features the iPad has to offer at a price that's more approachable than the iPad Pro. However, we'd recommend the 10th-generation iPad model for Facetime and Zoom purposes, and those who want a portable tablet for reading should go with the iPad Mini (6th generation). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the new iPad models?
 
@@ -196,16 +196,21 @@ The Apple Pencil Pro was announced on May 7 and features a slew of new features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-creative-content-for-fb-video-advertising/"><u>[New] 2024 Approved Mastering Creative Content for Fb Video Advertising</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-10-essential-cam-shields-for-privacy/"><u>[Updated] 2024 Approved 10 Essential Cam Shields for Privacy</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/microsdplus/"><u>「不明瞭なmicroSDカード修理+データ復旧方法説明」</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-poco-c50-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Poco C50 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-our-selection-of-premium-video-editors-to-elevate-your-work/"><u>Explore Our Selection of Premium Video Editors to Elevate Your Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-capturing-live-action-from-espnplus-across-computers-and-smartphones/"><u>Step-by-Step Tutorial for Capturing Live Action From ESPN+ Across Computers and Smartphones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-for-converting-prproj-videos-to-mp4-format-in-adobe-premiere-pro/"><u>Step-by-Step Tutorial for Converting PRPROJ Videos to MP4 Format in Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-building-your-own-youtube-downloader-for-ipods-and-iphones-at-no-charge/"><u>Step-by-Step Tutorial on Building Your Own YouTube Downloader for iPods and iPhones at No Charge</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-transferring-youtube-audio-and-video-content-onto-your-ipod/"><u>Step-by-Step Tutorial: Transferring YouTube Audio & Video Content Onto Your iPod</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-diy-a-detailed-updated-guide-to-installing-kodi-on-your-xbox-one/"><u>The Ultimate DIY: A Detailed, Updated Guide to Installing Kodi on Your Xbox One</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-videos-with-a-robust-64-bit-editor-for-windows/"><u>Updated In 2024, Transform Your Videos with a Robust 64-Bit Editor for Windows</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-integrating-spotify-and-discord-a-complete-guide-for-2024/"><u>[New] Integrating Spotify & Discord A Complete Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-exclusive-8-high-youtube-viewership-observer-for-2024/"><u>[Updated] Exclusive 8-High YouTube Viewership Observer for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-purerecorder-capturing-life-in-games-without-cost/"><u>[Updated] In 2024, PureRecorder Capturing Life in Games Without Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>[Updated] The Logo Journey Key Steps in Crafting Iconic Covers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-effects-of-artificial-intelligence-censorship-in-chatbots/"><u>Exploring the Effects of Artificial Intelligence Censorship in Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freedomgpt-unveiled-how-to-install-and-use-a-no-limit-gpt-tool-on-windows-pcs/"><u>FreedomGPT Unveiled: How to Install and Use a No-Limit GPT Tool on Windows PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-code-to-conversation-ai-titans-clash/"><u>From Code to Conversation: AI Titans Clash</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-simple-clips-to-complex-systems-ais-role-in-optimizing-paperclips/"><u>From Simple Clips to Complex Systems: AI's Role in Optimizing Paperclips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-good-is-chatgpt-at-making-cocktails/"><u>How Good Is ChatGPT at Making Cocktails?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-our-psychological-well-being-boon-or-bane/"><u>How Will Artificial Intelligence Impact Our Psychological Well-Being: Boon or Bane?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-filming-flicks-guide-for-pc-mac-smartphone-recording/"><u>In 2024, Filming Flicks Guide for PC, Mac, Smartphone Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-complication-windows-11-plus-nvidia-x0001/"><u>Rectifying Complication: Windows 11 + Nvidia X0001</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolving-iphones-wi-fi-connection-issues-a-step-by-step-guide/"><u>Resolving iPhone's Wi-Fi Connection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-content-accessibility-issue-resolved-what-you-need-to-know/"><u>Steam Content Accessibility Issue Resolved: What You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/validate-that-the-provided-path-and-filename-are-correct-using-regex-allowing-only-alphanumeric-characters-hyphens-periods-and-underscores-before-the-ovpn-e87/"><u>Validate that the Provided Path and Filename Are Correct Using Regex, Allowing only Alphanumeric Characters, Hyphens, Periods, and Underscores Before the `.ovpn` Extension.</u></a></li>
 </ul></div>
 

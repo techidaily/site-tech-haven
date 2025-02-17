@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2025-01-30T20:27:38.611Z
-updated: 2025-02-07T13:09:31.929Z
+date: 2025-02-10T18:08:25.203Z
+updated: 2025-02-16T23:00:24.151Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
 
@@ -53,7 +57,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -73,7 +77,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -92,22 +96,22 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -121,10 +125,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,22 +160,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>[New] 2024 Approved Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>[New] The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/2024s-finest-iphones-unveiled-expert-ratings-and-in-depth-analysis-find-your-perfect-match-today-cnet-reviews/"><u>2024'S Finest iPhones Unveiled: Expert Ratings and In-Depth Analysis - Find Your Perfect Match Today! | CNET Reviews</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apple-reveals-iphone/"><u>Apple Reveals iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-your-next-flagship-phone-google-pixel-n-vs-apple-iphone-13-pro-compared/"><u>Choosing Your Next Flagship Phone: Google Pixel N Vs. Apple iPhone 13 Pro Compared</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cut-to-zero-download-custom-ending-scenes-effortlessly/"><u>Cut to Zero - Download Custom Ending Scenes Effortlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expert-picks-for-premium-mac-boosters-a-comprehensive-review/"><u>Expert Picks for Premium Mac Boosters - A Comprehensive Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apples-new-ai-tech-announced-at-wwdc-falls-short-of-excitement-and-why-it-might-be-perfect-insights/"><u>How Apple's New AI Tech Announced at WWDC Falls Short of Excitement (And Why It Might Be Perfect) | Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-blueprint-for-capturing-compelling-powerpoint-presentations/"><u>In 2024, The Blueprint for Capturing Compelling PowerPoint Presentations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/nvidia-game-capturer-simple-gaming-sessions-for-2024/"><u>NVIDIA Game Capturer Simple Gaming Sessions for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstating-wi-fi-capability-across-various-windows/"><u>Reinstating Wi-Fi Capability Across Various Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-workspace-essential-strategies-for-integrating-ipad-pro-in-your-home-office/"><u>Revolutionize Your Workspace: Essential Strategies for Integrating iPad Pro in Your Home Office</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/still-discounted-the-second-generation-apple-watch-se-retails-at-80-less-post-prime-day-insights/"><u>Still Discounted: The Second Generation Apple Watch SE Retails at $80 Less Post-Prime Day - Insights</u></a></li>
-<li><a href="https://facebook.techidaily.com/timing-your-marketing-to-reach-more-users/"><u>Timing Your Marketing to Reach More Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-truth-discover-how-long-your-apple-watchs-battery-really-lasts/"><u>Unveiling the Truth: Discover How Long Your Apple Watch's Battery Really Lasts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-wacom-bamboo-no-hassle-just-fast/"><u>Update Wacom Bamboo - No Hassle, Just Fast!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-tiny-titans-top-games-anthology/"><u>[New] Tiny Titans' Top Games Anthology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-tips-for-pc-based-console-game-recording-for-2024/"><u>[Updated] Essential Tips for PC-Based Console Game Recording for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximize-impact-best-practices-for-fb-video-posts-for-2024/"><u>[Updated] Maximize Impact Best Practices for FB Video Posts for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-success-on-youtube-standard-studio-or-beta/"><u>2024 Approved Crafting Success on YouTube Standard Studio or Beta</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-what-are-the-differences-between-the-two-most-popular-language-models/"><u>GPT Vs. BERT: What Are the Differences Between the Two Most Popular Language Models?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-became-an-overnight-sensation-5-reasons-behind-its-explosive-growth/"><u>How ChatGPT Became an Overnight Sensation: 5 Reasons Behind Its Explosive Growth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-natural-language-processing-differ-from-overall-machine-learning/"><u>How Does Natural Language Processing Differ From Overall Machine Learning?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oneplus-11r-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your OnePlus 11R FRP Locks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-professional-correspondence-a-guide-to-composing-tough-emails-with-chatgpt/"><u>Mastering Professional Correspondence: A Guide to Composing Tough Emails with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-risks-of-fraudgpt-key-strategies-for-online-security/"><u>Navigating the Risks of FraudGPT - Key Strategies for Online Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-innovation-openai-brings-game-changing-ai-capabilities-to-market-with-gpt-4/"><u>Next-Level Innovation: OpenAI Brings Game-Changing AI Capabilities to Market With GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-communication-gaps-fixing-service-disconnect-in-chatgpt/"><u>Overcoming Communication Gaps: Fixing Service Disconnect in ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/placental-transfer/"><u>Placental Transfer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screen-recording-on-macos-ahead-with-bandicam-or-camtasia-for-2024/"><u>Screen Recording on MacOS Ahead with Bandicam or Camtasia for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/tcls-ultimate-tab-10-with-nxtpaper-technology-reviewed-embracing-a-cutting-edge-display-and-unrivaled-all-day-power/"><u>TCL's Ultimate Tab 10 with NXTPaper Technology Reviewed – Embracing a Cutting-Edge Display and Unrivaled All-Day Power!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET"
-date: 2025-02-06T03:44:21.204Z
-updated: 2025-02-06T19:48:22.021Z
+date: 2025-02-12T22:06:57.797Z
+updated: 2025-02-16T17:32:57.495Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
@@ -39,6 +39,10 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -57,6 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
@@ -89,7 +97,7 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
@@ -113,7 +121,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -124,10 +132,6 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,21 +180,21 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-monetizing-with-youtube-avg-revenue-from-an-ad/"><u>[New] 2024 Approved Monetizing with Youtube Avg Revenue From An Ad?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-real-number-of-youtube-views-you-need-to-make-a-living/"><u>[Updated] The Real Number of YouTube Views You Need to Make a Living</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-launchpad-for-novice-gopro-owners-must-have-gear-guide/"><u>2024 Approved Launchpad for Novice GoPro Owners - Must-Have Gear Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/3g2/"><u>3G2ファイルをスムーズに再生する技術と、プレイバックが難しい場合の解決方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dvdgoogle/"><u>DVDファイルをGoogleドライブへアップロードする手順</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-tips-for-viewing-avi-videos-on-ios-devices/"><u>Effortless Tips for Viewing AVI Videos on iOS Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-system-specifications-understanding-what-your-pc-needs/"><u>Essential System Specifications: Understanding What Your PC Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-methods-converting-mkv-files-into-a-playable-dvd-format/"><u>Free Methods: Converting MKV Files Into a Playable DVD Format</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-creating-a-cost-free-youtube-to-ipodiphone-video-conversion-tool-using-automated-software/"><u>Guide: Creating a Cost-Free YouTube to iPod/iPhone Video Conversion Tool Using Automated Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-11-pro-max-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 11 Pro Max (4 Methods) | Stellar</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-cross-media-content-flow-from-youtube-to-thirtyplus-others/"><u>In 2024, Cross-Media Content Flow From YouTube to Thirty+ Others</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-standout-vr-film-highlights-to-discover/"><u>In 2024, Standout VR Film Highlights to Discover</u></a></li>
-<li><a href="https://extra-support.techidaily.com/proven-techniques-for-enhancing-viewability-of-participants-in-google-meets-for-2024/"><u>Proven Techniques for Enhancing Viewability of Participants in Google Meets for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-comprehensive-guide-to-downloading-and-installing-updated-hp-deskjet-2700-drivers-2024-version/"><u>The Comprehensive Guide to Downloading and Installing Updated HP DeskJet 2700 Drivers (2024 Version)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726030663443-gif/"><u>おすすめのアプリで効果的な写真からGIFへの変換方法</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-keep-your-identity-under-wraps-while-livestreaming/"><u>[Updated] In 2024, Keep Your Identity Under Wraps While Livestreaming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quick-and-easy-twitter-to-snapchat-video-sharing-tips-for-2024/"><u>[Updated] Quick & Easy Twitter to Snapchat Video Sharing Tips for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-social-media-live-war-fb-live-and-yt-live-vs-twitter-spaces/"><u>2024 Approved Social Media Live War FB LIVE & YT Live Vs. Twitter Spaces</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-venturing-solo-in-3d-printing-with-3dr-tech-review/"><u>2024 Approved Venturing Solo in 3D Printing with '3DR' Tech Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/sive-access-sharing-restricted-youtube-content-with-emailid-for-2024/"><u>Exclusive Access Sharing Restricted YouTube Content with EmailID for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Plus? Complete Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-mental-wellness-advancements-and-challenges/"><u>How Will Artificial Intelligence Impact Mental Wellness: Advancements and Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-appropriate-to-use-good-manners-with-digital-companebots-such-as-chatgpt-alexa-or-siri/"><u>Is It Appropriate to Use Good Manners With Digital Companebots Such as ChatGPT, Alexa, or Siri?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-use-chatgpt-understanding-its-potential-vulnerabilities/"><u>Is It Safe To Use ChatGPT: Understanding Its Potential Vulnerabilities?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-solo-operation-of-auto-gpt-justifiable/"><u>Is Solo Operation of Auto-GPT Justifiable?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-key-mistakes-and-how-to-prevent-them/"><u>Mastering Generative AI: Key Mistakes and How to Prevent Them</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-minutes-four-innovative-ways-to-apply-chatgpt-in-time-management/"><u>Maximize Your Minutes: Four Innovative Ways to Apply ChatGPT in Time Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-3d-printing-efficiency-with-chatgpt-a-step-by-step-guide/"><u>Maximizing 3D Printing Efficiency with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-your-smartphone-from-unwanted-surveillance-tips-to-identify-and-erase-spyware/"><u>Securing Your Smartphone From Unwanted Surveillance: Tips to Identify and Erase Spyware</u></a></li>
+<li><a href="https://driver-error.techidaily.com/taming-the-unknown-code-52-in-drive-systems/"><u>Taming the Unknown: Code 52 in Drive Systems</u></a></li>
 </ul></div>
 

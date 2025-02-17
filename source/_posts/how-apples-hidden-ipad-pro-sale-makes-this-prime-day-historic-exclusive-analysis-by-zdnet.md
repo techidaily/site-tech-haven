@@ -1,7 +1,7 @@
 ---
 title: How Apple's Hidden iPad Pro Sale Makes This Prime Day Historic - Exclusive Analysis by ZDNet
-date: 2025-01-31T12:40:26.164Z
-updated: 2025-02-07T13:42:40.446Z
+date: 2025-02-09T17:36:00.190Z
+updated: 2025-02-17T01:55:34.268Z
 tags:
   - apple
 categories:
@@ -38,7 +38,7 @@ Internally, the new iPad Pro features Apple's most powerful Silicon yet, the M4,
 Right now, Amazon has both the [11- and 13-inch options on sale for $928 and $1,198](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1), respectively. Again, you'll only be saving between $80 to $100, but the discount can be offloaded towards [additional accessories](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dipad%2Bpro%2B2024%2Baccessories%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C928c76e0-7991-4296-835f-5fc747ca6ed4%7Cdtp&dtb=1).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -85,21 +85,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-art-of-instagram-video-clipping-and-trimming/"><u>[Updated] In 2024, The Art of Instagram Video Clipping and Trimming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-secrets-to-superior-streaming-of-soccer-matches/"><u>[Updated] Secrets to Superior Streaming of Soccer Matches</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-streamline-your-twitterscape-with-these-pc-tips-for-2024/"><u>[Updated] Streamline Your Twitterscape with These PC Tips for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/5-topi-windows-pemulihan-gadget-mobile-iphones-rekomendasi-dan-kritik/"><u>5 Topi Windows Pemulihan Gadget Mobile iPhones - Rekomendasi Dan Kritik!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ssd-hdd/"><u>全新系統遷移解決方案：以 SSD / HDD 為基礎的前所未有無成本操作系統變更程式</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-new-era-of-music-and-videos-on-windows-bid-farewell-to-itunes-as-cupertino-unveils-alternative-media-platforms-exclusive-insights-from-zdnet/"><u>Apple's New Era of Music & Videos on Windows: Bid Farewell to iTunes as Cupertino Unveils Alternative Media Platforms - Exclusive Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-most-popular-ios-apps-based-on-apples-rankings-explore-with-zdnet/"><u>Discover the Most Popular iOS Apps Based on Apple's Rankings - Explore with ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-the-apple-watch-ultra-2-became-a-game-changing-wearable-for-me-now-with-100-off-on-labor-day-exclusive-review/"><u>How the Apple Watch Ultra 2 Became a Game-Changing Wearable for Me, Now with $100 Off on Labor Day | Exclusive Review</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-14-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-next-generation-of-green-visual-effects-tools/"><u>In 2024, Next Generation of Green Visual Effects Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-breakdown-of-the-latest-innovations-unveiled-at-apples-iphone-1/"><u>In-Depth Breakdown of the Latest Innovations Unveiled at Apple's iPhone 1</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-apples-latest-unique-gadgets-debuted-silently-yesterday-a-closer-look-by-tech-expert-zdnet/"><u>Introducing Apple’s Latest Unique Gadgets Debuted Silently Yesterday - A Closer Look by Tech Expert [ZDNet]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-time-to-switch-to-the-iphone-16-pro-a-comprehensive-review-comparing-it-with-the-iphone-cued-14-pro-by-tech-expert-at-zdnet/"><u>Is It Time to Switch to the iPhone 16 Pro? A Comprehensive Review Comparing It with the iPhone Cued 14 Pro by Tech Expert at ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-remote-working-the-ultimate-guide-to-running-a-home-office-on-apples-latest-tablet/"><u>Revolutionize Remote Working: The Ultimate Guide to Running a Home Office on Apple's Latest Tablet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-are-you-prepared-for-the-changed-facebook-algorithm-in-2024/"><u>[New] Are You Prepared for the Changed Facebook Algorithm, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-wmp-for-effortless-audio-conversion/"><u>[New] Navigating WMP for Effortless Audio Conversion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726221054325-mxf-gif-movavi/"><u>在線無限制的 MXF 變更至 GIF格式 - 使用 Movavi 影片編輯器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-new-iphone-15-pro-max-at-just-a-penny-exclusive-inside-look-into-the-amazing-amazon-offer/"><u>Get Your Hands on the New iPhone 15 Pro Max at Just a Penny: Exclusive Inside Look Into the Amazing Amazon Offer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo? Try These Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pivotal-considerations-in-opting-for-advanced-ai-assistants/"><u>Pivotal Considerations in Opting for Advanced AI Assistants</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-constant-pc-crashes-in-gas-station-simulator-game/"><u>Resolved: Fixes for Constant PC Crashes in Gas Station Simulator Game</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-into-the-future-with-chatgpt-and-android/"><u>Step Into the Future with ChatGPT and Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-planning-using-chatgpt-boost-your-workflow-efficiency-now/"><u>Strategic Planning Using ChatGPT: Boost Your Workflow Efficiency Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/surprising-ways-to-communicate-with-ai-engage-in-dialogue-using-chatgpt/"><u>Surprising Ways to Communicate with AI: Engage in Dialogue Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-alleviating-emotional-isolation-and-fostering-connections/"><u>The Role of ChatGPT in Alleviating Emotional Isolation and Fostering Connections</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-common-pitfalls-to-dodge-when-crafting-content-with-chatgpt/"><u>Top 4 Common Pitfalls to Dodge When Crafting Content with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-essential-ai-chatbot-plugins-for-visual-studio-code/"><u>Top 6 Essential AI Chatbot Plugins for Visual Studio Code</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-innovative-ai-programs-revolutionizing-math-problem-solving/"><u>Top 7 Innovative AI Programs Revolutionizing Math Problem-Solving</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-no-cost-video-watermark-solutions-top-5-downloads/"><u>Updated 2024 Approved No-Cost Video Watermark Solutions Top 5 Downloads</u></a></li>
 </ul></div>
 

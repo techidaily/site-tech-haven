@@ -1,7 +1,7 @@
 ---
 title: "Ending iPhone Frustrations: Strategies for Apple to Tackle Current Smartphone Irritants"
-date: 2025-01-30T20:43:44.067Z
-updated: 2025-02-07T05:24:22.327Z
+date: 2025-02-10T20:30:22.756Z
+updated: 2025-02-16T21:11:13.539Z
 tags:
   - apple
 categories:
@@ -26,12 +26,16 @@ The good news is that you can stop these text messages using a feature already i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to stop spam text messages on iPhone
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -43,7 +47,7 @@ Tap on Messages to access the settings for your Messages app.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
@@ -55,10 +59,6 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -81,6 +81,10 @@ If you're expecting a message from someone you know, ensure their number is save
 The message inbox will now default to show messages from people in your contact list only.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -108,10 +112,6 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I block a sender on my iPhone?
 
 If you keep getting messages from the same sender after reporting them, you can also block the sender altogether, which won't let them send you messages or call you. To block a specific number on your iPhone, follow these steps:
@@ -121,15 +121,15 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -167,16 +167,18 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-5-youtube-tag-generators-and-tips-to-tag-videos-properly/"><u>[Updated] 2024 Approved Best 5 YouTube Tag Generators & Tips to Tag Videos Properly</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-essential-collection-top-9-premium-wedding-movies-online-for-2024/"><u>[Updated] Essential Collection Top 9 Premium Wedding Movies Online for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-exclusive-list-top-business-vault/"><u>2024 Approved Exclusive List Top Business Vault</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/binge-worthy-films-with-ease-connecting-fandango-to-apple-tv-for-seamless-viewing/"><u>Binge-Worthy Films with Ease: Connecting Fandango to Apple TV for Seamless Viewing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chronology-on-camera-best-practices-for-date-insertion-for-2024/"><u>Chronology on Camera Best Practices for Date Insertion for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-performing-screen-capture-tools-for-smooth-pubg-streams-on-windows-10-and-11/"><u>Top Performing Screen Capture Tools for Smooth PUBG Streams on Windows 10 and 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-how-to-fix-error-code-0xc00d6d60-on-your-pc-running-windows-1011/"><u>Troubleshooting Guide: How to Fix Error Code 0Xc00d6d60 on Your PC Running Windows 10/11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-seamless-avi-video-playback-on-your-ipad-two-effective-methods/"><u>Troubleshooting Tips: Seamless AVI Video Playback on Your iPad - Two Effective Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-tricks-for-successfully-opening-mov-files-in-windows-11/"><u>Ultimate Tricks for Successfully Opening .MOV Files in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-youtube-for-seamless-video-format-conversions-the-ultimate-step-by-step-tutorial/"><u>Unlocking the Potential of YouTube for Seamless Video Format Conversions: The Ultimate Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-behind-the-scenes-windows-pc-essentials-for-flawless-live-tv-screen-capture/"><u>[Updated] 2024 Approved Behind the Scenes Windows PC Essentials for Flawless Live TV Screen Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-content-youtubes-keyword-strategies-exposed/"><u>[Updated] Elevate Your Content YouTube's Keyword Strategies Exposed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-real-time-recording-rivals-obs-and-shadowtoolkit-for-2024/"><u>[Updated] Real-Time Recording Rivals OBS & ShadowToolKit for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic/"><u>[Updated] The Art of Video Marketing 11 Tips to Skyrocket FB Traffic</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cross-promoting-on-social-giants-maximize-facebook-linkedin-and-youtube-outreach/"><u>Cross-Promoting on Social Giants: Maximize Facebook, LinkedIn & YouTube Outreach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/direct-access-try-8-gpt-innovations-today/"><u>Direct Access: Try 8 GPT Innovations Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-and-deploy-llama-2-your-instructional-guide/"><u>Download & Deploy Llama 2: Your Instructional Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-programming-skills-integrating-microsofts-gpt-n-language-model-into-python-applications/"><u>Elevate Your Programming Skills: Integrating Microsoft's GPT-N Language Model Into Python Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-authenticity-reducing-ai-fabrications-with-specific-cues/"><u>Ensuring Authenticity: Reducing AI Fabrications with Specific Cues</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-usb-not-recognized-error-instantly/"><u>Expert Advice on Repairing 'USB Not Recognized' Error Instantly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-for-using-zoom-via-gmail/"><u>In 2024, Step-by-Step Guide for Using Zoom via Gmail</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-dll-files-fixes-for-the-normalizdll-problem/"><u>Overcoming Missing DLL Files: Fixes for the Normaliz.dll Problem</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quickprint-the-easy-guide-to-win-screen-snaps-for-2024/"><u>QuickPrint The Easy Guide to Win Screen Snaps for 2024</u></a></li>
 </ul></div>
 

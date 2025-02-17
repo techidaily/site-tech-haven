@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of ESR's Innovative Halolock - A Versatile Multi-Card Wallet & Compatible Adjustable Stand for iPhones
-date: 2025-01-05T01:08:29.099Z
-updated: 2025-01-07T01:19:12.894Z
+date: 2025-02-13T17:49:59.334Z
+updated: 2025-02-16T22:38:56.423Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A bigger screen option
@@ -39,7 +39,7 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -69,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -110,17 +110,16 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-lightning-fast-photo-reader-for-pcs/"><u>[New] 2024 Approved Lightning-Fast Photo Reader for PCs</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-a-step-by-step-guide-to-professionalizing-your-personal-brand-on-fb-stories/"><u>[Updated] In 2024, A Step-by-Step Guide to Professionalizing Your Personal Brand on FB Stories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-stumbling-upon-covert-youtube-videos/"><u>[Updated] Strategies for Stumbling Upon Covert YouTube Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elite-presenter-tagline-generator-20-for-2024/"><u>Elite Presenter Tagline Generator 2.0 for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-solutions-boost-your-gameplay-in-elden-ring-with-improved-fps/"><u>Fast Solutions: Boost Your Gameplay in Elden Ring with Improved FPS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-iphone-experience-with-ios-16-unlocking-the-potential-of-the-enhanced-lock-screen-tech-insights/"><u>Maximize Your iPhone Experience with iOS 16: Unlocking the Potential of the Enhanced Lock Screen - Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-your-ears-with-these-expert-steps-for-cleaning-airpods-essential-advice-from-tech-experts/"><u>Protect Your Ears with These Expert Steps for Cleaning AirPods - Essential Advice From Tech Experts.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/selecting-the-safest-and-most-suitable-mobile-devices-for-children-a-comprehensive-review/"><u>Selecting the Safest & Most Suitable Mobile Devices for Children: A Comprehensive Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-next-gen-charging-features-with-ios-172-on-your-iphone-1314-latest-developments-revealed/"><u>Unlock Next-Gen Charging Features with iOS 17.2 on Your iPhone 13/14 | Latest Developments Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-innovation-the-3-breakthrough-attributes-of-iphone-16-you-cant-afford-to-miss/"><u>Unlocking Innovation: The 3 Breakthrough Attributes of iPhone 16 You Can't Afford to Miss</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unraveling-misidentifications-enhancing-accuracy-in-apples-image-organization-tool/"><u>Unraveling Misidentifications: Enhancing Accuracy in Apple's Image Organization Tool</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/your-smartwatch-checklist-the-five-important-aspects-to-contemplate-during-the-buying-process/"><u>Your Smartwatch Checklist: The Five Important Aspects to Contemplate During the Buying Process</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-spotlight-on-top-video-making-talents/"><u>[New] 2024 Approved Spotlight on Top Video Making Talents</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-quick-guide-to-modifying-your-vocal-characteristics-in-pubg/"><u>[Updated] In 2024, The Quick Guide to Modifying Your Vocal Characteristics in PUBG</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-in-action-the-search-and-synthesis-strategies-of-global-firms/"><u>AI in Action: The Search and Synthesis Strategies of Global Firms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-snapchat-vs-microsoft-bing-on-skype-discover-8-key-contrasts/"><u>AI Showdown: Snapchat Vs. Microsoft Bing on Skype – Discover 8 Key Contrasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-interactive-voice-turning-prompts-into-meaningful-exchanges/"><u>AI's Interactive Voice: Turning Prompts Into Meaningful Exchanges</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-14-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 14 Pro? How to Fix it?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bank-safety-and-ai-risks-can-hackers-exploit-models-like-chatgpt-to-compromise-systems/"><u>Bank Safety and AI Risks: Can Hackers Exploit Models Like ChatGPT to Compromise Systems?</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/exploring-the-variety-a-count-of-distinct-cryptocurrency-types-insights-by-yl-computing/"><u>Exploring the Variety: A Count of Distinct Cryptocurrency Types - Insights by YL Computing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/instant-mac-screen-savior-free-for-2024/"><u>Instant Mac Screen Savior - Free for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-correction-of-diagonal-screen-gaps/"><u>Swift Correction of Diagonal Screen Gaps</u></a></li>
+<li><a href="https://win11.techidaily.com/uninvited-rav-security-on-pc-origins-and-deletion-steps/"><u>Uninvited Rav Security on PC - Origins and Deletion Steps</u></a></li>
 </ul></div>
 
