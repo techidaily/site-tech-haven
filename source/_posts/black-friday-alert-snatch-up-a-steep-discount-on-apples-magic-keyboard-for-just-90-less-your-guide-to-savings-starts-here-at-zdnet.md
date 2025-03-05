@@ -1,7 +1,7 @@
 ---
 title: Black Friday Alert! Snatch Up a Steep Discount on Apple's Magic Keyboard for Just $90 Less – Your Guide to Savings Starts Here at ZDNet.
-date: 2025-02-12T17:38:39.521Z
-updated: 2025-02-17T00:37:09.337Z
+date: 2025-02-27T20:44:33.459Z
+updated: 2025-03-05T19:17:34.771Z
 tags:
   - apple
 categories:
@@ -39,10 +39,6 @@ And while spending $100 on a four-pack doesn't seem that bad after living throug
 
 Since AirTags are powered by a CR2032 coin cell battery, you can [replace the battery](https://www.zdnet.com/article/how-to-change-the-battery-in-your-apple-airtag/) whenever it dies, preventing you from buying a new one each time. Remember, since AirTags are thin pocket-sized devices, you can use them for just about anything and repurpose them as often as you'd like. From helping you find a parking spot to tracking your child's favorite toy, there are endless possibilities with your AirTags -- you just have to get [creative](https://www.zdnet.com/article/seven-ways-apple-airtags-can-help-you-beyond-tracking-keys/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -77,22 +73,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-tonal-transformation-for-android-users/"><u>[Updated] In 2024, The Ultimate Tonal Transformation for Android Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-spark-interest-drive-engagement-top-30-video-ideas/"><u>[Updated] Spark Interest, Drive Engagement Top 30 Video Ideas</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-high-definition-showdown-ultimate-legendary-sj6-vs-yi-4k-innovation/"><u>2024 Approved High Definition Showdown Ultimate Legendary SJ6 Vs. Yi 4K Innovation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-macbook-air-13-inch-m1-2020-review-apples-impressive-m1-chip-rises-to-new-heights/"><u>Apple MacBook Air 13-Inch (M1, 2020) Review: Apple’s Impressive M1 Chip Rises To New Heights</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-compelling-thumbnails-for-your-youtube-content-for-2024/"><u>Crafting Compelling Thumbnails for Your YouTube Content for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-llama-2s-features-and-applications/"><u>Exploring Llama 2'S Features and Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-machine-learning-with-shap-e/"><u>Exploring the World of Machine Learning with SHAP E</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/four-transformative-ways-that-ai-technologies-can-amplify-your-educational-exploration/"><u>Four Transformative Ways That AI Technologies Can Amplify Your Educational Exploration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/has-oversight-over-chatgpt-slipped-from-openais-hands/"><u>Has Oversight Over ChatGPT Slipped From OpenAI's Hands?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-chatgpt-enable-remote-control-over-smart-household-gadgets/"><u>How Does ChatGPT Enable Remote Control Over Smart Household Gadgets?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-slow-startup-problems-in-windows-7/"><u>How to Quickly Resolve Slow Startup Problems in Windows 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-smooth-out-gpts-body-stream-glitches/"><u>How to Smooth Out GPT's Body Stream Glitches</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech/"><u>In 2024, Quick & Simple Methods Integrating Clownfish Sounds Into PC Speech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-ai-into-development-processes-insights-from-experienced-coders/"><u>Integrating AI Into Development Processes: Insights From Experienced Coders</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/intuitive-driving-meets-innovation-mercedes-benzs-latest-feature-voice-controlled-chatgpt-system/"><u>Intuitive Driving Meets Innovation: Mercedes-Benz's Latest Feature - Voice-Controlled ChatGPT System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boost-your-youtube-presence-with-personalized-annotations-and-card-integration-for-2024/"><u>[New] Boost Your YouTube Presence with Personalized Annotations and Card Integration for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-music-making-magic-selecting-background-beats-for-vids/"><u>[New] In 2024, Music Making Magic Selecting Background Beats for Vids</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-shortcut-to-shorter-vids-on-youtube/"><u>[New] The Shortcut to Shorter Vids on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[Updated] Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/all-systems-compatible-overwatch-latest-graphic-fixes/"><u>All Systems Compatible: Overwatch Latest Graphic Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-pc-restoration-techniques-on-windows-10-operating-system/"><u>Effortless PC Restoration Techniques on Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-move-chrome-bookmarks-to-firefox-master-the-simple-steps-now/"><u>Effortlessly Move Chrome Bookmarks to Firefox – Master the Simple Steps Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eliminating-input-lag-for-a-smoother-gaming-session-on-a-secondary-display-using-windows-11/"><u>Eliminating Input Lag for a Smoother Gaming Session on a Secondary Display Using Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-guide-recognizing-and-preventing-phishing-scams/"><u>Essential Guide: Recognizing and Preventing Phishing Scams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixing-the-windows-1011-issue-a-step-by-step-guide-to-resolving-error-code-0xa00f4244/"><u>Fixing the Windows 10/11 Issue: A Step-by-Step Guide to Resolving Error Code 0xA00F4244</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/high-memory-usage-on-windows-11-solved/"><u>High Memory Usage on Windows 11 [Solved]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-change-fortnite-name-on-pc-easily/"><u>How to Change Fortnite Name on PC Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-check-windows-version-easily/"><u>How to Check Windows Version [Easily]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-enjoy-privacy-online-with-vpns-insights-and-benefits/"><u>How to Enjoy Privacy Online with VPNs: Insights & Benefits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-huawei-nova-y71-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Huawei Nova Y71 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovative-ways-to-record-and-preserve-streaming-sounds-online/"><u>Innovative Ways to Record and Preserve Streaming Sounds Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/metamorphic-rocks-help-geologists-understand-past-plate-movements-and-reconstruct-paleogeography/"><u>Metamorphic Rocks Help Geologists Understand Past Plate Movements and Reconstruct Paleogeography.</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unleash-your-creativity-best-stop-motion-software-for-mac-and-pc/"><u>New 2024 Approved Unleash Your Creativity Best Stop Motion Software for Mac and PC</u></a></li>
 </ul></div>
 

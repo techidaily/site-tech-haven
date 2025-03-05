@@ -1,7 +1,7 @@
 ---
 title: "Deciphering AI Illusions: Tips for Recognizing False Outputs in Machine Learning"
-date: 2024-08-16T10:23:40.294Z
-updated: 2024-08-17T10:23:40.294Z
+date: 2025-02-26T20:28:32.088Z
+updated: 2025-03-05T18:50:28.939Z
 tags:
   - chatgpt
   - open-ai
@@ -23,18 +23,6 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
@@ -53,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
@@ -68,16 +53,8 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 4\. Relies Heavily on Historical Data
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -88,9 +65,6 @@ The powerful video editing program for your Windows PC</a>
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -103,22 +77,15 @@ The powerful video editing program for your Windows PC</a>
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +94,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-guide-to-quick-video-recording-on-youtube/"><u>[New] 2024 Approved Guide to Quick Video Recording on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>[Updated] 2024 Approved Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-immutable-disabling-routine-for-youtubes-quick-content/"><u>[Updated] Immutable Disabling Routine for YouTube’s Quick Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-10-igtv-channels-shaping-content-trends/"><u>2024 Approved The 10 IGTV Channels Shaping Content Trends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/favorite-smartphones-among-tech-insiders-of-zdnet-a-comprehensive-guide/"><u>Favorite Smartphones Among Tech Insiders of ZDNet – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-deathloop-running-smoothly-again-expert-advice-to-stop-freezes-and-lag-on-your-gaming-systems/"><u>Getting Deathloop Running Smoothly Again: Expert Advice to Stop Freezes and Lag on Your Gaming Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-deciphering-slug-lines-in-scriptwriting/"><u>In 2024, Deciphering Slug Lines in Scriptwriting</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210850025-9781446359211-jungian-spirituality/"><u>Jungian Spirituality | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-chatgpt-effect-how-ai-is-reshaping-student-essay-writing/"><u>The ChatGPT Effect: How AI Is Reshaping Student Essay Writing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolutionary-leap-how-gpt4all-works/"><u>The Evolutionary Leap: How GPT4All Works</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-insiders-look-at-openais-bug-bounties-participation-steps-and-rewards-explained/"><u>The Insider's Look at OpenAI's Bug Bounties: Participation Steps and Rewards Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-steps-to-erase-all-of-your-chatgpt-conversation-records/"><u>The Ultimate Guide: Steps to Erase All of Your ChatGPT Conversation Records</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-bang-for-your-buck-the-impressive-id-cooling-frozn-a620-pro-se-review/"><u>Unveiling the Best Bang for Your Buck: The Impressive ID-Cooling Frozn A620 Pro SE Review</u></a></li>
+</ul></div>
 

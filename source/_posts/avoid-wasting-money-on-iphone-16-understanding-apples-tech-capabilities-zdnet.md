@@ -1,7 +1,7 @@
 ---
 title: Avoid Wasting Money on iPhone 16 - Understanding Apple's Tech Capabilities | ZDNet
-date: 2025-02-15T01:47:25.193Z
-updated: 2025-02-16T19:12:43.593Z
+date: 2025-03-03T17:08:24.657Z
+updated: 2025-03-05T16:59:10.364Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ To help you make this decision, we've broken down all of the most important deta
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Specifications
 
@@ -87,17 +83,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -107,10 +95,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -118,10 +102,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,17 +137,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-richest-youtubers/"><u>[New] 2024 Approved Richest YouTubers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-crafting-videos-youtube-tools-and-more/"><u>[Updated] Crafting Videos YouTube Tools and More</u></a></li>
-<li><a href="https://win-lab.techidaily.com/can-you-use-windows-defender-alongside-a-different-av-solution-unveiling-compatibility-secrets-techguide-insights/"><u>Can You Use Windows Defender Alongside a Different AV Solution? Unveiling Compatibility Secrets - TechGuide Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-ai-apps-to-elevate-your-mobile-experience-on-any-device/"><u>Essential AI Apps to Elevate Your Mobile Experience on Any Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-next-level-writing-with-4-leading-ai-based-story-engine-tools/"><u>Experience Next-Level Writing with 4 Leading AI-Based Story Engine Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-cybersecurity-risks-deciphering-new-twitter-schemes-the-arrival-of-metas-verified-feature-and-demystifying-chatgpt/"><u>Exploring Cybersecurity Risks : Deciphering New Twitter Schemes, The Arrival of Meta’s Verified Feature, and Demystifying ChatGPT-</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-mechanisms-of-generative-ai-functionality-and-industry-applications/"><u>Exploring the Mechanisms of Generative AI: Functionality and Industry Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freelancers-guide-should-you-opt-for-bing-chat-or-chatgpt-evaluate-these-8-key-points/"><u>Freelancer's Guide: Should You Opt for Bing Chat or ChatGPT? Evaluate These 8 Key Points</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/high-definition-vision-recorder-devices/"><u>High Definition Vision Recorder Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-exploring-youtubes-operations-after-video-upload/"><u>In 2024, Exploring YouTube's Operations After Video Upload</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-camon-20-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Camon 20 FRP</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-snapchat-snaps-with-customizable-user-voices/"><u>[New] 2024 Approved Elevate Snapchat Snaps with Customizable User Voices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-backdrop-bassline-tunes-to-enhance-media/"><u>[New] In 2024, Backdrop Bassline Tunes to Enhance Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-quick-fix-for-paused-facebook-livestreams-2023s-tips-and-tricks/"><u>[New] Quick Fix for Paused Facebook Livestreams, 2023'S Tips & Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturewin10-top-tier-recorder-for-2024/"><u>[Updated] CaptureWin10 Top-Tier Recorder for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-essential-steps-for-forming-a-facebook-profile/"><u>[Updated] In 2024, The Essential Steps for Forming a Facebook Profile</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-transform-your-channels-income-the-monetization-magic-with-500plus-fans/"><u>2024 Approved Transform Your Channel's Income The Monetization Magic with 500+ Fans</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-showdown-ipad-pro-vs-macbook-pro-which-is-right-for-you/"><u>Apple Showdown: IPad Pro Vs. MacBook Pro - Which Is Right For You?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-conversations-discover-the-6-most-exciting-games-you-can-enjoy-on-chatgpt/"><u>Beyond Conversations: Discover The 6 Most Exciting Games You Can Enjoy on ChatGPT!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-data-accuracy-and-efficiency-with-chatgpt-tactics/"><u>Boosting Data Accuracy and Efficiency with ChatGPT Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-artificial-intelligence-platforms-such-as-chatgpt-become-a-tool-for-hackers-targeting-your-banks-and-personal-devices/"><u>Can Artificial Intelligence Platforms Such as ChatGPT Become a Tool for Hackers Targeting Your Banks and Personal Devices?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-gpt-alerts-to-spot-phony-bot-interactions/"><u>Crafting GPT Alerts to Spot Phony Bot Interactions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-puzzle-an-insight-into-the-artificial-intelligence-congruity-issue/"><u>Decoding the Puzzle: An Insight Into the Artificial Intelligence Congruity Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effektiv-movavi-mac-prosesserer-full-formatet-konvertering-fra-avi-mp4-flv-med-perfekt-kompatibilitet/"><u>Effektiv Movavi Mac Prosesserer - Full-Formatet Konvertering Fra AVI, MP4, FLV Med Perfekt Kompatibilitet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-techniques-for-tracking-packets-with-tracert-in-windows-environments/"><u>Essential Techniques for Tracking Packets with Tracert in Windows Environments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-your-free-open-source-substitute-for-chatgpt/"><u>Exploring HuggingChat: Your Free, Open-Source Substitute for ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-quoras-poe-for-llm-and-chatbot-access/"><u>Harnessing Quora’s POE for LLM & Chatbot Access</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/revolutionize-your-media-fast-accurate-conversions-by-winxvideo-ai-with-advanced-gpu-technology/"><u>Revolutionize Your Media: Fast, Accurate Conversions by Winxvideo AI with Advanced GPU Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-clash-over-ai-control-sarah-silverman-leads-group-of-creatives-in-lawsuit-again-openai-and-meta-under-scrutiny/"><u>The Clash Over AI Control: Sarah Silverman Leads Group of Creatives in Lawsuit Again 🤖 - OpenAI & Meta Under Scrutiny</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-potential-with-chatgpt-alternatives-do-they-make-a-difference/"><u>Unleashing Potential with ChatGPT-Alternatives - Do They Make a Difference?</u></a></li>
 </ul></div>
 

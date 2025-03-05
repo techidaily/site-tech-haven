@@ -1,7 +1,7 @@
 ---
 title: "The Menace of FraudGPT: Securing Your Cyber Domain"
-date: 2024-08-16T10:23:11.018Z
-updated: 2024-08-17T10:23:11.018Z
+date: 2025-03-04T20:36:49.869Z
+updated: 2025-03-05T19:52:11.400Z
 tags:
   - chatgpt
   - open-ai
@@ -23,18 +23,12 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
 
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
@@ -45,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -56,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -73,9 +57,6 @@ No advertising on the website.
 
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -90,8 +71,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +78,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-effortlessly-connect-camera-roll-to-snapchat-sharing-platforms-for-2024/"><u>[New] Effortlessly Connect Camera Roll to Snapchat Sharing Platforms for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-enhance-your-phone-scene-with-easy-iphone-magnification/"><u>[Updated] In 2024, Enhance Your Phone Scene with Easy iPhone Magnification</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pioneering-the-way-with-innovative-approaches-to-youtube-banners/"><u>[Updated] In 2024, Pioneering the Way with Innovative Approaches to YouTube Banners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-critical-insights-into-why-organizations-are-moving-againnst-chatgpt-adoption/"><u>5 Critical Insights Into Why Organizations Are Moving Againnst ChatGPT Adoption</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-primer-on-chatgpt-utilization/"><u>A Primer on ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/abruptly-end-your-chatgpt-experience/"><u>Abruptly End Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/accessing-chatgpt-anywhere-the-definitive-tutorial-for-the-chatgpt-everywhere-app/"><u>Accessing ChatGPT Anywhere: The Definitive Tutorial for the 'ChatGPT Everywhere' App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-expensive-ai-prompt-services-delivering-value-for-money/"><u>Are Expensive AI Prompt Services Delivering Value for Money?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-we-witnessing-the-rise-of-generative-ai-as-a-facilitator-of-misleading-information/"><u>Are We Witnessing the Rise of Generative AI as a Facilitator of Misleading Information?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beginners-guide-the-essential-collection-of-9-artificial-intelligence-tools/"><u>Beginner's Guide: The Essential Collection of 9 Artificial Intelligence Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-f54-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy F54 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>In 2024, Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-web-3gp-mp4/"><u>Movavi: Web용 카운터에서 손금으로 3GP 표지부를 MP4로 변환</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-cross-platform-video-editing-mastery-a-step-by-step-chromebook-guide-for-2024/"><u>New Cross-Platform Video Editing Mastery A Step-by-Step Chromebook Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-11-advanced-display-adjustment/"><u>Windows 11: Advanced Display Adjustment</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.
-date: 2025-02-13T19:41:17.083Z
-updated: 2025-02-17T00:44:05.199Z
+date: 2025-02-26T16:31:51.135Z
+updated: 2025-03-05T20:32:20.831Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +86,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -111,10 +99,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -153,10 +137,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,20 +190,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-skillfully-secure-and-save-gif-images-from-facebooks-domain/"><u>[Updated] How To Skillfully Secure and Save GIF Images From Facebook's Domain</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-winning-at-movie-watching-leading-windows-phone-apps/"><u>[Updated] In 2024, Winning at Movie Watching Leading Windows Phone Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-spotting-instagrams-newly-deactivated-accounts-for-2024/"><u>[Updated] Spotting Instagram's Newly Deactivated Accounts for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/creating-interactive-digital-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Creating Interactive Digital Flipbooks with FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciding-on-a-roku-streamer-what-sets-the-roku-express-apart-from-the-original-stick-model/"><u>Deciding on a Roku Streamer: What Sets the Roku Express Apart From the Original Stick Model?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-vivo-g2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo G2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-facebooks-image-search-feature-like-a-pro/"><u>Navigating Facebook's Image Search Feature Like a Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/privacy-protocols-in-ai-dialogues/"><u>Privacy Protocols in AI Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/prompt-crafting-the-workforce-behind-ais-responsiveness/"><u>Prompt Crafting: The Workforce Behind AI's Responsiveness</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/scriptwriting-made-simple-boost-your-youtube-videos-with-chatgpt-insights/"><u>Scriptwriting Made Simple: Boost Your YouTube Videos with ChatGPT Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-youtube-to-mp4-converter-change-your-video-extensions-instantly-online/"><u>Seamless YouTube-to-MP4 Converter: Change Your Video Extensions Instantly Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/side-by-side-comparison-how-myai-outperforms-bing-chat-across-8-crucial-aspects-in-social-media-platforms/"><u>Side-by-Side Comparison: How MyAI Outperforms Bing Chat Across 8 Crucial Aspects in Social Media Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-6-revolutionary-traits-of-snapchats-my-ai/"><u>The 6 Revolutionary Traits of Snapchat's My AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-conundrum-of-ensuring-harmonious-human-ai-objectives-an-insight/"><u>The Conundrum of Ensuring Harmonious Human-AI Objectives: An Insight</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pro-tips-for-streaming-and-screening-netflix-on-mac/"><u>[New] 2024 Approved Pro-Tips for Streaming & Screening Netflix on Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>[New] Naming Gems Top Strategies for Exceptional Podcast Titles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-digital-doppelganger-designs-sketching-an-animated-self/"><u>[Updated] 2024 Approved Digital Doppelganger Designs Sketching an Animated Self</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-the-economics-youtubes-new-model-for-content-creators-and-viewers/"><u>[Updated] Understanding the Economics YouTube's New Model for Content Creators and Viewers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-flawless-pixel-processor-windowsmac/"><u>2024 Approved Flawless Pixel Processor (Windows/Mac)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-methods-for-disconnecting-microsoft-account-on-windows-10-system/"><u>Effortless Methods for Disconnecting Microsoft Account on Windows 10 System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/expert-advice-on-perfecting-audio-settings-with-the-windows-10-eq-function/"><u>Expert Advice on Perfecting Audio Settings with the Windows 10 EQ Function</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-to-booting-into-safe-mode-across-various-windows-versions-xp-vista-7-8-81-and-11/"><u>Guide to Booting Into Safe Mode Across Various Windows Versions (XP, Vista, 7, 8, 8.1, and 11)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-i-fixed-my-pc-effective-technique-with-display-driver-uninstaller-to-remove-graphic-drivers/"><u>How I Fixed My PC: Effective Technique with Display Driver Uninstaller to Remove Graphic Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-driver-power-state-failure-error/"><u>How to Fix DRIVER POWER STATE FAILURE Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-reboot-your-system-and-improve-graphics-display-on-windows-10117/"><u>How to Reboot Your System and Improve Graphics Display on Windows 10/11/7?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-successfully-set-up-a-wireless-keyboard-a-simple-walkthrough/"><u>How To Successfully Set Up A Wireless Keyboard: A Simple Walkthrough</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-take-a-screenshot-on-your-pc-win-7810/"><u>How to Take a Screenshot on Your PC (Win 7/8/10)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improve-computer-performance-by-regularly-clearing-cache-on-windows-10-devices/"><u>Improve Computer Performance by Regularly Clearing Cache on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-to-iphone-podcast-downloads/"><u>In 2024, Comprehensive Guide to iPhone Podcast Downloads</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 14 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-wrap-errors-in-windows-causes-solutions-and-prevention-tips/"><u>Understanding WRAP Errors in Windows: Causes, Solutions & Prevention Tips</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-sound-clarity-a-guide-to-eliminating-ambient-sounds-in-filmora-for-2024/"><u>Updated Mastering Sound Clarity A Guide to Eliminating Ambient Sounds in Filmora for 2024</u></a></li>
 </ul></div>
 

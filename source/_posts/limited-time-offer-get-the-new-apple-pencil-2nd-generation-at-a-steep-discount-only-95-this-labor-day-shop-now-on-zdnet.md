@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Get the New Apple Pencil (2Nd Generation) at a Steep Discount - Only $95 This Labor Day! Shop Now on ZDNet"
-date: 2025-02-12T19:29:43.852Z
-updated: 2025-02-16T23:30:54.711Z
+date: 2025-03-04T20:35:18.564Z
+updated: 2025-03-05T21:15:12.745Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ The Apple Pencil is super responsive and has pixel-perfect precision with indust
 By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model), you'll get exclusive features like the new hover feature that makes part of the iPad's interface come to life when the tip of the Apple Pencil gets within 12mm of the iPad's display. 
 
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -71,20 +67,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-easy-steps-for-correcting-your-tiktok-profile-age/"><u>[Updated] In 2024, Easy Steps for Correcting Your TikTok Profile Age</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-experts-guide-to-infinite-space-utilization/"><u>[Updated] In 2024, Expert's Guide to Infinite Space Utilization</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-memes-edit-master/"><u>[Updated] Ultimate Memes Edit Master</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-10-zero-cost-video-collaboration-platforms-for-enterprises-and-education/"><u>2024 Approved Best 10 Zero-Cost Video Collaboration Platforms For Enterprises & Education</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-best-performance-at-a-glance-top-4k-laptops/"><u>2024 Approved Best Performance at a Glance - Top 4K Laptops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-leading-5-email-security-solutions-to-protect-your-privacy/"><u>Discover the Leading 5 Email Security Solutions to Protect Your Privacy</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/essential-guide-transacting-with-digital-coins-a-deep-dive-by-yl-computing/"><u>Essential Guide: Transacting with Digital Coins - A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://win-great.techidaily.com/is-your-computers-memory-failing-learn-how-to-test-ram-for-defects-with-tips-from-yl-software-experts/"><u>Is Your Computer's Memory Failing? Learn How to Test RAM for Defects with Tips From YL Software Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-on-leveraging-google-maps-live-view-feature/"><u>The Complete Walkthrough on Leveraging Google Maps' Live View Feature</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-smartphone-browsing-with-bings-ai-enhancements-to-search-now-on-both-app-and-web-platforms/"><u>Transform Your Smartphone Browsing with Bing's AI Enhancements to Search - Now on Both App and Web Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transformative-sheet-experience-via-ai-tech-chatgpt/"><u>Transformative Sheet Experience via AI Tech (ChatGPT)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/twitters-emoji-ban-linuss-leaks-trojan-insight-and-chatgpt-shortcomings-highlighted/"><u>Twitters Emoji Ban, Linus's Leaks, Trojan Insight, & ChatGPT Shortcomings Highlighted</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-key-distinctions-between-ai-models/"><u>Understanding Key Distinctions Between AI Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-concerns-is-it-safe-to-download-chatgpt-on-a-mac/"><u>Understanding the Concerns: Is It Safe to Download ChatGPT on a Mac?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-ai-with-these-7-prompt-optimization-secrets/"><u>Unlock the Power of AI with These 7 Prompt Optimization Secrets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unleash-your-potential-on-facebook-keyword-strategies-reviewed/"><u>[New] In 2024, Unleash Your Potential on Facebook Keyword Strategies Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-video-capture-systems-for-online-streaming/"><u>[New] Premier Video Capture Systems for Online Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-steps-to-compress-youtube-video-spaces/"><u>2024 Approved The Essential Steps to Compress YouTube Video Spaces</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-security-account-manager-glitches/"><u>Correcting Windows Security Account Manager Glitches</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ersetzen-sie-ihre-hdd-durch-eine-samsung-evo-850-ssd-unter-windows-schritt-fur-schritt-anleitung/"><u>Ersetzen Sie Ihre HDD Durch Eine Samsung EVO 850 SSD Unter Windows - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808121034-hp-drivers-for-windows-10-download-easily/"><u>HP Drivers for Windows 10. Download Easily！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immediate-purchase-top-ces-2023-gadgets-and-innovations-ready-at-your-fingertips-explore-the-must-have-devices/"><u>Immediate Purchase: Top CES 2023 Gadgets and Innovations Ready at Your Fingertips - Explore the Must-Have Devices!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-solution-fixing-windows-cannot-be-installed-to-this-disk-error-due-to-gpt-requirements/"><u>Step-by-Step Solution: Fixing 'Windows Cannot Be Installed to This Disk' Error Due to GPT Requirements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-how-to-monitor-and-manage-cpu-heat-levels-on-windows-11-systems/"><u>Step-by-Step Tutorial: How to Monitor and Manage CPU Heat Levels on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808251323-stop-intrusive-ads-across-browsers-how-to-block-pop-ups-in-chrome-firefox-and-edge-instantly/"><u>Stop Intrusive Ads Across Browsers: How to Block Pop-Ups in Chrome, Firefox & Edge Instantly!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-i-file-wma-in-wmv-offline-e-gratis-con-moveavi/"><u>Trasforma I File WMA in WMV Offline E Gratis Con Moveavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshoot-and-fix-how-to-restore-your-logitech-k520-keyboards-functionality-swiftly/"><u>Troubleshoot & Fix: How to Restore Your Logitech K520 Keyboard's Functionality Swiftly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723807921534-ultimate-tutorial-to-get-and-run-kodi-on-your-xbox-one-easy-steps-inside/"><u>Ultimate Tutorial to Get and Run Kodi on Your Xbox One - Easy Steps Inside</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unveiling-the-best-in-computing-the-toms-hardware-scoop/"><u>Unveiling the Best in Computing: The Tom's Hardware Scoop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-premier-livestream-networks-for-2024/"><u>Unveiling the Premier Livestream Networks for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/use-ps4-controller-on-steam-tutorial/"><u>Use PS4 Controller on Steam [Tutorial]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-10-blocks-desktop-programs-win32-apps-points-to-windows-store/"><u>Windows 10 Blocks Desktop Programs (Win32 Apps), Points to Windows Store</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Preheating, Balanced Welding Sequences, and Post-Weld Stress Relief Techniques Are Used to Mite Residual Stresses and Prevent Distortion.
-date: 2025-02-11T23:33:17.582Z
-updated: 2025-02-16T17:15:17.236Z
+date: 2025-03-03T17:16:45.998Z
+updated: 2025-03-05T19:46:31.497Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best small tablet right now?
 
@@ -78,10 +74,6 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Fire 7 Tablet
 
 ### Best budget small tablet
@@ -116,10 +108,6 @@ Cons
 
 ## Boox Tab Mini C
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -147,15 +135,7 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Kindle 11th generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -232,10 +212,6 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -271,10 +247,6 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,22 +294,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-videopro-4k-monitors-the-cutting-edge-in-visualization/"><u>[New] VideoPro 4K Monitors The Cutting Edge in Visualization</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-flawless-video-calls-from-laptop-using-the-desktop-whatsapp-browser/"><u>[Updated] Flawless Video Calls From Laptop Using the Desktop WhatsApp Browser</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>[Updated] Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/easy-ways-to-get-free-views-on-youtube-alternative-methods-for-2024/"><u>Easy Ways To Get Free Views on YouTube! Alternative Methods for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-for-sea-of-thieves-on-pc/"><u>How to Restore Microphone Functionality for Sea of Thieves on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/incorporating-personalized-gpt-insights-into-chatbot-interactions-for-a-bespooken-experience/"><u>Incorporating Personalized GPT Insights Into Chatbot Interactions for a Bespooken Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-strategies-to-improve-your-dandd-experience-using-chatgpt/"><u>Innovative Strategies to Improve Your D&D Experience Using ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-with-ubuntu-mastering-conversational-ai-via-shell-interface/"><u>Integrating ChatGPT with Ubuntu: Mastering Conversational AI via Shell Interface</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-gpt-5-on-the-horizon-exploring-the-release-timeline/"><u>Is GPT-5 on the Horizon? Exploring the Release Timeline</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/learning-from-human-input-is-chatgpt-able-to-evolve/"><u>Learning From Human Input: Is ChatGPT Able to Evolve?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-ai-chatgpts-strengths-in-7-health-factors/"><u>Leveraging AI: ChatGPT's Strengths in 7 Health Factors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-for-total-life-enhancement/"><u>Mastering ChatGPT for Total Life Enhancement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-the-7-critical-mistakes-you-should-not-make/"><u>Mastering Generative AI: The 7 Critical Mistakes You Should Not Make</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-content-generation-through-ai-innovations/"><u>Redefining Content Generation Through AI Innovations</u></a></li>
-<li><a href="https://win-great.techidaily.com/ultimate-selection-of-free-windows-recovery-apps-compatible-with-versions-from-7-to-11/"><u>Ultimate Selection of Free Windows Recovery Apps Compatible with Versions From 7 to 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-secrets-to-youtube-success-titles-and-tags-for-2024/"><u>Unveiling the Secrets to Youtube Success Titles & Tags for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-youtube-green-screen-videos-and-get-your-green-screen-ideas-for-2024/"><u>Watch Youtube Green Screen Videos and Get Your Green Screen Ideas for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-technical-treasure-trove-mastering-the-art-of-capturing-roblox-adventures-on-apple-devices-for-2024/"><u>[New] Technical Treasure Trove Mastering the Art of Capturing Roblox Adventures on Apple Devices for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-path-to-youtube-wealth-top-revenue-tactics/"><u>[Updated] In 2024, The Path to YouTube Wealth Top Revenue Tactics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>2024 Approved Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/busting-the-biggest-misconceptions-the-true-story-of-top-9-artificial-intelligence-chatbots/"><u>Busting the Biggest Misconceptions: The True Story of Top 9 Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/coding-helper-face-off-determining-if-github-copilot-outshines-chatgpt/"><u>Coding Helper Face-Off: Determining if GitHub Copilot Outshines ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-creativity-top-3-ai-chatbots-tackle-identical-challenge/"><u>Comparing Creativity: Top 3 AI Chatbots Tackle Identical Challenge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-wellness-chatgpt-driven-meal-plans/"><u>Crafting Wellness: ChatGPT-Driven Meal Plans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-your-personalized-ai-chatbot-tailoring-a-custom-gpt-model-to-your-data/"><u>Creating Your Personalized AI Chatbot: Tailoring a Custom GPT Model to Your Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/debunking-myths-is-chatgpt-trustworthy/"><u>Debunking Myths: Is ChatGPT Trustworthy?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-on-the-top-generative-ai-an-in-depth-comparison-between-notion-ai-and-chatgpt/"><u>Deciding on the Top Generative AI: An In-Depth Comparison Between Notion AI and ChatGPT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-yuva-3-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Yuva 3 Pro Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-images-basic-tips-with-lunapic/"><u>In 2024, Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/madden-nfl-19-assessment-engaging-features-overshadowed-by-familiarity/"><u>Madden NFL 19 Assessment: Engaging Features Overshadowed by Familiarity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-toms-hardware-chronicles/"><u>Navigate the World of Tech: Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-computing-experience-discover-how-intels-new-ai-powered-chip-transforms-laptops-the-explosive-advantages-revealed-techinsider/"><u>Revolutionize Your Computing Experience: Discover How Intel's New AI-Powered Chip Transforms Laptops - The Explosive Advantages Revealed | TechInsider</u></a></li>
 </ul></div>
 

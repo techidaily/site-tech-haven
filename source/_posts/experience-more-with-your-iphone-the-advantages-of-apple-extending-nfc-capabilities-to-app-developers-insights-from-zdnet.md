@@ -1,7 +1,7 @@
 ---
 title: "Experience More with Your iPhone: The Advantages of Apple Extending NFC Capabilities to App Developers - Insights From ZDNet"
-date: 2025-02-14T17:04:04.084Z
-updated: 2025-02-16T21:31:52.795Z
+date: 2025-02-28T19:38:49.255Z
+updated: 2025-03-05T16:42:23.074Z
 tags:
   - apple
 categories:
@@ -29,10 +29,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
 
@@ -68,19 +64,11 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -100,10 +88,6 @@ Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Third-party immersive video workflow
 
 One of the truly breathtaking experiences of the Vision Pro is what Apple calls Immersive video. This is a very big step beyond the typical 3D video we've seen in movies and TV shows. The entire experience wraps around you 180 degrees. When it's done right, it's astonishing. 
@@ -113,10 +97,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,24 +151,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-creative-edge-incorrances-on-luts-in-after-effects-for-2024/"><u>[New] Creative Edge Incorrances on LUTs in After Effects for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-trailblazers-top-intro-list-for-zooids/"><u>[New] In 2024, Trailblazers Top Intro List for Zooids</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-inhibit-surprise-youtube-recommendations/"><u>[Updated] 2024 Approved Inhibit Surprise YouTube Recommendations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>[Updated] Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>[Updated] Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/commandez-movavi-video-suite-pour-entreprise-gratuit-et-facile-a-utiliser/"><u>Commandez Movavi Video Suite Pour Entreprise - Gratuit Et Facile À Utiliser</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/global-outreach-for-chatgpt-sessions-techniques-for-link-sharing-success/"><u>Global Outreach for ChatGPT Sessions: Techniques for Link Sharing Success</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-personalized-language-models-can-compromise-your-data-and-steps-to-enhance-security/"><u>How Personalized Language Models Can Compromise Your Data and Steps to Enhance Security</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-15-pro-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 15 Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ideal-framework-top-20-most-engaging-github-and-chatgpt-dialogues/"><u>Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-every-aspect-of-apples-new-ai-technologies-revealed-at-the-recent-worldwide-developers-conference/"><u>In-Depth Analysis: Every Aspect of Apple's New AI Technologies Revealed at the Recent Worldwide Developers Conference</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/jobs-at-risk-predicting-ais-impact-on-careers/"><u>Jobs at Risk: Predicting AI's Impact on Careers?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-chatgpt-to-establish-and-reach-effective-health-aspirations/"><u>Leverage ChatGPT to Establish and Reach Effective Health Aspirations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-referencing-custom-gpts-with-gpt-mentions-in-chatgpt-talks/"><u>Mastering the Art of Referencing Custom GPTs with GPT Mentions in ChatGPT Talks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mirth-and-machines-the-evolution-of-portable-tech-and-secure-surfing/"><u>Mirth and Machines: The Evolution of Portable Tech & Secure Surfing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-multilingualism-with-chatgpt-premium-tools/"><u>Navigating Multilingualism with ChatGPT Premium Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-recommended-network-attached-storage-backup-solutions-for-windows-11-10-8-and-7/"><u>Top Recommended Network Attached Storage Backup Solutions for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-quality-samsung-s90c-oled-marked-as-samsungs-finest-ever-now-at-an-unbelievable-discount-discover-how-zdnet/"><u>Unbeatable Quality: Samsung S90C OLED Marked as Samsung's Finest Ever, Now at an Unbelievable Discount – Discover How! [ZDNet]</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unlocking-your-youtube-potential-through-brand-partnerships-for-2024/"><u>Unlocking Your YouTube Potential Through Brand Partnerships for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-deciphering-the-art-of-cd-ripping-via-windows-media-player/"><u>[New] Deciphering the Art of Cd Ripping via Windows Media Player</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-dynamic-speaker-analysis-episode-8-for-2024/"><u>[Updated] Dynamic Speaker Analysis - Episode 8 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-video-enhanced-slideshow-mastery-with-youtube/"><u>[Updated] Video-Enhanced Slideshow Mastery with YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-success-the-top-online-stock-portals-for-2024/"><u>Chart Success The Top Online Stock Portals for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-reviews-a-comprehensive-guide-on-hardware-insights/"><u>Exploring Tom's Tech Reviews: A Comprehensive Guide on Hardware Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-15-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 15 Pro?</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-tecno-spark-20-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Tecno Spark 20 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-g22-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia G22 Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-your-bluetooth-connectivity-enhancing-signal-strength-and-range-in-windows-10-and-11/"><u>Maximizing Your Bluetooth Connectivity: Enhancing Signal Strength and Range in Windows 10 & 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-and-resolving-safe-mode-problems-in-the-ps4-gaming-system/"><u>Navigating and Resolving Safe Mode Problems in the PS4 Gaming System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-net-safely-5-crucial-tips-every-beginner-should-know/"><u>Navigating the Net Safely: 5 Crucial Tips Every Beginner Should Know</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/network-adapter-driver-missing-in-windows-11-solved/"><u>Network Adapter Driver Missing in Windows 11 [Solved]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-elder-scrolls-online-play-strategies-to-combat-slow-frame-rates/"><u>Optimizing Elder Scrolls Online Play: Strategies to Combat Slow Frame Rates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-simple-way-to-download-anker-mouse-drivers-for-optimal-functionality/"><u>Quick & Simple Way to Download Anker Mouse Drivers for Optimal Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-secure-how-to-bookmark-your-login-details-on-chrome/"><u>Quick and Secure: How to Bookmark Your Login Details on Chrome</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fixes-for-non-functional-drag-and-drop-feature-on-pcs/"><u>Quick Fixes for Non-Functional Drag and Drop Feature on PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-unsuccessful-dell-driver-updates-a-step-by-step-guide/"><u>Resolving Unsuccessful Dell Driver Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-updated-10-best-2d-animation-software-freepaid-for-2024/"><u>Updated Updated 10 Best 2D Animation Software Free/Paid for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed"
-date: 2025-02-15T18:37:38.165Z
-updated: 2025-02-16T23:08:03.620Z
+date: 2025-03-02T17:58:38.658Z
+updated: 2025-03-05T19:12:31.545Z
 tags:
   - apple
 categories:
@@ -36,17 +36,9 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -64,19 +56,11 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -96,10 +80,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,24 +141,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-invaluable-slide-show-tools-for-business-executives/"><u>[New] 2024 Approved Invaluable Slide Show Tools for Business Executives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-select-sites-endless-photographic-repository-access/"><u>[Updated] Select Sites Endless Photographic Repository Access</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhanced-visuals-shift-to-advanced-wmdesk/"><u>Enhanced Visuals: Shift to Advanced WMDesk</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-windows-11-steam-disconnect-glitch/"><u>Fixing Windows 11 Steam Disconnect Glitch</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-15-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 15</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-ai-communication-with-these-5-premier-online-educational-programs-on-prompt-engineering/"><u>Master AI Communication with These 5 Premier Online Educational Programs on Prompt Engineering</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-hardware-havoc-chatgpts-fixes-at-a-glance/"><u>Navigating Hardware Havoc: ChatGPT's Fixes at a Glance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-role-of-an-ai-prompt-creator-is-this-career-path-sustainable-for-future-growth/"><u>Navigating the Role of an AI Prompt Creator: Is This Career Path Sustainable for Future Growth?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/philips-hf3505-wake-up-light-review/"><u>Philips HF3505 Wake-Up Light Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/plagiarism-in-ai-delving-into-the-source-material-of-chatgpt/"><u>Plagiarism in AI? Delving Into the Source Material of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/regulation-techniques-governments-implement-on-artificial-intelligence-systems/"><u>Regulation Techniques Governments Implement on Artificial Intelligence Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-disappeared-desktop-icons-for-windows-11-users-issue-resolved/"><u>Restore Disappeared Desktop Icons for Windows 11 Users [ISSUE RESOLVED]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/rethinking-ai-why-claude-3-surpasses-chatgpt-in-4-ways/"><u>Rethinking AI: Why Claude 3 Surpasses ChatGPT in 4 Ways</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revealing-codegpts-mechanisms-ai-and-its-coding-prowess/"><u>Revealing CodeGPT's Mechanisms: AI and Its Coding Prowess</u></a></li>
-<li><a href="https://win-blog.techidaily.com/say-goodbye-to-blurry-scenes-outriders-graphics-upgrade-successful/"><u>Say Goodbye to Blurry Scenes: Outriders' Graphics Upgrade Successful</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-and-utilizing-the-rtx-ai-chatbot-via-nvidia/"><u>Step-by-Step Guide: Activating and Utilizing the RTX AI Chatbot via NVIDIA</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-6-essential-techniques-to-leverage-chatgpt-in-data-analysis/"><u>The 6 Essential Techniques to Leverage ChatGPT in Data Analysis</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-get-noticed-with-these-20-eye-catching-adobe-premiere-intro-templates-free-download/"><u>Updated In 2024, Get Noticed with These 20 Eye-Catching Adobe Premiere Intro Templates Free Download</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-sequence-length-in-seconds-of-20mb-media/"><u>[New] 2024 Approved Sequence Length in Seconds of 20MB Media</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>[New] 2024 Approved Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-beginners-journey-to-selecting-the-right-action-cam-for-2024/"><u>[Updated] A Beginner’s Journey to Selecting the Right Action Cam for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-visual-storytelling-editing-techniques-for-educators/"><u>[Updated] Visual Storytelling Editing Techniques for Educators</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-mobvoi-ticwatch-pro-4g-a-comprehensive-review-for-tech-enthusiasts/"><u>Exploring the Mobvoi Ticwatch Pro 4G: A Comprehensive Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-recover-from-frozen-or-halted-windows-updates-fixes-at-hand/"><u>How to Recover From Frozen or Halted Windows Updates - Fixes at Hand</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-xiaomi-redmi-note-12r-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Xiaomi Redmi Note 12R on Mac?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-restore-drag-and-drop-functionality-on-your-windows-machine/"><u>How To Restore Drag and Drop Functionality On Your Windows Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-rotate-screen-in-windows-10-easy-guide/"><u>How to Rotate Screen in Windows 10 [Easy Guide]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-save-popular-shows-from-netflix-directly-onto-your-laptop-device/"><u>How to Save Popular Shows From Netflix Directly Onto Your Laptop Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-update-atheros-wifi-drivers-in-windows-11/"><u>How to Update Atheros Wifi Drivers In Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-kodi-how-to-setup-and-use-the-netflix-addon-effectively/"><u>Mastering Kodi: How to Setup and Use the Netflix Addon Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-printer-laptop-connections-your-comprehensive-guide-to-wireless-and-direct-cable-methods/"><u>Mastering Printer-Laptop Connections: Your Comprehensive Guide to Wireless and Direct Cable Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-online-privacy-and-save-exclusive-guide-to-scoring-49-off-expressvpn-deals/"><u>Maximize Online Privacy & Save: Exclusive Guide to Scoring 49% Off ExpressVPN Deals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimize-your-windows-10-sound-top-methods-for-enhancing-audio-quality/"><u>Optimize Your Windows 10 Sound: Top Methods for Enhancing Audio Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimized-media-playback-on-ps4-say-goodbye-to-lag-issues/"><u>Optimized Media Playback on PS4 - Say Goodbye to Lag Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-shut-down-multiple-safari-tabs-simultaneously-on-ios-devices/"><u>Quick Guide: Shut Down Multiple Safari Tabs Simultaneously on iOS Devices</u></a></li>
 </ul></div>
 

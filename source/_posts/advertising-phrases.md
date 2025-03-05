@@ -1,7 +1,7 @@
 ---
 title: Advertising Phrases
-date: 2025-02-14T20:17:07.675Z
-updated: 2025-02-16T18:56:30.924Z
+date: 2025-02-27T18:44:39.420Z
+updated: 2025-03-05T18:28:20.158Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you've ever wondered how we evaluate the [latest smartphones](https://www.zdn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test phones in 2024
 
 Kerry Wan/ZDNET
@@ -48,10 +44,6 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Design and ergonomics
 
 Kerry Wan/ZDNET
@@ -61,10 +53,6 @@ How a phone looks and feels can greatly influence the overall experience. There'
 But also, how does the phone feel when it's tucked in your tight jeans or lightweight shorts? When testing and recommending phones, we consider design and ergonomics heavily, understanding that not everyone wants the biggest and most premium-feeling option out there. For example, a device with a plastic casing will serve you better than an all-glass build if you're a construction worker or someone who's often outdoors.
 
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance
 
@@ -86,10 +74,6 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Battery life and charging
 
 Kerry Wan/ZDNET
@@ -97,10 +81,6 @@ Kerry Wan/ZDNET
 It's also important for us to evaluate how long phones last under light, moderate, and heavy usage, how long they take to recharge, and how they do it (wired, wireless, or both). We typically judge the endurance of phones based on screen-on time (SOT); that's the total amount of time the screen is turned on, whether you're scrolling through TikTok or typing an email. The higher the SOT, the longer the phone lasts.
 
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Special features
 
@@ -148,20 +128,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/dont-trust-unverified-ai-services-spot-the-fakes/"><u>Don't Trust Unverified AI Services - Spot the Fakes!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-dsounddll-is-missing-issues/"><u>Effective Solutions for 'Dsound.dll Is Missing' Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-cooking-skills-with-chatgpt-top-7-uses-for-home-chefs/"><u>Elevate Your Cooking Skills with ChatGPT – Top 7 Uses for Home Chefs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/embrace-confidential-communication-try-duckduckgos-ai-chat-for-safe-encounters-with-chatgpt-and-beyond/"><u>Embrace Confidential Communication - Try DuckDuckGo's AI Chat for Safe Encounters With ChatGPT and Beyond</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/emerging-leaders-the-best-advances-in-artificam-hardware-today/"><u>Emerging Leaders: The Best Advances in Artificam Hardware Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensuring-secure-use-of-ai-like-chatgpt-in-therapy-and-counseling/"><u>Ensuring Secure Use of AI Like ChatGPT in Therapy and Counseling</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exposing-the-frauds-identify-these-warty-fake-chatgpt-virus-apps-before-they-endanger-your-information/"><u>Exposing the Frauds: Identify These Warty Fake ChatGPT Virus Apps Before They Endanger Your Information</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unresponsive-files-downloads-in-windows-11-5/"><u>Fixing Unresponsive Files Downloads in Windows 11 (5)</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-interacting-with-a-blended-world-the-essence-of-mixed-reality/"><u>In 2024, Interacting with a Blended World The Essence of Mixed Reality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photopony-pro-exploring-affordable-filters/"><u>In 2024, PhotoPony Pro Exploring Affordable Filters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-pick-de-aplicativos-de-edicao-de-video-para-pc-windows-em-2024/"><u>Top Pick De Aplicativos De Edição De Video Para PC Windows Em 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-srt-systems-for-2024/"><u>Unlocking the Secrets of SRT Systems for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-windows-10-mastering-photo-and-video-importation/"><u>Unveiling Windows 10 Mastering Photo & Video Importation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dive-deep-into-single-platform-livestreaming-with-onestream-for-2024/"><u>[New] Dive Deep Into Single-Platform Livestreaming with OneStream for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-going-back-with-android-video-editing/"><u>[New] Going Back with Android Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-iphone-hdr-technique/"><u>[New] The Definitive iPhone HDR Technique</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash-for-2024/"><u>[Updated] Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-30-second-color-fixes-for-aspiring-photo-pros/"><u>2024 Approved 30-Second Color Fixes for Aspiring Photo Pros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-adaptability-for-ace-gamers-for-2024/"><u>Auditory Adaptability for Ace Gamers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/educational-transformation-why-teachers-should-embrace-ai-8-key-arguments/"><u>Educational Transformation: Why Teachers Should Embrace AI (8 Key Arguments)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-res-settings-reinstated-in-win10/"><u>High-Res Settings Reinstated in Win10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-12-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 12 Pro Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-efficiency-with-copilot-the-ultimate-guide-to-leveraging-free-gpt-4-power/"><u>Maximize Your Efficiency with Copilot: The Ultimate Guide to Leveraging Free GPT-4 Power</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-post-altman-predicted-shift-for-gpt-users/"><u>New Era Post-Altman: Predicted Shift for GPT Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/paperclip-maximizer-quandary-explained-bridging-concepts-with-modern-ai-applications/"><u>Paperclip Maximizer Quandary Explained: Bridging Concepts with Modern AI Applications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-methods-for-converting-your-dvds-into-mp4-format-across-windows-10-11-and-macos/"><u>Top 10 Methods for Converting Your DVDs Into MP4 Format Across Windows 10, 11 & macOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-chatgpt-potential-today/"><u>Unlocking ChatGPT Potential Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bots in Peril: Thwarting Model Reconstruction"
-date: 2024-08-16T10:22:31.655Z
-updated: 2024-08-17T10:22:31.655Z
+date: 2025-02-27T17:57:33.181Z
+updated: 2025-03-05T20:10:36.590Z
 tags:
   - chatgpt
   - open-ai
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Shownotes
 
 This week, we chat about the following tech news that matters:
@@ -47,14 +44,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -63,4 +57,22 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-look-inside-magix-pixel-management/"><u>2024 Approved A Look Inside MAGIX Pixel Management</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-driven-marketing-solutions-enhance-your-seo-strategies/"><u>Cookiebot-Driven Marketing Solutions: Enhance Your SEO Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-meaning-and-price-of-grok-ai-through-elons-lens/"><u>Decoding the Meaning and Price of Grok AI Through Elon's Lens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-world-of-ai-clear-and-simple-insights/"><u>Decoding the World of AI: Clear and Simple Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-most-promising-4-ai-stories-maker-tools/"><u>Discover the Most Promising 4 AI Stories Maker Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-power-of-conversing-with-chatgpt-how-it-works/"><u>Discover the Power of Conversing with ChatGPT: How It Works</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-privacy-game-connect-securely-with-chatgpt-using-duckduckgos-innovative-ai-chat-features/"><u>Elevate Your Privacy Game: Connect Securely with ChatGPT Using DuckDuckGo’s Innovative AI Chat Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-mastery-three-unique-functions-you-cant-find-in-chatgpt-or-similar-ais/"><u>Excel Mastery: Three Unique Functions You Can't Find in ChatGPT or Similar AIs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-xs-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone XS Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-enters-the-battle-of-ai-assistants-with-the-launch-of-bard-to-challenge-chatgpt/"><u>Google Enters the Battle of AI Assistants With the Launch of Bard to Challenge ChatGPT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leverage-smart-organization-in-mematic-for-2024/"><u>Leverage Smart Organization in Mematic for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-installing-and-enabling-revo-uninstaller/"><u>Step-by-Step Guide to Installing and Enabling Revo Uninstaller</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-and-science-of-enhancing-visual-appeal-with-adobes-look-up-tables-luts-for-2024/"><u>The Art and Science of Enhancing Visual Appeal with Adobe's Look-Up Tables (LUTs) for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138543805-9781528783187-the-history-of-magic-including-a-clear-and-precise-exposition-of-its-procedure-its-rites-and-its-mysteries/"><u>The History of Magic - Including a Clear and Precise Exposition of its Procedure, Its Rites and Its Mysteries | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-realtek-hd-audio-connection-issues/"><u>Troubleshooting: Fixing Realtek HD Audio Connection Issues</u></a></li>
+</ul></div>
 

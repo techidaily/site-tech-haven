@@ -1,7 +1,7 @@
 ---
 title: "High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison on ZDNet"
-date: 2025-02-12T01:51:08.521Z
-updated: 2025-02-16T22:45:57.387Z
+date: 2025-03-01T16:53:26.161Z
+updated: 2025-03-05T20:21:37.340Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -46,10 +42,6 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 | Price                           | [Starting at $2,199](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fgalaxybooks%2Fgalaxy-book3-ultra%2F&publisher_slug=itechdaily19598&exclusive=1) | [Starting at $2,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
 
@@ -108,17 +100,9 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -127,10 +111,6 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,14 +165,20 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-professional-audio-choice-the-ultimate-10-spotify-tools/"><u>[New] In 2024, Professional Audio Choice The Ultimate 10 Spotify Tools</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-enabling-offline-playback-for-cod-cold-war/"><u>[RESOLVED] Enabling Offline Playback for CoD Cold War</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-top-10-best-action-cameras-for-diving-or-snorkelling-2023-update/"><u>2024 Approved Top 10 Best Action Cameras For Diving Or Snorkelling -2023 Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ace-social-media-creation-using-chatgpt-strategies-for-higher-quality-content/"><u>Ace Social Media Creation Using ChatGPT: Strategies for Higher Quality Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-for-novices-dive-into-the-basics-with-our-top-9-groups/"><u>AI for Novices: Dive Into the Basics With Our Top 9 Groups</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-the-google-bard-app-might-be-a-trojan-horse-for-your-devices-security/"><u>Beware: The Google Bard App Might Be a Trojan Horse for Your Device’s Security</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bing-chat-and-chatgpt-face-off-the-8-critical-considerations-every-freelancer-should-know/"><u>Bing Chat and ChatGPT Face-Off: The 8 Critical Considerations Every Freelancer Should Know</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-timecode-calculation-made-easy-top-picks-for-online-ios-and-android-tools-for-2024/"><u>New Timecode Calculation Made Easy Top Picks for Online, iOS, and Android Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-frozen-pleasure-recording-review-deep-dive/"><u>[New] Frozen Pleasure Recording Review Deep Dive</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-checklist-for-your-youtubes-most-impactful-visuals/"><u>[Updated] 2024 Approved The Ultimate Checklist for Your YouTube's Most Impactful Visuals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-screen-grabber-for-win11/"><u>[Updated] Professional Screen Grabber for Win11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-export-live-webcam-video-through-vlc/"><u>2024 Approved Export Live Webcam Video Through VLC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chat-guidelines-sidestep-the-top-6-errors-in-dialogue/"><u>AI Chat Guidelines: Sidestep the Top 6 Errors in Dialogue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-humor-evaluation-does-chatgpt-have-what-it-takes-to-joke-and-laugh-with-us/"><u>AI Humor Evaluation: Does ChatGPT Have What It Takes to Joke and Laugh with Us?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-ushers-new-era-key-capabilities-we-expect-in-gpt-5/"><u>AI Ushers New Era: Key Capabilities We Expect in GPT-5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722139473883-chatgpt-on-iphone-not-responding-apply-any-of-our-9-proven-strategies/"><u>ChatGPT on iPhone Not Responding? Apply Any of Our 9 Proven Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-clips-excellent-tools-for-photoshopping-with-frames/"><u>Creative Clips Excellent Tools for Photoshopping with Frames</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722146022547-explore-the-new-chatgpt-mobile-app-now-available-on-ios-devices/"><u>Explore the New ChatGPT Mobile App Now Available on iOS Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-top-sound-card-drivers-for-windows-free-downloads-now/"><u>Get the Top Sound Card Drivers for Windows - Free Downloads Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-10t-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme 10T 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-video-guide-to-hairstyles/"><u>In 2024, Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722120515701-navigate-through-the-best-free-ai-image-synthesis-programs-our-open-source-selection/"><u>Navigate Through the Best Free AI Image Synthesis Programs – Our Open Source Selection!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-fcpx-error-fixing-essentials-a-step-by-step-guide/"><u>Updated In 2024, FCPX Error Fixing Essentials A Step-by-Step Guide</u></a></li>
 </ul></div>
 

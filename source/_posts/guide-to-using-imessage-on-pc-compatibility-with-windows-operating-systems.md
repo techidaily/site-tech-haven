@@ -1,7 +1,7 @@
 ---
 title: "Guide to Using iMessage on PC: Compatibility with Windows Operating Systems"
-date: 2025-02-12T18:17:26.021Z
-updated: 2025-02-16T23:59:37.371Z
+date: 2025-03-01T18:35:41.084Z
+updated: 2025-03-05T19:41:36.325Z
 tags:
   - apple
 categories:
@@ -62,10 +62,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -87,10 +83,6 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -126,29 +118,17 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -192,18 +172,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-cyber-self-portraiture-creating-a-caricatured-emblem/"><u>[Updated] In 2024, Cyber Self-Portraiture Creating a Caricatured Emblem</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movgif-movavi/"><u>無料MOVからGIFへのシームレスなオンライン変換 - Movaviで学ぶ方法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-a-408-timeout-issue-causes-and-remedies-explained/"><u>Diagnosing a 408 Timeout Issue: Causes and Remedies Explained</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y100-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/go-beyond-basic-top-10-hidden-whatsapp-features-for-2024/"><u>Go Beyond Basic Top 10 Hidden WhatsApp Features for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-io-2nd-the-top-7-cutting-edge-features-revealed-for-the-new-bard-ai/"><u>Google I/O 2nD: The Top 7 Cutting-Edge Features Revealed for the New Bard AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-reliable-are-googles-bard-and-microsofts-chatgpt-for-making-savvy-investment-choices/"><u>How Reliable Are Google's Bard and Microsoft's ChatGPT for Making Savvy Investment Choices?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-access-new-features-in-chatgpt-turn-on-the-beta-version-of-web-browsing-and-plugins/"><u>How To Access New Features in ChatGPT - Turn On the Beta Version of Web Browsing and Plugins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-securely-backup-and-export-your-data-from-chatgpt/"><u>How to Securely Backup and Export Your Data From ChatGPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/qualitatsfreie-kompression-fur-grosse-videos-auf-whatsapp-mit-winxdvd/"><u>Qualitätsfreie Kompression Für Große Videos Auf WhatsApp Mit WinXDVD</u></a></li>
-<li><a href="https://win-blog.techidaily.com/rodrigo-alves-prolific-author-at-movavi/"><u>Rodrigo Alves - Prolific Author at Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-ringers-guide-shaping-iphone-sounds/"><u>The Ultimate Ringer's Guide Shaping iPhone Sounds</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>Updated The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-video-conference-solutions-security-first-for-businesses/"><u>[New] Top Video Conference Solutions Security First for Businesses</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-techniques-for-tidying-up-image-backdrops/"><u>[Updated] Techniques for Tidying Up Image Backdrops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-test-of-lenovos-yoga-pro-ninei-focus-on-responsive-keys-and-durable-frame/"><u>Comprehensive Test of Lenovo's Yoga Pro ˈnineI - Focus on Responsive Keys and Durable Frame</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-on-a-local-llm-understanding-its-strengths-and-weaknesses/"><u>Deciding on a Local LLM: Understanding Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-machine-intellect-understanding-29-important-concepts-in-ai/"><u>Decoding Machine Intellect: Understanding 29 Important Concepts in AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-4-tools-to-verify-chatgpt-conversations-ideal-for-academics-and-supervisors/"><u>Discover the Best 4 Tools to Verify ChatGPT Conversations: Ideal for Academics and Supervisors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/effective-techniques-for-screen-display-on-google-meet/"><u>Effective Techniques for Screen Display on Google Meet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-chatbot-experience-learn-these-7-response-tactics/"><u>Elevate Your Chatbot Experience: Learn These 7 Response Tactics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-engagement-making-chatgpt-talks-public/"><u>Elevating Engagement: Making ChatGPT Talks Public</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eliminating-chatgpts-monopoly-on-conversation/"><u>Eliminating ChatGPT's Monopoly on Conversation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-android-with-the-advanced-ai-features-of-bing/"><u>Empowering Android with the Advanced AI Features of Bing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-meal-prep-7-helpful-chatgpt-techniques/"><u>Enhance Your Meal Prep: 7 Helpful ChatGPT Techniques</u></a></li>
+<li><a href="https://win-studio.techidaily.com/high-definition-audi-rs3-sportback-backgrounds-and-wallpaper-collection-compiled-by-yl-computing/"><u>High-Definition Audi RS3 Sportback Backgrounds & Wallpaper Collection - Compiled by YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-forward-to-reverse-the-ultimate-tiktok-video-editing-guide-2023-update/"><u>New 2024 Approved From Forward to Reverse The Ultimate TikTok Video Editing Guide 2023 Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/precision-workflow-tackling-backdrops-in-affinity-photo-to-perfection/"><u>Precision Workflow Tackling Backdrops in Affinity Photo to Perfection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/strategic-approaches-broadcasting-live-sports-with-precision-for-2024/"><u>Strategic Approaches Broadcasting Live Sports with Precision for 2024</u></a></li>
 </ul></div>
 

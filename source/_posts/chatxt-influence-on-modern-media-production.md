@@ -1,7 +1,7 @@
 ---
 title: ChaTxt Influence on Modern Media Production
-date: 2024-08-16T10:23:33.800Z
-updated: 2024-08-17T10:23:33.800Z
+date: 2025-03-01T16:20:25.041Z
+updated: 2025-03-05T17:37:11.027Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  With AI chatbots becoming mainstream, companies are locking their most powerful features behind subscription paywalls. However, some companies allow free users to do more things than others. As such, if you'd like to give GPT-4 Turbo a try, using Microsoft's Copilot tool is the best way to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
@@ -32,21 +29,12 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
@@ -55,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
@@ -66,18 +51,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
 ## How to Get the Most Out of GPT-4 Turbo
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
@@ -88,14 +61,11 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  GPT-4 Turbo is a very powerful tool, and fortunately, you don't have to pay a cent to use it. Now you know how to use the popular chatbot model for free, whether you're on a Windows PC or otherwise.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +74,24 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-playlist-on-a-page-embedding-yt-videos-online/"><u>[New] In 2024, Playlist on a Page Embedding YT Videos Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-must-watch-live-games-top-nine-sites/"><u>[New] Must-Watch Live Games Top Nine Sites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-easy-way-to-snap-spectacular-slow-mo-on-android-for-2024/"><u>[New] The Easy Way to Snap Spectacular Slow Mo on Android for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elite-race-sims-ultimate-selection-for-2024/"><u>[Updated] Elite Race Sims Ultimate Selection for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722167425676-50-bargain-alert-for-the-latest-mobiles-plus-a-deep-dive-into-decoding-ransomware-with-chatgpt-dont-miss-our-informative-podcast/"><u>$50 Bargain Alert for the Latest Mobiles! Plus a Deep Dive Into Decoding Ransomware with ChatGPT - Don't Miss Our Informative Podcast</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722209485861-50-mobiles-and-mastering-ransomware-decryption-join-us-as-chatgpt-helps-write-the-latest-episode-of-our-podcast/"><u>$50 Mobiles & Mastering Ransomware Decryption: Join Us as ChatGPT Helps Write the Latest Episode of Our Podcast</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-transformed-discover-crucial-chatgpt-features-today/"><u>AI Transformed: Discover Crucial ChatGPT Features Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-intellectual-theft-in-machine-learning/"><u>Avoiding Intellectual Theft in Machine Learning</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1375336-9781609259112-banshees-werewolves-vampires-and-other-creatures-of-the-night/"><u>Banshees, Werewolves, Vampires, and Other Creatures of the Night | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-12plus-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme 12+ 5G? Try These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-11-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus 11 5G? Try These Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-hardware-source/"><u>Mastering Tech Essentials at Tom's Hardware Source</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/sing-at-will-explore-fresh-tracks-and-grooves-join-party-tymes-premium-karaoke-library-now/"><u>Sing at Will: Explore Fresh Tracks and Grooves – Join Party Tyme's Premium Karaoke Library Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721832631940-transform-how-you-search-bings-ai-ready-for-mobile-devices/"><u>Transform How You Search: Bing’s AI Ready for Mobile Devices.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722191689928-unravel-crime-scenes-with-these-top-4-advanced-ai-detective-games-sharpen-your-deduction-skills/"><u>Unravel Crime Scenes with These Top 4 Advanced AI Detective Games - Sharpen Your Deduction Skills!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vpn-innovations-meet-silicon-jokesters-how-secure-connections-shape-smart-comedy/"><u>VPN Innovations Meet Silicon Jokesters: How Secure Connections Shape Smart Comedy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-can-keeping-up-with-latest-data-matter-for-all-when-using-chatgpt/"><u>Why Can Keeping Up with Latest Data Matter for All When Using ChatGPT?</u></a></li>
+</ul></div>
 

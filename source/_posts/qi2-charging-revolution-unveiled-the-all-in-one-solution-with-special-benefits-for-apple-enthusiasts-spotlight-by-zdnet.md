@@ -1,7 +1,7 @@
 ---
 title: "Qi2 Charging Revolution Unveiled: The All-in-One Solution with Special Benefits for Apple Enthusiasts – Spotlight by ZDNET"
-date: 2025-02-10T02:02:19.705Z
-updated: 2025-02-16T23:16:33.557Z
+date: 2025-03-01T19:46:58.046Z
+updated: 2025-03-05T18:45:11.558Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -74,10 +70,6 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The role of TikTok?
 
 You may be wondering how this could have happened. Clearly, it was an attempt to do something different from the norm. There's also, however, the extremely strong likelihood that the creatives involved were invoking a TikTok trend that's all about crushing everyday objects.
@@ -93,10 +85,6 @@ Still, it would be quite odd if someone at Apple -- or, indeed, its ad agency --
 It's even odder that Apple would release an ad that makes the company come across as a technological Big Brother, crushing all before it. If there's one company that knows about [Big Brother in ads](https://www.youtube.com/watch?v=VtvjbmoDx-I), it's Apple.
 
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
 
@@ -146,16 +134,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-secrets-to-stellar-podcast-summaries/"><u>[New] 2024 Approved The Secrets to Stellar Podcast Summaries</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-scaling-up-instagram-videos-mobile-and-desktop-approaches/"><u>[Updated] Scaling Up Instagram Videos Mobile & Desktop Approaches</u></a></li>
-<li><a href="https://win-web.techidaily.com/effortless-object-deletion-for-seamless-presentations-on-flipbuildercom/"><u>Effortless Object Deletion for Seamless Presentations on FlipBuilder.com</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/empowering-learners-mondlys-7-year-odyssey/"><u>Empowering Learners - Mondly's 7 Year Odyssey</u></a></li>
-<li><a href="https://solve-info.techidaily.com/grublpc/"><u>GRUBLゲーム画面をPCで高解像度に記録するガイド</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-shift-the-role-of-ai-in-changing-software-development/"><u>Navigating the Shift: The Role of AI in Changing Software Development</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sarah-silverman-joins-legal-battle-against-openai-and-meta-an-inside-look/"><u>Sarah Silverman Joins Legal Battle Against OpenAI & Meta: An Inside Look</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-achievable-wellness-targets-using-chatgpt-a-comprehensive-guide/"><u>Setting Achievable Wellness Targets Using ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/share-your-ai-journey-apps-that-save-and-spread-your-chatgpt-dialogues/"><u>Share Your AI Journey: Apps That Save & Spread Your ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-combining-chatgpt-with-whatsapp-for-improved-support-services/"><u>Step-by-Step Guide to Combining ChatGPT with WhatsApp for Improved Support Services</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-laughing-along-to-mimicked-melodies/"><u>[Updated] 2024 Approved Laughing Along to Mimicked Melodies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-innovative-transitions-for-professional-videos-for-2024/"><u>[Updated] Innovative Transitions for Professional Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tips-for-fixing-stalled-video-posts-on-the-social-media-platform-iosandroid/"><u>[Updated] Tips for Fixing Stalled Video Posts on the Social Media Platform iOS/Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-gear-for-stop-motion-special-effects-for-2024/"><u>Best Gear for Stop Motion Special Effects for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-pro-max-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/measuring-movie-gb-usage-over-a-day/"><u>Measuring Movie GB Usage Over a Day</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-guide-finding-assistance-and-support-on-your-windows-10-device/"><u>Simple Guide: Finding Assistance & Support on Your Windows 10 Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stay-protected-from-phishing-expert-tips-and-tricks-for-recognizing-scam-emails/"><u>Stay Protected From Phishing: Expert Tips and Tricks for Recognizing Scam Emails</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-clearing-temporary-files-from-your-windows-10-pc/"><u>Step-by-Step Guide: Clearing Temporary Files From Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-multiple-virtual-desktops-with-windows-10/"><u>Step-by-Step Guide: Setting up Multiple Virtual Desktops with Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-remote-desktop-connection-on-windows-11/"><u>Step-by-Step Guide: Setting Up Remote Desktop Connection on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-removing-cache-data-from-mozilla-firefox/"><u>Step-by-Step Instructions: Removing Cache Data From Mozilla Firefox</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-installing-android-debug-bridge-adb-on-a-windows-machine/"><u>Step-by-Step Tutorial: Installing Android Debug Bridge (Adb) on a Windows Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steps-to-remove-a-wi-fi-connection-from-your-pc-in-windows-11/"><u>Steps to Remove a Wi-Fi Connection From Your PC in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-to-start-outlook-in-safe-mode-on-windows-11-with-pictures/"><u>Tips to Start Outlook in Safe Mode on Windows 11 [with Pictures]</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-picks-ultimate-portable-devices-for-cutting-edge-editing-for-2024/"><u>Top Picks Ultimate Portable Devices for Cutting-Edge Editing for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/tracking-down-users-excluded-from-your-fb-circle/"><u>Tracking Down Users Excluded From Your FB Circle</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-secrets-of-vob-videos-on-your-pc-integrating-with-windows-media-player-made-easy/"><u>Unlock the Secrets of VOB Videos on Your PC: Integrating with Windows Media Player Made Easy!</u></a></li>
 </ul></div>
 

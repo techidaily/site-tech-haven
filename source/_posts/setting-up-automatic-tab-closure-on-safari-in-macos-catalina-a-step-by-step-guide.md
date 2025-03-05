@@ -1,7 +1,7 @@
 ---
 title: "Setting up Automatic Tab Closure on Safari in macOS Catalina: A Step-by-Step Guide"
-date: 2025-02-09T20:36:17.728Z
-updated: 2025-02-16T16:59:57.161Z
+date: 2025-03-02T18:14:22.698Z
+updated: 2025-03-05T19:42:09.727Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ I connect to a lot of different networks. At home, I have three different LANs t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
@@ -40,19 +36,11 @@ Let me show you how it works.
 
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create different network locations in MacOS
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
 
@@ -70,10 +58,6 @@ Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Configure the new location
 
 Make sure to select the new location you created from the Location drop-down. Click Advanced to open the location configuration window, where you can configure the location to meet your specific needs. For example, you can select the network to be used and then configure that network for a static IP address using the Cloudflare DNS servers.
@@ -83,10 +67,6 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -131,24 +111,16 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-boxed-insights-unpacking-effective-strategy/"><u>[New] In 2024, Boxed Insights Unpacking Effective Strategy</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-lol-factory-robotic-deadwalkers-for-2024/"><u>[New] LOL Factory Robotic Deadwalkers for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-your-videos-with-the-right-dimension-proportions/"><u>[New] Transform Your Videos with the Right Dimension Proportions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pc-sound-logging-simplified-install-x-recorder-app/"><u>[Updated] 2024 Approved Pc Sound Logging Simplified - Install X-Recorder App</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-seamless-video-conferencing-with-zoom-and-gmail/"><u>[Updated] Seamless Video Conferencing with Zoom & Gmail</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-interaction-integrating-watch-with-macos/"><u>2024 Approved Innovative Interaction Integrating Watch with MacOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/24-next-gen-pos-applications-beyond-openais-innovations/"><u>24 Next-Gen POS Applications Beyond OpenAI's Innovations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-key-techniques-for-transforming-chatgpt-into-your-ideal-dungeon-master-tool/"><u>5 Key Techniques for Transforming ChatGPT Into Your Ideal Dungeon Master Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/agv-installation-woes-heres-how-to-tackle-top-6-issues-effectively/"><u>AGV Installation Woes? Here's How to Tackle Top 6 Issues Effectively</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-powered-resume-building-unleashing-the-potential-of-chatgpt-for-job-applications/"><u>AI-Powered Resume Building: Unleashing the Potential of ChatGPT for Job Applications</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/aufschlussreiche-artikel-und-ratschlage-zur-aomei-backupsoftware-losungen-finden-fur-alle-bedurfnisse/"><u>Aufschlussreiche Artikel Und Ratschläge Zur AOMEI-Backupsoftware: Lösungen Finden Für Alle Bedürfnisse</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-of-truthgpt-exposed-police-probe-into-mullvad-vpns-secrets-leading-free-pc-games-listed-and-best-practices-in-mechanical-keyboards/"><u>Behind the Scenes of TruthGPT Exposed! Police Probe Into Mullvad VPN's Secrets | Leading Free PC Games Listed & Best Practices in Mechanical Keyboards</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722033621810-eagerly-awaiting-chatgpts-desktop-launch-heres-an-excellent-open-source-substitute-to-try/"><u>Eagerly Awaiting ChatGPT's Desktop Launch? Here’s an Excellent Open-Source Substitute to Try!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-lava-yuva-3-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Lava Yuva 3 Pro Phone Network-Ready</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722116938832-malicious-chromium-app-mimicking-chatgpt-protect-your-facebook-login-details-now/"><u>Malicious Chromium App Mimicking ChatGPT: Protect Your Facebook Login Details Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721957618836-secure-accounts-on-messaging-platforms-with-just-your-email-learn-how/"><u>Secure Accounts on Messaging Platforms with Just Your Email - Learn How!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-with-toms-hardware-wisdom/"><u>Unveiling Tech Secrets with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/whats-inside-chatgpt-understanding-how-this-pioneering-tool-leverages-powerful-generative-ai-techniques/"><u>What's Inside ChatGPT? Understanding How This Pioneering Tool Leverages Powerful Generative AI Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-maximizing-monetary-gains-with-youtubes-short-form-videos/"><u>[New] 2024 Approved Maximizing Monetary Gains with YouTube's Short-Form Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-compelling-top-10-pc-cameras-for-recording-for-2024/"><u>[Updated] Compelling Top 10 PC Cameras for Recording for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-now-comes-with-a-voice-discover-openais-latest-ai-communication-feature/"><u>ChatGPT Now Comes with a Voice! Discover OpenAI's Latest AI Communication Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conversational-engineering-customize-with-gpts-methodologies/"><u>Conversational Engineering: Customize with GPT's Methodologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-truthgpt-coin-can-you-trust-this-emerging-digital-currency/"><u>Demystifying TruthGPT Coin: Can You Trust This Emerging Digital Currency?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/export-and-share-with-ease-top-4-applications-for-gpt-3-histories/"><u>Export & Share with Ease: Top 4 Applications for GPT-3 Histories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-vecto-art-and-graphic-sites-compared-whos-the-best/"><u>Free Vecto Art & Graphic Sites Compared – Who's the Best?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-steams-content-file-locked-error-in-windows/"><u>How to Fix Steam’s “Content File Locked” Error in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/perfecting-citations-a-comprehensive-guide-on-referencing-chatgpt/"><u>Perfecting Citations: A Comprehensive Guide on Referencing ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-escalating-challenge-understanding-the-deepening-threat-of-generative-ai-vulnerabilities/"><u>The Escalating Challenge: Understanding the Deepening Threat of Generative AI Vulnerabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-controls-copyright-to-computational-art/"><u>Who Controls Copyright to Computational Art?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In the Innovative Tech Arena, How Does a Major Antitrust Decision Impacting Google Compare with Samsung's Strategic Growth in Artificial Intelligence as Reflected on the Innovation Index?
-date: 2025-02-13T17:28:36.405Z
-updated: 2025-02-16T20:15:25.873Z
+date: 2025-02-28T17:32:35.293Z
+updated: 2025-03-05T18:38:23.105Z
 tags:
   - apple
 categories:
@@ -71,26 +71,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-action-shooting-guide-choosing-cameras-as-a-novice-23-update/"><u>[New] Action Shooting Guide Choosing Cameras as a Novice '23 Update</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-efficiently-engaging-with-numerous-youtube-lectures/"><u>[New] In 2024, Efficiently Engaging with Numerous YouTube Lectures</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-enabling-pip-for-youtube-viewing-on-your-iphone/"><u>2024 Approved Enabling PIP for YouTube Viewing on Your iPhone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-revenue-driven-guide-to-designing-youtube-trailers/"><u>2024 Approved The Revenue-Driven Guide to Designing YouTube Trailers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-review-of-lenovo-thinkpad-x1n-by-zdnet-unleashing-power-in-an-arm-based-ultraportable-with-5g-and-exceptional-battery-duration/"><u>Exclusive Review of Lenovo ThinkPad X1n by ZDNET: Unleashing Power in an Arm-Based Ultraportable with 5G & Exceptional Battery Duration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-ai-with-claude-the-comprehensive-guide-on-its-functionality-and-advantages/"><u>Harnessing AI with Claude: The Comprehensive Guide on Its Functionality and Advantages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-ensure-the-integrity-of-ios-ai-apps/"><u>How to Ensure the Integrity of iOS AI Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-troubleshoot-windows-movie-maker-mp4-video-import-and-editing-problems/"><u>How to Troubleshoot Windows Movie Maker MP4 Video Import and Editing Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-s18-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo S18 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-6-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 6</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-approach-integrating-chatgpt-into-your-3d-printing-processes/"><u>Innovative Approach: Integrating ChatGPT Into Your 3D Printing Processes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581435720-invest-in-yourself-lifetime-access-for-just-pennies/"><u>Invest in Yourself: Lifetime Access for Just Pennies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/investigating-ai-in-the-creation-of-malicious-software/"><u>Investigating AI in the Creation of Malicious Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-references-for-seamless-integration-into-custom-chatbot-experiences/"><u>Leveraging GPT References for Seamless Integration Into Custom Chatbot Experiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-household-outputs-a-sixfold-guide-to-leveraging-chatgpt/"><u>Maximize Household Outputs: A Sixfold Guide to Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-productivity-integrating-chatgpt-into-your-excel-workflows/"><u>Maximizing Productivity: Integrating ChatGPT Into Your Excel Workflows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/microsoft-integrates-artificial-intelligence-with-bing-discover-the-future-features/"><u>Microsoft Integrates Artificial Intelligence with Bing – Discover the Future Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ppt-visualization-leveraging-webcam-tech/"><u>[New] 2024 Approved PPT Visualization Leveraging Webcam Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-mini-gaming-memories-learn-to-record-minecraft-on-apple-devices/"><u>[New] Mastering Mini-Gaming Memories Learn to Record Minecraft on Apple Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-for-windows-users-installation-and-usage-tutorial/"><u>ChatGPT for Windows Users: Installation & Usage Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-syma-x5c-remote-controlled-quadcopter-cost-effective-for-starters/"><u>Comprehensive Analysis of the SYMA X5C Remote Controlled Quadcopter - Cost-Effective for Starters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-openai-essential-information-and-facts/"><u>Decoding OpenAI: Essential Information and Facts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digitizing-documents-ai-driven-pdf-focused-methodologies-with-chatgpt/"><u>Digitizing Documents: AI-Driven, PDF-Focused Methodologies with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-steps-to-get-started-with-auto-gpt-downloading-and-installing-made-simple/"><u>Easy Steps to Get Started with Auto-GPT: Downloading and Installing Made Simple!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-on-device-artificial-intelligence-mechanisms-and-functionality/"><u>Exploring the World of On-Device Artificial Intelligence: Mechanisms & Functionality</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-z-fold-5-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy Z Fold 5 to iPad | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-nokia-c210-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Nokia C210 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securely-transporting-your-chatgpt-interactions/"><u>Securely Transporting Your ChatGPT Interactions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-2022-apex-legends-glitch-decoding-the-mystery-of-error-code-leaf/"><u>Solving the 2022 Apex Legends Glitch: Decoding the Mystery of Error Code 'Leaf'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-strategies-for-utilizing-the-advanced-features-of-anthropics-claude-3-prompt-store/"><u>Step-by-Step Strategies for Utilizing the Advanced Features of Anthropic’s Claude 3 Prompt Store</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-non-native-screen-capture-applications/"><u>Top 10 Non-Native Screen Capture Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1729392409011-top-ranking-oled-laptop-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Ranking OLED Laptop Picks - Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-timepieces-how-chatgpt-is-shaping-the-future-of-smartwatches/"><u>Transforming Timepieces: How ChatGPT Is Shaping the Future of Smartwatches</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 

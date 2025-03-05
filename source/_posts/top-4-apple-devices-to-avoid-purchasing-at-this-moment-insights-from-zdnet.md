@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights From ZDNet"
-date: 2025-02-09T21:13:27.249Z
-updated: 2025-02-17T00:25:36.203Z
+date: 2025-03-03T20:42:59.865Z
+updated: 2025-03-05T20:45:57.058Z
 tags:
   - apple
 categories:
@@ -57,10 +57,6 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The 'Nice' list**
 
 ### **Apple iPhone 16**
@@ -70,10 +66,6 @@ iPhone 16
 Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
 
@@ -97,10 +89,6 @@ Along with the updated processor, this MacBook Air can also power two external m
 
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple Vision Pro**
 
 Apple Vision Pro on a stand
@@ -114,10 +102,6 @@ Jason Hiner/ZDNET
 It's hard to bet against Apple, but a futuristic set of goggles with a starting price of [$3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) doesn't feel like the easiest thing to sell. Still, Apple is Apple, and if any company can convince consumers to part with large sums of cash (and developers [to create apps](https://www.zdnet.com/article/apples-vision-pro-will-launch-with-600-new-apps-built-just-for-the-headset/) for a new platform that could fall flat on its face), it's Apple. 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
@@ -148,10 +132,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -214,20 +194,16 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>[New] In 2024, OBS Studio for Gamers PS4 Screenshots & Recordings Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-quick-vimeo-transformation-tips-easy-to-create-gifs/"><u>[New] Quick Vimeo Transformation Tips Easy-to-Create GIFs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-guidelines-for-breaking-through-cover-art/"><u>[New] Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-scrolling-on-touchpad-not-working-on-windows-10/"><u>[Solved] Scrolling on Touchpad Not Working on Windows 10</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screen-capture-power-play-apowsort-reviewed-and-comparisons-made-for-2024/"><u>[Updated] Screen Capture Power Play Apowsort Reviewed & Comparisons Made for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-transferring-data-from-ipad-to-icloud-macbook-itunes-or-an-external-hard-drive/"><u>Comprehensive Guide: Transferring Data From iPad to iCloud, MacBook, iTunes, or an External Hard Drive</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mind-expanding-knowledge-engage-in-conversations-with-gpt/"><u>Mind-Expanding Knowledge: Engage in Conversations with GPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-new-web-capabilities-in-gpt-3s-beta-update/"><u>Navigating New Web Capabilities in GPT-3's Beta Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-nvidias-personalized-ai-generation/"><u>Navigating NVIDIA's Personalized AI Generation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-employment-6-reasons-to-embrace-chatgpt-in-your-professional-life/"><u>Navigating the Future of Employment: 6 Reasons to Embrace ChatGPT in Your Professional Life</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/professional-note-taking-mastery-leveraging-chatgpt-for-efficient-information-recording/"><u>Professional Note-Taking Mastery: Leveraging ChatGPT for Efficient Information Recording</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/shellscripts-for-shellgpt-interaction-with-gpt-models/"><u>ShellScripts for ShellGPT Interaction with GPT Models</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/silicon-valley-whispers-new-gpt-speculation/"><u>Silicon Valley Whispers: New GPT Speculation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-png-alterations-guide-for-2024/"><u>Ultimate PNG Alterations Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tech-savvy-strategies-recording-gotomeeting-on-any-gear-for-2024/"><u>[New] Tech-Savvy Strategies Recording GoToMeeting on Any Gear for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-insiders-path-to-joining-others-tiktok-gigs/"><u>2024 Approved The Insider's Path to Joining Others' TikTok Gigs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-inspection-manual-scrutinizing-chatgpts-aptitude/"><u>AI Inspection Manual: Scrutinizing ChatGPT's Aptitude</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-new-magicard-rio-pro-driver-now-compatible-with-windows-10817/"><u>Get the New Magicard Rio Pro Driver Now – Compatible with Windows 10/8.1/7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsung-ue590-masterclass-cutting-edge-gaming-display/"><u>In 2024, Samsung UE590 Masterclass Cutting-Edge Gaming Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722157800226-public-transit-directions/"><u>Public Transit Directions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721856132177-step-up-your-online-research-ai-powered-bing-on-ios-and-android/"><u>Step Up Your Online Research: AI-Powered Bing on iOS and Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-choosing-the-right-ipod-mount-for-your-macbook-2020-edition/"><u>The Ultimate Guide: Choosing the Right iPod Mount for Your MacBook (2020 Edition)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/thorough-examination-capturing-life-in-full-with-gear-360/"><u>Thorough Examination Capturing Life in Full with Gear 360</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-x-fold-2-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo X Fold 2 Location | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721885727749-unlock-excel-efficiency-by-leveraging-chatgpt-end-those-spreadsheet-worries/"><u>Unlock Excel Efficiency by Leveraging ChatGPT - End Those Spreadsheet Worries!</u></a></li>
 </ul></div>
 

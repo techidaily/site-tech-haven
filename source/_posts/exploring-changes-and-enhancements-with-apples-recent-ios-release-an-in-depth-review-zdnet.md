@@ -1,7 +1,7 @@
 ---
 title: Exploring Changes and Enhancements with Apple's Recent iOS Release - An In-Depth Review | ZDNet
-date: 2025-02-10T21:06:39.597Z
-updated: 2025-02-16T16:55:10.905Z
+date: 2025-03-04T18:13:08.525Z
+updated: 2025-03-05T20:38:49.267Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Hey Siri, let's talk about Microsoft
 
 Yet now, and urgently, Apple is thrusting itself further into AI. Cupertino [already claims](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) its on-device AI is better than GPT-4\. The name of its on-device system? ReALM (Reference Resolution As Language Modeling), apparently.
@@ -75,10 +71,6 @@ But Bing, too, had become a thing of humor -- whether that humor was justified o
 Microsoft, on the other hand, is a strong brand -- one that's become both more important and more likable in recent years. Add the notion of a Copilot to it and it suddenly feels like something with which you want to be involved, something that has a chance to be your true companion, something that might _actually_ be good.
 
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
 
@@ -126,22 +118,22 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-reel-it-in-techs-video-harvest/"><u>[New] 2024 Approved Reel It In Tech's Video Harvest</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-pulse-pounding-perfection-create-compelling-tiktok-videos-with-templates/"><u>[New] Pulse-Pounding Perfection Create Compelling TikTok Videos with Templates</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed/"><u>[Updated] In 2024, A Closer Look at the Metaverse 6 Deep-Dive Examples Reviewed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-innovative-8th-generation-photographic-fusion-app/"><u>[Updated] In 2024, Innovative 8Th Generation Photographic Fusion App</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-maximize-your-listening-experience-ios-podcast-mastery/"><u>[Updated] In 2024, Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-premium-designers-stellar-instagram-hlv-page-builders-for-2024/"><u>[Updated] Premium Designers Stellar Instagram HLV Page Builders for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-10t-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 10T 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-auto-enhancements-with-ai-tips-on-utilizing-chatgpt-for-vehicle-personalization/"><u>Mastering Auto Enhancements with AI: Tips on Utilizing ChatGPT for Vehicle Personalization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-a-comprehensive-guide-by-microsoft/"><u>Mastering ChatGPT: A Comprehensive Guide by Microsoft</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-a-mac-guide/"><u>Mastering ChatGPT: A Mac Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-interviews-chatgpt-as-a-practice-partner/"><u>Mastering Interviews: ChatGPT as a Practice Partner</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-mobile-ai-utilizing-the-chatgpt-widget-on-android-smartphones/"><u>Mastering Mobile AI: Utilizing the ChatGPT Widget on Android Smartphones</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-personalizing-ai-how-to-tailor-chatgpts-writing-style-to-mirror-yours/"><u>Mastering the Art of Personalizing AI: How to Tailor ChatGPT's Writing Style to Mirror Yours</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-potential-using-auto-gpt-discover-8-effective-techniques/"><u>Maximize Your Potential Using Auto-GPT: Discover 8 Effective Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-network-neutrality-predictions-for-security/"><u>Navigating Network Neutrality: Predictions for Security</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-cutting-edge-wireless-phones/"><u>The Ultimate Selection of Cutting-Edge Wireless Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-apples-itunes-backup-process-methods-and-locations/"><u>Understanding Apple's iTunes Backup Process: Methods & Locations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-content-crusaders-route-to-rapid-instagram-fame/"><u>[New] Content Crusader’s Route to Rapid Instagram Fame</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-win10-gamers-ultimate-guide-to-screen-recordings/"><u>[New] In 2024, Win10 Gamers' Ultimate Guide to Screen Recordings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-androidiphones-leading-top-10-cost-free-photo-enhancements/"><u>[Updated] 2024 Approved Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-prime-valorant-video-thumbnails-on-youtube/"><u>[Updated] In 2024, Crafting Prime Valorant Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ideal-web-microphone-solutions/"><u>[Updated] In 2024, Ideal Web Microphone Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-secret-handbook-to-instagrams-exclusive-club-elevating-your-profile-with-six-tips/"><u>[Updated] In 2024, The Secret Handbook to Instagram's Exclusive Club Elevating Your Profile with Six Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-130-music-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia 130 Music without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-academic-achievement-how-students-can-benefit-from-chatgpt-5-key-methods/"><u>Boost Academic Achievement: How Students Can Benefit From ChatGPT (5 Key Methods)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-insights-elevating-soundscapes-in-daws/"><u>ChatGPT Insights: Elevating Soundscapes in DAWs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-efficient-uninstall-links-for-win-1011/"><u>Creating Efficient Uninstall Links for Win 10/11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-claude-2-its-role-and-capabilities/"><u>Dissecting Claude 2: Its Role & Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-tips-for-embarking-on-a-career-in-prompt-design/"><u>Essential Tips for Embarking on a Career in Prompt Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-openais-gpt-nation-gratis-with-these-five-strategies/"><u>Explore OpenAI's GPT-Nation Gratis with These Five Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-unique-characteristics-of-public-private-and-personal-ai-systems/"><u>Exploring the Unique Characteristics of Public, Private & Personal AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-gpt-3-with-python-best-practices-and-expert-tips-for-cutting-edge-development/"><u>Integrating GPT-3 with Python: Best Practices and Expert Tips for Cutting-Edge Development</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intro-to-coursera-levelsets-competency-evaluations-the-latest-update-explained-by-zdnet/"><u>Intro to Coursera LevelSets Competency Evaluations - The Latest Update Explained by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
 </ul></div>
 

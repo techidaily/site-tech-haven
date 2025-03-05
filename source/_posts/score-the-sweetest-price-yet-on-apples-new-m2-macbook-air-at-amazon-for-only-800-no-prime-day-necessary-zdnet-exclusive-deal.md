@@ -1,7 +1,7 @@
 ---
 title: Score the Sweetest Price Yet on Apple's New M2 MacBook Air at Amazon for Only $800 – No Prime Day Necessary | ZDNet Exclusive Deal
-date: 2025-02-09T19:41:22.124Z
-updated: 2025-02-16T18:10:52.660Z
+date: 2025-03-02T18:18:47.217Z
+updated: 2025-03-05T17:54:15.863Z
 tags:
   - apple
 categories:
@@ -41,10 +41,6 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 
 Many folks don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C2R8MP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc29ebbda-99dd-4505-b503-7802d6019c7c%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -79,24 +75,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-screen-recording-tools-in-top-8-free-for-your-android-device/"><u>[New] 2024 Approved Top Screen Recording Tools in Top 8 FREE FOR YOUR Android Device</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/utting-edge-science-education-through-yt-channels/"><u>[New] Cutting Edge Science Education Through YT Channels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-survey-unique-categories-in-visual-media-equipment/"><u>[Updated] 2024 Approved Survey Unique Categories in Visual Media Equipment</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-a-step-further-elite-video-editing-hacks-for-tiktok/"><u>[Updated] A Step Further Elite Video Editing Hacks for TikTok</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-from-action-to-archive-top-screenshot-tools-reviewed/"><u>[Updated] In 2024, From Action to Archive Top Screenshot Tools Reviewed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-your-next-best-source-for-world-exploration-for-2024/"><u>[Updated] Your Next-Best Source for World Exploration for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-audio-mix-mastery-the-essence-of-crossfade/"><u>In 2024, Audio Mix Mastery The Essence of Crossfade</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468489202-lost-iphone-app-permanently-removed-heres-how-you-can-restore-them/"><u>Lost iPhone App Permanently Removed? Here's How You Can Restore Them</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-prompt-engineering-for-ai-5-essential-techniques-to-get-optimal-chatgpt-responses/"><u>Mastering Prompt Engineering for AI: 5 Essential Techniques to Get Optimal ChatGPT Responses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-task-automation-leveraging-chatgpt-for-enhanced-productivity-at-work/"><u>Mastering Task Automation: Leveraging ChatGPT for Enhanced Productivity at Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-basics-of-openai-an-ultimate-information-source/"><u>Mastering the Basics of OpenAI: An Ultimate Information Source</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-basics-of-langchain-llm-an-essential-starter-resource/"><u>Navigating the Basics of LangChain LLM: An Essential Starter Resource</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/nostalgia-in-play-handhelds-and-hardware-help/"><u>Nostalgia in Play: Handhelds & Hardware Help</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/open-source-meets-ai-conversation-what-makes-huggingchat-a-contender-with-chatgpt/"><u>Open Source Meets AI Conversation: What Makes HuggingChat a Contender with ChatGPT?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snip-and-sketch-vs-prtsc-which-screen-capture-wins/"><u>Snip & Sketch Vs. PrtSc: Which Screen Capture Wins?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/social-media-polls-and-surveys-ai-assisted-crafting/"><u>Social Media Polls & Surveys: AI-Assisted Crafting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tailor-made-ai-communication-crafting-your-own-model/"><u>Tailor-Made AI Communication: Crafting Your Own Model</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-enhancing-your-ai-communication-through-expert-prompt-writing-for-chatbots/"><u>The Ultimate Guide: Enhancing Your AI Communication Through Expert Prompt Writing for Chatbots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-guide-to-professional-instagram-live-conversations/"><u>[Updated] Step-by-Step Guide to Professional Instagram Live Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-chatgpt-token-restrictions-and-opportunities-for-extending-responses/"><u>Decoding ChatGPT Token Restrictions and Opportunities for Extending Responses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/detecting-chatgpt-phishing-websites-a-comprehensive-guide-for-safe-online-navigation/"><u>Detecting ChatGPT Phishing Websites - A Comprehensive Guide for Safe Online Navigation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/detecting-fabricated-prose-leveraging-gptzeros-capabilities-for-authentic-writing-assurance/"><u>Detecting Fabricated Prose: Leveraging GPTZero's Capabilities for Authentic Writing Assurance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-first-9-ai-communities-for-beginner-techies/"><u>Discover the First 9 AI Communities for Beginner Techies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-home-cooking-with-these-7-insider-tips-from-chatgpt/"><u>Elevate Home Cooking with These 7 Insider Tips From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-opinion-on-iphone-15-the-unparalleled-choice-for-professionals-and-enthusiasts-alike-techreview/"><u>Expert Opinion on iPhone 15: The Unparalleled Choice for Professionals & Enthusiasts Alike | TechReview</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-excessive-cpu-load-by-svchostexe-in-windows-10-solutions-and-tips/"><u>Fixing Excessive CPU Load by svchost.exe in Windows 10 – Solutions and Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harness-the-power-of-combining-zoom-with-facebook-live-features/"><u>Harness the Power of Combining Zoom with Facebook Live Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-mac-data-restoration-ux-guide/"><u>Stellar Mac Data Restoration: UX Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-innovation-in-desktop-computers-for-2024/"><u>Ultimate Innovation in Desktop Computers for 2024</u></a></li>
 </ul></div>
 

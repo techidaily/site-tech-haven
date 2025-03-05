@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Full Potential on macOS Monterey: Tailoring Custom Concentration Settings to Dodge Distractions - Techniques Spotlighted by ZDNet"
-date: 2025-02-16T00:57:34.473Z
-updated: 2025-02-16T20:25:33.573Z
+date: 2025-02-26T20:55:03.015Z
+updated: 2025-03-05T18:35:12.704Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -75,10 +67,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -112,10 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -136,10 +120,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -210,24 +190,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-visionmeter-recording-suite/"><u>[New] VisionMeter Recording Suite</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfect-presentations-with-a-personal-touch-adding-audio/"><u>[Updated] Perfect Presentations with a Personal Touch Adding Audio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-insta-wonders-top-9-habits-of-influencers-and-stars/"><u>2024 Approved Insta Wonders Top 9 Habits of Influencers and Stars</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-2-step-guide-to-smoothly-record-google-hangoutsmeetings/"><u>2024 Approved The 2-Step Guide to Smoothly Record Google Hangouts/Meetings</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-11-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 11 Without iTunes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-productivity-with-two-screens-how-to-connect-extra-displays-in-windows-11/"><u>Boost Productivity with Two Screens: How to Connect Extra Displays in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-to-use-the-latest-double-tap-function-on-your-apple-watch-series-nine-gadget-central-exclusive/"><u>Discover How to Use the Latest 'Double-Tap' Function on Your Apple Watch Series Nine | Gadget Central Exclusive</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-newest-nvidia-geforce-rtx-3080-ti-drivers-optimized-for-windows-1187/"><u>Download Newest NVIDIA GeForce RTX 3080 Ti Drivers - Optimized for Windows 11/8/7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortlessly-merge-gpt-4-with-your-current-chatgpt-use/"><u>Effortlessly Merge GPT-4 with Your Current ChatGPT Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-ai-blind-spots-can-chatgpt-recognize-its-creations/"><u>Exploring AI Blind Spots: Can ChatGPT Recognize Its Creations?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-llama-2-a-comprehensive-guide-for-practical-uses/"><u>Exploring LLaMA 2: A Comprehensive Guide for Practical Uses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-ai-in-grasping-human-emotions/"><u>Exploring the Capabilities of AI in Grasping Human Emotions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-distinctions-a-comprehensive-guide-to-gpt-4-vs-gpt-ex/"><u>Exploring the Distinctions: A Comprehensive Guide to GPT-4 Vs. GPT-eX</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-top-7-emerging-cybersecurity-patterns-and-projections/"><u>Exploring the Top 7 Emerging Cybersecurity Patterns & Projections</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-syntax-to-algorithms-clarifying-the-difference-between-natural-language-processing-and-machine-learning/"><u>From Syntax to Algorithms: Clarifying the Difference Between Natural Language Processing and Machine Learning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/getting-started-with-langchain-llm-essential-first-steps-for-novices/"><u>Getting Started with LangChain LLM: Essential First Steps for Novices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/go-to-google-search-console-and-log-in-with-your-google-adsanalytics-account-that-is-linked-to-the-website-where-shoe-fashion-trends-is-published/"><u>Go to Google Search Console and Log in with Your Google Ads/Analytics Account that Is Linked to the Website Where Shoe Fashion Trends Is Published</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-new-directors-toolkit-15-basic-cinematography-movements/"><u>In 2024, The New Director’s Toolkit 15 Basic Cinematography Movements</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-nvidia-display-not-detected-effective-solutions/"><u>Troubleshooting: Nvidia Display Not Detected – Effective Solutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-google-pixel-rhythms-the-ideal-online-source/"><u>[Updated] In 2024, Google Pixel Rhythms The Ideal Online Source</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-writing-quality-steer-clear-from-common-mistakes/"><u>Enhancing Writing Quality – Steer Clear From Common Mistakes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-job-prospects-with-these-6-reasons-to-learn-chatgpt-today/"><u>Enhancing Your Job Prospects with These 6 Reasons to Learn ChatGPT Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-the-five-critical-causes-for-corporate-bans-on-chatgpt-adoption/"><u>Examining the Five Critical Causes for Corporate Bans on ChatGPT Adoption</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-post-chatgpt-era-prospects-of-advancements-in-generative-ai-and-conversational-bots/"><u>Exploring Post-ChatGPT Era: Prospects of Advancements in Generative AI & Conversational Bots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-uses-of-chatgpt-in-proofreading-tasks/"><u>Exploring the Uses of ChatGPT in Proofreading Tasks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x8b-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X8b to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-se-2022-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone SE (2022)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streaming-success-capturing-dota-2s-epic-battles-2enas/"><u>In 2024, Streaming Success Capturing Dota 2'S Epic Battles (2Enas)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kobo-nia-vs-amazon-kindle-in-depth-comparison-and-user-reviews/"><u>Kobo Nia vs Amazon Kindle: In-Depth Comparison and User Reviews</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-infinix-hot-40-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Infinix Hot 40 Location | Dr.fone</u></a></li>
 </ul></div>
 

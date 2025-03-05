@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Setting Up Your New Apple Watch - Tips From ZDNet
-date: 2025-02-12T17:02:13.429Z
-updated: 2025-02-16T23:45:59.520Z
+date: 2025-03-01T18:34:41.724Z
+updated: 2025-03-05T19:32:28.896Z
 tags:
   - apple
 categories:
@@ -49,10 +49,6 @@ I've come across people who use isopropyl alcohol for cleaning but I'm reluctant
 
 These [lens wipes](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00GL64QG6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdd095f53-e313-40a1-a736-c0a63a5b1d8d%7Cdtp&dtb=1) are inexpensive and only contain 40-50% alcohol, so they're less abrasive and fit for cleaning glasses, camera lenses, screens, and, in this case, AirPods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Assess the damage
 
 First, I assessed just how bad things are. My second-generation AirPods Pro are about a year old. Despite a lot of use, they look quite new. The charging case lives inside another protective case -- one from ESR -- and apart from being dirty, looks like new.
@@ -95,10 +91,6 @@ Cleaning the silicone earbud tip.
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Clean the charge port
 
 To clean the charge port, I urge caution. If it's not filthy, leave it alone, because the risk to breaking it outweighs the benefits.
@@ -119,15 +111,7 @@ Mostly clean, but a lot more hygienic.
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why do you use lens wipes?
 
@@ -140,10 +124,6 @@ It really depends. Probably every few months would help to keep the AirPods look
 ## Why do my AirPods sound muffled?
 
 The build-up of debris or earwax can affect the sound output quality of your AirPods, so giving them a thorough cleaning to see if dirt is interfering with sound may save you a trip to the Apple store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I use hydrogen peroxide to clean AirPods?
 
@@ -181,21 +161,24 @@ The same goes for household cleaners and isopropyl alcohol. You should also neve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-best-script-innovation-place/"><u>[New] In 2024, Best Script Innovation Place</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-rewind-on-the-fly-ios-video-flip/"><u>[New] Rewind on the Fly IOS Video Flip</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-recording-on-googles-platform/"><u>[Updated] In 2024, Mastering Recording on Google's Platform</u></a></li>
-<li><a href="https://discover-best.techidaily.com/boost-your-digital-transformation-with-abyys-powerful-solutions-at-the-documation-2017-exhibition/"><u>Boost Your Digital Transformation with ABYY's Powerful Solutions at the Documation 2017 Exhibition</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/boost-your-social-circles-content-creation-with-our-top-picks-for-no-cost-youtube-video-editors/"><u>Boost Your Social Circle's Content Creation with Our Top Picks for No-Cost YouTube Video Editors!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/el-poder-del-guion-grafico-en-la-narracion-visual-una-guia-facil-de-seguir-con-7-pasos/"><u>El Poder Del Guión Gráfico en La Narración Visual - Una Guía Fácil De Seguir Con 7 Pasos</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/probing-nlp-leaders-dissecting-gpt-and-bert-differences/"><u>Probing NLP Leaders: Dissecting GPT and BERT Differences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safeguarding-personal-information-from-chatgpts-advanced-gpt-variants/"><u>Safeguarding Personal Information From ChatGPT's Advanced GPT Variants</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/scripted-sagas-your-guide-to-chatgpt-roleplay-games/"><u>Scripted Sagas: Your Guide to ChatGPT Roleplay Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/starting-out-professional-guide-to-prompt-engineering/"><u>Starting Out: Professional Guide to Prompt Engineering</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-solutions-to-correct-chatgpt-signon-failures/"><u>Step-by-Step Solutions to Correct ChatGPT Signon Failures</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-for-effective-chatgpt-integration-in-freelance-writing/"><u>Strategies for Effective ChatGPT Integration in Freelance Writing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-chatgpt-is-it-becoming-less-smart-an-investigation-by-openai/"><u>The Evolution of ChatGPT: Is It Becoming Less Smart? An Investigation by OpenAI</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic-vs-2-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic Vs 2</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x50is-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor X50is Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-facetunes-potential-photo-editing-like-never-before-for-2024/"><u>Unveiling Facetune's Potential Photo Editing Like Never Before for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-stream-the-best-games-list-9-for-2024/"><u>[New] Stream the Best Games List #9 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-the-art-of-play-navigating-switch-pro-and-steam-games/"><u>[Updated] Mastering the Art of Play Navigating Switch Pro and Steam Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-steps-to-backup-windows-11-files-to-another-drive/"><u>7 Steps to Backup Windows 11 Files to Another Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-high-performance-laptops-top-picks-under-1000-with-robust-windows-versions-insights-from-zdnet/"><u>Affordable High-Performance Laptops: Top Picks Under $1,000 with Robust Windows Versions - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/auto-playing-youtube-content-a-comprehensive-guide-to-looping-your-favorite-videos/"><u>Auto-Playing YouTube Content: A Comprehensive Guide to Looping Your Favorite Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808370522-best-2-methods-to-extract-audio-from-youtube-video-easily/"><u>Best 2 Methods to Extract Audio From YouTube Video Easily!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-guide-kodi-setup-on-xbox-one-step-by-step-instructions/"><u>Complete Guide: Kodi Setup on Xbox One - Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-fixes-for-the-persistent-camera-error-code-0xa00f4244-on-windows-11-devices/"><u>DIY Fixes for the Persistent 'Camera Error Code 0Xa00f4244' On Windows 11 Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-to-speed-up-laptop-windows-10-7-and-81-quickly-and-easily/"><u>Easy to Speed up Laptop | Windows 10, 7 and 8.1 | Quickly & Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-to-speed-up-laptop-windows-11-7-and-81-quickly-and-easily/"><u>Easy to Speed up Laptop | Windows 11, 7 and 8.1 | Quickly & Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-downloads-compatible-hp-driver-packs-for-new-windows-11-users/"><u>Effortless Downloads: Compatible HP Driver Packs for New Windows 11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-computers-audio-easy-steps-to-reinstall-realtek-hd-sound-driver-for-windows-users/"><u>Enhance Your Computer's Audio: Easy Steps to Reinstall Realtek HD Sound Driver for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ice-apply-cold-packs-or-ice-wrapped-in-a-cloth-for-15-20-minutes-every-hour-on-the-first-day-then-reduce-frequency-as-swelling-subsides-icing-helps-minimize608/"><u>Ice: Apply Cold Packs or Ice Wrapped in a Cloth for 15-20 Minutes Every Hour on the First Day, Then Reduce Frequency as Swelling Subsides. Icing Helps Minimize Inflammation and Numbs Pain</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a1-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo A1 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mobile-photography-and-filmmaking-quick-3dlut-edits/"><u>In 2024, Mobile Photography & Filmmaking Quick 3DLUT Edits</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-installation-of-d-link-drivers-a-comprehensive-guide-for-windows-users/"><u>Seamless Installation of D-Link Drivers: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-firmly-stops-exploiting-refund-protocols/"><u>Steam Firmly Stops Exploiting Refund Protocols</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-hogwarts-legacy-game-crashes-at-launch-8-effective-fixes-for-your-pc/"><u>Stop Hogwarts Legacy Game Crashes at Launch: 8 Effective Fixes for Your PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-say-goodbye-to-format-issues-stream-any-video-to-chromecast-seamlessly/"><u>Updated 2024 Approved Say Goodbye to Format Issues Stream Any Video to Chromecast Seamlessly</u></a></li>
 </ul></div>
 

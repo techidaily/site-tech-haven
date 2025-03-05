@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone 16 Pro Isn't Worth It When You Have a Trusty iPhone 14 - Insights
-date: 2025-02-13T16:47:00.768Z
-updated: 2025-02-16T19:57:00.567Z
+date: 2025-03-03T18:03:41.523Z
+updated: 2025-03-05T18:00:17.288Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -42,10 +38,6 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uncertainty around on-device performance
 
 Adrian Kingsley-Hughes/ZDNET
@@ -55,10 +47,6 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
 
@@ -77,10 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
 
@@ -124,18 +108,16 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-embedding-weblinks-on-instas-story-feature/"><u>[New] In 2024, Embedding Weblinks on Insta's Story Feature</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-pinnacle-predictors-top-tiktok-income-calculators/"><u>[New] In 2024, Pinnacle Predictors Top TikTok Income Calculators</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-lexars-top-performing-ssd-models-sl500-vs-professional-sl600-with-speeds-up-to-20-gbs/"><u>Comprehensive Analysis of Lexar's Top-Performing SSD Models: SL500 Vs. Professional SL600 with Speeds up to 20 GB/S</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/creative-thinking-unleashed-using-mindmaps-and-chatgpt-for-innovative-concepts/"><u>Creative Thinking Unleashed: Using Mindmaps and ChatGPT for Innovative Concepts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cyberspaces-blueprint-visualizing-the-next-7-revolutions/"><u>Cyberspace's Blueprint: Visualizing the Next 7 Revolutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decision-time-is-it-better-to-use-chatgpt-or-huggingfaces-huggingchat-for-your-needs/"><u>Decision Time: Is It Better to Use ChatGPT or HuggingFace's HuggingChat for Your Needs?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-generative-ai-beyond-imagination/"><u>Decoding Generative AI: Beyond Imagination</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-functionality-of-hugging-face/"><u>Decoding the Functionality of Hugging Face</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-career-game-with-chatgpt-essential-techniques-for-landing-a-job-on-linkedin/"><u>Elevate Your Career Game with ChatGPT: Essential Techniques for Landing a Job on LinkedIn</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/how-to-overcome-dvd-writing-issues-in-dvdstyler-identifying-causes-and-solutions-for-playback-errors/"><u>How to Overcome DVD Writing Issues in DVDStyler: Identifying Causes and Solutions for Playback Errors</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-improving-user-experience-vimeo-video-subtitles/"><u>In 2024, Improving User Experience Vimeo Video Subtitles</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209982697-9781071536728-meditazione-semplici-tecniche-di-rilassamento/"><u>Meditazione: Semplici Tecniche Di Rilassamento | Free Book</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-cutting-wma-tracks-best-online-and-local-methods-simplified/"><u>Ultimate Guide to Cutting WMA Tracks - Best Online and Local Methods Simplified</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-essential-safety-tips-for-children-using-chatgpt-responsibly/"><u>5 Essential Safety Tips for Children Using ChatGPT Responsibly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-fitness-excellence-with-leading-8-plugins/"><u>Achieve Fitness Excellence with Leading 8 Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-powered-efficiency-mastering-your-day-with-chatgpt/"><u>AI-Powered Efficiency: Mastering Your Day with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-influence-in-code-creation/"><u>AI's Influence in Code Creation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-7-drone-gimbal-selections/"><u>Elite 7 Drone Gimbal Selections</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-sound-quality-with-direct-download-of-msi-windows-compatible-driver-packages/"><u>Enhance Sound Quality with Direct Download of MSI Windows-Compatible Driver Packages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722959473202-get-the-latest-hp-deskjet-3630-printer-drivers-for-windows-10-users-free-download-now/"><u>Get the Latest HP Deskjet 3630 Printer Drivers for Windows 10 Users - Free Download Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-fixing-undetected-speaker-connections-on-windows-10/"><u>Step-by-Step Tutorial for Fixing Undetected Speaker Connections on Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/tutorial-converting-protected-dvd-content-onto-mobile-hard-drives-iphone-ipad-android/"><u>Tutorial: Converting Protected DVD Content Onto Mobile Hard Drives (iPhone, iPad, Android)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721960108509-unlocking-the-power-of-chatgpt-transform-your-linkedin-applications-in-just-10-steps/"><u>Unlocking the Power of ChatGPT: Transform Your LinkedIn Applications in Just 10 Steps!</u></a></li>
 </ul></div>
 

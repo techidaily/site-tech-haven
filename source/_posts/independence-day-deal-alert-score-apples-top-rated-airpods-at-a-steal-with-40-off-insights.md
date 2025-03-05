@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Deal Alert: Score Apple's Top-Rated AirPods at a Steal with $40 Off | Insights"
-date: 2025-02-15T18:40:12.188Z
-updated: 2025-02-17T01:30:22.848Z
+date: 2025-02-26T20:13:48.080Z
+updated: 2025-03-05T18:34:34.692Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1f6d5217-9e48-4dc5-983a-0c6b42c3fbdb%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -62,22 +58,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-transform-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>[Updated] 2024 Approved Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-handheld-vr-camera-stability-enhancer/"><u>[Updated] Handheld VR Camera Stability Enhancer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-record-and-relive-iphoneandroid-google-meet-sessions/"><u>[Updated] Record and Relive IPhone/Android Google Meet Sessions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-an-impactful-waterway-teaser/"><u>2024 Approved Crafting an Impactful Waterway Teaser</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>2024 Approved Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ace-your-ai-interactions-7-game-changing-tips-for-crafting-winning-prompts/"><u>Ace Your AI Interactions: 7 Game-Changing Tips for Crafting Winning Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/articulate-ai-discover-openais-breakthrough-in-enabling-chatgpt-to-speak-commands-and-prompts/"><u>Articulate AI: Discover OpenAI's Breakthrough in Enabling ChatGPT to Speak Commands and Prompts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-risks-the-security-of-non-official-chatgpt-applications/"><u>Assessing Risks: The Security of Non-Official ChatGPT Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-the-hype-6-important-considerations-before-fully-trusting-ai/"><u>Beware the Hype: 6 Important Considerations Before Fully Trusting AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721914646213-chatgpt-lockout-here-are-4-reasons-and-their-fixes/"><u>ChatGPT Lockout? Here Are 4 Reasons and Their Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722214295682-dipole-transitions-such-as-electronic-excitations-within-atoms-or-molecules/"><u>Dipole Transitions (Such as Electronic Excitations Within Atoms or Molecules)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722139258702-discover-the-ultimate-10-replacements-for-chatgpt-now/"><u>Discover the Ultimate 10 Replacements for ChatGPT Now!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/gone-are-the-days-of-missing-printer-pages/"><u>Gone Are The Days of Missing Printer Pages</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/identifying-if-someone-has-opened-your-sms-a-guide/"><u>Identifying if Someone Has Opened Your SMS: A Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-11-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 11?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-correct-sound-malfunctions-on-your-windows-11-system/"><u>Quick Solutions to Correct Sound Malfunctions on Your Windows 11 System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722127265058-waiting-for-chatgpt-on-your-pc-heres-a-top-notch-open-source-chat-ai-to-get-you-started/"><u>Waiting for ChatGPT on Your PC? Here's a Top-Notch Open Source Chat AI to Get You Started</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-guide-to-smartphones-that-bring-your-gear-vr-world-to-life/"><u>[New] 2024 Approved Ultimate Guide to Smartphones That Bring Your Gear VR World to Life</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-comprehensive-guide-to-facebooks-full-screen-feature-for-2024/"><u>[New] A Comprehensive Guide to Facebook's Full Screen Feature for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exploring-premium-gif-software-for-iphone-users/"><u>[New] Exploring Premium GIF Software for iPhone Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solved-what-graphics-card-do-i-have/"><u>[Solved] What Graphics Card Do I Have</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-comprehensive-guide-to-modern-versatile-game-recording-software/"><u>A Comprehensive Guide to Modern, Versatile Game Recording Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-tutorial-to-acquire-latest-drivers-for-acer-aspire-computers-running-windows/"><u>Comprehensive Tutorial to Acquire Latest Drivers for Acer Aspire Computers Running Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-4g-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 4G Phone without PIN</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pro-tips-bulk-creation-via-canva-and-ai-assistance/"><u>Pro Tips: Bulk Creation via Canva and AI Assistance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamlessly-connect-your-ps3-gamepad-with-the-ps4-a-simple-guide/"><u>Seamlessly Connect Your PS3 Gamepad with the PS4: A Simple Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/simple-techniques-for-retrieving-accidentally-erased-content-on-iphone-devices/"><u>Simple Techniques for Retrieving Accidentally Erased Content on iPhone Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/speedy-solution-how-to-easily-change-your-facebook-login-credentials/"><u>Speedy Solution: How To Easily Change Your Facebook Login Credentials</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-accessing-the-windows-1-groveler-settings/"><u>Step-by-Step Guide: Accessing the Windows 1 Groveler Settings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-capturing-screen-images-on-a-windows-pc/"><u>Step-by-Step Guide: Capturing Screen Images on a Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/unlock-seamless-typing-in-windows-7-with-these-simple-keyboard-driver-downloads/"><u>Unlock Seamless Typing in Windows 7 with These Simple Keyboard Driver Downloads</u></a></li>
 </ul></div>
 

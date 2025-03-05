@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of ChatGPT: Harnessing Potential Through Modern Generative AI Applications"
-date: 2024-08-16T10:21:08.989Z
-updated: 2024-08-17T10:21:08.989Z
+date: 2025-03-04T17:06:34.512Z
+updated: 2025-03-05T19:17:52.644Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/95b8f9c2962817f4c1d111a9c4869e31921442b0a
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -36,9 +33,6 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
@@ -55,9 +49,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -69,9 +60,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -80,9 +68,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -102,23 +87,17 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +106,24 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-obs-meets-shadowcast/"><u>[New] 2024 Approved OBS Meets ShadowCast</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-8-best-free-srt-translators-online-tips-to-choose/"><u>[New] 2024 Approved Top 8 Best Free SRT Translators Online (Tips to Choose)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[Updated] 2024 Approved Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-nocturnal-nuances-essential-tips-for-moonlit-portraiture/"><u>[Updated] 2024 Approved Nocturnal Nuances Essential Tips for Moonlit Portraiture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hit-top-rank-firstrow-pursuits-outside-sports/"><u>[Updated] Hit Top Rank Firstrow Pursuits Outside Sports</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716070070303-updated-in-2024-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4/"><u>[Updated] In 2024, From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-methods-for-seamless-amr-to-m4a-conversion-both-online-and-offline-options/"><u>Easy Methods for Seamless AMR to M4A Conversion: Both Online and Offline Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/engaging-audiences-with-wirecast-hosted-facebook-streams-for-2024/"><u>Engaging Audiences with Wirecast-Hosted Facebook Streams for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y02t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y02T Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-comprehensive-guide-to-claude-tier-3-functions-and-applications/"><u>The Comprehensive Guide to Claude Tier 3: Functions & Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dangerous-progression-of-ai-based-security-breaches/"><u>The Dangerous Progression of AI-Based Security Breaches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-easiest-way-to-use-chatgpt-on-linux-install-bavarder/"><u>The Easiest Way to Use ChatGPT on Linux: Install Bavarder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essential-compendium-for-navigating-openais-innovations-and-features/"><u>The Essential Compendium for Navigating OpenAI's Innovations and Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-new-era-of-conversational-agents-bard-vs-bing-chatbot/"><u>The New Era of Conversational Agents: Bard Vs. Bing Chatbot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risks-of-using-chatgpt-for-reliable-text-summarization/"><u>The Risks of Using ChatGPT for Reliable Text Summarization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-exporting-your-chatgpt-sessions-with-handy-apps/"><u>The Ultimate Guide to Exporting Your ChatGPT Sessions with Handy Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-how-to-generating-shareable-links-to-your-ai-chats-on-chatgpt/"><u>The Ultimate How-To: Generating Shareable Links to Your AI Chats on ChatGPT</u></a></li>
+</ul></div>
 

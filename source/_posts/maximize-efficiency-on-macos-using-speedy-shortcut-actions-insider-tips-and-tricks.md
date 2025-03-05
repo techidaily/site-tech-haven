@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks
-date: 2025-02-11T19:35:44.663Z
-updated: 2025-02-16T23:38:02.896Z
+date: 2025-03-01T18:27:26.312Z
+updated: 2025-03-05T19:19:36.991Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -37,10 +33,6 @@ Of course, not every file type has an associated Quick Action but you can add ne
 
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What files offer Quick Actions?
 
 By default, the following file types offer Quick Actions from within the Finder context menu:
@@ -51,19 +43,11 @@ By default, the following file types offer Quick Actions from within the Finder 
 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Quick Actions
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -90,10 +74,6 @@ Let's say you want to convert that JPG to a PNG image. From the sub-menu, click 
 Configuring your converted image in the Finder pop-up.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
 
@@ -145,16 +125,18 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-hottest-8-video-clips-trending-today-online/"><u>[Updated] 2024 Approved The Hottest 8 Video Clips Trending Today Online</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing-for-2024/"><u>[Updated] Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-6-ai-driven-apps-for-analyzing-and-conversing-in-pdfs-like-a-pro/"><u>Discover the Ultimate List of 6 AI-Driven Apps for Analyzing and Conversing in PDFs Like a Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-your-iphone-experience-by-combining-siri-with-chatgpt-ai/"><u>Enhancing Your iPhone Experience by Combining Siri with ChatGPT AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpts-honesty-is-it-a-source-of-trustworthy-answers-or-fictitious-content/"><u>Evaluating ChatGPT’s Honesty - Is It a Source of Trustworthy Answers or Fictitious Content?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-huggingchat-your-comprehensive-guide-to-the-top-open-source-ai-conversational-agent/"><u>Exploring HuggingChat: Your Comprehensive Guide to the Top Open-Source AI Conversational Agent</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/"><u>From Your Insights to Ingenious AI: Build a GPT of Your Design</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/successful-rndis-driver-installation-and-updates-on-windows-step-by-step-guide/"><u>Successful RNDIS Driver Installation and Updates on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-file-management-incorporating-new-commands-into-windows-11-menus/"><u>Tailoring File Management: Incorporating New Commands Into Windows 11 Menus</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-quick-guide-shrinking-and-changing-iphone-video-dimensions/"><u>[New] 2024 Approved Quick Guide Shrinking & Changing iPhone Video Dimensions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-ideas-to-keep-your-snapchat-streak-alive/"><u>[New] Ideas to Keep Your Snapchat Streak Alive</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-dominating-instagrams-social-scene-5-proven-tips-and-success-stories/"><u>[New] In 2024, Dominating Instagram's Social Scene 5 Proven Tips & Success Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-send-a-wave-of-happiness-steps-to-sending-gifs-in-snapchat/"><u>[New] In 2024, Send a Wave of Happiness Steps to Sending Gifs in Snapchat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-insiders-guide-to-instagrams-chroma-key-effect/"><u>[New] In 2024, The Insider's Guide to Instagram’s Chroma Key Effect</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-chuckle-filled-creativity-crafting-7-side-splitting-youtube-sets/"><u>[Updated] Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-analysis-triangulating-life-with-samsung-vr/"><u>[Updated] Complete Analysis Triangulating Life with Samsung VR</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-access-boot-options-menu-in-windows-11-solved/"><u>How to Access Boot Options Menu in Windows 11 [Solved]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-deactivate-microsofts-guard-in-windows-11-with-3-different-approaches/"><u>How to Deactivate Microsoft's Guard in Windows 11 with 3 Different Approaches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-empty-your-browsers-memory-a-guide-to-clearing-mozilla-firefoxs-cache/"><u>How To Empty Your Browser's Memory: A Guide to Clearing Mozilla Firefox's Cache</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fresh-start-your-pc-with-a-windows-10-reset-learn-the-simplest-method-in-4-key-steps/"><u>How to Fresh Start Your PC with a Windows 10 Reset - Learn the Simplest Method in 4 Key Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-overclock-your-gpu-a-beginners-guide/"><u>How to Overclock Your GPU: A Beginner’s Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-connect-office-pcs-to-the-local-wi-fi-network-a-comprehensive-tutorial/"><u>How To Seamlessly Connect Office PCs to the Local Wi-Fi Network - A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

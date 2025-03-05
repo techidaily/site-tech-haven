@@ -1,7 +1,7 @@
 ---
 title: How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed by ZDNet
-date: 2025-02-16T00:36:12.990Z
-updated: 2025-02-16T22:49:11.873Z
+date: 2025-02-28T17:46:28.295Z
+updated: 2025-03-05T16:37:13.030Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -53,10 +49,6 @@ Three additional instances of the IPC Template Type were deployed between April 
 Repairing the damage from a flaw like this is a painfully tedious process that requires manually rebooting every affected PC into the Windows Recovery Environment and then deleting the defective file from the PC using the old-school command line interface. If the PC in question has its system drive protected by Microsoft's BitLocker encryption software, as virtually all business PCs do, the fix requires one extra step: entering a unique 48-character BitLocker recovery key to gain access to the drive and allow the removal of the faulty CrowdStrike driver.
 
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## We've seen this movie before
 
@@ -94,10 +86,6 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## CrowdStrike's QA failed
 
 Surprisingly, this isn't CrowdStrike's first faulty Falcon sensor update this year.
@@ -123,10 +111,6 @@ Given recent events, some of those customers might be wondering whether that "br
 As part of its initial response, CrowdStrike says it plans to take additional measures to improve "software resiliency and testing." More importantly, it plans to implement a "staggered deployment strategy ... in which updates are gradually deployed to larger portions of the sensor base, starting with a canary deployment." The company also committed to provide customers with "greater control over the delivery of Rapid Response Content updates by allowing granular selection of when and where these updates are deployed."
 
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
 
@@ -176,24 +160,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comparative-assessment-youtube-vs-dailymention/"><u>[New] 2024 Approved Comparative Assessment YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-critical-analysis-the-best-skype-recorders-of-2023/"><u>[New] 2024 Approved Critical Analysis The Best Skype Recorders of 2023</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-clip-viewer-extractor-system-for-2024/"><u>[New] Clip Viewer Extractor System for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-strangers-to-community-your-facebook-onboarding-journey/"><u>[New] In 2024, From Strangers to Community Your Facebook Onboarding Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-ai-experience-by-choosing-claude-3-over-chatgpt-today/"><u>Enhance Your AI Experience by Choosing Claude 3 Over ChatGPT Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-digital-aids-elevate-your-expertise-in-writing-precise-prompts-7-options/"><u>Essential Digital Aids: Elevate Your Expertise in Writing Precise Prompts (7 Options)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-a-career-in-prompt-engineering-what-you-should-know-about-it/"><u>Evaluating a Career in Prompt Engineering: What You Should Know About It</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-if-openai-is-losing-control-over-chatgpt/"><u>Exploring if OpenAI Is Losing Control Over ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-differences-our-experience-with-mistral-ais-le-chat-vs-chatgpt/"><u>Exploring the Differences: Our Experience with Mistral AI’s Le Chat Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-intricacies-of-grok-ai-the-revolutionary-tech-from-elon-musk/"><u>Exploring the Intricacies of Grok AI - The Revolutionary Tech From Elon Musk</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-viability-of-using-chatgpt-to-enhance-your-writing-through-proofreading-assistance/"><u>Exploring the Viability of Using ChatGPT to Enhance Your Writing Through Proofreading Assistance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/finding-affordable-ai-solutions-like-sora/"><u>Finding Affordable AI Solutions Like Sora</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-palm-2-versus-openai-gpt-4-showdown-exploring-their-divergent-paths-in-ai-innovation/"><u>Google PaLM 2 Versus OpenAI GPT-4 Showdown: Exploring Their Divergent Paths in AI Innovation</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y55s-5g-2023-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y55s 5G (2023) to iPad | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-magic-5-lite-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor Magic 5 Lite</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-complete-resource-for-high-quality-videos-in-gopro-studio/"><u>In 2024, The Complete Resource for High-Quality Videos in GoPro Studio</u></a></li>
-<li><a href="https://fox-info.techidaily.com/luminance-hd-evaluation-the-ultimate-decision/"><u>Luminance-HD Evaluation The Ultimate Decision?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/running-out-of-room-on-your-android-phone-or-tablet-learn-easy-techniques-for-assessing-and-enhancing-storage-capacity/"><u>Running Out of Room on Your Android Phone or Tablet? Learn Easy Techniques for Assessing and Enhancing Storage Capacity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808297314-solved-connect-bluetooth-speaker-to-laptop-quickly-and-easily/"><u>[SOLVED] Connect Bluetooth Speaker To Laptop. Quickly & Easily!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-beginners-guide-to-elevating-auditory-experiences-on-youtube-for-2024/"><u>[Updated] A Beginner's Guide to Elevating Auditory Experiences on YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-must-try-websites-for-cost-free-effects/"><u>2024 Approved 5 Must-Try Websites for Cost-Free Effects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/all-about-pubg-mobile-comprehensive-tips-and-tricks-for-top-level-gameplay/"><u>All About PUBG Mobile: Comprehensive Tips & Tricks for Top-Level Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/circumventing-chatgpt-blocks-understanding-and-overcoming-them/"><u>Circumventing ChatGPT Blocks: Understanding and Overcoming Them</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-performance-in-rust-a-comprehensive-guide-to-increasing-your-frames-per-second-fps/"><u>Improving Performance in Rust - A Comprehensive Guide to Increasing Your Frames Per Second (FPS)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808355065-quick-and-secure-windows-10-installation-guide-get-set-up-in-minutes/"><u>Quick & Secure Windows 10 Installation Guide: Get Set Up in Minutes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-install-of-directx-on-your-pc-with-windows-11-or-10-effortless-downloads/"><u>Quick Install of DirectX on Your PC with Windows 11 or 10: Effortless Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-burning-films-onto-discs-at-no-cost-with-pc-or-apple-systems/"><u>Step-by-Step Tutorial for Burning Films Onto Discs at No Cost with PC or Apple Systems</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-note-30-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix Note 30 without backup.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-sourcing-premium-videography-talent-for-2024/"><u>Tips for Sourcing Premium Videography Talent for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/updating-drivers-made-easy-steps-for-windows-10-and-11-users/"><u>Updating Drivers Made Easy: Steps for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

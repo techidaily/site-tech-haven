@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Age of Tech Together: A Parent's Handbook to ChatGPT & Artifice Intelligence"
-date: 2024-08-16T10:24:53.907Z
-updated: 2024-08-17T10:24:53.907Z
+date: 2025-02-28T20:52:45.513Z
+updated: 2025-03-05T17:44:14.361Z
 tags:
   - chatgpt
   - open-ai
@@ -19,33 +19,20 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 
  Will Bing overtake Google as the best search engine now that it's equipped with an immensely powered AI model? Read on as we discuss what you can expect from Microsoft's new version of Bing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
 
  OpenAI is the company responsible for[ChatGPT–the AI-powered chatbot](http://www.makeuseof.com/how-to-use-chatgpt-by-openai/) that can generate content, answer questions, create marketing strategies, fix code bugs, and more. The AI research lab also launched DALL-E 2 late last year, capable of[generating images based on textual prompts](https://www.makeuseof.com/how-to-use-dall-e-2/) .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -56,9 +43,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
@@ -73,21 +57,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Bing Reinvents Web Searching
 
  Today's youth may not have witnessed the space race of the 20th century, but now we’ve all got front-row tickets to the AI race of the 21st century, and Microsoft has just scored a home run. Only time will tell if Google’s Bard can compete with the new Bing.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +74,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-executing-a-successful-facebook-live-from-previous-recordings/"><u>[New] Executing a Successful Facebook Live From Previous Recordings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-augment-pixel-tiles-with-concentric-blur-magic-ps/"><u>[Updated] In 2024, Augment Pixel Tiles with Concentric Blur Magic PS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-personalize-your-online-story-mastery-in-fb-memories/"><u>[Updated] In 2024, Personalize Your Online Story Mastery in FB Memories</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-a-visual-voyage-through-youtubes-2017-data-deluge/"><u>2024 Approved A Visual Voyage Through Youtube's 2017 Data Deluge</u></a></li>
+<li><a href="https://common-error.techidaily.com/conclusion-drivers-dont-support-opengl/"><u>Conclusion: Drivers Don't Support OpenGL</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inverted-screen-changing-video-ordering-for-2024/"><u>Inverted Screen Changing Video Ordering for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/moment-update-windows-11-unpacks-future-looking-features/"><u>Moment Update: Windows 11 Unpacks Future-Looking Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/taste-and-nutrition-fusion-ai-powered-cooking-guide/"><u>Taste & Nutrition Fusion: AI-Powered Cooking Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-bridge-between-human-and-machine-gpts-language-decipherer/"><u>The Bridge Between Human and Machine: GPT's Language Decipherer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-great-debate-continues-is-bandicam-or-camtasia-better-for-2024/"><u>The Great Debate Continues Is Bandicam or Camtasia Better for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-reason-behind-chatgpt-4s-lagging-performance-against-its-predecessor-chatgpt-35/"><u>The Reason Behind ChatGPT-4's Lagging Performance Against Its Predecessor, ChatGPT- 3.5</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-how-to-integrating-chatgpt-into-your-3d-printing-processes/"><u>The Ultimate How-To: Integrating ChatGPT Into Your 3D Printing Processes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-artificial-intelligence-applications-for-efficiently-tackling-mathematical-challenges/"><u>Top 7 Artificial Intelligence Applications for Efficiently Tackling Mathematical Challenges</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-ready-to-go-gpt-models-for-instant-deployment/"><u>Top 8 Ready-to-Go GPT Models for Instant Deployment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-commerce-the-top-8-benefits-of-integrating-chatgpt-into-your-company/"><u>Transforming Commerce: The Top 8 Benefits of Integrating ChatGPT Into Your Company</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-pro-a-comparison-with-microsofts-chatgpt-plus/"><u>Understanding Claude Pro: A Comparison with Microsoft's ChatGPT Plus</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-pc-installing-the-latest-connexent-driver-in-windows-10-v2004/"><u>Update Your PC: Installing the Latest Connexent Driver in Windows 10 V2004</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-expertise-for-personalized-car-customization-tips/"><u>Utilizing ChatGPT Expertise for Personalized Car Customization Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event"
-date: 2025-02-14T19:57:58.015Z
-updated: 2025-02-16T17:12:51.473Z
+date: 2025-02-26T19:11:20.323Z
+updated: 2025-03-05T19:22:56.951Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
 
@@ -64,10 +60,6 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Apple Watch Series 10
 
 Kerry Wan/ZDNET
@@ -87,10 +79,6 @@ The Apple Watch Series 10 starts at $399, is available for pre-order starting to
 Alongside the Watch Series 10, Apple announced a new satin black finish for its Watch Ultra 2, which is tailored to avid athletes and outdoor enthusiasts. It starts at $799; pre-orders start today and ship out on September 20\. 
 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. AirPods 4
 
@@ -116,10 +104,6 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Apple Intelligence updates
 
 Screenshot by Kayla Solino/ZDNET
@@ -133,10 +117,6 @@ During today's event, Apple mostly reviewed the features it had previously unvei
 The biggest highlight was the launch of Visual Intelligence, Apple's answer to Google Lens. Like Google Lens, you can take photos of your surroundings, such as a dog or restaurant, and get personalized insights and relevant information on what you captured.
 
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
 
@@ -184,17 +164,16 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech/"><u>[New] In 2024, Live Stream Perfection Ranking the Best Recorder Gadgets in Tech</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>[Updated] 2024 Approved The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-smart-8-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Smart 8 Pro Phone Screen?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-art-of-audio-in-a-virtual-world-your-ultimate-zoom-recording-tutorial/"><u>In 2024, The Art of Audio in a Virtual World Your Ultimate Zoom Recording Tutorial</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-yakuza-like-a-dragon-a-top-ranking-japanese-roleplay-game/"><u>Inside Yakuza: Like a Dragon – A Top Ranking Japanese Roleplay Game</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-7-thoughtful-ways-to-utilize-ai-for-writers/"><u>Maximizing Efficiency: 7 Thoughtful Ways to Utilize AI for Writers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mobile-gpt-utilization-tips-and-tricks-for-androidios/"><u>Mobile GPT Utilization: Tips and Tricks for Android/iOS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-without-direct-access-efficient-alternatives-to-using-it-with-an-openai-profile/"><u>Navigating ChatGPT Without Direct Access: Efficient Alternatives to Using It with an OpenAI Profile</u></a></li>
-<li><a href="https://fox-access.techidaily.com/popsocket-mounts-for-optimal-video-shooting/"><u>PopSocket Mounts for Optimal Video Shooting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/premium-vs-basic-gpts-payoff-scale/"><u>Premium Vs. Basic: GPT's Payoff Scale</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-expert-recommendations-top-15-no-cost-audiosite-collections/"><u>[Updated] Expert Recommendations Top 15 No-Cost Audiosite Collections</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-steps-to-enhanced-gopro-experience/"><u>First Steps to Enhanced GoPro Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-hot-30i-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Hot 30i Phone Screen?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-schedule-posts-on-xtwitter/"><u>How to Schedule Posts on X/Twitter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-5-superior-recording-gear-options-for-ipad-and-mac-owners/"><u>In 2024, 5 Superior Recording Gear Options for iPad & Mac Owners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-maximizing-audience-reach-prime-dissemination-days/"><u>In 2024, Maximizing Audience Reach Prime Dissemination Days</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/in-depth-look-at-lenovos-yoga-slim-7x-with-windows-and-arm-based-snapdragon-a-readiness-evaluation/"><u>In-Depth Look at Lenovo's Yoga Slim 7X with Windows and ARM-Based Snapdragon - A Readiness Evaluation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-nlp-innovations-discover-the-7-upgrades-powering-googles-bard-ai-through-palm-2-technology/"><u>Next-Level NLP Innovations: Discover the 7 Upgrades Powering Google's Bard AI Through PaLM 2 Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserving-privacy-while-leveraging-chatgpt-tools-at-work-a-comprehensive-guide/"><u>Preserving Privacy While Leveraging ChatGPT Tools at Work: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pushing-boundaries-of-gpts-interactive-capacity/"><u>Pushing Boundaries of GPT's Interactive Capacity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reaching-new-heights-with-chatgpts-token-limit/"><u>Reaching New Heights with ChatGPT's Token Limit</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu and ChatGPT: How to Start Conversations via Terminal Using ShellGPT"
-date: 2024-08-16T10:22:20.024Z
-updated: 2024-08-17T10:22:20.024Z
+date: 2025-02-26T16:09:38.775Z
+updated: 2025-03-05T19:01:27.585Z
 tags:
   - chatgpt
   - open-ai
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
 ## New Horizons in Conversational AI: ChatGPT's Exciting Latest Developments Revealed
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://www.makeuseof.com/chatgpt-new-features-spring-update/#image-input-and-output-capabilities)
@@ -40,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -51,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
@@ -74,9 +65,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Multi-Modal Voice and Video Interactions
 
  Everyone[wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -99,14 +87,8 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Temporary Chat
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
@@ -115,14 +97,11 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The latest updates to ChatGPT introduce a host of features that cater to a wide range of user needs, from enhanced interactivity and data analysis to real-time information access and personalized experiences. Whether you're a professional, student, or casual user, these features offer powerful new ways to leverage ChatGPT for improved productivity, learning, and everyday convenience.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +110,24 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-sony-a6400-video-vanishing-how-to-stop-it/"><u>[Updated] In 2024, Sony A6400 Video Vanishing - How to Stop It?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>[Updated] Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-100-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-look-at-openais-gpt-series-understanding-the-differences-between-models-gpt-1-gpt-2-gpt-3-and-gpt-4/"><u>A Comprehensive Look at OpenAI’s GPT Series: Understanding the Differences Between Models GPT-1, GPT-2, GPT-3 & GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-humor-capabilities-unveiled-a-look-into-jesting-algorithms/"><u>AI Humor Capabilities Unveiled: A Look Into Jesting Algorithms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-solutions-for-more-engaging-and-efficient-remote-team-gatherings/"><u>AI-Driven Solutions for More Engaging and Efficient Remote Team Gatherings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-new-lifeline-premium-chatgpt-20mo-just-for-us/"><u>AI's New Lifeline: Premium ChatGPT ($20/Mo) Just For US</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-these-6-inferior-chatgpt-extensions-for-a-better-experience/"><u>Avoid These 6 Inferior ChatGPT Extensions for a Better Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-wasteful-investments-the-6-least-effective-chatgpt-plugins/"><u>Avoiding Wasteful Investments: The 6 Least Effective ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-applications-and-plugins-manage-export-and-distribute-chatgpt-interactions-easily/"><u>Best Applications & Plugins: Manage, Export & Distribute ChatGPT Interactions Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practices-for-using-chatgpt-responsibly-in-psychological-support-roles/"><u>Best Practices for Using ChatGPT Responsibly in Psychological Support Roles</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210926307-9781903353646-essential-skills-for-the-counseling-astrologer/"><u>Essential Skills for the Counseling Astrologer | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-dji-robomaster-s1-the-thrilling-fusion-of-educational-coding-and-epic-drone-battles/"><u>Exploring the DJI RoboMaster S1 - The Thrilling Fusion of Educational Coding and Epic Drone Battles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ideal-internet-locations-for-shining-3d-text-art/"><u>Ideal Internet Locations for Shining 3D Text Art</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-essential-features-in-java-gaming-world/"><u>Top Picks: Essential Features in Java Gaming World</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+</ul></div>
 

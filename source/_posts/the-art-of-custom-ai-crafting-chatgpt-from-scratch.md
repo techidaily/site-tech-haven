@@ -1,7 +1,7 @@
 ---
 title: "The Art of Custom AI: Crafting ChatGPT From Scratch"
-date: 2024-08-16T10:20:22.140Z
-updated: 2024-08-17T10:20:22.140Z
+date: 2025-02-27T19:32:43.420Z
+updated: 2025-03-05T19:38:19.812Z
 tags:
   - chatgpt
   - open-ai
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  ChatGPT is an AI language model that demonstrates the quickly growing popularity and accessibility of AI tools. However, can you trust this advanced technology when it comes to health and fitness information? It may be good at mimicking human writing, but there are some caveats you should be aware of before you start relying on it for health advice.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -31,16 +28,10 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 * The AI tool can tailor its advice to your specific circumstances. For instance, it allows you to set parameters and ask follow-up questions so that it can better understand your needs and goals, which can lead to more personalized recommendations.
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
 
  There are several use cases for ChatGPT in the realm of health and wellness. For starters, you could use the AI tool to provide you with nutrition advice, including general recommendations on healthy eating habits.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -51,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
 
  It's important to remember that AI technology is only as good as the data it's trained on. According to ChatGPT's developers,[Open AI](https://help.openai.com/en/articles/6783457-chatgpt-general-faq) , "ChatGPT is not connected to the internet, and it can occasionally produce incorrect answers. It has limited knowledge of world and events after 2021 and may also occasionally produce harmful instructions or biased content."
@@ -64,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
 
  Here are some tips and tricks for getting the most reliable health and fitness information from ChatGPT:
@@ -76,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 * **Ask for clarification** . If the information provided by ChatGPT seems unclear or incomplete, ask it for additional information. You can even ask ChatGPT to ask you questions to better understand your individual needs before providing you with a response.
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
 
  So, can ChatGPT be trusted for health and fitness advice? The answer is, as with most things in life, it depends. Would you use Instagram, TikTok, or Facebook for health and wellness advice? You might, but you shouldn't rely on those as your only sources of information.
@@ -87,14 +69,11 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  In the end, the decision to use ChatGPT for health and fitness advice is up to you. Be aware of its potential benefits and drawbacks as you weigh its answers. Just like with any online source of information, it's always a good idea to take its advice with a grain of salt and to do additional research before making any major changes to your health and fitness routine.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +82,26 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-ultimate-channel-growth-guide-top-5-video-marketing-tactics-revealed/"><u>[New] 2024 Approved The Ultimate Channel Growth Guide Top 5 Video Marketing Tactics Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-comfortable-virtual-experiences/"><u>[New] Mastering the Art of Comfortable Virtual Experiences</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-portable-gba-players-on-android/"><u>[New] Premier Portable GBA Players on Android</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ushering-bliss-in-unboxing-7-strategies/"><u>[New] Ushering Bliss in Unboxing 7 Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tailoring-twitter-video-thumbnails-a-step-by-step-guide-for-2024/"><u>[Updated] Tailoring Twitter Video Thumbnails A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieving-the-ultimate-crunch-with-oats-inclusion/"><u>Achieving the Ultimate Crunch with Oats Inclusion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-based-chatter-replicating-real-life-discussions/"><u>AI-Based Chatter: Replicating Real-Life Discussions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/everything-you-need-to-know-about-the-firefox-picture-in-picture-mode/"><u>Everything You Need to Know About the Firefox Picture-in-Picture Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722000272179-from-one-size-fits-all-to-made-for-you-how-the-newest-chatgpt-update-facilitutes-custom-gpt-models-design/"><u>From One Size Fits All to Made for You: How the Newest ChatGPT Update Facilitutes Custom GPT Models Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722001586519-how-to-join-openais-bug-bounty-challenge-everything-you-need-to-know/"><u>How to Join OpenAI's Bug Bounty Challenge – Everything You Need to Know!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-back-track-technique-reverse-video-in-ios-devices/"><u>In 2024, Back-Track Technique Reverse Video in iOS Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-archive-video-discussions-with-ease-and-security/"><u>In 2024, How to Archive Video Discussions with Ease & Security</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721956762295-maximize-your-ai-potential-with-our-picks-of-the-top-7-chatgpt-chrome-extensions/"><u>Maximize Your AI Potential with Our Picks of the Top 7 ChatGPT Chrome Extensions!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-restoring-functionality-to-your-unresponsive-computer-mouse-with-tips-from-yl-software/"><u>Troubleshooting Guide: Restoring Functionality to Your Unresponsive Computer Mouse with Tips From YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-powerful-features-how-to-utilize-custom-instructions/"><u>Unveiling ChatGPT’s Powerful Features: How to Utilize Custom Instructions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-understanding-who-youre-communicating-with-in-the-digital-realm-according-to-the-dead-internet-concept/"><u>Unveiling the Mystery: Understanding Who You're Communicating With in the Digital Realm According to the 'Dead Internet' Concept</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-acquiring-skills-with-chatgpt-is-essential-for-career-growth/"><u>Why Acquiring Skills with ChatGPT Is Essential for Career Growth</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worth-the-money-unveiling-the-benefits-of-chatgpt-plus/"><u>Worth the Money? Unveiling the Benefits of ChatGPT Plus</u></a></li>
+</ul></div>
 

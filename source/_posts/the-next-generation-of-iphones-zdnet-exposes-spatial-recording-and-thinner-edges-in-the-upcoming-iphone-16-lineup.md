@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of iPhones: ZDNet Exposes Spatial Recording and Thinner Edges in the Upcoming iPhone 16 Lineup"
-date: 2025-02-15T18:32:34.097Z
-updated: 2025-02-16T22:05:04.916Z
+date: 2025-03-02T17:52:05.512Z
+updated: 2025-03-05T19:21:38.853Z
 tags:
   - apple
 categories:
@@ -45,10 +45,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -61,10 +57,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,10 +64,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -99,10 +87,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You don't require the generative AI capabilities
 
 All of the bells and whistles on the iPhone 16 are certainly nice, but are they must-haves? To many people, probably not. Generative AI still has its' issues despite advancing rapidly in the past couple of years. Apple Intelligence and the new Siri may be great, but we wouldn't be surprised to see users encounter performance problems or hallucinations.
@@ -118,10 +102,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417993%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417993.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,24 +137,17 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-eliminating-frame-drops-in-obs-broadcasts/"><u>[New] 2024 Approved Eliminating Frame Drops in OBS Broadcasts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-art-of-video-editing-employing-strikethrough-for-clarity/"><u>[New] 2024 Approved The Art of Video Editing Employing Strikethrough for Clarity</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/anking-the-top-value-video-resources-online/"><u>[New] Ranking the Top Value Video Resources Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-approach-to-fixing-the-0x80070570-problem-in-windows/"><u>A Step-by-Step Approach to Fixing the '0X80070570' Problem in Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-methods-for-batch-converting-m2ts-files-to-high-quality-mp4-without-losing-data/"><u>Best Methods for Batch Converting M2TS Files to High-Quality MP4 Without Losing Data</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instructions-for-resetting-default-mouse-settings-without-acceleration-on-macos/"><u>Instructions for Resetting Default Mouse Settings without Acceleration on macOS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-setup-for-your-device-how-to-get-wireless-driver-downloads-now/"><u>Quick Setup for Your Device: How to Get Wireless Driver Downloads Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionize-your-company-8-essential-uses-of-chatgpt/"><u>Revolutionize Your Company: 8 Essential Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/separating-sentence-of-science-from-online-healers-claims/"><u>Separating Sentence of Science From Online Healers' Claims</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-writing-efficiency-discover-8-essential-ai-tools-for-authors/"><u>Streamline Writing Efficiency: Discover 8 Essential AI Tools for Authors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-complete-checklist-for-remotely-podcasters-delight-for-2024/"><u>The Complete Checklist for Remotely Podcaster's Delight for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-flaws-in-openais-latest-language-model-chatgpt-revealed/"><u>The Hidden Flaws in OpenAI’s Latest Language Model – ChatGPT Revealed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-truth-gpt-files-exposing-mullvad-vpns-encounter-with-the-police-curated-selection-of-top-notch-free-computer-games-and-in-depth-analysis-on-mechanical-k19/"><u>The Truth GPT Files: Exposing Mullvad VPN's Encounter with the Police, Curated Selection of Top-Notch Free Computer Games & In-Depth Analysis on Mechanical Keyboards</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tips-to-spot-fake-bingpt-coins-and-stay-safe-in-crypto/"><u>Tips to Spot Fake BinGPT Coins and Stay Safe in Crypto</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/0-journeys-from-around-the-world-on-youtube/"><u>Top 10 Journeys From Around the World, on Youtube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-limitations-of-using-ai-chatbots-for-professional-content-creation/"><u>Top 8 Limitations of Using AI Chatbots for Professional Content Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-conversations-into-adventures-an-in-depth-look-at-using-chatgpt-for-rpgs/"><u>Transforming Conversations Into Adventures: An In-Depth Look at Using ChatGPT for RPGs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-techniques-for-chatgpts-persistent-memory-lapses/"><u>Troubleshooting Techniques for ChatGPT's Persistent Memory Lapses</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s23-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S23?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-premier-picks-the-ultimate-8-tripods-for-4k-photography-for-2024/"><u>[New] Premier Picks The Ultimate 8 Tripods for 4K Photography for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-a-new-dimension-of-search-with-bing-on-all-platforms/"><u>Discover a New Dimension of Search with Bing on All Platforms</u></a></li>
+<li><a href="https://win-trending.techidaily.com/does-bringing-back-a-dead-iphone-wipe-out-your-data-protective-measures-you-need-to-know/"><u>Does Bringing Back a Dead iPhone Wipe Out Your Data? Protective Measures You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-zte-axon-40-lite-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does ZTE Axon 40 Lite Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/exploring-key-distinctions-crypto-assets-vs-traditional-fiat-currencies-insights-by-yl-computing/"><u>Exploring Key Distinctions: Crypto Assets Vs. Traditional Fiat Currencies - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/youtube-channel-art-templates-find-them-here-for-2024/"><u>Free YouTube Channel Art Templates - Find Them Here for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/full-time-careers-meet-video-content-a-harmonious-mix/"><u>Full-Time Careers Meet Video Content A Harmonious Mix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-securely-withdraw-from-chatgpt-for-enhanced-personal-privacy/"><u>How to Securely Withdraw From ChatGPT for Enhanced Personal Privacy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-master-class-adding-podcasts-to-instagram-features/"><u>In 2024, Master Class Adding Podcasts to Instagram Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-dual-cpu-cooling-solutions-the-frostmaster-duo-from-chilltechs-advanced-series/"><u>Innovative Dual-CPU Cooling Solutions: The FrostMaster Duo From ChillTech's Advanced Series</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/law-and-ai-navigating-chatgpts-legal-impact/"><u>Law & AI: Navigating ChatGPT's Legal Impact</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ultimate-tips-for-cleaning-up-pictures-by-eliminating-smileys/"><u>Ultimate Tips for Cleaning Up Pictures by Eliminating Smileys</u></a></li>
 </ul></div>
 

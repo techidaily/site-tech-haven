@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Boosting EQ with Conversational AI Technology
-date: 2024-08-16T10:26:11.489Z
-updated: 2024-08-17T10:26:11.489Z
+date: 2025-02-27T19:21:42.683Z
+updated: 2025-03-05T16:53:15.037Z
 tags:
   - chatgpt
   - open-ai
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
@@ -69,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
@@ -84,17 +78,10 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 Here's the source screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
@@ -103,37 +90,25 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Is Gemini Better than ChatGPT?
 
  Before Google launched Bard, we thought it'd be the ChatGPT competition we had been waiting for—it wasn't. Now, Gemini is here, and so far, Gemini Pro doesn't seem like the model to give ChatGPT the knockout punch.
 
  Google says Gemini Ultra is going to be much better. We truly hope it is, and that it meets or exceeds the claims made in the Gemini Ultra announcement. But until we see and test the best version of Google's generative AI tool, we won't know if it can unseat other AI model competitors. As it stands, GPT-4 remains the undisputed AI model champion.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +117,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mold-amusement-pictures-for-giphy-platform/"><u>[Updated] 2024 Approved Mold Amusement Pictures for Giphy Platform</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-becoming-an-exclusive-guest-on-tiktok-live-for-2024/"><u>[Updated] Becoming an Exclusive Guest on TikTok Live for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-go-backwards-the-iphones-playback-power/"><u>[Updated] In 2024, Go Backwards The iPhone's Playback Power</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleashing-potential-advanced-tiktok-visual-enhancements/"><u>[Updated] Unleashing Potential Advanced TikTok Visual Enhancements</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-tutorial-to-activate-ai-features-in-the-bing-app-on-android-phones/"><u>A Step-by-Step Tutorial to Activate AI Features in the Bing App on Android Phones</u></a></li>
+<li><a href="https://win-trending.techidaily.com/adding-ambient-sounds-in-flipbook-ebooks-a-guide-using-flipbuilder-tools/"><u>Adding Ambient Sounds in FlipBook eBooks: A Guide Using FlipBuilder Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-content-scrutiny-tools-why-theyre-not-living-up-to-expectations/"><u>AI Content Scrutiny Tools: Why They're Not Living Up to Expectations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/alternatives-to-chatgpt-7-tools-for-programming-efficiency/"><u>Alternatives to ChatGPT: 7 Tools for Programming Efficiency</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-validity-of-chatgpts-health-recommendations-is-it-trustworthy/"><u>Assessing the Validity of ChatGPT's Health Recommendations: Is It Trustworthy?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210882857-9781088186657-authority-and-power-for-todays-ministry/"><u>AUTHORITY AND POWER FOR TODAY'S MINISTRY | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-productivity-generate-ms-word-documents-using-chatgpt/"><u>Boost Your Productivity: Generate MS Word Documents Using ChatGPT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unblock-videos-from-twitter-in-chrome/"><u>In 2024, Unblock Videos From Twitter in Chrome</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-tips-for-cutting-down-ambient-noise-and-reverberation-in-audio-tracks/"><u>New In 2024, Tips for Cutting Down Ambient Noise and Reverberation in Audio Tracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722020198534-the-future-is-now-with-these-spectacular-additions-to-bard-ai-as-announced-at-google-io-2023/"><u>The Future Is Now with These Spectacular Additions to BARD AI, as Announced at Google I/O 2023</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721965931623-the-generous-offer-of-free-gpt-4-yet-here-are-six-insights-to-continue-with-chatgpt-plus/"><u>The Generous Offer of Free GPT-4 - Yet, Here Are Six Insights to Continue with ChatGPT Plus</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revamped Performance Awaits: Discover Key Improvements in MacOS 15 Upgrade for Your Apple Laptop | TechInsight Blog"
-date: 2025-02-12T19:14:18.908Z
-updated: 2025-02-16T22:41:08.768Z
+date: 2025-03-03T17:22:19.265Z
+updated: 2025-03-05T16:20:45.773Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -55,10 +51,6 @@ The Apple Intelligence ecosystem is fueled by a partnership with [OpenAI](https:
 Apple's approach to AI is markedly different from that of its competitors, however. Instead of positioning the new AI features as integral aspects of their products, Apple allows users to opt in, making immediate adoption a choice. The AI features are also clearly defined as being in beta, underscoring their nature as works-in-progress. 
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Continuity
 
@@ -84,10 +76,6 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -100,10 +88,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -113,10 +97,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 **Also: [ChatGPT privacy tips: Two important ways to limit the data you share with OpenAI](https://www.zdnet.com/article/chatgpt-privacy-tips-two-important-ways-to-limit-the-data-you-share-with-openai/)** 
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
 
@@ -162,14 +142,20 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-guard-against-gimmicky-validations-instagrams-hidden-hazard/"><u>[Updated] 2024 Approved Guard Against Gimmicky Validations Instagram's Hidden Hazard</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-riches-with-best-hash-tags-tips/"><u>2024 Approved YouTube Riches with Best Hash Tags Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-google-bard-an-in-depth-analysis-of-which-leads-in-conversational-ai/"><u>ChatGPT Vs. Google Bard: An In-Depth Analysis of Which Leads in Conversational AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-marketing-copy-excellence/"><u>ChatGPT-Powered Marketing Copy Excellence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-leading-ais-which-reigns-supreme-notion-or-chatgpt/"><u>Comparing Leading AIs: Which Reigns Supreme, Notion or ChatGPT?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-patterns-6-ingenious-ways-to-utilize-chatgpt/"><u>Decoding Patterns: 6 Ingenious Ways to Utilize ChatGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart/"><u>Face Fluidity Masterclass Perfecting the Art of Motion Blur via Picsart</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagrams-backward-glimpse-reverse-video-tips/"><u>In 2024, Instagram's Backward Glimpse Reverse Video Tips</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/yl-computings-how-to-guide-on-tweaking-speaker-settings-in-windows-control-center/"><u>YL Computing's How-To Guide on Tweaking Speaker Settings in Windows Control Center</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-pinnacle-of-participation-chronicling-the-most-upvoted-posts-on-reddit-for-2024/"><u>[New] The Pinnacle of Participation Chronicling the Most Upvoted Posts on Reddit for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-webcam-breakthroughs-ideas-to-try-now/"><u>[New] Webcam Breakthroughs Ideas to Try Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-historical-insights-at-your-fingertips-top-10-for-students/"><u>[Updated] 2024 Approved Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-creative-video-ends-top-6-budget-friendly-options/"><u>[Updated] Creative Video Ends Top 6 Budget-Friendly Options!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-parents-manual-mastering-chatgpt-and-next-gen-artificial-intelligence/"><u>A Comprehensive Parent's Manual: Mastering ChatGPT & Next-Gen Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-step-guide-to-using-chatgpt-for-enhanced-sound-creation-in-your-daw/"><u>A Step-by-Step Guide to Using ChatGPT for Enhanced Sound Creation in Your DAW</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieving-workplace-goals-with-chatgpt-strategies-for-attaining-your-perfect-job-role/"><u>Achieving Workplace Goals with ChatGPT: Strategies for Attaining Your Perfect Job Role</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-chat-features-6-applications-to-talk-through-your-files/"><u>Advanced Chat Features: 6 Applications to Talk Through Your Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-for-your-gig-work-comparing-bing-chat-and-chatgpt-on-8-essential-parameters/"><u>AI for Your Gig Work: Comparing Bing Chat and ChatGPT on 8 Essential Parameters</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-latest-update-fingerprint-recognition-software-for-pc/"><u>Download & Latest Update: Fingerprint Recognition Software for PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722035429203-get-ai-assistance-with-a-zero-price-tag-install-windows-chatgpt-alternative-now/"><u>Get AI Assistance with a Zero Price Tag – Install Windows ChatGPT Alternative Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722009350903-impatient-for-chatgpt-as-a-desktop-app-heres-an-exceptional-open-source-solution-to-tide-you-over/"><u>Impatient for ChatGPT as a Desktop App? Here’s an Exceptional Open-Source Solution to Tide You Over</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-3d-tvs-for-immersive-blu-ray-viewing-for-2024/"><u>Top 3D TVs for Immersive Blu-Ray Viewing for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-guide-to-quieting-down-films-and-videos/"><u>Updated The Ultimate Guide to Quieting Down Films and Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-ultimate-list-of-no-cost-web-based-digital-audio-workstations-daws-updated/"><u>Updated Ultimate List of No-Cost, Web-Based Digital Audio Workstations (DAWs) - Updated</u></a></li>
 </ul></div>
 

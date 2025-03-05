@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Recovering Lost Passwords From Your macOS Keychain on ZDNet
-date: 2025-02-12T01:21:19.598Z
-updated: 2025-02-17T01:53:30.436Z
+date: 2025-03-03T16:01:45.744Z
+updated: 2025-03-05T21:02:32.081Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ I will start this out by reminding everyone that you should be using a password 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -34,10 +30,6 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 
 With that said, let's get to work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Opening the Keychain Access tool
 
 To open the Keychain Access tool, click on the Launchpad located in the Dock. From there, type keychain and then click on the icon for Keychain Access. In the resulting window, click on the Passwords tab to reveal every entry (**Figure 1**) that's been saved to macOS.
@@ -47,10 +39,6 @@ To open the Keychain Access tool, click on the Launchpad located in the Dock. Fr
 The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
 
@@ -66,10 +54,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -77,10 +61,6 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,18 +93,17 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>[New] Clear Up Cloudy Captures Uncover the Best 10 Web Enhancers Ranked</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-top-10-casual-pursuits-away-from-sports-fields/"><u>[New] In 2024, Top 10 Casual Pursuits Away From Sports Fields</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-costs-without-compromising-on-youtube-intros-quality/"><u>[Updated] 2024 Approved Cutting Costs without Compromising on YouTube Intros Quality</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-professional-edge-mastering-bordered-videos-on-insta-for-2024/"><u>[Updated] Professional Edge Mastering Bordered Videos on Insta for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-rated-mkv-player-mobile-laptop/"><u>[Updated] Top-Rated MKV Player Mobile, Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-fix-how-to-restore-functionality-of-your-unresponsive-corsair-hs50-microphone/"><u>DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-your-livestream-presence-using-manycams-advanced-video-software-and-online-webcam-solutions/"><u>Enhance Your Livestream Presence Using ManyCam's Advanced Video Software and Online Webcam Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-no-more-wobbles-the-top-10-free-online-video-stabilizers-for-2024/"><u>New No More Wobbles The Top 10 Free Online Video Stabilizers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/setting-up-codegpt-a-step-by-step-guide-for-visual-studio-code/"><u>Setting Up CodeGPT: A Step-by-Step Guide for Visual Studio Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/sleuthing-scams-real-vs-phony-gpts/"><u>Sleuthing Scams: Real vs Phony GPTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-is-here-discover-8-benefits-of-integrating-ai-into-education/"><u>The Future Is Here: Discover 8 Benefits of Integrating AI Into Education</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-browsing-unveiling-the-influence-of-ai-in-search-engine-optimization/"><u>The Future of Browsing: Unveiling the Influence of AI in Search Engine Optimization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-insight-on-gptbot-and-its-prohibition-by-online-sites/"><u>The Insight on GPTBot and Its Prohibition by Online Sites</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-eliminate-youtubes-automatic-preplay-buffer/"><u>[New] 2024 Approved Eliminate YouTube's Automatic Preplay Buffer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-leading-green-visual-effects-recorders-operating-guide/"><u>[Updated] 2024 Approved Leading Green Visual Effects Recorders Operating Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-compreenas-guide-inserting-captions-into-mp4-files-2024/"><u>[Updated] Compreenas Guide Inserting Captions Into MP4 Files 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-x50i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X50i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-20-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark 20</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-stop-manor-lords-from-freezing-and-crashing-on-windows-systems/"><u>Expert Tips: Stop Manor Lords From Freezing and Crashing on Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722973447461-hassle-free-installation-newest-amd-vega-graphics-card-drivers-ready-for-you/"><u>Hassle-Free Installation: Newest AMD Vega Graphics Card Drivers Ready for You</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-get-and-run-llama-2-in-a-local-environment/"><u>How to Get and Run Llama 2 in a Local Environment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-collage-artistry-with-precision/"><u>Mastering Collage Artistry with Precision</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-in-car-automation-unveiled-by-mercedes-benz-seamless-conversations-via-voice-enabled-chatgpt-functionality/"><u>Next-Level In-Car Automation Unveiled by Mercedes-Benz: Seamless Conversations via Voice-Enabled ChatGPT Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/programming-showdown-evaluating-github-copilot-and-chatgpt-for-developer-use/"><u>Programming Showdown: Evaluating GitHub Copilot and ChatGPT for Developer Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-chatgpt-copilot-what-it-offers-and-how-to-make-the-most-of-it/"><u>The Power of ChatGPT Copilot: What It Offers & How to Make the Most of It</u></a></li>
 </ul></div>
 

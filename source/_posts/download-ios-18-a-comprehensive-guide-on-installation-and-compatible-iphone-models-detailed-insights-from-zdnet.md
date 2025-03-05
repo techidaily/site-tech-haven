@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Comprehensive Guide on Installation and Compatible iPhone Models - Detailed Insights From ZDNet"
-date: 2025-02-10T21:02:36.432Z
-updated: 2025-02-16T23:14:06.703Z
+date: 2025-03-03T19:58:13.800Z
+updated: 2025-03-05T17:14:35.545Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -54,29 +50,17 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -112,10 +96,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,17 +141,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unending-chats-strategies-for-continuous-snapstreaks/"><u>[Updated] 2024 Approved Unending Chats - Strategies for Continuous Snapstreaks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhancing-obs-on-a-thrifty-computer/"><u>[Updated] Enhancing OBS on a Thrifty Computer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-comprehensive-directory-for-got-ringtones-download/"><u>[Updated] The Comprehensive Directory for GoT Ringtones Download</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-an-effective-strategy-for-eradicating-windows-mail-error-0x800713f/"><u>Crafting an Effective Strategy for Eradicating Windows Mail Error 0X800713F</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hidden-details-the-secret-to-selective-focus/"><u>In 2024, Hidden Details The Secret to Selective Focus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-11-techniques-for-spectacular-color-enhancement/"><u>In 2024, Top 11 Techniques for Spectacular Color Enhancement</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-top-tools-studio-vs-latest-beta-features/"><u>In 2024, YouTube's Top Tools Studio Vs. Latest Beta Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/llamas-vs-ai-language-models-comparing-llama-3-and-gpt-4/"><u>Llamas Vs. AI Language Models: Comparing Llama 3 and GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/masterclass-in-ai-exploring-chatgpts-premium-edge/"><u>Masterclass in AI: Exploring ChatGPT's Premium Edge</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-online-communication-chatgpt-and-vpns/"><u>Navigating Online Communication: ChatGPT and VPNs?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/plagiarism-in-chatbots-evaluating-source-integrity/"><u>Plagiarism in ChatBots: Evaluating Source Integrity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722848282224-ultimate-guide-capturing-your-ps4-gaming-sessions/"><u>Ultimate Guide: Capturing Your PS4 Gaming Sessions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elevating-ad-revenue-through-animated-campaigns-on-facebook/"><u>[New] Elevating Ad Revenue Through Animated Campaigns on Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagrams-best-practices-video-sizes-and-formats/"><u>2024 Approved Instagram's Best Practices Video Sizes and Formats</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-ai-easy-to-understand-guide-to-artificial-intelligence/"><u>Decoding AI: Easy-to-Understand Guide to Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-future-powerhouses-5-promising-ai-hardware-advancements/"><u>Discovering Future Powerhouses: 5 Promising AI Hardware Advancements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dispelling-myths-the-absence-of-a-genuine-chatgpt-for-windows-beware-of-impostors/"><u>Dispelling Myths: The Absence of a Genuine 'ChatGPT for Windows', Beware of Impostors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/editing-in-dall-e-3-recent-updates-and-areas-to-refine/"><u>Editing in DALL-E 3: Recent Updates and Areas to Refine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-calculations-with-these-7-leading-ai-math-tools/"><u>Enhance Your Calculations with These 7 Leading AI Math Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-infinix-hot-30-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Infinix Hot 30 5G online without jailbreak</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quintessential-scores-in-8-distinct-movie-spheres/"><u>In 2024, Quintessential Scores in 8 Distinct Movie Spheres</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-g35-driver-download-for-windows-7810/"><u>Logitech G35 Driver Download for Windows 7/8/10</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/solucion-para-problemas-de-historial-en-el-explorador-de-archivos-de-windows-11/"><u>Solución Para Problemas De Historial en El Explorador De Archivos De Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-30-pro-freefire-hashtags-for-boosting-video-popularity-for-2024/"><u>Top 30 Pro-FreeFire Hashtags for Boosting Video Popularity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-free-tools-for-flawless-srt-conversion-for-2024/"><u>Top Free Tools for Flawless SRT Conversion for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-the-fitbit-charge-4-the-intersection-of-aesthetic-appeal-and-reliable-tracking/"><u>Unboxing & Testing the Fitbit Charge 4 - The Intersection of Aesthetic Appeal and Reliable Tracking</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's 'Let Loose' Event Highlights: The Revolutionary M4 iPad Pro, Slimmer 13-Inch iPad Air & Improved Apple Pencil Pro Revealed - Detailed Coverage | GadgetPundit."
-date: 2025-02-10T18:08:25.203Z
-updated: 2025-02-16T23:00:24.151Z
+date: 2025-03-02T19:18:07.301Z
+updated: 2025-03-05T18:37:29.151Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
 
@@ -56,10 +52,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -75,10 +67,6 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -102,17 +90,9 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -160,20 +140,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-tiny-titans-top-games-anthology/"><u>[New] Tiny Titans' Top Games Anthology</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-tips-for-pc-based-console-game-recording-for-2024/"><u>[Updated] Essential Tips for PC-Based Console Game Recording for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-maximize-impact-best-practices-for-fb-video-posts-for-2024/"><u>[Updated] Maximize Impact Best Practices for FB Video Posts for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-success-on-youtube-standard-studio-or-beta/"><u>2024 Approved Crafting Success on YouTube Standard Studio or Beta</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-what-are-the-differences-between-the-two-most-popular-language-models/"><u>GPT Vs. BERT: What Are the Differences Between the Two Most Popular Language Models?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-became-an-overnight-sensation-5-reasons-behind-its-explosive-growth/"><u>How ChatGPT Became an Overnight Sensation: 5 Reasons Behind Its Explosive Growth</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-natural-language-processing-differ-from-overall-machine-learning/"><u>How Does Natural Language Processing Differ From Overall Machine Learning?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oneplus-11r-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your OnePlus 11R FRP Locks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-professional-correspondence-a-guide-to-composing-tough-emails-with-chatgpt/"><u>Mastering Professional Correspondence: A Guide to Composing Tough Emails with ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-risks-of-fraudgpt-key-strategies-for-online-security/"><u>Navigating the Risks of FraudGPT - Key Strategies for Online Security</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-level-innovation-openai-brings-game-changing-ai-capabilities-to-market-with-gpt-4/"><u>Next-Level Innovation: OpenAI Brings Game-Changing AI Capabilities to Market With GPT-4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-communication-gaps-fixing-service-disconnect-in-chatgpt/"><u>Overcoming Communication Gaps: Fixing Service Disconnect in ChatGPT</u></a></li>
-<li><a href="https://win-dash.techidaily.com/placental-transfer/"><u>Placental Transfer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screen-recording-on-macos-ahead-with-bandicam-or-camtasia-for-2024/"><u>Screen Recording on MacOS Ahead with Bandicam or Camtasia for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/tcls-ultimate-tab-10-with-nxtpaper-technology-reviewed-embracing-a-cutting-edge-display-and-unrivaled-all-day-power/"><u>TCL's Ultimate Tab 10 with NXTPaper Technology Reviewed – Embracing a Cutting-Edge Display and Unrivaled All-Day Power!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-capture-tool-for-windows-10-professional/"><u>[New] 2024 Approved Ultimate Capture Tool for Windows 10 - Professional</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-complete-roadmap-to-online-tiktok-streaming-from-desktop/"><u>[Updated] In 2024, The Complete Roadmap to Online TikTok Streaming From Desktop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/3-innovative-ways-to-use-chatgpt-for-excellent-excel-results/"><u>3 Innovative Ways to Use ChatGPT for Excellent Excel Results</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavimp4/"><u>無需花費一分錢，線上Movavi提供MP4圖像變更服務</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-clear-path-to-mastering-chatgpt/"><u>A Clear Path to Mastering ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-compreenhensive-guide-to-everyones-gpt-4/"><u>A Compreenhensive Guide to Everyone's GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-decade-of-thoughts-leading-global-tech-figures-discuss-artificial-intelligence/"><u>A Decade of Thoughts: Leading Global Tech Figures Discuss Artificial Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/academic-dedication-rejecting-unfair-help-from-ai/"><u>Academic Dedication: Rejecting Unfair Help From AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-chatbot-showdown-comparing-chatgpt-plus-with-perplexity/"><u>AI Chatbot Showdown: Comparing ChatGPT Plus with Perplexity</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/androids-voice-command-revolution-with-gpt/"><u>Android's Voice Command Revolution with GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-advantages-and-disadvantages-of-locally-tailored-law-services/"><u>Assessing the Advantages and Disadvantages of Locally-Tailored Law Services</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 with/without SIM Card</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-your-videos-potential-with-smooth-narrative-flows/"><u>In 2024, Unlocking Your Videos' Potential with Smooth Narrative Flows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/machine-talk-deciphering-the-gpt-bing-divide/"><u>Machine Talk: Deciphering the GPT-Bing Divide</u></a></li>
+<li><a href="https://win-able.techidaily.com/msi-afterburner-and-gpu-detection-problems-solutions-for-windows-1011-users/"><u>MSI Afterburner and GPU Detection Problems: Solutions for Windows 10/11 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-when-your-logitech-c922-webcam-wont-connect-or-record/"><u>Step-by-Step Solutions for When Your Logitech C922 Webcam Won't Connect or Record</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-itel-p55-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Itel P55 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722124628093-unpacking-the-pace-problem-why-is-chatgpt-4-not-as-fast-as-its-predecessor-chatgpt-3e/"><u>Unpacking the Pace Problem: Why Is ChatGPT-4 Not As Fast As Its Predecessor, ChatGPT-3.e</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
 </ul></div>
 

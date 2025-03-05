@@ -1,7 +1,7 @@
 ---
 title: Can Apple Turn the Tide for Frustrated Sonos Customers? Insights & Possibilities
-date: 2025-02-10T23:31:34.442Z
-updated: 2025-02-16T17:55:16.169Z
+date: 2025-03-04T16:35:11.404Z
+updated: 2025-03-05T20:17:12.192Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Reputation botched by a software rollout
 
 Founded in 2002, Sonos revolutionized home audio with its wireless, multiroom speaker systems. The company became a household name known for high-quality sound and seamless integration with music services. 
@@ -64,10 +60,6 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A lack of competitors
 
 While many users like myself are looking for a clear migration path to a competitor, no true alternatives to Sonos exist. Neither [Amazon Echo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fb%2F%3Fie%3DUTF8%26node%3D9818047011%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5Fijuevad4z%5Fe%26www.amazon.com%2Fdp%2FB07XKF5RM3%3Ftag%3Dgooghydr-20%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5F2g7cb1h5ze%5Fe%26gclid%3DCj0KCQjw-uK0BhC0ARIsANQtgGN0ThJnnXE7wtYeCxiGIl5czneMT%5FsjULx2rJ86YnnFx2KqPCbNjZ8aAjIfEALw%5FwcB%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C70627553-77df-49e3-a7ee-2927c5ba9399%7Cdtp&dtb=1) nor [Google Nest Audio](https://store.google.com/us/product/nest%5Faudio?pli=1&hl=en-US) provides comparable multiroom audio or surround sound with their current smart speakers. Apple's [HomePod](https://www.apple.com/homepod/) is an excellent solution for a bedroom or a small living room with a two-speaker setup paired with an [Apple TV](https://www.zdnet.com/home-and-office/home-entertainment/tvos-18-will-enhance-the-dialogue-on-your-apple-tv-to-help-you-better-hear-it/), but the technology doesn't offer multiroom or surround sound.
@@ -77,10 +69,6 @@ While many users like myself are looking for a clear migration path to a competi
 For Apple (or Amazon or Google) to truly compete with Sonos, the companies will need to support Dolby Digital 5.1 and [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/). This would require the development of a full range of components, such as a soundbar/center channel, subwoofer, and rear surrounds, in addition to the existing left and right HomePod speakers for stereo and simulated surround (spatial audio).
 
 Here's an idea, Apple: Either buy Sonos outright and take over software development, or independently develop HomePod into a true home entertainment solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Apple should do it
 
@@ -92,17 +80,9 @@ Apple has the resources to make this move, and now is the right time for HomePod
 
 [As reported](https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/) in _MacRumors_, a connected "accessory" for Apple TV and HomePod powered by the yet-to-be-released A18 processor (coming in the [iPhone 16](https://www.zdnet.com/article/i-upgrade-my-iphone-every-year-but-iphone-16-worries-me-heres-why/)) may bring the highly awaited Apple Intelligence features to the home entertainment space.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Transforming Apple Music with AI
 
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Personalized music experiences
 
@@ -160,14 +140,20 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-9-virtual-mic-recorders-to-enhance-remote-sessions-23/"><u>[New] Best 9 Virtual Mic Recorders to Enhance Remote Sessions ('23)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-animated-wonders-a-curated-top-15-in-stop-motion/"><u>[Updated] Animated Wonders A Curated Top 15 in Stop Motion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-showdown-gpt-vs-bing-ai-and-googles-bard-battle/"><u>AI Showdown: GPT Vs. Bing AI & Google's Bard Battle</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-shortfall-in-digital-guardianship/"><u>AI's Shortfall in Digital Guardianship</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/battle-of-the-bots-analyzing-the-effectiveness-of-chatgpt-vs-claudes-ai-technology/"><u>Battle of the Bots: Analyzing the Effectiveness of ChatGPT Vs. Claude's AI Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-digital-creations-leveraging-canva-and-chatgpt-for-scalable-outputs/"><u>Boost Your Digital Creations: Leveraging Canva & ChatGPT for Scalable Outputs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-hl2280dw-driver-installation-guide-and-download-for-various-windows-versions/"><u>Brother HL2280DW Driver Installation Guide and Download for Various Windows Versions</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726029475178-dvddvd/"><u>DVD音声のみ再生テクニック：DVDから高品質な音を取り出してください</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723009885237-forza-horizon-4-pc-fix-no-more-vehicle-collisions/"><u>Forza Horizon 4 PC Fix - No More Vehicle Collisions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-spotlight-subject-erase-bg-in-photo-editing/"><u>[New] In 2024, Spotlight Subject, Erase Bg in Photo Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-short-form-spectrum-youtube-meets-tiktok/"><u>[New] Short-Form Spectrum YouTube Meets TikTok</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-we-underestimating-the-danger-how-chatgpt-could-aid-hackers-in-attacking-banks-and-personal-pcs/"><u>Are We Underestimating the Danger? How ChatGPT Could Aid Hackers in Attacking Banks and Personal PCs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/capture-nostalgia-uploading-past-photos-as-snaps/"><u>Capture Nostalgia - Uploading Past Photos as Snaps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/evaluating-wirecast-other-options-to-consider-for-2024/"><u>Evaluating WireCast Other Options To Consider for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insights-into-crafting-responses-to-youtube-comments/"><u>In 2024, Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/linuxs-surge-the-power-of-wsl-integration/"><u>Linux's Surge: The Power of WSL Integration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fix-ultimate-tutorial-for-effortless-font-installation-in-windows-11/"><u>Quick Fix: Ultimate Tutorial for Effortless Font Installation in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-fixes-boosting-windows-11-startup-performance/"><u>Quick Fixes: Boosting Windows 11 Startup Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/recover-deleted-files-on-sd-card-easily-with-pictures/"><u>Recover Deleted Files on SD Card Easily [With Pictures]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-your-asus-trackpads-inactivity-on-microsoft-windows-a-step-by-step-guide/"><u>Resolving Your ASUS Trackpad's Inactivity on Microsoft Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secure-and-unrestricted-online-experience-the-best-free-vpn-trials-in-the-usa-you-cant-miss/"><u>Secure & Unrestricted Online Experience: The Best FREE VPN Trials in the USA You Can't Miss</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-steps-setting-up-your-wireless-printer-without-hassle/"><u>Simple Steps: Setting Up Your Wireless Printer Without Hassle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dual-edges-of-leveraging-chatgpt-for-innovative-writing-solutions/"><u>The Dual Edges of Leveraging ChatGPT for Innovative Writing Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-14-engaging-text-movies-for-creative-experimentation-for-2024/"><u>Top 14 Engaging Text Movies for Creative Experimentation for 2024</u></a></li>
 </ul></div>
 

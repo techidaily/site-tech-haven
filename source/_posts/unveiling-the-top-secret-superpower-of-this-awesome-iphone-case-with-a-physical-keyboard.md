@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top Secret Superpower of This Awesome iPhone Case with a Physical Keyboard!
-date: 2025-02-13T23:01:40.744Z
-updated: 2025-02-17T00:22:07.381Z
+date: 2025-02-27T20:24:12.165Z
+updated: 2025-03-05T19:09:05.750Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -42,10 +38,6 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uncertainty around on-device performance
 
 Adrian Kingsley-Hughes/ZDNET
@@ -55,10 +47,6 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
 
@@ -77,10 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
 
@@ -124,18 +108,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-top-5-underwater-gopro-accessories/"><u>[New] Top 5 Underwater Gopro Accessories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201082780-solved-how-to-fix-error-0x887a0006-quickly-and-easily/"><u>[Solved] How to Fix Error 0X887A0006 | Quickly & Easily!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-system-evolution-unlocked-a-comprehensive-improvement-pathway/"><u>[Updated] System Evolution Unlocked A Comprehensive Improvement Pathway</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-ways-to-diagnose-and-fix-a-malfunctioning-computer-using-chatgpt/"><u>Effective Ways to Diagnose and Fix a Malfunctioning Computer Using ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhanced-usability-why-the-chatgpt-desktop-app-outperforms-its-website-equivalent/"><u>Enhanced Usability: Why the ChatGPT Desktop App Outperforms Its Website Equivalent</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-learning-with-the-power-of-chatgpt-notes/"><u>Enhancing Learning with the Power of ChatGPT Notes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evading-cyber-lies-the-danger-in-downloading-google-bard/"><u>Evading Cyber Lies: The Danger in Downloading Google Bard</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-more-with-chatgpt-why-the-desktop-app-takes-top-spot-over-web-interface/"><u>Experience More with ChatGPT: Why the Desktop App Takes Top Spot over Web Interface</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-artificial-intelligence-prompts-what-are-they-and-how-do-they-function/"><u>Exploring Artificial Intelligence Prompts: What Are They and How Do They Function?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-building-brand-loyalty-through-emotional-fb-video-storytelling/"><u>In 2024, Building Brand Loyalty Through Emotional FB Video Storytelling</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quickly-restore-sound-functionality-on-windows-11-a-5-step-guide/"><u>Quickly Restore Sound Functionality on Windows 11 - A 5-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-split-screen-video-recording-apps-for-ios-and-android/"><u>Updated The Best Split Screen Video Recording Apps for iOS and Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-cinematography-mastering-transitions-in-kinemaster-for-2024/"><u>[New] Elevate Your Cinematography Mastering Transitions in Kinemaster for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-periscope-pro-the-in-depth-usage-guidebook-for-2024/"><u>[New] Periscope Pro The In-Depth Usage Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-how-to-edit-uploaded-published-youtube-videos/"><u>[Updated] How to Edit Uploaded/ Published YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-premium-10-drones-capturing-images-and-films/"><u>[Updated] In 2024, Premium 10 Drones Capturing Images & Films</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-ultimate-mix-seamless-free-and-paid-blu-ray-playback-windows-macos/"><u>[Updated] In 2024, Ultimate Mix Seamless Free & Paid Blu-Ray Playback (Windows, macOS)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/9-effective-strategies-enhancing-personal-wellness-with-chatgpt/"><u>9 Effective Strategies: Enhancing Personal Wellness with ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-overview-of-what-generative-ai-means-for-technology/"><u>A Comprehensive Overview of What Generative AI Means for Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-breakthrough-preparing-for-a-new-era-with-gpt-4-in-do-it-yourself-ventures/"><u>AI Breakthrough: Preparing for a New Era with GPT-4 in Do-It-Yourself Ventures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-clash-of-titans-exploring-key-variations-between-chatgpt-and-bings-conversational-agent/"><u>AI Clash of Titans: Exploring Key Variations Between ChatGPT and Bing's Conversational Agent</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-role-in-blurring-boundaries-between-real-world-and-fantasy-universe-learn-about-these-eight-innovations/"><u>AI's Role in Blurring Boundaries Between Real World and Fantasy Universe - Learn About These Eight Innovations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipating-the-digital-threat-landscape-7-key-insights-and-beyond/"><u>Anticipating the Digital Threat Landscape: 7 Key Insights and Beyond</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/authentification-assistant-openais-anti-fake-tech-for-gpt/"><u>Authentification Assistant: OpenAI’s Anti-Fake Tech for GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/auto-gpts-impact-on-everyday-productivity/"><u>Auto-GPT's Impact on Everyday Productivity</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/curing-asus-lcd-flickering-issues-effectively/"><u>Curing ASUS LCD Flickering Issues Effectively</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722158089815-dall-e-3-imagery-seamless-conversion-from-webp-to-your-preferred-image-type/"><u>DALL-E 3 Imagery: Seamless Conversion From WebP to Your Preferred Image Type</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-secure-your-lenovo-thinkpad-l14-gen-3-today-for-a-stunning-77-discount-in-this-cyber-monday-exclusive-offer-on-zdnet/"><u>Don't Miss Out! Secure Your Lenovo ThinkPad L14 Gen 3 Today for a Stunning 77% Discount in This Cyber Monday Exclusive Offer on ZDNET.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Passcode Screen?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210168351-9781735943114-now-what-a-quick-guide-to-help-you-rise-when-life-knocks-you-down/"><u>Now What? A quick guide to help you rise when life knocks you down | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-metaai-beyond-basic-chatbot-capabilities/"><u>Understanding MetaAI: Beyond Basic Chatbot Capabilities</u></a></li>
 </ul></div>
 

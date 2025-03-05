@@ -1,7 +1,7 @@
 ---
 title: "Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips"
-date: 2025-02-12T01:48:15.707Z
-updated: 2025-02-16T20:39:44.028Z
+date: 2025-03-01T19:15:34.970Z
+updated: 2025-03-05T20:21:49.140Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -65,10 +61,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
@@ -115,10 +107,6 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
@@ -133,10 +121,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -144,10 +128,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -197,18 +177,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-begin-recording-webcam-via-vlc/"><u>[New] In 2024, Begin Recording Webcam via VLC</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-propagate-your-content-with-vimeo-links/"><u>[Updated] 2024 Approved Propagate Your Content with Vimeo Links</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimal-online-locations-free-quality-alarm-songs/"><u>[Updated] Optimal Online Locations Free, Quality Alarm Songs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-gravar-aperfeicoando-a-qualidade-sonora-melhores-ferramentas-de-computador-para-2024-insights-pelo-movavi/"><u>Como Gravar Aperfeiçoando a Qualidade Sonora: Melhores Ferramentas De Computador Para 2024 – Insights Pelo Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-secure-conversations-with-duckduckgo-ai-chat-your-gateway-to-privacy-first-chatgpt-interactions/"><u>Discover Secure Conversations with DuckDuckGo AI Chat: Your Gateway to Privacy-First ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-best-7-ai-coding-assistants-effective-replacements-for-chatgpt/"><u>Discover the Best 7 AI Coding Assistants: Effective Replacements for ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-leading-ai-checker-apps-to-authenticate-student-writings-and-reports/"><u>Discover the Leading AI Checker Apps to Authenticate Student Writings & Reports</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-to-overcome-chatgpt-saving-conversation-glitches/"><u>Effective Strategies to Overcome ChatGPT Saving Conversation Glitches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-overwatch-competitive-edge-meets-team-tactics-in-shooter-gaming/"><u>Expert Review of Overwatch: Competitive Edge Meets Team Tactics in Shooter Gaming.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-humor-capabilities-in-artificial-intelligence-plus-an-insight-into-the-evolution-of-laptops-and-advancements-in-virtual-private-network-technology22/"><u>Exploring Humor Capabilities in Artificial Intelligence + An Insight Into the Evolution of Laptops & Advancements in Virtual Private Network Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-novice-to-expert-transitioning-into-the-dynamic-field-of-conversational-ai-development/"><u>From Novice to Expert: Transitioning Into the Dynamic Field of Conversational AI Development</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-release-of-la-noire-confirmed-overcoming-launch-hurdles-successfully/"><u>PC Release of L.A. Noire Confirmed: Overcoming Launch Hurdles Successfully</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-operations-bluetooth-drivers-on-windows/"><u>Smooth Operations: Bluetooth Drivers on Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamlined-conversion-of-youtube-content/"><u>[Updated] Streamlined Conversion of YouTube Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clearing-past-interactions-how-to-remove-your-chat-history-on-chatgpt/"><u>Clearing Past Interactions: How to Remove Your Chat History on ChatGPT</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-on-the-side-balancing-employment-with-youtube-for-2024/"><u>Creating on the Side Balancing Employment with YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-correcting-windows-error-0x8007021/"><u>Decoding and Correcting Windows Error 0X8007021</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-appeal-of-artificial-intelligence-chatbots-whats-driving-their-popularity/"><u>Discover the Appeal of Artificial Intelligence Chatbots – What’s Driving Their Popularity?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-diy-endeavors-with-next-gen-ai/"><u>Enhancing DIY Endeavors with Next-Gen AI</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-installing-apple-podcasts-app-successfully/"><u>Essential Tips Installing Apple Podcasts App Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-a-bluish-color-distortion-a-step-by-step-guide-for-your-screen/"><u>Fixing a Bluish Color Distortion: A Step-by-Step Guide for Your Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-self-editing-shortcomings/"><u>GPT's Self-Editing Shortcomings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-gpt-tags-for-shambot-discovery-in-conversations/"><u>Harnessing GPT Tags for Shambot Discovery in Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restart-and-fix-a-stalled-hamachi-vpn-service-easily/"><u>How to Restart and Fix a Stalled Hamachi VPN Service Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-becoming-a-prompt-engineer-feasible-analyzing-9-critical-factors-first/"><u>Is Becoming a Prompt Engineer Feasible? Analyzing 9 Critical Factors First</u></a></li>
+<li><a href="https://extra-information.techidaily.com/no-pay-all-praise-tailor-made-outro-videos-here/"><u>No Pay, All Praise Tailor-Made Outro Videos Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-team-communications-with-chatgpt-tools/"><u>Streamlining Team Communications with ChatGPT Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-google-pixel-8-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Google Pixel 8 Pro Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-saving-gpt-chats/"><u>The Ultimate Guide to Saving GPT Chats</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-lego-animators-to-watch/"><u>Updated In 2024, Top Lego Animators to Watch</u></a></li>
 </ul></div>
 

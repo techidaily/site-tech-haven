@@ -1,7 +1,7 @@
 ---
 title: Just Scored the Latest iPad (9Th Gen) for an Unbeatable Price of $250 After Apple's New Release | Shop Today at ZDNet
-date: 2025-02-15T01:28:08.588Z
-updated: 2025-02-16T23:49:04.803Z
+date: 2025-03-03T19:34:08.574Z
+updated: 2025-03-05T17:49:28.090Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -62,17 +58,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-high-definition-flight-testing-xiaomi-mi-drone-probe/"><u>[New] 2024 Approved High-Definition Flight Testing - Xiaomi Mi Drone Probe</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-live-to-share-top-tech-for-high-quality-youtube-livestreams/"><u>[New] In 2024, Live to Share Top Tech For High-Quality YouTube Livestreams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-optimized-video-scale-to-mac-aspect-proportion/"><u>2024 Approved Optimized Video Scale to Mac Aspect Proportion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-artificial-intelligence-tools-for-beginners-club/"><u>Essential Artificial Intelligence Tools for Beginner's Club</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/expanding-language-reach-with-chatgpt-capabilities/"><u>Expanding Language Reach with ChatGPT Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-better-ai-assistance-with-these-4-reasons-for-choosing-microsoft-copilot-over-chatgpt/"><u>Experience Better AI Assistance with These 4 Reasons for Choosing Microsoft Copilot over ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-4-compelling-reasons-to-opt-for-microsoft-copilot-rather-than-chatgpt/"><u>Explore 4 Compelling Reasons to Opt for Microsoft Copilot Rather than ChatGPT</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-20-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Camon 20 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-rog-phone-8-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ROG Phone 8?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-secrets-of-professional-srt-file-making/"><u>In 2024, Unlocking the Secrets of Professional SRT File Making</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-device-shows-battery-undetected/"><u>Quick Fixes for When Your Device Shows 'Battery Undetected'</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/understanding-and-utilizing-ez-grabber-like-a-pro-for-2024/"><u>Understanding and Utilizing EZ Grabber Like a Pro for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-combat-chronicles-leading-10-battle-royale-games/"><u>[New] In 2024, Combat Chronicles Leading 10 Battle Royale Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aint-a-picture-of-perfection-chromatic-mastery-for-beauty/"><u>[New] Paint a Picture of Perfection Chromatic Mastery for Beauty</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-chromatic-soundscapes-selecting-the-right-tune-for-2024/"><u>[Updated] Chromatic Soundscapes Selecting the Right Tune for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-earning-through-youtube-navigating-revenue-without-ads/"><u>[Updated] In 2024, Earning Through YouTube Navigating Revenue Without Ads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-exclusive-insights-into-top-8-facebook-film-extractors/"><u>[Updated] In 2024, Exclusive Insights Into Top 8 Facebook Film Extractors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-skyrocketing-revenue-mastering-video-monetization-everywhere/"><u>[Updated] In 2024, Skyrocketing Revenue Mastering Video Monetization Everywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-leveraging-chatgpt-for-enhanced-job-hunting/"><u>6 Effective Strategies: Leveraging ChatGPT for Enhanced Job Hunting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-chatbots-face-off-which-wins-gemini-or-chatgpt-plus/"><u>Advanced Chatbots Face-Off: Which Wins, Gemini or ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-face-off-which-leads-chatgpt-versus-microsoft-bing-versus-google-bard/"><u>AI Face-Off: Which Leads? ChatGPT Versus Microsoft Bing versus Google Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-driven-therapy-reimagined-discover-top-5-innovations/"><u>AI-Driven Therapy Reimagined: Discover Top 5 Innovations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-quintuple-quandary-in-cybercriminal-exploitation/"><u>AI's Quintuple Quandary in Cybercriminal Exploitation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-faceoff-assessing-the-advantages-of-chatgpt-over-google-bard/"><u>Artificial Intelligence Faceoff: Assessing the Advantages of ChatGPT over Google Bard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/auto-gpts-independence-a-valid-argument/"><u>Auto-GPT's Independence: A Valid Argument?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-innovative-techniques-for-compelling-youtube-beginnings/"><u>In 2024, Innovative Techniques for Compelling YouTube Beginnings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-user32dll-error-a-step-by-step-guide/"><u>Resolving the 'User32.dll' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

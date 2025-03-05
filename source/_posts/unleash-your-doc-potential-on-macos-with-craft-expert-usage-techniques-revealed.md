@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Doc Potential on macOS with Craft: Expert Usage Techniques Revealed"
-date: 2025-02-14T23:46:50.951Z
-updated: 2025-02-16T20:12:15.522Z
+date: 2025-03-01T20:38:23.154Z
+updated: 2025-03-05T18:46:47.667Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -38,10 +34,6 @@ Needless to say, Craft is quite impressive. The only problem with Craft is that 
 To help you out, I'm going to walk you through the creation of a document in Craft. Before you do that, you'll need to first install Craft, which can be found in the App Store. Craft is free and can be installed with just a couple of quick clicks. 
 
 Once you have Craft installed, you're ready to start building your first document.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create a document in Craft
 
@@ -63,10 +55,6 @@ Below the cover image, type the title of the page and then start typing addition
 
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adding external sources
 
 Let's say you want to add links to external sources. Maybe you're writing a resume or an About Me page and you want to add your Twitter, Amazon, and ZDNet profiles to the document. For that, go to one of those external sites, copy the link to your profile, and then paste it into the document. The link will then appear as its own block (**Figure 3**).
@@ -76,10 +64,6 @@ Adding my ZDNet profile link to my document.
 Image: Jack Wallen
 
 Now we're getting somewhere. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Link a document to another
 
@@ -129,19 +113,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-future-is-here-magix-vpx-unveiled-and-tested-for-2024/"><u>[New] The Future Is Here Magix VPX Unveiled and Tested for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-playbook-iphone-downloading-for-podcast-enthusiasts/"><u>[Updated] The Ultimate Playbook IPhone Downloading for Podcast Enthusiasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-fixing-hp-officejet-pro-6978-driver-issues/"><u>Comprehensive Guide to Fixing HP OfficeJet Pro 6978 Driver Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/drones-and-stabilization-your-ultimate-camera-gimbal-selection/"><u>Drones & Stabilization Your Ultimate Camera Gimbal Selection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-create-backups-of-your-chatgpt-conversations-for-easy-access-later-on/"><u>How To Create Backups Of Your ChatGPT Conversations for Easy Access Later On</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-sidestep-generative-ai-faults-insights-into-7-critical-errors/"><u>How to Sidestep Generative AI Faults: Insights Into 7 Critical Errors</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210933012-9781855844643-human-beings-experiences-beyond-the-gates-of-death/"><u>Human Being's Experiences Beyond The Gates of Death | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-ais-frailty-how-do-prompt-injections-threaten-its-integrity/"><u>Inside AI's Frailty: How Do Prompt Injections Threaten Its Integrity?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-data-secure-with-chatgpts-privacy-measures/"><u>Is Your Data Secure with ChatGPT's Privacy Measures?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-edge-insights-discover-6-uses-for-ais-code-maestro/"><u>Leading-Edge Insights - Discover 6 Uses for AI's Code Maestro</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/outlook-crashes-heres-what-you-need-to-know-for-a-smooth-experience/"><u>Outlook Crashes? Here's What You Need to Know for a Smooth Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-nord-n30-se-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus Nord N30 SE FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-google-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Google Phones</u></a></li>
-<li><a href="https://win-dash.techidaily.com/youtube-gif/"><u>YouTube ムービーを GIFへ変換するコツと最適ソフト |無料リスト</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-boosting-your-youtube-shorts-profits-key-requirements-and-earning-potential/"><u>[New] In 2024, Boosting Your Youtube Shorts Profits Key Requirements & Earning Potential</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-blueprint-of-youtubes-innovative-shorts-economy-model/"><u>[Updated] In 2024, The Blueprint of YouTube's Innovative Shorts Economy Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/4-key-ai-assessments-ensuring-chatgpts-accuracy-and-learning/"><u>4 Key AI Assessments: Ensuring ChatGPT's Accuracy and Learning</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-vital-avenues-how-ai-strengthens-illegal-cyberspace-operations/"><u>5 Vital Avenues: How AI Strengthens Illegal Cyberspace Operations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5pya6ygp44gq5yuv55s75b2i5byp44go44ox44op44od44oi44ov44kp44o844og44gu6yg45a6a44gr5b2556ul44gk5o6i57si5oim55wl/"><u>最適な動画形式とプラットフォームの選定に役立つ探索戦略</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-and-the-digital-age-unveiling-7-strategies-of-online-dating-fraudsters/"><u>AI and the Digital Age: Unveiling 7 Strategies of Online Dating Fraudsters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-for-you-not-just-experts-claude-versus-gpt/"><u>AI for You, Not Just Experts: Claude Versus GPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/art-and-technology-converging-with-nine-new-media-creations/"><u>Art and Technology Converging with Nine New Media Creations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/automate-productivity-implementing-auto-gpt-now/"><u>Automate Productivity: Implementing Auto-GPT Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722204985467-chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-and-regain-control-over-radeon-wattman-a-comprehensive-guide-to-default-settings-recovery/"><u>Fix and Regain Control Over Radeon Wattman - A Comprehensive Guide to Default Settings Recovery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-playstation-vr-games-to-look-forward-to/"><u>In 2024, Top 5 Playstation VR Games to Look Forward To</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/invisible-observers-the-ultimate-list-of-apps-for-2024/"><u>Invisible Observers The Ultimate List of Apps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-compatibility-issues-with-bluetooth-on-the-latest-windows-11-platform/"><u>Resolving Compatibility Issues with Bluetooth on the Latest Windows 11 Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ling-12-superior-cameras-for-exceptional-vlogging-for-2024/"><u>Unveiling 12 Superior Cameras for Exceptional Vlogging for 2024</u></a></li>
 </ul></div>
 

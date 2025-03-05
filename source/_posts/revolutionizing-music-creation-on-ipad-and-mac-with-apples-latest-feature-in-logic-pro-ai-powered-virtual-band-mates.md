@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Music Creation on iPad & Mac with Apple's Latest Feature in Logic Pro: AI-Powered Virtual Band Mates"
-date: 2025-02-10T16:07:41.032Z
-updated: 2025-02-17T01:19:03.126Z
+date: 2025-02-26T19:08:35.365Z
+updated: 2025-03-05T20:47:41.910Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -87,10 +83,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -102,10 +94,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -131,10 +119,6 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -150,10 +134,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -210,22 +190,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-fun-downloading-fb-status-video/"><u>[New] 2024 Approved Maximizing Fun Downloading FB Status Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-panoramic-insights-digest/"><u>[New] Panoramic Insights Digest</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-respecting-copyrights-when-converting-youtube-to-mp4/"><u>[Updated] Respecting Copyrights When Converting YouTube to MP4</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/final-cut-pro-masterclass-top-10-plugin-guide/"><u>Final Cut Pro Masterclass Top 10 Plugin Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-explained-revolutionizing-innovation-in-tech/"><u>Generative AI Explained: Revolutionizing Innovation in Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-can-i-use-chatgpt-for-my-smart-home-automation/"><u>How Can I Use ChatGPT For My Smart Home Automation?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-transfer-learning-power-up-ai-unveiling-the-intricacies/"><u>How Does Transfer Learning Power Up AI? Unveiling the Intricacies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-convert-vob-files-to-mp4-on-windows-nx-for-free-best-tools-reviewed/"><u>How to Convert VOB Files to MP4 on Windows nX for Free – Best Tools Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-chatgpt-to-develop-emotional-intelligence/"><u>How to Use ChatGPT to Develop Emotional Intelligence</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/impatient-for-chatgpt-as-a-desktop-app-heres-an-exceptional-open-source-solution-to-tide-you-over/"><u>Impatient for ChatGPT as a Desktop App? Here’s an Exceptional Open-Source Solution to Tide You Over!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-ai-strategies-vital-gadgets-for-todays-business-magnates/"><u>Innovative AI Strategies: Vital Gadgets for Today's Business Magnates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-hackers-to-utilize-chatgpt-for-breaching-financial-and-personal-security-systems/"><u>Is It Possible for Hackers to Utilize ChatGPT for Breaching Financial and Personal Security Systems?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-improved-3d-model-creation-and-printing-techniques/"><u>Leveraging ChatGPT for Improved 3D Model Creation and Printing Techniques</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mov-video-rotation-software-top-picks/"><u>New 2024 Approved Free MOV Video Rotation Software Top Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-m4a-to-wav-file-conversion-get-started-with-movavis-free-service-now/"><u>Quick and Easy M4A to WAV File Conversion - Get Started With Movavi's Free Service Now!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-7-online-audio-cutters-for-efficient-and-hassle-free-file-management/"><u>Updated In 2024, Top 7 Online Audio Cutters for Efficient and Hassle-Free File Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-image-isolation-pro-eliminate-backgrounds-in-affinity/"><u>[New] Image Isolation Pro Eliminate Backgrounds in Affinity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ridiculousrender-hub/"><u>[Updated] RidiculousRender Hub</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-aimp-pro-541-wmsps-advanced-desktop-companion/"><u>2024 Approved AIMP Pro 5.41 WMSP's Advanced Desktop Companion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-a59-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo A59 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beat-the-wait-fast-talk-with-nvidias-rtx-chatbot/"><u>Beat The Wait: Fast Talk with Nvidia's RTX Chatbot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beating-apples-premium-with-savings-discovering-my-perfect-xr-glasses-a-frugal-yet-effective-choice/"><u>Beating Apple's Premium with Savings: Discovering My Perfect XR Glasses - A Frugal Yet Effective Choice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-establishing-wellness-goals-using-chatgpt/"><u>Effective Strategies for Establishing Wellness Goals Using ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-truthgpt-coin-unveiling-facts-behind-the-crypto-is-it-trustworthy-or-fraudulent/"><u>Exploring TruthGPT Coin: Unveiling Facts Behind the Crypto - Is It Trustworthy or Fraudulent?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/facts-only-top-fps-games/"><u>Facts Only: Top FPS Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-google-chrome-wont-launch/"><u>Fixing the Issue: Why Google Chrome Won't Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/instantaneous-app-management-in-windows-11/"><u>Instantaneous App Management in Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-slow-down-time-using-slow-motion-effects-in-windows-live-movie-maker-2023/"><u>Updated 2024 Approved Slow Down Time Using Slow Motion Effects in Windows Live Movie Maker 2023</u></a></li>
 </ul></div>
 

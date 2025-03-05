@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate MacOS Document Management System - A Comprehensive Guide"
-date: 2025-02-13T23:14:11.419Z
-updated: 2025-02-16T18:28:33.691Z
+date: 2025-03-03T16:30:42.524Z
+updated: 2025-03-05T18:51:48.626Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -38,10 +34,6 @@ Needless to say, Craft is quite impressive. The only problem with Craft is that 
 To help you out, I'm going to walk you through the creation of a document in Craft. Before you do that, you'll need to first install Craft, which can be found in the App Store. Craft is free and can be installed with just a couple of quick clicks. 
 
 Once you have Craft installed, you're ready to start building your first document.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create a document in Craft
 
@@ -63,10 +55,6 @@ Below the cover image, type the title of the page and then start typing addition
 
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adding external sources
 
 Let's say you want to add links to external sources. Maybe you're writing a resume or an About Me page and you want to add your Twitter, Amazon, and ZDNet profiles to the document. For that, go to one of those external sites, copy the link to your profile, and then paste it into the document. The link will then appear as its own block (**Figure 3**).
@@ -76,10 +64,6 @@ Adding my ZDNet profile link to my document.
 Image: Jack Wallen
 
 Now we're getting somewhere. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Link a document to another
 
@@ -129,22 +113,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[Updated] 2024 Approved Finding the Balance Adding Videos to Text on a Budget</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-pixelpuzzle-pro-crafting-videos-for-instagallery-for-2024/"><u>[Updated] PixelPuzzle Pro Crafting Videos for InstaGallery for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhancing-efficiency-the-key-to-srt-export-in-premiere-for-2024/"><u>Enhancing Efficiency The Key to SRT Export in Premiere for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-cumuluspro-ergonomic-desk-mat-enhance-your-standing-experience/"><u>Expert Analysis of the CumulusPRO Ergonomic Desk Mat: Enhance Your Standing Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-and-bing-battle-for-top-generative-bot-acclaim/"><u>GPT and Bing Battle for Top Generative Bot Acclaim</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt4all-demystified-operation-insights/"><u>GPT4All Demystified: Operation Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guiding-kids-in-the-age-of-ai-5-essential-practices-for-responsible-chatgpt-use/"><u>Guiding Kids in the Age of AI: 5 Essential Practices for Responsible ChatGPT Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/heres-what-10-global-tech-leaders-think-about-ai/"><u>Here's What 10 Global Tech Leaders Think About AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-ai-facilitates-cybercrime-understanding-the-top-5-methods/"><u>How AI Facilitates Cybercrime: Understanding the Top 5 Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-artificial-intelligence-chatbots-transform-the-landscape-of-creating-digital-content/"><u>How Artificial Intelligence Chatbots Transform the Landscape of Creating Digital Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-troubleshoot-these-6-typical-chatgpt-mistakes-easily/"><u>How to Troubleshoot These 6 Typical ChatGPT Mistakes Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/idea-genesis-leveraging-ais-insights-to-boost-project-quality/"><u>Idea Genesis: Leveraging AI's Insights to Boost Project Quality</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-xcover-6-pro-tactical-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy XCover 6 Pro Tactical Edition without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-found-troubleshooting-guide-to-fix-warframe-failed-startup-issues/"><u>Solution Found: Troubleshooting Guide to Fix Warframe Failed Startup Issues</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/techniques-de-copie-video-dvd-vers-disque-dur-sous-windows-11-10-et-7-avec-une-version-mac/"><u>Techniques De Copie Vidéo DVD Vers Disque Dur Sous Windows 11, 10 Et 7 Avec Une Version Mac</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-unbeatable-savings-on-new-apple-watch-series-10-only-99-when-you-preorder-now-from-best-buy-exclusive-insights-inside/"><u>Unlock Unbeatable Savings on New Apple Watch Series 10 - Only $99 When You Preorder Now From Best Buy | Exclusive Insights Inside!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zodiac-wisdom-in-101-whatsapp-bio-ideas/"><u>Zodiac Wisdom in 101 WhatsApp Bio Ideas</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-how-to-write-an-attractive-vlog-script-for-2024/"><u>[New] How to Write an Attractive Vlog Script for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-tips-for-soundless-videography/"><u>[New] In 2024, Prime Tips for Soundless Videography</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-quality-videos-a-guide-to-apple-device-screen-recording/"><u>[Updated] 2024 Approved Crafting Quality Videos A Guide to Apple Device Screen Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-must-try-ai-writers-to-unleash-your-storytelling-potential/"><u>5 Must-Try AI Writers to Unleash Your Storytelling Potential</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-faceoff-which-is-superior-chatgpt-or-google-bard/"><u>AI Faceoff: Which Is Superior - ChatGPT or Google Bard?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-textual-journey-from-generation-to-corporate-application/"><u>AI's Textual Journey: From Generation to Corporate Application</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/all-about-openais-revolutionary-tech/"><u>All About OpenAI's Revolutionary Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-ai-for-chatting-clashing-titans-chatgpt-and-google-bard-face-off/"><u>Best AI for Chatting? Clashing Titans - ChatGPT and Google Bard Face-Off</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practices-for-secure-communication-with-chatgpt-during-work-projects/"><u>Best Practices for Secure Communication with ChatGPT During Work Projects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-hazards-why-installing-the-google-bard-application-could-be-a-mistake/"><u>Beware of Hazards: Why Installing the Google Bard Application Could Be a Mistake</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cultivating-lasting-partnerships-with-brands-in-youtube-land/"><u>Cultivating Lasting Partnerships with Brands in Youtube Land</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/future-proofing-insurance-with-data-a-key-component-for-change/"><u>Future-Proofing Insurance with Data: A Key Component for Change</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-google-pixel-8-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Google Pixel 8 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/leading-edge-tech-for-high-quality-video-discs-via-macos/"><u>Leading Edge Tech for High-Quality Video Discs via MacOS</u></a></li>
 </ul></div>
 

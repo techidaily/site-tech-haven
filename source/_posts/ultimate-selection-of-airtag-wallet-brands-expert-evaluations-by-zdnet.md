@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Selection of AirTag Wallet Brands : Expert Evaluations by ZDNET"
-date: 2025-02-11T18:30:53.540Z
-updated: 2025-02-16T20:33:21.958Z
+date: 2025-03-04T18:03:43.887Z
+updated: 2025-03-05T20:43:31.467Z
 tags:
   - apple
 categories:
@@ -45,10 +45,6 @@ Cons
 * No offline mapping
 * May be too large for small wrists
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra 2
 
 ### Best waterproof smartwatch overall
@@ -78,15 +74,7 @@ Pros
 Cons 
 * Less than two-day battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Watch Series 9
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best waterproof smartwatch for most iPhone users
 
@@ -207,10 +195,6 @@ Pros
 Cons 
 * Limited notification and app support
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Coros Apex 2 Pro
 
 ### Best waterproof smartwatch for long battery life
@@ -302,10 +286,6 @@ Smartwatches serve as companions to our smartphones, and there are several thing
 * **Battery life:** Expect your Apple or Samsung smartwatch to last a full day and night, so you can track your sleep and then charge it while you get ready for work. Other waterproof watches in this list last for days or even weeks so you have lots of options when it comes to figuring out your desired charging strategy.
 * **Cellular connectivity:** While smartwatches serve as companions to our smartphones, some models support cellular connectivity. If you buy one of these then you will need a watch line with your carrier, but these are typically $10 per month. The Apple Watch Ultra 2 only comes with LTE support, but you are not required to enable cellular service. Cellular capability is great for those who want to leave their phones behind and still remain connected for communications, application usage, and safety.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test smartwatches
 
 All of the smartwatches included in this list were chosen based on how they performed when tested in the real world by the ZDNET team. When we test smartwatches, we typically follow the same routine for each one to see which performs best.
@@ -321,19 +301,11 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can you use a cellular Apple Watch as a standalone device?
 
@@ -341,19 +313,11 @@ While you can leave your iPhone at home while you run, go to the store, or strol
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 6 or Watch 5 Pro running Wear OS powered by Samsung, many more apps can be used on the go, so you can leave the phone behind in most cases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the hot new features in the latest smartwatches?
 
 Health and fitness tracking have been the areas with the most innovations and improvements in the last few years. While these watches are not medical devices, they have sensors, algorithms, and applications that help you track trends in your heart rate, stress levels, and blood oxygen levels, even allowing you to detect when ovulation occurs. You can use it as a basic ECG to check if further investigation is needed. The latest Galaxy Watch 5 can also measure your body composition; testing indicates it matches other methods reasonably well.
 
 These smartwatches can also serve as capable GPS sports watches to track the details of your outdoor activities. Exercise guidance is provided on the watch with connected health applications on your smartphone so you can keep track of your progress, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative waterproof smartwatches worth considering?
 
@@ -403,19 +367,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unlocking-the-mysteries-behind-youtube-wealth-ajey-nagar-edition/"><u>[New] 2024 Approved Unlocking the Mysteries Behind YouTube Wealth - Ajey Nagar Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-toolwiz-visualize-a-comprehensive-2023-evaluation/"><u>[Updated] Toolwiz Visualize - A Comprehensive 2023 Evaluation</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-videoforge-mac-edition/"><u>2024 Approved VideoForge Mac Edition</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tial-guides-to-the-top-10-student-focused-history-vlogs/"><u>Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-compre-habits-of-top-reddit-posters-explained/"><u>In 2024, The Compre Habits of Top Reddit Posters Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-forefront-ai-surpassing-chatgpt-in-conversational-technology/"><u>Is Forefront AI Surpassing ChatGPT in Conversational Technology?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-privacy-safe-the-dangers-of-relying-on-chatgpt-for-confidential-matters/"><u>Is Your Privacy Safe? The Dangers of Relying on ChatGPT for Confidential Matters</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-smarter-decisions-in-cryptocurrency-exchange/"><u>Leveraging ChatGPT for Smarter Decisions in Cryptocurrency Exchange</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-proton-vpn-secure-browsing-update-email-settings-plus-spotting-legitimate-chatgpt-for-pcs/"><u>Master Proton VPN Secure Browsing: Update Email Settings + Spotting Legitimate ChatGPT for PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-conversation-with-ai-your-guide-to-using-chatgpt/"><u>Mastering the Art of Conversation with AI: Your Guide to Using ChatGPT</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>New 2024 Approved Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-apple-airtag-ideal-gps-tracking-for-iphone-enthusiasts/"><u>Ultimate Guide to the Apple AirTag: Ideal GPS Tracking for iPhone Enthusiasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-information-what-is-blue-video-icon-on-facebook-messenger/"><u>[New] In 2024, Information | What Is Blue Video Icon on Facebook Messenger?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-prodigious-portfolio-creation-best-free-mac-software/"><u>[Updated] 2024 Approved Prodigious Portfolio Creation Best FREE Mac Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-onestream-playbook-for-live-streamers-for-2024/"><u>[Updated] The Ultimate OneStream Playbook for Live Streamers for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/elevate-your-investment-strategy-the-beginners-handbook-to-leveraging-yl-computings-trading-bot-technology/"><u>Elevate Your Investment Strategy: The Beginner's Handbook to Leveraging YL Computing's Trading Bot Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-ensure-compatibility-updating-your-usb-device-drivers-on-multiple-windows-platforms/"><u>How to Ensure Compatibility: Updating Your USB Device Drivers on Multiple Windows Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-a-required-cddvd-drive-device-driver-is-missing-error/"><u>How to Fix ‘A Required CD/DVD Drive Device Driver Is Missing’ Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-excessive-hiperfonesys-and-pagedatasys-file-size-issues-in-windows-107-solutions-unveiled/"><u>How to Fix Excessive hiperfone.sys & pagedata.sys File Size Issues in Windows 10/7: Solutions Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/keeping-pace-with-tech-a-beginners-approach-to-bios-enhancements-for-windows-11-pcs/"><u>Keeping Pace with Tech: A Beginner’s Approach to BIOS Enhancements for Windows 11 PCs</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/locating-your-pcs-security-a-guide-on-monitoring-windows-defender-activity-insights-from-yl-computing/"><u>Locating Your PC's Security: A Guide on Monitoring Window's Defender Activity - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-bluetooth-connections-seamlessly-connecting-an-android-phone-and-desktop-computer/"><u>Master Bluetooth Connections: Seamlessly Connecting an Android Phone and Desktop Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/rotate-videos-in-seconds-a-step-by-step-guide/"><u>Rotate Videos in Seconds A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/stealthy-threats-understanding-how-malware-evades-task-manager-monitoring-expert-analysis-from-malwarefox/"><u>Stealthy Threats: Understanding How Malware Evades Task Manager Monitoring - Expert Analysis From MalwareFox</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia G310? | Dr.fone</u></a></li>
 </ul></div>
 

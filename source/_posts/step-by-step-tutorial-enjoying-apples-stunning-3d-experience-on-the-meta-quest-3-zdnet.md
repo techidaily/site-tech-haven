@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enjoying Apple's Stunning 3D Experience on the Meta Quest 3 | ZDNET"
-date: 2025-02-10T01:14:35.657Z
-updated: 2025-02-17T00:33:01.933Z
+date: 2025-03-01T19:13:49.587Z
+updated: 2025-03-05T19:12:56.248Z
 tags:
   - apple
 categories:
@@ -30,15 +30,7 @@ And that, Dear Reader, we will accomplish after much option-flicking, headset-we
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to watch Apple spatial videos on the Meta Quest 3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What you'll need to get started
 
@@ -55,10 +47,6 @@ In theory, you could get away with running the four provided sample spatial vide
 **Also: [Get the latest Quest 3 updates early: Here's how to enable Meta's Public Test Feed](https://www.zdnet.com/article/get-the-latest-quest-3-updates-early-heres-how-to-enable-metas-public-test-feed/)**
 
 Now that you've gathered your prerequisites, let's move some videos. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Seriously, RTFM
 
@@ -96,10 +84,6 @@ As the Facebook poster and I both found out, when Meta says, "If you have an iPh
 
 Next, I tried it with my wife's iPhone 15 Pro Max. Things went better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Uploading spatial videos from your iPhone
 
 I took a few minutes to bind my wife's iPhone 15 Pro Max to the Quest 3\. Once that was done, the missing upload icon was no longer missing: 
@@ -113,10 +97,6 @@ Screenshots by David Gewirtz/ZDNET
 Once I tapped upload, the images were processed and presumably converted for use on the Quest. Although I haven't been able to get confirmation, I'm guessing the reason we couldn't upload the videos from another iPhone model is that the Meta app is taking advantage of a spatial video API only available on the iPhone 15 Pro and Pro Max. 
 
 In any case, it worked. Within a few minutes, the videos were on my Meta Quest 3\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Playing spatial videos on the Meta Quest 3
 
@@ -186,22 +166,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-integrate-sound-and-filter-magic-into-your-windows-10-photos-app-for-2024/"><u>[New] Integrate Sound & Filter Magic Into Your Windows 10 Photos App for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-elevating-media-output-xml-to-text-to-speech-srt-format-for-2024/"><u>[Updated] Elevating Media Output XML to Text-To-Speech (SRT) Format for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-empowering-learning-through-educational-videos-on-youtube/"><u>[Updated] Empowering Learning Through Educational Videos on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-renowned-backdrop-alternatives-pixelpioneers-secret/"><u>[Updated] Renowned Backdrop Alternatives PixelPioneer's Secret</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-elevating-designs-with-illustrators-3d-text-tools/"><u>2024 Approved Elevating Designs with Illustrator's 3D Text Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-m34-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy M34 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-1751-update-fixes-annoying-glitch-allowing-revival-of-archived-images/"><u>IOS 17.5.1 Update Fixes Annoying Glitch Allowing Revival of Archived Images</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-app-download-issues-here-are-10-tips-for-a-smooth-solution/"><u>IPhone App Download Issues? Here Are 10 Tips for a Smooth Solution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-latest-android-to-ios-with-chatgpt/"><u>The Latest Android to iOS with ChatGPT</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-quick-and-the-funny-with-kinemaster-memes-for-2024/"><u>The Quick and the Funny with KineMaster Memes for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-rise-of-chatgpt-navigating-the-potential-of-advanced-generative-algorithms/"><u>The Rise of ChatGPT: Navigating the Potential of Advanced Generative Algorithms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-ai-tools-integrating-with-chatgpt-for-interactive-document-conversations/"><u>Top 6 AI Tools Integrating with ChatGPT for Interactive Document Conversations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-codegpt-your-new-ally-in-programming-scripts-creation/"><u>Understanding CodeGPT - Your New Ally in Programming Scripts Creation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-efficient-communication-5-no-cost-ai-utilities-to-compose-elite-emails-using-chatgpt-and-summarize-messages/"><u>Unleash Efficient Communication: 5 No-Cost AI Utilities to Compose Elite Emails Using ChatGPT & Summarize Messages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-advanced-ai-dialogue-capabilities-with-free-unbounded-gpt-substitutes-for-windows-enthusiasts/"><u>Unlock Advanced AI Dialogue Capabilities with Free, Unbounded GPT Substitutes for Windows Enthusiasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-8-critical-drawbacks-of-replacing-writers-with-ai-chatbots/"><u>Unveiling the 8 Critical Drawbacks of Replacing Writers with AI Chatbots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-competition-how-does-googlen-gemini-stack-up-against-chatgpt/"><u>Unveiling the Competition: How Does Google'n Gemini Stack Up Against ChatGPT?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-in-depth-football-footage-top-youtube-infographics/"><u>[New] In-Depth Football Footage Top YouTube Infographics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-essential-tools-for-filmmakers-mirrorless-cameras-(1000/"><u>[Updated] In 2024, Essential Tools for Filmmakers Mirrorless Cameras <$1,000</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exploring-the-core-of-m1-apples-innovation/"><u>[Updated] In 2024, Exploring the Core of M1 Apple's Innovation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mobile-photography-mastering-dynamic-look-ups/"><u>2024 Approved Mobile Photography Mastering Dynamic Look-Ups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-m3-macbook-pro-anticipated-launch-timeline-price-predictions-complete-specs-breakdown-and-valuable-advice/"><u>All You Need to Know About the M3 MacBook Pro: Anticipated Launch Timeline, Price Predictions, Complete Specs Breakdown, and Valuable Advice</u></a></li>
+<li><a href="https://fox-where.techidaily.com/blur-the-scene-modern-techniques-to-masterly-soften-backgrounds-in-images-updated/"><u>Blur the Scene: Modern Techniques to Masterly Soften Backgrounds in Images, Updated</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-elevate-status-with-a-personal-playlist/"><u>In 2024, Elevate Status With A Personal Playlist</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stop-windows-update-installing-drivers-in-windows-10-solved/"><u>Stop Windows Update Installing Drivers in Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-fix-an-expanded-pagefilesys-file-size-problem/"><u>Strategies to Fix an Expanded Pagefile.sys File Size Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlined-approach-activate-advanced-startup-functions-on-your-windows-11-pc-with-minimal-hassle/"><u>Streamlined Approach: Activate Advanced Startup Functions on Your Windows 11 PC with Minimal Hassle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-us-vpns-with-free-trials-safeguard-your-privacy-and-access-anywhere/"><u>Top Rated US VPNs with Free Trials: Safeguard Your Privacy and Access Anywhere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-missing-desktop-icon-woes-on-windows-10-systems-easy-fixes-and-expert-tips/"><u>Troubleshooting Missing Desktop Icon Woes on Windows 10 Systems: Easy Fixes and Expert Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-reducing-cpu-load-in-call-of-duty-modern-warfare/"><u>Troubleshooting Steps: Reducing CPU Load in Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-setting-up-dual-monitor-display-with-your-laptop/"><u>Ultimate Guide: Setting Up Dual Monitor Display with Your Laptop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-and-overcoming-chatgpt-character-constraints/"><u>Understanding and Overcoming ChatGPT Character Constraints</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-on-elden-ring-why-the-hold-up-in-its-launch/"><u>Update on Elden Ring - Why the Hold-Up in Its Launch?</u></a></li>
 </ul></div>
 

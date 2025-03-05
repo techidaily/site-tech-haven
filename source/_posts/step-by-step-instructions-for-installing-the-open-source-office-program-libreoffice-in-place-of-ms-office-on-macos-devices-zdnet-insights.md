@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Installing the Open Source Office Program, LibreOffice, in Place of MS Office on macOS Devices | ZDNET Insights
-date: 2025-02-11T19:34:04.954Z
-updated: 2025-02-16T19:27:28.629Z
+date: 2025-03-02T19:01:13.488Z
+updated: 2025-03-05T19:54:15.869Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ That's why ZDNET is here to cut through the noise. Here's our one-stop guide for
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A screen protector
 
@@ -68,10 +64,6 @@ What's even better is that Zugu offers a [one-time AppleCare+ repair fee](https:
 
 [Best standard iPad case Casetify Impact Case The Casetify Impact Case combines style and function. It features Casetify's EcoShock technology and enhanced protective corners for extra security, and is drop-rated up to 4ft. Along with a secure exterior, the Impact case features Apple Pencil charging for easy stylus integration. View at Casetify](https://casetify.hyyc7q.net/c/159047/228232/3937?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.casetify.com%2Fproduct%2FhISQZ%5Fgroovy-pattern%2Fipad-air-109-2020%2Fipad-ultra-impact-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best iPad case from Apple Apple Smart Folio Case It's hard to beat a case coming straight from the manufacturer. When you choose the Apple-designed Smart Folio for your iPad, you're not just guaranteed a perfect fit. You also get functionality that can make it easier to both protect and use your tablet, like the ability to charge your Apple Pencil with the case on. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-smart-folio-for-ipad-10th-generation-sky%2F6340395.p%3F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A keyboard case
 
 If you're using your iPad for work, school, or other activities that would benefit from a keyboard, I highly recommend adding a [reliable keyboard case](https://www.zdnet.com/article/best-ipad-keyboard-case/) to your collection of iPad accessories. Keyboards can quickly upgrade your iPad from tablet to laptop, often giving you more bang for your buck, and are available for nearly every model iPad, including the [iPad Pro](https://www.zdnet.com/article/best-ipad-pro-keyboard-case/) and iPad Air. 
@@ -89,10 +81,6 @@ When ZDNET's Senior Reviews Editor, Kerry Wan, tested the Combo Touch and Logite
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB086LLWG2N%2Fref%3Dasc%5Fdf%5FB086LLWG2N1727521200000%3Fcreative%3D395261%26creativeASIN%3DB086LLWG2N%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6408723%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6408723.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)[View now at B&H Photo-Video](https://www.bhphotovideo.com/c/product/1560843-REG/logitech%5F920%5F009608%5Fcombo%5Ftouch%5Ffor%5Fipad.html/BI/23252/KBID/28790/SID/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) 
 
 [Best keyboard case from Apple Apple Magic Keyboard Folio Designed specially for the 10th-generation iPad, it features a built-in trackpad, a 14-key function row, an adjustable stand and detachable keyboard, and a versatile two-piece design. It's the most obvious choice on the market if you're looking for a keyboard case for your iPad, but keep in mind it costs over $200. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Keyboard-Folio-10th-Generation%2Fdp%2FB0BJLFH8RC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)[Best iPad keyboard for the iPad Pro 13-inch Apple Magic Keyboard for iPad Pro (2024) Apple's newest Magic Keyboard is compatible with the new iPad Pro models. Available in an 11-inch or 13-inch configuration, this new keyboard offers a larger trackpad and a sleeker design, amongst other features. Preorder it now. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWR43LL%2FA%2Fmagic-keyboard-for-ipad-pro-13%25E2%2580%2591inch-m4-us-english-white&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best keyboard case for iPad Pro Apple Magic Keyboard for iPad Pro Apple's Magic Keyboard costs a hefty $299, but it features quiet, backlit keys and has angle adjustability, and is the flagship keyboard case for the iPad Pro. View at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMagic-Keyboard-for-iPad-Pro-11-inch-4th-generation-and-iPad-Air-5th-generation-US-English-Black-iPad-Not-Included%2F984505060&subId1=zd-__COM_CLICK_ID__-dtp)[Best budget keyboard case ESR Rebound Magnetic Keyboard Case The ESR Rebound Magnetic Keyboard features similar top specs like a trackpad, long-lasting battery, a floating, angled stand for viewing, laptop-style keys, a stylus holder and front and back protection, but at a lower price of $105. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Compatible-Cantilever-Precision-Multi-Touch%2Fdp%2FB09N744Y4C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A stylus
 
@@ -134,17 +122,9 @@ While everyone's idea of essential accessories for their iPad will be different,
 
 [Logitech i345 Portable Wireless Mouse for iPad $22.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08MY7JDT4%2Fref%3Dasc%5Fdf%5FB08MY7JDT41727521200000%3Fcreative%3D395261%26creativeASIN%3DB08MY7JDT4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68d9dddb-d334-459b-bd85-ba33bee5b4bd%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best iPad?
 
 ZDNET's top pick for the best iPad is the iPad Air (5th generation) because it includes nearly all of the best features the iPad has to offer at a price that's more approachable than the iPad Pro. However, we'd recommend the 10th-generation iPad model for Facetime and Zoom purposes, and those who want a portable tablet for reading should go with the iPad Mini (6th generation). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the new iPad models?
 
@@ -196,21 +176,17 @@ The Apple Pencil Pro was announced on May 7 and features a slew of new features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-integrating-spotify-and-discord-a-complete-guide-for-2024/"><u>[New] Integrating Spotify & Discord A Complete Guide for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-exclusive-8-high-youtube-viewership-observer-for-2024/"><u>[Updated] Exclusive 8-High YouTube Viewership Observer for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-purerecorder-capturing-life-in-games-without-cost/"><u>[Updated] In 2024, PureRecorder Capturing Life in Games Without Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>[Updated] The Logo Journey Key Steps in Crafting Iconic Covers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-effects-of-artificial-intelligence-censorship-in-chatbots/"><u>Exploring the Effects of Artificial Intelligence Censorship in Chatbots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/freedomgpt-unveiled-how-to-install-and-use-a-no-limit-gpt-tool-on-windows-pcs/"><u>FreedomGPT Unveiled: How to Install and Use a No-Limit GPT Tool on Windows PCs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-code-to-conversation-ai-titans-clash/"><u>From Code to Conversation: AI Titans Clash</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-simple-clips-to-complex-systems-ais-role-in-optimizing-paperclips/"><u>From Simple Clips to Complex Systems: AI's Role in Optimizing Paperclips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-good-is-chatgpt-at-making-cocktails/"><u>How Good Is ChatGPT at Making Cocktails?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-our-psychological-well-being-boon-or-bane/"><u>How Will Artificial Intelligence Impact Our Psychological Well-Being: Boon or Bane?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-filming-flicks-guide-for-pc-mac-smartphone-recording/"><u>In 2024, Filming Flicks Guide for PC, Mac, Smartphone Recording</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-complication-windows-11-plus-nvidia-x0001/"><u>Rectifying Complication: Windows 11 + Nvidia X0001</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/resolving-iphones-wi-fi-connection-issues-a-step-by-step-guide/"><u>Resolving iPhone's Wi-Fi Connection Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-content-accessibility-issue-resolved-what-you-need-to-know/"><u>Steam Content Accessibility Issue Resolved: What You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/validate-that-the-provided-path-and-filename-are-correct-using-regex-allowing-only-alphanumeric-characters-hyphens-periods-and-underscores-before-the-ovpn-e87/"><u>Validate that the Provided Path and Filename Are Correct Using Regex, Allowing only Alphanumeric Characters, Hyphens, Periods, and Underscores Before the `.ovpn` Extension.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aster-non-youtube-editors-the-top-5-list-you-need/"><u>[New] Master Non-Youtube Editors The Top 5 List You Need</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology/"><u>[New] Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-comprehensive-guide-to-affordable-video-enhancement-websites-for-2024/"><u>[Updated] A Comprehensive Guide to Affordable Video Enhancement Websites for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audio-anomaly-top-disruptive-music-apps-for-iosandroid/"><u>[Updated] In 2024, Audio Anomaly Top Disruptive Music Apps for iOS/Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-the-culture-of-creativity-within-youtube-shorts/"><u>[Updated] In 2024, Cultivating the Culture of Creativity Within YouTube Shorts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-updates-benefits-for-all-individuals/"><u>ChatGPT Updates: Benefits for All Individuals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bing-ai-showdown-discover-the-10-main-disparities-that-set-them-apart/"><u>ChatGPT Vs. Bing AI Showdown: Discover the 10 Main Disparities That Set Them Apart</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claude-vs-chatgpt-exploring-4-superior-features-of-the-ai-chatbot/"><u>Claude Vs. ChatGPT: Exploring 4 Superior Features of the AI Chatbot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-predictive-artificial-intelligence-and-its-operating-dynamics/"><u>Comprehensive Guide to Predictive Artificial Intelligence & Its Operating Dynamics</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-mix-fold-3-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Mix Fold 3 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-narzo-60x-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-chrome-error-a-simple-fix-for-errnamenotresolved/"><u>Solving Your Chrome Error: A Simple Fix for ERR_NAME_NOT_RESOLVED</u></a></li>
 </ul></div>
 

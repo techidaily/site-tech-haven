@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Apple Watch's Endurance - Top 8 Battery-Saving Tweaks Revealed by ZDNet
-date: 2025-02-15T23:41:04.127Z
-updated: 2025-02-16T17:23:06.701Z
+date: 2025-02-26T18:43:01.476Z
+updated: 2025-03-05T19:48:52.659Z
 tags:
   - apple
 categories:
@@ -58,10 +58,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Turn off background app refresh
 
 If you have a good amount of apps on your watch, chances are they're fetching data in the background so that they remain up to date. This, as you would imagine, requires power from the battery. If you're only using said apps sporadically throughout the day, there's no sense in having them locked and loaded 24/7–just refresh their data when you open them.
@@ -80,19 +76,11 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -101,10 +89,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -119,10 +103,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,22 +145,24 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-guidance-to-youtube-music-mix/"><u>[New] Guidance to YouTube Music Mix</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-digital-duel-diaries-record-galaxy-gamer-stories/"><u>[Updated] Digital Duel Diaries Record Galaxy Gamer Stories</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-infuse-humor-in-content-simple-text-meme-creation/"><u>[Updated] In 2024, Infuse Humor in Content Simple Text Meme Creation</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/advanced-xpath-querying-techniques-and-ixmlsearch-strategies/"><u>Advanced XPath Querying Techniques and IXMLSearch Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenges-with-ai-detection-software-more-harm-than-good/"><u>Challenges with AI Detection Software: More Harm Than Good?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-assisting-podcasts-phones-security-simplified/"><u>ChatGPT Assisting Podcasts: Phones, Security, Simplified</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-an-apple-centric-approach-to-dialogue/"><u>ChatGPT Mastery: An Apple-Centric Approach to Dialogue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-proficiency-6-essential-reasons-to-excel-in-the-modern-workforce/"><u>ChatGPT Proficiency: 6 Essential Reasons to Excel in the Modern Workforce</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-horoscopes-which-is-more-accurate-in-forecasting-whats-ahead/"><u>ChatGPT vs Horoscopes: Which Is More Accurate in Forecasting What's Ahead?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-bing-bot-showdown-a-comprehensive-breakdown-of-their-10-main-distinctions/"><u>ChatGPT Vs. Bing Bot Showdown: A Comprehensive Breakdown of Their 10 Main Distinctions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/combating-loneliness-with-chatgpt-a-comprehensive-guide/"><u>Combating Loneliness with ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-oppo-k11-5g-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Oppo K11 5G.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/cracking-gpts-code-exposing-ai-realities/"><u>Cracking GPT's Code: Exposing AI Realities</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/intensified-interaction-through-advanced-zoom-settings/"><u>Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-investing-in-a-4k-television-necessary-for-an-average-cable-viewer/"><u>Is Investing in a 4K Television Necessary for an Average Cable Viewer?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mastering-professional-skills-with-icom-certification-courses-a-comprehensive-guide/"><u>Mastering Professional Skills with ICOM Certification Courses - A Comprehensive Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-seamless-imovie-files-to-vimeo-integration-tips/"><u>[New] 2024 Approved Seamless iMovie Files to Vimeo Integration Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-leading-6-apps-to-transform-photos-by-eliminating-backgrounds/"><u>[New] In 2024, Leading 6 Apps to Transform Photos by Eliminating Backgrounds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-chat-to-tune-downloader-for-fb/"><u>[Updated] In 2024, Chat to Tune Downloader for FB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[Updated] Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-videoeditorpro-comprehensive-analysis-and-reviews-for-2024/"><u>[Updated] VideoEditorPro Comprehensive Analysis & Reviews for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>2024 Approved Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-governance-openai-leader-advocates-stronger-policies-impact-analysis/"><u>AI Governance: OpenAI Leader Advocates Stronger Policies (Impact Analysis)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/amplify-your-windows-photos-viewing-incorporating-artistic-filters-and-music-for-2024/"><u>Amplify Your Windows Photos Viewing Incorporating Artistic Filters and Music for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-benefits-and-limitations-of-using-auto-gpt-sans-gpt-4/"><u>Assessing the Benefits and Limitations of Using Auto-GPT Sans GPT-4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-boundaries-chatgpts-groundbreaking-features-revealed/"><u>Beyond Boundaries: ChatGPT’s Groundbreaking Features Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-its-impact-on-future-generations-of-student-essays/"><u>ChatGPT and Its Impact on Future Generations of Student Essays</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-made-better-in-chrome-discover-our-top-7-fixes/"><u>ChatGPT Made Better in Chrome: Discover Our Top 7 Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-writes-its-own-tale-with-plus-plan/"><u>ChatGPT' Writes Its Own Tale with Plus Plan</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clarifying-confusions-understanding-the-variances-among-gpt-4-variants/"><u>Clarifying Confusions: Understanding the Variances Among GPT-4 Variants</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clarity-on-chatgpt-not-a-threat-to-windows-users/"><u>Clarity on ChatGPT: Not a Threat to Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-bard-and-bing-in-chat-wars/"><u>Comparing Giants: Bard & Bing in Chat Wars</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-se-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone SE iCloud Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-the-ultimate-cpu-cooling-solution-the-peerless-assassin-120-se-by-thermalright-now-for-an-unbeatable-price-of-33/"><u>Stay Chill with the Ultimate CPU Cooling Solution: The Peerless Assassin 120 SE by Thermalright - Now for an Unbeatable Price of $33</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-motorola-one-hyper-an-insightful-review-of-an-outstanding-and-vibrant-mid-range-smartphone/"><u>Unveiling the Motorola One Hyper: An Insightful Review of an Outstanding and Vibrant Mid-Range Smartphone</u></a></li>
 </ul></div>
 

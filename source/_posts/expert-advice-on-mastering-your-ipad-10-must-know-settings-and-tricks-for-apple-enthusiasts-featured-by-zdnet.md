@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured by ZDNET"
-date: 2025-02-12T22:06:57.797Z
-updated: 2025-02-16T17:32:57.495Z
+date: 2025-03-02T18:19:13.074Z
+updated: 2025-03-05T19:51:11.210Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -39,10 +35,6 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -61,10 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
@@ -96,10 +84,6 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
@@ -119,10 +103,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -180,21 +160,22 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-keep-your-identity-under-wraps-while-livestreaming/"><u>[Updated] In 2024, Keep Your Identity Under Wraps While Livestreaming</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-quick-and-easy-twitter-to-snapchat-video-sharing-tips-for-2024/"><u>[Updated] Quick & Easy Twitter to Snapchat Video Sharing Tips for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-social-media-live-war-fb-live-and-yt-live-vs-twitter-spaces/"><u>2024 Approved Social Media Live War FB LIVE & YT Live Vs. Twitter Spaces</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-venturing-solo-in-3d-printing-with-3dr-tech-review/"><u>2024 Approved Venturing Solo in 3D Printing with '3DR' Tech Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/sive-access-sharing-restricted-youtube-content-with-emailid-for-2024/"><u>Exclusive Access Sharing Restricted YouTube Content with EmailID for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-plus-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Plus? Complete Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-will-artificial-intelligence-impact-mental-wellness-advancements-and-challenges/"><u>How Will Artificial Intelligence Impact Mental Wellness: Advancements and Challenges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-appropriate-to-use-good-manners-with-digital-companebots-such-as-chatgpt-alexa-or-siri/"><u>Is It Appropriate to Use Good Manners With Digital Companebots Such as ChatGPT, Alexa, or Siri?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-safe-to-use-chatgpt-understanding-its-potential-vulnerabilities/"><u>Is It Safe To Use ChatGPT: Understanding Its Potential Vulnerabilities?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-solo-operation-of-auto-gpt-justifiable/"><u>Is Solo Operation of Auto-GPT Justifiable?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-key-mistakes-and-how-to-prevent-them/"><u>Mastering Generative AI: Key Mistakes and How to Prevent Them</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-minutes-four-innovative-ways-to-apply-chatgpt-in-time-management/"><u>Maximize Your Minutes: Four Innovative Ways to Apply ChatGPT in Time Management</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-3d-printing-efficiency-with-chatgpt-a-step-by-step-guide/"><u>Maximizing 3D Printing Efficiency with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-your-smartphone-from-unwanted-surveillance-tips-to-identify-and-erase-spyware/"><u>Securing Your Smartphone From Unwanted Surveillance: Tips to Identify and Erase Spyware</u></a></li>
-<li><a href="https://driver-error.techidaily.com/taming-the-unknown-code-52-in-drive-systems/"><u>Taming the Unknown: Code 52 in Drive Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-action-reel-extravaganza-7-premium-4k-cameras/"><u>[New] 2024 Approved Action Reel Extravaganza 7 Premium 4K Cameras</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-get-your-youtube-video-seen-6-easy-steps-for-2024/"><u>[New] How to Get Your YouTube Video Seen - 6 Easy Steps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-zoom-companion-for-snapchat-enthusiasts-for-2024/"><u>[New] The Ultimate Zoom Companion for Snapchat Enthusiasts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-manage-your-nintendo-account-from-your-nintendo-switch/"><u>How to Manage Your Nintendo Account From Your Nintendo Switch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-recording-mastery-in-windows-10-part-2/"><u>In 2024, Audio Recording Mastery in Windows 10, Part 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-idea-generation-techniques-collaborate-with-chatgpt-and-mind-mapping-tools/"><u>Innovative Idea Generation Techniques: Collaborate with ChatGPT and Mind Mapping Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-ai-the-future-of-personalized-medicine-exploring-chatgpts-role-in-healthcare-evolution/"><u>Is AI the Future of Personalized Medicine? Exploring ChatGPT's Role in Healthcare Evolution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-effective-to-utilize-chatgpt-for-editing-and-proofreading-purposes/"><u>Is It Effective to Utilize ChatGPT for Editing and Proofreading Purposes?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-worth-investing-in-auto-gpt-when-gpt-4-isnt-available-yet/"><u>Is It Worth Investing in Auto-GPT When GPT-4 Isn't Available Yet?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mac-mastery-how-to-make-the-most-of-chatgpt-technology/"><u>Mac Mastery: How to Make the Most of ChatGPT Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-around-these-6-common-errors-when-writing-chatgpt-prompts-for-optimal-results/"><u>Navigate Around These 6 Common Errors When Writing ChatGPT Prompts for Optimal Results</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ais-influence-in-crafting-original-works/"><u>Navigating AI's Influence in Crafting Original Works</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-an-ai-prompt-engineers-journey-steady-income-potential-revealed/"><u>Navigating an AI Prompt Engineer's Journey: Steady Income Potential Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-without-pain-easy-ways-to-address-deathloop-crashing-problems/"><u>PC Gaming Without Pain: Easy Ways to Address Deathloop Crashing Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-complexities-of-modern-gadgets-the-toms-insight-series/"><u>Unraveling the Complexities of Modern Gadgets: The Tom's Insight Series</u></a></li>
+<li><a href="https://fox-making.techidaily.com/yl-computings-ultimate-how-to-installing-new-operating-systems-effortlessly-and-securely/"><u>YL Computing's Ultimate How-To: Installing New Operating Systems Effortlessly and Securely</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving the Irritating Issues with iPhones: How Apple Can Improve User Experience"
-date: 2025-02-14T00:11:32.097Z
-updated: 2025-02-16T22:36:15.680Z
+date: 2025-03-02T16:30:51.715Z
+updated: 2025-03-05T19:08:16.632Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -58,19 +50,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,10 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,21 +106,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-captivate-viewers-learn-to-perfectly-border-ig-videos/"><u>[New] 2024 Approved Captivate Viewers Learn to Perfectly Border IG Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ideal-video-capture-apps-for-educators/"><u>[New] Ideal Video Capture Apps for Educators</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-tiktok-to-twitter-sharing/"><u>[New] In 2024, The Essential TikTok to Twitter Sharing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-undisclosed-browsing-of-fb-stories/"><u>[New] Undisclosed Browsing of FB Stories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-logic-pros-strategy-for-muffled-sound-tracks-for-2024/"><u>[Updated] Logic Pro's Strategy for Muffled Sound Tracks for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-online-sensation-spotlight-for-2024/"><u>[Updated] Online Sensation Spotlight for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-viral-gifs-via-giphy-portal/"><u>2024 Approved Fabricate Viral Gifs via Giphy Portal</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-telling-stories-vertically-video-editing-for-instagram-with-fcpx/"><u>2024 Approved Telling Stories Vertically Video Editing for Instagram with FCPX</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-routes-to-collecting-visual-content-for-2024/"><u>Best Routes to Collecting Visual Content for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-social-media-game-by-integrating-chatgpt-into-your-content-strategy/"><u>Elevate Your Social Media Game by Integrating ChatGPT Into Your Content Strategy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensure-digital-safety-for-children-5-strategies-to-utilize-chatgpt-securely/"><u>Ensure Digital Safety for Children: 5 Strategies to Utilize ChatGPT Securely</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-untapped-benefits-essential-chatgpt-tools-you-might-be-ignoring/"><u>Explore Untapped Benefits: Essential ChatGPT Tools You Might Be Ignoring</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-functionality-of-chatgpts-code-interpreter-essential-insights/"><u>Exploring the Functionality of ChatGPT's Code Interpreter – Essential Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-importance-of-chatgpts-programming-language-decoder/"><u>Exploring the Importance of ChatGPT's Programming Language Decoder</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exposing-gpt-powered-dialogue-safe-link-sharing/"><u>Exposing GPT-Powered Dialogue: Safe Link Sharing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/face-off-of-giants-evaluating-chatgpt-and-google-bard-for-top-ai-experience/"><u>Face-Off of Giants: Evaluating ChatGPT and Google Bard for Top AI Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-cutting-edge-video-processing-free-hd1080p-from-ff-videos-for-2024/"><u>[Updated] Cutting Edge Video Processing Free HD/1080P From FF Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-including-in-apples-premium-catalog-for-2024/"><u>[Updated] Step-by-Step Including in Apple's Premium Catalog for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-get-savvy-with-chromebook-snaps-explore-these-4-methods/"><u>2024 Approved Get Savvy with Chromebook Snaps - Explore These 4 Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-smart-conversational-features-using-the-chatgpt-api-guide/"><u>Building Smart Conversational Features Using the ChatGPT API Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-llamas-and-gpt-4-determining-the-superior-ai/"><u>Comparing Llamas and GPT-4: Determining the Superior AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-googles-new-gemini-ai-compare-to-microsofts-chatgpt-an-in-depth-analysis/"><u>How Does Google's New Gemini AI Compare to Microsoft's ChatGPT: An In-Depth Analysis?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-videamax-app-quality-examination/"><u>In 2024, Videamax App Quality Examination</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-gpus-stress-test-with-these-top-windows-apps/"><u>Master Your GPU's Stress Test with These Top Windows Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-personal-health-goals-leveraging-the-power-of-chatgpt/"><u>Mastering Personal Health Goals: Leveraging the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/universal-access-get-your-hands-on-chatgpt-with-the-chatgpt-everywhere-app/"><u>Universal Access: Get Your Hands on ChatGPT with the 'ChatGPT Everywhere' App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/visionary-voices-the-new-era-of-chatbots/"><u>Visionary Voices: The New Era of Chatbots</u></a></li>
 </ul></div>
 

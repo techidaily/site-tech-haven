@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple's Recent Takeover: What It Signals for an Upcoming Smartphone Revolution Powered by Artificnial Intelligence | ZDNET"
-date: 2025-02-09T16:54:36.230Z
-updated: 2025-02-17T00:28:42.550Z
+date: 2025-03-03T18:43:46.677Z
+updated: 2025-03-05T18:55:46.919Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Intelligence?
 
 Apple
@@ -39,10 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -79,10 +71,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -107,10 +95,6 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Image Playground?
 
 Apple
@@ -134,10 +118,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -210,22 +190,15 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-navigating-the-world-of-youtube-product-endorsements/"><u>[Updated] Navigating the World of YouTube Product Endorsements</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-simplified-techniques-for-high-quality-webcam-videos-for-2024/"><u>[Updated] Simplified Techniques for High-Quality Webcam Videos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-smooth-cinematography-premium-stabilizer-recommendations-for-2024/"><u>[Updated] Smooth Cinematography Premium Stabilizer Recommendations for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/5-essential-browser-recording-apps-unveiled-for-2024/"><u>5 Essential Browser Recording Apps Unveiled for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-xiaomi-redmi-note-12t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/julys-top-picks-8-free-software-solutions-to-update-your-drivers/"><u>July's Top Picks: 8 Free Software Solutions to Update Your Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028018485-line-music/"><u>LINE MUSICでの高品質オーディオダウンロード手順：専門ガイド</u></a></li>
-<li><a href="https://win-hot.techidaily.com/recognizing-signs-of-hardware-malfunction-on-your-windows-pc-a-guide-by-yl-computing/"><u>Recognizing Signs of Hardware Malfunction on Your Windows PC: A Guide by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlining-content-creation-in-volume-a-detailed-guide-to-using-canva-plus-gpt-3-tools/"><u>Streamlining Content Creation in Volume: A Detailed Guide to Using Canva + GPT-3 Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tackling-chatgpts-compliance-concerns-google-news-modifications-and-achieving-optimal-mobile-internet-performance-on-leisure-trips/"><u>Tackling ChatGPT's Compliance Concerns, Google News Modifications & Achieving Optimal Mobile Internet Performance on Leisure Trips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-essentials-of-using-nvidias-ai-foundations-in-tailored-generative-ai-applications-and-user-qualifications/"><u>The Essentials of Using NVIDIA's AI Foundations in Tailored Generative AI Applications and User Qualifications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hacking-art-of-romantic-ruses/"><u>The Hacking Art of Romantic Ruses</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-legalities-of-cutting-staff-based-on-chatgpt-implementation/"><u>The Legalities of Cutting Staff Based on ChatGPT Implementation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-strategies-leveraging-chatgpt-in-your-web-development-process/"><u>Top 4 Strategies: Leveraging ChatGPT in Your Web Development Process</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-uses-of-chatgpts-advanced-coding-capabilities/"><u>Top 6 Uses of ChatGPT’s Advanced Coding Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-list-the-10-highest-ranking-crypto-questions-for-chatgpt/"><u>Ultimate List: The 10 Highest-Ranking Crypto Questions for ChatGPT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-dynamic-igtv-covers-design-and-update-strategies/"><u>[New] 2024 Approved Dynamic IGTV Covers Design & Update Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-which-is-better-for-vloggers-on-facebook-vertical-or-horizontal-for-2024/"><u>[Updated] Which Is Better for Vloggers on Facebook Vertical or Horizontal for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-gpt-4all-mechanics-behind-its-advanced-technology/"><u>A Deep Dive Into GPT-4All: Mechanics Behind Its Advanced Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-wellness-goals-with-these-8-revolutionary-chatgpt-extensions/"><u>Ace Your Wellness Goals with These 8 Revolutionary ChatGPT Extensions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722125564448-cant-use-chatgpt-on-iphone-discover-these-essential-9-fixes/"><u>Can't Use ChatGPT on iPhone? Discover These Essential 9 Fixes!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dissecting-the-solidity-and-strength-in-bose-headphone-tech/"><u>Dissecting the Solidity and Strength in Bose Headphone Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engineer-entertaining-images-for-giphy/"><u>Engineer Entertaining Images for Giphy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722003037900-explore-these-exceptional-chatbots-as-great-alternatives-to-chatgpt/"><u>Explore These Exceptional Chatbots as Great Alternatives to ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-connection-with-your-vpn-on-the-go-revive-it-in-seven-simple-steps-on-your-iphone/"><u>Lost Connection with Your VPN on the Go? Revive It in Seven Simple Steps On Your iPhone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-google-pixel-8-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Google Pixel 8 Pro Phone</u></a></li>
 </ul></div>
 

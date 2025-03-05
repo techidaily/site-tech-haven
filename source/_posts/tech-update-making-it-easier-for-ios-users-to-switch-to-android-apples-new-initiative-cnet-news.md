@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Making It Easier for iOS Users to Switch to Android - Apple's New Initiative | CNET News"
-date: 2025-02-10T00:52:15.567Z
-updated: 2025-02-17T00:53:37.203Z
+date: 2025-02-26T20:23:11.147Z
+updated: 2025-03-05T19:14:38.303Z
 tags:
   - apple
 categories:
@@ -28,19 +28,11 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -86,10 +74,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +81,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -158,15 +138,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-adept-principles-for-youtube-participants/"><u>[Updated] 2024 Approved Adept Principles for YouTube Participants</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fv-downloader-for-social-networking-videos/"><u>2024 Approved FV-Downloader for Social Networking Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-graphics-on-windows-11-intel-3000-driver-update/"><u>Boost Graphics on Windows 11 - Intel 3000 Driver Update</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-defrag-your-computer-windows-11-revouninstaller/"><u>How to Defrag Your Computer - Windows 11 - RevoUninstaller</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrate-bing-ai-into-your-android-phone-tips-and-tricks-for-seamless-communication/"><u>Integrate Bing AI Into Your Android Phone: Tips & Tricks for Seamless Communication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-limits-of-ai-detection-tools-insights-and-case-studies-zerogpt/"><u>The Limits of AI Detection Tools - Insights and Case Studies (ZeroGPT)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-new-google-challenger-meet-bard-the-next-player-against-chatgpt/"><u>The New Google Challenger: Meet Bard, the Next Player Against ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-strategic-decision-making-behind-companies-choosing-to-restrict-chatgpt-services/"><u>The Strategic Decision-Making Behind Companies Choosing to Restrict ChatGPT Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-ai-types-public-vs-private-vs-personal/"><u>Understanding AI Types: Public Vs. Private Vs. Personal</u></a></li>
-<li><a href="https://blog-min.techidaily.com/video-montage-made-simple-the-simplest-methods-for-cutting-edges-of-cinema/"><u>Video Montage Made Simple: The Simplest Methods for Cutting Edges of Cinema</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites-for-2024/"><u>[New] Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-bridging-the-digital-divide-with-gratuitous-animations/"><u>[Updated] 2024 Approved Bridging the Digital Divide with Gratuitous Animations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-beyond-obs-streamer-friendly-broadcast-software-for-2024/"><u>[Updated] Beyond OBS Streamer-Friendly Broadcast Software for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pro-gamers-manual-learn-xbox-one-screen-recording/"><u>[Updated] Pro Gamer's Manual Learn Xbox One Screen Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exemplary-brain-challenge-video-libraries/"><u>Exemplary Brain Challenge Video Libraries</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>In 2024, GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-visionedit-pro/"><u>In 2024, VisionEdit Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insights-on-chatgpt-subscription-lockdown-causes-and-timeline-for-resuming-sign-ups/"><u>Insights on ChatGPT Subscription Lockdown – Causes and Timeline for Resuming Sign-Ups</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavis-livre-conversor-dts-para-streaming-em-aac-flac-and-mp3-sem-custo/"><u>Movavi's Livre Conversor DTS Para Streaming Em AAC, FLAC & MP3 - Sem Custo!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-file-management-6-innovative-applications-featuring-chatgpt-for-document-insights/"><u>Revolutionize File Management: 6 Innovative Applications Featuring ChatGPT for Document Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-issues-of-using-openais-chatgpt-an-in-depth-analysis/"><u>Top 8 Issues of Using OpenAI's ChatGPT: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/truthgpt-coin-explained-separating-myths-from-reality-in-the-cryptocurrency-world/"><u>TruthGPT Coin Explained: Separating Myths From Reality in the Cryptocurrency World</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-truth-exploring-why-modern-chatgpt-hacks-fail/"><u>Unlocking the Truth: Exploring Why Modern ChatGPT Hacks Fail</u></a></li>
 </ul></div>
 

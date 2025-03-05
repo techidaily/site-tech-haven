@@ -1,7 +1,7 @@
 ---
 title: "IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature"
-date: 2025-02-11T21:41:38.253Z
-updated: 2025-02-16T18:20:29.946Z
+date: 2025-03-04T20:12:13.595Z
+updated: 2025-03-05T18:25:34.623Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to your iPhone Settings
 
 To find the Journal app setting, open your Settings app on your iPhone.
@@ -59,10 +55,6 @@ Maria Diaz/ZDNET
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
 
@@ -78,19 +70,11 @@ Maria Diaz/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **FAQ**
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -105,10 +89,6 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -148,17 +128,22 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-demystifying-complexities-a-guide-to-understanding-slug-lines/"><u>[Updated] Demystifying Complexities A Guide to Understanding Slug Lines</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlock-the-potential-of-your-feed-with-mass-photo-and-video-posting-for-2024/"><u>[Updated] Unlock the Potential of Your Feed with Mass Photo & Video Posting for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/artificial-intelligence-crafts-your-ideal-dreamy-nightmarish-living-space/"><u>Artificial Intelligence Crafts Your Ideal Dreamy Nightmarish Living Space</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-guide-how-to-securely-archive-your-text-messages-from-iphone-or-android/"><u>Easy Guide: How to Securely Archive Your Text Messages From iPhone or Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-record-with-nvidia-screen-recorder/"><u>In 2024, How to Record with NVIDIA Screen Recorder</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-picture-in-picture-made-easy-final-cut-pro-tutorial/"><u>New Picture-in-Picture Made Easy Final Cut Pro Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-issues-with-chatgpt-and-its-plugin-services/"><u>Troubleshooting Issues with ChatGPT and Its Plugin Services</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-solving-modern-warfares-error-code-6034-on-pc-and-xbox-consoles/"><u>Troubleshooting Steps for Solving Modern Warfare's Error Code 6034 on PC and Xbox Consoles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-more-potential-with-chatgpt-on-your-desktop-versus-online-usage/"><u>Unlocking More Potential with ChatGPT on Your Desktop Versus Online Usage</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-individualized-chatgpt-commands/"><u>Unlocking the Power of Individualized ChatGPT Commands</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-impact-of-the-european-unions-ai-legislation-on-advanced-language-models-like-chatgpt/"><u>Unveiling the Impact of the European Union's AI Legislation on Advanced Language Models Like ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/virtual-quests-engaging-with-chatgpt-as-a-game-master/"><u>Virtual Quests: Engaging with ChatGPT as a Game Master</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>[Updated] 2024 Approved Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-is-splitcam-the-ultimate-in-video-capture/"><u>[Updated] 2024 Approved Is SplitCam The Ultimate in Video Capture?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-mobile-recorders-to-capture-snapchat-moments/"><u>[Updated] In 2024, Navigating Mobile Recorders to Capture Snapchat Moments</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-not-connecting-try-these-6-solutions-for-a-successful-pairing/"><u>Apple Watch Not Connecting? Try These 6 Solutions for a Successful Pairing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-v30-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo V30 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-c33-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme C33 2023 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/iphone-nightscape-techniques-unlocked-for-2024/"><u>IPhone Nightscape Techniques Unlocked for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-your-pcs-core-settings-entering-the-bios-on-win-10-and-7-computers/"><u>Navigating Your PC's Core Settings: Entering the BIOS on Win 10 and 7 Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-your-system-the-right-time-and-methods-for-a-reset-this-pc-on-windows-10/"><u>Optimizing Your System: The Right Time and Methods for a 'Reset This PC' On Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-the-could-not-install-windows-11-problem-solve-error-code-802n40020-now/"><u>Overcoming the 'Could Not Install Windows 11' Problem - Solve Error Code 802N40020 Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-solutions-to-boost-google-chromes-performance/"><u>Quick Solutions to Boost Google Chrome's Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-tips-to-resolve-slow-boot-on-windows-1011-boost-your-pcs-performance/"><u>Quick Tips to Resolve Slow Boot on Windows 10/11 - Boost Your PC's Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguard-your-internet-activities-on-windows-10-using-the-tor-browser/"><u>Safeguard Your Internet Activities on Windows 10 Using the Tor Browser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-bluetooth-integration-connecting-beats-wireless-to-your-windows-11-laptopdesktop/"><u>Seamless Bluetooth Integration: Connecting Beats Wireless to Your Windows 11 Laptop/Desktop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-guide-steps-to-seamlessly-add-new-fonts-on-windows-11/"><u>Simple Guide: Steps to Seamlessly Add New Fonts on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-10-accessory-collection-for-sj4000/"><u>The Ultimate 10 Accessory Collection for SJ4000</u></a></li>
 </ul></div>
 

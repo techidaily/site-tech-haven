@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly | ZDNET"
-date: 2025-02-13T00:13:59.870Z
-updated: 2025-02-17T01:16:29.255Z
+date: 2025-03-02T16:47:03.775Z
+updated: 2025-03-05T20:27:59.327Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ Below, we break down the coolest new features coming to your Apple Watch in Watc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Track your strain and recovery with Vitals and Training Load
 
@@ -66,10 +62,6 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
@@ -88,19 +80,11 @@ Jason Hiner/ZDNET
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Tap to Cash for quick payments
 
 Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. Tap to Cash lets you hold your Apple Watch near another watch or iPhone to quickly send Apple Cash to someone else.
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
@@ -109,10 +93,6 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
@@ -152,19 +132,21 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-navigating-the-maze-of-massive-content-movement-from-iphones-to-mac/"><u>[Updated] 2024 Approved Navigating the Maze of Massive Content Movement From iPhones to Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>[Updated] Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-giggle-guild-undead-humor-bots/"><u>2024 Approved Giggle Guild Undead Humor Bots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-the-cybercrime-potential-of-language-models-such-as-chatgpt-on-financial-and-personal-devices/"><u>Assessing the Cybercrime Potential of Language Models Such as ChatGPT on Financial and Personal Devices.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-the-delay-chatgpt-4-versus-fast-gpt-35/"><u>Assessing the Delay: ChatGPT-4 Versus Fast GPT-3.5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-common-pitfalls-when-leveraging-chatgpt-as-a-learner/"><u>Avoiding Common Pitfalls When Leveraging ChatGPT as a Learner</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-basics-tomorrows-enhanced-ai-systems/"><u>Beyond Basics: Tomorrow's Enhanced AI Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-spark-20-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Spark 20 Pro?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenge-accepted-how-twitter-x-checkmarks-stack-up-and-chatgpts-biggest-flaws-uncovered-by-a-tech-visionary/"><u>Challenge Accepted: How Twitter X Checkmarks Stack Up and ChatGPT's Biggest Flaws Uncovered by a Tech Visionary</u></a></li>
-<li><a href="https://extra-information.techidaily.com/extreme-quality-top-5-for-slow-motion-precision/"><u>Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-wireless-display-adapter-connection-issues-in-windows-11-solutions-unveiled/"><u>Fixing Microsoft Wireless Display Adapter Connection Issues in Windows 11 - Solutions Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy XCover 6 Pro Tactical Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-top-10-steps-to-youtube-to-mpeg-conversion/"><u>In 2024, Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-boost-your-content-top-6-instagram-reel-apps-for-2024/"><u>[New] Boost Your Content Top 6 Instagram Reel Apps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-srt-decoding-for-windows-and-mac-users/"><u>[New] In 2024, SRT Decoding for Windows & Mac Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-screen-success-brand-endorsement-strategies-for-2024/"><u>[New] Screen Success Brand Endorsement Strategies for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-can-you-earn-on-youtube-via-ad-revenue-in-2024/"><u>[Updated] How Much Can You Earn on YouTube via Ad Revenue, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advancing-originality-in-writing-the-role-of-chatgpt-in-crafting-compelling-content-projects/"><u>Advancing Originality in Writing: The Role of ChatGPT in Crafting Compelling Content Projects</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-and-content-synergy-understanding-the-8-essential-impacts-of-chatbots/"><u>AI and Content Synergy: Understanding the 8 Essential Impacts of Chatbots</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/alleviating-windows-saturated-gpt-error/"><u>Alleviating Window’s Saturated GPT Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721939795991-get-your-chatgpt-app-up-and-running-again-9-proven-troubleshooting-tips-for-iphones/"><u>Get Your ChatGPT App Up and Running Again: 9 Proven Troubleshooting Tips for iPhones</u></a></li>
+<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-lava-yuva-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Lava Yuva 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-voice-transcription-tips-from-whisper-desktop/"><u>Quick Voice Transcription Tips From Whisper Desktop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722064956447-supercharge-gpt-4-for-nothing-more-than-a-friendly-helper-enter-copilot/"><u>Supercharge GPT-4 for Nothing More Than a Friendly Helper - Enter Copilot</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722015734680-unveiling-the-top-8-ai-mobile-applications-boost-your-phones-capabilities-today/"><u>Unveiling the Top 8 AI Mobile Applications: Boost Your Phone's Capabilities Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722199778652-which-ai-excels-at-code-an-in-depth-comparison-of-chatgpt-and-gemini/"><u>Which AI Excels at Code? An In-Depth Comparison of ChatGPT and Gemini.</u></a></li>
 </ul></div>
 

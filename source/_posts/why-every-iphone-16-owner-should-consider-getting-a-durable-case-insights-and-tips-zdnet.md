@@ -1,7 +1,7 @@
 ---
 title: Why Every iPhone 16 Owner Should Consider Getting a Durable Case - Insights & Tips [ZDNet]
-date: 2025-02-12T01:24:45.138Z
-updated: 2025-02-17T01:48:42.106Z
+date: 2025-03-01T16:23:44.181Z
+updated: 2025-03-05T18:46:59.624Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -42,10 +38,6 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uncertainty around on-device performance
 
 Adrian Kingsley-Hughes/ZDNET
@@ -55,10 +47,6 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
 
@@ -77,10 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
 
@@ -124,20 +108,18 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-secrets-of-internet-humor-with-a-guide-on-9gag/"><u>[New] Unlock the Secrets of Internet Humor with a Guide on 9GAG</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlock-the-power-to-download-igtv-videos-effortlessly/"><u>[Updated] 2024 Approved Unlock the Power to Download IGTV Videos Effortlessly</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mythos-makers-mecca-prime-pantheon-seven/"><u>[Updated] In 2024, Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-there-word-or-character-restrictions-in-gpt-replies/"><u>Are There Word or Character Restrictions in GPT Replies?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/backup-fur-handyschnittstellen-sd-karten-ohne-kosten-entdecken-sie-zwei-unschatzbare-methoden/"><u>Backup Für Handyschnittstellen SD-Karten Ohne Kosten: Entdecken Sie Zwei Unschätzbare Methoden!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beginners-tutorial-for-adding-codegpt-to-visual-studio-code/"><u>Beginner's Tutorial for Adding CodeGPT to Visual Studio Code</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-productivity-transforming-writing-workflows-using-hixai-and-gpt-4-technology/"><u>Boost Productivity: Transforming Writing Workflows Using HixAI and GPT-4 Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-the-functionality-of-chatgpt-be-applied-to-cybercrime-and-malware-development/"><u>Can the Functionality of ChatGPT Be Applied to Cybercrime and Malware Development?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-for-mac-users-unleash-its-potential-today/"><u>ChatGPT for Mac Users: Unleash Its Potential Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-limitations-demystified-a-list-of-7-unprocessable-queries/"><u>ChatGPT's Limitations Demystified: A List of 7 Unprocessable Queries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-right-chatgpt-tool-web-based-or-plugin-options/"><u>Choosing the Right ChatGPT Tool: Web-Based or Plugin Options?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-spectrum-review-google-podcasts-app-explained/"><u>Full Spectrum Review Google Podcasts App Explained</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-meizu-21-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Meizu 21 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-a15-4g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy A15 4G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/screensnapper-pro-2023-apowersofts-latest-for-pcs-for-2024/"><u>ScreenSnapper Pro 2023 Apowersoft's Latest for PCs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>[New] Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-accessible-legal-tracks-for-gameplay-enjoyment/"><u>[Updated] In 2024, Accessible Legal Tracks for Gameplay Enjoyment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-free-ai-substitutes-for-topaz-gigapixel-ranking-the-top-10-options/"><u>Best Free AI Substitutes for Topaz Gigapixel: Ranking the Top 10 Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-gpts-boundaries-7-ai-innovators-for-programming/"><u>Beyond GPT's Boundaries: 7 AI Innovators for Programming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-performance-a-guide-to-unlocking-full-fps-potential-in-ps5-games/"><u>Boosting Performance: A Guide to Unlocking Full FPS Potential in PS5 Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-redmi-note-13-pro-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Redmi Note 13 Pro 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-xp-400-printer-drivers-comprehensive-guide-and-download-steps/"><u>Epson XP-400 Printer Drivers: Comprehensive Guide and Download Steps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-mastery-how-to-add-structure-and-subdivisions-for-enhanced-content/"><u>In 2024, YouTube Mastery How to Add Structure and Subdivisions for Enhanced Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/myth-busters-guide-to-the-worlds-leading-ai-chatbot-misconceptions/"><u>Myth-Buster's Guide to the World's Leading AI Chatbot Misconceptions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-in-transit-how-to-use-roku-across-hotels-and-dormitories/"><u>Seamless Streaming in Transit: How to Use Roku Across Hotels and Dormitories</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-giant-google-rolls-out-bard-the-advanced-conversational-agent-set-to-compete-with-chatgpt/"><u>Tech Giant Google Rolls Out 'Bard': The Advanced Conversational Agent Set to Compete With ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-humor-potential-of-artificial-intelligence-from-early-computing-to-modern-day-laptops-and-secure-internet-connections/"><u>The Humor Potential of Artificial Intelligence: From Early Computing to Modern-Day Laptops & Secure Internet Connections</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-3-features-uses-and-how-it-works/"><u>Understanding Claude 3 - Features, Uses, and How It Works</u></a></li>
 </ul></div>
 
